@@ -29,7 +29,7 @@ Her words knocked me out of my trance. I fumbled through Marvin's instructions, 
 <bigbreak>
 
 
-There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. [????? The walk down the hallway shouldn't have been hard, but) maybe: should have been the easiest part of what we needed to do ????? repeatedly wanting to look into the rooms, look over my shoulder]
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. [????? repeatedly wanting to look into the rooms, look over my shoulder; endless clinical white walls, no people around, no sound but our own footsteps]
 
 [We were working from the printout, which had a list of very clear instructions]
 
@@ -37,7 +37,7 @@ I focused on the printout I was holding. The instructions were clear, at least. 
 
 "What do you think happens if we see our future selves?" I said nervously, as we walked.
 
-"I don't know, but it's bad! They said it was bad, and we have to trust them, right?"
+"I don't know, but it's bad! They said it was bad, and they knew how it works, right?"
 
 
 
@@ -67,7 +67,7 @@ I couldn't resist; I whipped around to look behind me. But of course, there was 
 
 "Er. Okay. Is that something they did to you? When they experimented on you?"
 
-Evidently, that wasn't the question she expected, because her anger subsided a little. "No," she said. "I've always had this. It's got nothing to do with them, except they're using it as an <em>excuse</em>. Fuller told my parents this was the 'best chance to solve her problem' with all his 'cutting-edge neuroscience'. I don't think he even knew what my problem was before he said he could solve it."
+Evidently, that wasn't the question she expected, because her anger subsided a little. "No," she said, as she started lowering herself down the stairs. "I've always had this. It's got nothing to do with them, except they're using it as an <em>excuse</em>. Fuller told my parents this was the 'best chance to solve her problem' with all his 'cutting-edge neuroscience'. I don't think he even knew what my problem was before he said he could solve it."
 
 
 <bigbreak>
@@ -76,13 +76,13 @@ The time machine room was huge. The walls and floors had been torn out across bo
 
 And in the center, on a pedestal of its own… the time machine itself.
 
-We had already seen it in our future selves' instructional video, so its appearance wasn't surprising. But it was one thing to see it on camera, from a distance – and quite another to experience it in person. Its central structure was an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, bulky steel plates sticking out of the surface where the join-lines were. Electrical cords snaked up and down the egg on all sides, powering components whose purpose I couldn't begin to guess at.
+We had already seen it in our future selves' instructional video, so its appearance wasn't surprising. But it was one thing to see it on camera, from a distance – and quite another to experience it in person. Its central structure was an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, bulky steel plates sticking out of the surface where the join-lines were. Electrical cords snaked up and down the egg on all sides, mismatched orange and white, powering components whose purpose I couldn't begin to guess at.
 
 It was just sitting there, deceptively inactive. Given what it could do, I would have expected it to look like something from a sci-fi movie, all glowing panels and holograms – not like a bulky antique from the Industrial Revolution. But maybe I <em>should</em> have been more scared by something from the Industrial Revolution. A new invention, nowhere near perfected, but already able to radically alter the world as we knew it… and maybe not for the better. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't begun to understand the danger we were in.
 
 [ But we didn't have time to think about that. We had to operate this thing.
 
-On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by machine arms – and a stepladder where we could climb up and crawl inside.
+On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by mechanical arms – and a stepladder where we could climb up and crawl inside.
 a stepladder led up to a hatch, also made of bulky metal plates, not tall enough to stand up, but you could crawl through it
 
 
@@ -127,7 +127,9 @@ A laptop sitting there on a folding table, the only 21st-century looking thing i
 
 [But I had recognized that scream. It hadn't been a scream of when you're startled, it was the one you scream when you're in unimaginable pain, using the full force of your lungs. I'd only heard a scream like that once before, when one of my nieces [mistake as a 12-year-old had to be rushed to hospital: crashed a bike "going down the same hill she'd gone down hundreds of times, one moment everything is fine and the next moment], one of the most terrifying experiences of my life. But to Kayla this level of pain was normal, as if it was just an annoyance she had to deal with]
 
-[The hatch opened, onto the same room, but different. The lights were out]
+[The video hadn't warned us about this, because in their timeline, it never happened – Kayla had climbed in first, while Marvin was nervous]
+
+[a low humming built up, then suddenly cut out, with a slight change of pressure in my ears. The hatch opened, onto the same room, but different. The lights were out]
 
 ?????
 
@@ -143,7 +145,7 @@ A laptop sitting there on a folding table, the only 21st-century looking thing i
 
 But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it" ("you didn't see yourself rush for that fridge the first time we found it.]
 
-"Oh God damn it, you're right, she's probably not even listening to me. Listen, uh… Marvin? Marvin, make sure she doesn't eat more than half of what's in that fridge, she'll vomit. Ask me how I know. She can eat half now, and half… maybe an hour from now ?????"
+"Oh damn it, you're right, she's probably not even listening to me. Listen, uh… Marvin? Marvin, make sure she doesn't eat more than half of what's in that fridge, she'll vomit. Ask me how I know. She can eat half now, and half… maybe an hour from now ?????"
 
 [The Kayla with me was glaring back at her indignantly. "I AM listening" she tried to say amid mouthfuls of food, humiliated rage from having her flaws pointed out in front of me, by someone whose opinion she couldn't possibly deny. She pointedly started dividing everything in the fridge into two equal piles – well, three piles, one of which was all the animal products]
 
