@@ -29,33 +29,33 @@ Her words knocked me out of my trance. I fumbled through Marvin's instructions, 
 <bigbreak>
 
 
-There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. [????? repeatedly wanting to look into the rooms, look over my shoulder]
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. I couldn't stop myself wanting to look over my shoulder, wondering what was behind every door we passed, in the endless clinical white walls.
 
-As we walked, I focused on the printout I was holding. The instructions were clear, at least. It started with a map of our route, with little photos of each door to go through, so we couldn't miss them. And again, the note: <em>Don't look around. You don't want to see your future selves, if they're nearby.</em>
+To keep my mind off it, I focused on the printout I was holding. The instructions were clear, at least. It started with a map of our route, with little photos of each door we needed to go through, so we couldn't miss them. And again, the note: <em>Don't look around. You don't want to see your future selves, if they're nearby.</em>
 
 "What do you think happens if we see our future selves?" I said nervously.
 
 "I don't know, but it's bad! They said it was bad, and they knew how it works, right?"
 
-[endless clinical white walls, no people around, no sound but our own footsteps]
+An eerie silence descended over us, no sound but our own footsteps. Kayla lurched along, adrenaline stretching the limits of her strength. In the back of my mind, I was itching to make her hurry – terrified that one of the scientists might come up behind us, catch up to us while she was still struggling. But I knew she was going as fast as she could. We had to trust in the video, the promise that no one would come this way today.
 
+"I feel like we're being followed," I muttered.
 
-[????? Kayla's harsh/sudden whisper] "I feel like we're being followed," [????? she said]
+I shouldn't have said it in front of Kayla. She whipped around, staring back down the corridor, her eyes drilling into every nook and cranny of the white walls.
 
-I couldn't resist; I whipped around to look behind me. But of course, there was nothing there. I shivered. "Don't scare me like that," I said shakily.
+I couldn't help it – I followed her gaze. But of course, there was nothing there. I shivered. "I-it's just nerves," I said shakily.
 
+"Unless it isn't," she croaked, still looking.
 
+"What?! There's nothing there, you can see there's nothing there! We can't be worrying about every empty hallway, we have to keep moving!"
 
+When Kayla finally tore her eyes away, it was only reluctantly – not satisfied, but forced to admit she couldn't find what she was looking for. The "we have to keep moving" was the part that had convinced her. She faced forwards again, eyes locked on to the exit sign ahead of us.
 
+[????? When we got to the steel security door at the bottom of the stairs, I was behind Kayla because I had held the door at the top of the stairs for her first]
 
-"Unless
+[hype the steel security door again (part of me excited that we were finally going to get to go past it); Kayla missed me being available to open it and did it herself,] She gripped the handle underhanded and pulled upwards from the shoulder, leaning backwards, struggling to pull the weight.
 
-
-?????
-
-[Kayla unusual gesture to open a door, holding it underhanded and pulling upwards from the shoulder]
-
-"Is your arm okay?"
+I caught the edge of the door to help her. "Is your arm okay?" I asked.
 
 "<em>Polyneuropathy, not-otherwise-specified,</em>" she said, her voice an irritable singsong – the voice of someone who has had to explain the same thing over and over, and is sick of it. "My arms are weak. I get phantom pains. No one knows why."
 
@@ -65,8 +65,9 @@ I couldn't resist; I whipped around to look behind me. But of course, there was 
 
 "Er. Okay. Is that something they did to you? When they experimented on you?"
 
-Evidently, that wasn't the question she expected, because her anger subsided a little. "No," she said, as she started lowering herself down the stairs. "I've always had this. It's got nothing to do with them, except they're using it as an <em>excuse</em>. Fuller told my parents this was the 'best chance to solve her problem' with all his 'cutting-edge neuroscience'. I don't think he even knew what my problem was before he said he could solve it."
+Evidently, that wasn't the question she expected, because her anger subsided a little. "No," she said. "I've always had this. It's got nothing to do with them, except they're using it as an <em>excuse</em>. Fuller told my parents this was the 'best chance to solve her problem' with all his 'cutting-edge neuroscience'. I don't think he even knew what my problem was before he said he could solve it."
 
+[We'd already gotten down the last short hallway to the final door to the time machine room)
 
 <bigbreak>
 
