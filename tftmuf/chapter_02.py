@@ -29,24 +29,22 @@ Her words knocked me out of my trance. I fumbled through Marvin's instructions, 
 <bigbreak>
 
 
-There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. [????? repeatedly wanting to look into the rooms, look over my shoulder; endless clinical white walls, no people around, no sound but our own footsteps]
+There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. [????? repeatedly wanting to look into the rooms, look over my shoulder]
 
-[We were working from the printout, which had a list of very clear instructions]
+As we walked, I focused on the printout I was holding. The instructions were clear, at least. It started with a map of our route, with little photos of each door to go through, so we couldn't miss them. And again, the note: <em>Don't look around. You don't want to see your future selves, if they're nearby.</em>
 
-I focused on the printout I was holding. The instructions were clear, at least. It started with a map of our route, with little photos of each door to go through, so we couldn't miss them. And again, the note: <em>Don't look around, you don't want to see your future selves, if they're there.</em>
-
-"What do you think happens if we see our future selves?" I said nervously, as we walked.
+"What do you think happens if we see our future selves?" I said nervously.
 
 "I don't know, but it's bad! They said it was bad, and they knew how it works, right?"
 
-
+[endless clinical white walls, no people around, no sound but our own footsteps]
 
 
 [????? Kayla's harsh/sudden whisper] "I feel like we're being followed," [????? she said]
 
 I couldn't resist; I whipped around to look behind me. But of course, there was nothing there. I shivered. "Don't scare me like that," I said shakily.
 
-"Fine."
+
 
 
 
