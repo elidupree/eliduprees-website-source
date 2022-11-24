@@ -53,7 +53,7 @@ When Kayla finally tore her eyes away, it was only reluctantly – not satisfied
 
 [????? When we got to the steel security door at the bottom of the stairs, I was behind Kayla because I had held the door at the top of the stairs for her first]
 
-[hype the steel security door again (part of me excited that we were finally going to get to go past it); Kayla missed me being available to open it and did it herself,] She gripped the handle underhanded and pulled upwards from the shoulder, leaning backwards, struggling to pull the weight.
+[hype the steel security door again (part of me excited that we were finally going to get to go past it); Kayla missed me being available to open it and did it herself, with an unusual gesture] She gripped the handle underhanded and pulled upwards from the shoulder, leaning backwards, struggling to pull the weight.
 
 I caught the edge of the door to help her. "Is your arm okay?" I asked.
 
@@ -79,28 +79,29 @@ We had already seen it in our future selves' instructional video, so its appeara
 
 It was just sitting there, deceptively inactive. Given what it could do, I would have expected it to look like something from a sci-fi movie, all glowing panels and holograms – not like a bulky antique from the Industrial Revolution. But maybe I <em>should</em> have been more scared by something from the Industrial Revolution. A new invention, nowhere near perfected, but already able to radically alter the world as we knew it… and maybe not for the better. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't begun to understand the danger we were in.
 
-[ But we didn't have time to think about that. We had to operate this thing.
+But we didn't have time to think about that. Our job was to operate this thing.
 
-On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by mechanical arms – and a stepladder where we could climb up and crawl inside.
-a stepladder led up to a hatch, also made of bulky metal plates, not tall enough to stand up, but you could crawl through it
+On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by mechanical arms – and a stepladder to help climb up to it. Once we entered the three "jump parameters" and pressed the button to start the "jump", that hatch would open, and we could crawl inside.
+
+The first "jump parameter" was the exact mass of the matter to be transported. The machine would ?????. The notes weren't too specific about what would happen to that matter – our flesh – if the number was wrong.
+
+For this, there was another device, standing 10 feet away from the giant egg: A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to 500 kg, to a precision of a single gram. <em>Weigh yourselves on the scale, together,</em> said the printout. <em>It should be around 130 kg. If it's around 140 kg, get off and then weigh yourselves again. There's a glitch where it's sometimes off by 9.2 kg.</em>
+
+Kayla glared at the scale. "How can it be accurate to the nearest gram if it's sometimes off by nine kilograms?!"
+
+But when you're a programmer like me, you get used to weird glitches; it would have been more surprising if it <em>did</em> work every time. So I just shrugged and followed the instructions. If I had known the <em>real</em> reason for the extra 9.2 kg, I wouldn't have made it through the day. I would have had a complete breakdown.
+
+[...]
+
+The second parameter was how far back in time to go. I dutifully entered "0", which meant "go back as far as possible"; in our case, that meant going back to 3:06 AM.
 
 
-We followed the printout[But we couldn't climb into that Hatch right away. The procedure was: [/ First, we had to [enter into] the computer the exact mass of the matter to be transported.]]
-[????? But we couldn't climb into that hatch right away. Before anyone could time travel, you had to program their exact mass into the machine, or bad things would happen]
+
+
+We followed the printout[The procedure was: [/ 
 
 A laptop sitting there on a folding table, the only 21st-century looking thing in the whole contraption,
 ]
-
-
-[????? A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to a thousand pounds, to a precision of a single gram.
-
-"How can it be accurate to the nearest gram if it's sometimes off by 20 pounds?!"
-
-"I don't know, but it worked for our future selves" If I had known the real reason for the extra 20 pounds, I wouldn't have made it through the day. I would have had a complete breakdown.
-
-
-
-
 
 
 
