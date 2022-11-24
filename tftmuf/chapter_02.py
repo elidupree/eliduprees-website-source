@@ -85,11 +85,11 @@ On one side of the egg, there was a hatch that could open – a place where the 
 
 The first "jump parameter" was the exact mass of the matter to be transported. The machine would ?????. The notes weren't too specific about what would happen to that matter – our flesh – if the number was wrong.
 
-For this, there was another device, standing 10 feet away from the giant egg: A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could weigh up to 500 kg, to a precision of a single gram. <em>Weigh yourselves on the scale, together,</em> said the printout. <em>It should be around 130 kg. If it's around 140 kg, get off and then weigh yourselves again. There's a glitch where it's sometimes off by 9.2 kg.</em>
+For this, there was another device, standing 10 feet away from the giant egg: A massive industrial scale, a metallic platform wide enough for both of us to stand on, with a label boasting that it could measure up to 500 kg, to a precision of a single gram. <em>Weigh yourselves on the scale, together,</em> said the printout. <em>It should be around 130 kg. If it's around 140 kg, get off and then weigh yourselves again. There's a glitch where it's sometimes off by 11.2 kg.</em>
 
-Kayla glared at the scale. "How can it be accurate to the nearest gram if it's sometimes off by nine kilograms?!"
+Kayla glared at the scale. "How can it be accurate to the nearest gram if it's sometimes off by eleven kilograms?!"
 
-But when you're a programmer like me, you get used to weird glitches; it would have been more surprising if it <em>did</em> work every time. So I just shrugged and followed the instructions. If I had known the <em>real</em> reason for the extra 9.2 kg, I wouldn't have made it through the day. I would have had a complete breakdown.
+But when you're a programmer like me, you get used to weird glitches; it would have been more surprising if it <em>did</em> work every time. So I just shrugged and followed the instructions. If I had known the <em>real</em> reason for the extra 11.2 kg, I wouldn't have made it through the day. I would have had a complete breakdown.
 
 [...]
 
