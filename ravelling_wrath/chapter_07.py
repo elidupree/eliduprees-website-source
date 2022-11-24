@@ -331,43 +331,23 @@ Just when I had cornered him at the edge of the star, he manifested a foam sword
 
 "Yeah, fine, I won't do anything stupid," I said. I turned back towards Morrow. But he was ready for me, and he bopped me on the head with his foam sword before I could do anything. "Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
 
-Once got his bearings, he grinned. "So we have a whole empty side to work with! Amazing, let's build a castle!" He started manifesting a stone tower and gateway, but it kept falling apart while he was manifesting it.
+Once we were both on the underside of the star, we could <em>really</em> go wild. Right away, we were both manifesting huge castles, showing off by making them bigger and better than each other's. It was a rush, finally getting to indulge my competitiveness, away from Yali and Justicar being serious all the time. I made a golden throne; he made a bigger one. I made an even bigger throne out of Blood Blades, and slouched in it imperiously; he gave a theatrical bow and kissed my shoe, but secretly used the kiss to prank me by manifesting my shoelaces together. He made a battering ram and started knocking down my castle walls; I jumped up on the walls, yelled "Die invader!", and dumped a bucket of water on his head.
 
-"I call dibs on the throne room!" I made a golden throne again, this time with actual cushions.
+That last one didn't go over so well. Rather than prank me back, he froze up, bent-over and shivering, as the water dripped off of him. At first, I thought he was just playing along – but seconds passed, and he didn't snap back. What was his deal? He could jump right up from having his leg broken, but a bit of cold water was too much for him?
 
-"Mine's bigger!" Morrow was already sitting on a bigger throne.
-
-I tried to one-up him again, but I couldn't manifest something that big. But then I thought of making a throne out of Blood Blades. Since they were the easiest thing to manifest, I managed to make a much bigger one that way. Plus, it looked totally badass. It was so tall I couldn't just sit down in it, I had to climb up the pedestal. I slouched in it and looked down at him imperiously.
-
-"Oh, I have been outdone! I bow you, my queen." Morrow bowed and kissed my shoe theatrically. "Now, check this out!" He ran behind the stone tower and waved for me to follow.
-
-I got up from the throne, stepped forward, and fell flat on my face. I could hear Morrow laughing. "Oh my gods, you used manifesting to glue my shoes together when you kissed them! It is ON!" I kicked off my sneakers and manifested cool boots in their place, then I jumped up onto the tower he was hiding behind. "Die, invader!" I yelled, dumping a bucket of water on his head.
-
-I jumped down from the tower and manifested another wall so he couldn't chase me. Then I waited to ambush him when he came around the wall. And waited, and waited some more. At some point, it seemed like he wasn't going to show up.
-
-Cautiously, I peeked back around the wall. He wasn't waiting to prank me, either. He was frozen in place, bent over and shivering.
-
-"Dude, what's your deal? You can jump right up from having your leg broken, but a bit of cold water is too much to handle?" He didn't seem to hear me. "Look, if you don't like it, just manifest it off."
+I jumped down beside him. "Dude, it's okay. If water's not your thing, I can hold off. Just manifest it off."
 
 "I CAN'T!" he yelled. "It's YOUR water, YOU manifest it off!"
 
-"What? I'm sure I saw Yali do something like that earlier." Still, I tried. "I can't unmanifest it either! Are you pranking me?" It was obvious that he wasn't, though. Not sure what to do, I manifested a hair dryer. But of course, there was nowhere to plug it in. Whoops.
+"What? I'm sure I saw Yali do something like that earlier." Still, I tried. "I can't unmanifest it either! Are you pranking me?" It was obvious that he wasn't, though. Trying to help, I manifested a hair dryer. But of course, there was nowhere to plug it in. Whoops.
 
-Suddenly, Morrow manifested a <em>car</em>.
+Suddenly, Morrow manifested half of a <em>car</em>.
 
-"What the fuck?" I said.
+"What the fuck," I said, laughing.
 
-"It has a power outlet inside! So you can –" It seemed like he hadn't quite thought this through. "Never mind it doesn't matter!! Let's go back to building the castle right away!! No wait! I was just thinking, this thing we're standing on! We should tie a rope to the edge! So we can SWING from one side to the other!"
+Morrow grinned. "See, it has an inverter! So you can plug in your – Never mind it doesn't matter!!" Somehow, he had already distracted himself – he'd completely forgotten whatever happened with the water, even though he was still dripping.
 
-Morrow was still soaking wet, but it seemed like whenever he thought of a new thing, it automatically erased whatever he'd been thinking about before. Well, I could roll with it. "I mean, that'd be cool," I said, "but there's nowhere to tie it. The star is just smooth on all sides."
-
-"What if we tied it to the ENTIRE star?!"
-
-"What?"
-
-"All the ropes. In all directions. Like a giant web! Holding on to all the edges!" Morrow started wildly manifesting ropes in all directions.
-
-After a little while, I figured out what he was trying to do. "Oh. If we tied one big loop across the middle of the star, that would sort of be a way to attach something to it, but it would slip off because the star is a big circle. But if we made a big net on each side of the star, and then tied the two nets together with little loops all around the edge…" Morrow wasn't really making progress – he kept starting at one edge and then accidentally yanking the ropes so they landed in a big pile. And he probably kept redesigning the whole thing when he wasn't even half finished building it. Just like how he'd left the "castle" as just a tower and three thrones, and left a car sitting there not doing anything. But his idea was cool, so I went back to the topside and manifested a single, big net, with ropes dangling off at all the edges. Then I came back and started tying the dangling ropes to whatever Morrow was making. I wasn't very good at <em>tying</em> knots, but I had <em>touched</em> knots before, so I just used manifesting to transform the ropes into a knotted shape. Eventually, we had something that pretty much worked.
+Unfortunately for me, he had <em>also</em> lost interest in our castle-building, already moving on to another wild idea. We kept playing, but every time I started getting excited about one of Morrow's ideas, Morrow was already bored of it. It was still fun, but after a while, it got tiring – and I didn't feel like I knew Morrow any better than I had before we started.
 
 <bigbreak>
 
