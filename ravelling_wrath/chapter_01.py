@@ -151,7 +151,7 @@ Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
 "It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could – I could lose you forever –"
 
-Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also – Why am I talking like this? It's me. I'm the Farseer. And you're –"
+Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're – they're – the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also – Why am I talking like this? It's me. I'm the Farseer. And you're –"
 
 I froze. I could see where this sentence was going, and I didn't like it. Me, one of the Chosen? A million questions formed in my head at once. And then all the questions vanished again. What could I even say?
 

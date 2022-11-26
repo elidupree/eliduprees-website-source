@@ -113,9 +113,7 @@ That seemed to get under her skin a little. "That – the Farseer should not hav
 
 "Okay, fine." Right, this was one of the things Yali had warned me about. She'd said I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
 
-It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted.
-
-Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted. And as the night wore on, I started to notice the lines in her face. Her rigid posture had seemed effortless at first, but now, I felt like I was looking at someone who was very, <em>very</em> tired.
 
 <bigbreak>
 
@@ -327,7 +325,7 @@ Suddenly, there was an awful squawking right behind me. I jumped and whirled aro
 
 Just when I had cornered him at the edge of the star, he manifested a foam sword and pointed it at me, striking a duelist pose. So of course, I made my own foam sword to challenge him. Then I had an idea. I turned to Yali. "So, this <em>hostile intent</em> thing… What if we fought with <em>real</em> swords? I mean, we won't <em>intend</em> to hurt each other for real, so if we make a mistake and –"
 
-"<em>Don't do that!</em>" said Yali and Justicar at the same time. Yali firmly explained the caveats. Even if you didn't damage the soul, you could still damage the body, and if you had to manifest new flesh to replace the damage, then the new flesh would disappear when you got back to the material world. And the act of swinging a real weapon at someone might even count as hostile intent of you weren't careful. Yali was pretty insistent – she must've thought I was going to be reckless.
+"<em>Don't do that!</em>" said Yali and Justicar at the same time. Yali firmly explained the caveats. Even if you didn't damage the soul, you could still damage the body, and if you had to manifest new flesh to replace the damage, then the new flesh would disappear when you got back to the material world. And the act of swinging a real weapon at someone might even count as hostile intent if you weren't careful. Yali was pretty insistent – she must've thought I was going to be reckless.
 
 "Yeah, fine, I won't do anything stupid," I said. I turned back towards Morrow. But he was ready for me, and he bopped me on the head with his foam sword before I could do anything. "Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
 
