@@ -16,7 +16,7 @@ posts = [
   
 "So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if the Alchemist <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
-"Because Morrow was slowed down by air resistance," supplied Yali.
+"Because Morrow was slowed by air resistance," supplied Yali.
 
 "Right, because there's air everywhere, even though we're in space."
 
@@ -90,7 +90,7 @@ Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>
 
 "Don't do that!" shouted Yali. "If it <em>is</em> the star, tell it to come close to here but be careful not to crash into us!"
 
-The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers, and when the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, so he could read what the star thought back in response. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
+The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers, and when the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, which allowed them to "talk" to each other – Morrow would insert a thought, then the star would think a response, and Morrow would "smell" the response – but it was nigh-impossible to keep the <em>rest</em> of us in the conversation. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
 
 The only thing it <em>could</em> do was try to move. And since it could never tell whether the moving was working, it had just kept trying to move every which way, hoping something would happen. And it didn't have a language to express which <em>direction</em> it was trying to move, so Morrow had to try to interpret it for us.
 
@@ -140,7 +140,7 @@ What's more, in between talking to the Alchemist, he actually <em>paid attention
 
 "You <em>like</em> them, don't you?" I said. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
 
-Predictably, there was a lot more confusion and miscommunications with telling Neenu where to go. But she finally made it. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
+Predictably, by the time Neenu reached our star, we'd had a lot more miscommunications and general confusion. But she finally made it. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
 
 Happily? How could I tell that she was happy? She was just a solid platform like all the others.
 
