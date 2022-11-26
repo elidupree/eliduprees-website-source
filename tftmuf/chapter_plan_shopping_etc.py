@@ -1,3 +1,12 @@
+[Chapter title: The Ring of Gyges?]
+
+
+"What's 'threat modeling'?"
+
+"It's a computer security thing. [Explanation, with examples: maybe a random hacker is trying to steal your money; maybe the NSA is trying to spy on everyone; maybe an abusive partner wants to snoop on you. In this context… One adversary is the evil scientists, so we need to think about what their abilities are. They have uncertain amounts of mind control over the uninitiated, they have the time machine but only if they can get into the room with it – I can keep the doors locked, but there's a "master keycard" that can get to any of the doors; Fuller will probably have that. The other threat is the possibility of paradoxes [go over any general mitigations that weren't discussed in previous chapter] Meanwhile, our resources are: I have all the scripts the other Marvin wrote, and I can write more,]
+
+[... which inevitably leads into the discussion of what their actual plan needs to be:]
+
 [Maybe the other Marvin had seen things in a different way than I did, to be willing to kill the scientists; he had been plenty angry at the scientists and they were certainly evil enough, and he had made the decision himself. But for me, my first exposure to it was when I saw our future selves, with Marvin looking so devastated, and Kayla looking so [uhh... brutally pragmatic?]. Having it put right in my face, that we had already killed them, maybe it made part of me think about how we would have to live with that, instead of / When you're in the middle of a fight, you don't think ahead as much, but when you see the aftermath to begin with,]
 
 [Can we at least try going to the police?]
@@ -53,15 +62,15 @@
 "Fine."
 
 
-[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable?]
+[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? If we take the car, we could affect traffic… Should we walk? They try to walk, but Kayla struggles to walk even as far as the car, so they take the car]
 
 
 
-[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
+[Kayla sees a coyote on the way to the store [waiting next to the car when Marvin is about to get out] and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
 
 ["Hey! Watch out!"]
 
-[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Holy crap! I yelled and shooed it away (waving an object?) and it ran off]
+[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Jesus Christ! I yelled and shooed it away (waving an object?) and it ran off]
 
 ["Were those there all along?"]
 
@@ -95,7 +104,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 ["A man named Gyges finds a magic ring that can make him invisible," she began. "..."]
 
 
-[(Kayla strongly believes that she wouldn't be corrupted by the ring)]
+[(Kayla strongly believes that she wouldn't be corrupted by the ring) "if you're a good person then you can recognize what's good and evil, and you can just choose not to do evil"]
 
 
 
@@ -115,7 +124,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 "That doesn't count. Stealing from megacorps is a social good."
 
-[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about looking through everyone's private photos? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about…]
+[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about looking through everyone's private photos? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about… I wasn't so sure I wouldn't do that. But I didn't mention that to Kayla. [She was still on a hair trigger/she was a true believer/she clearly wanted me to say that I wouldn't do that, and I didn't want to disappoint her]]
 
 
 
@@ -123,7 +132,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 [Duct tape, a screwdriver ("you always need one of these in escape room games")]
 
-[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
+[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") and 2TB flash drives for bringing video data back in time. With everything we're buying, this is thousands of dollars! How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
 
 
@@ -154,23 +163,25 @@ As always, Kayla saw the problem immediately. "What happens if you say <em>exact
 
 "This must be what it feels like to read the code of the Therac-25." [Shaking my head?]
 
-["The what?"; explanation of the Therac-25, "my professor said, this is why us software engineers need to take our responsibilities seriously"]
+["The what?"; explanation of the Therac-25 (but "I'll spare you the gruesome details" "hiding the details is wrong, it's like pretending they didn't happen!" I shuddered. "you can look them up yourself if you want to"), "my professor said, this is why us software engineers need to take our responsibilities seriously"]
 
 
 ["There's no way I can make sense of these notes. But you know who can? Aster..." Kayla doesn't like that. "Okay I know you have good reasons to not like that, but ?????. Also remember the other Kayla said maybe he is not evil?"]
 
 ["No she said maybe it's more complicated than that" but Kayla was definitely considering it. "But we can't just go talk to him, the only thing keeping us safe is the fact that they don't know we've already time traveled. If we talk to him, what if he calls Fuller and then Fuller uses his keycard and goes back in time to stop us?"]
 
-["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we come him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
+["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we call him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
 
-
-
-[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. Finally Marvin gets the idea and asks: "do you <em>want</em> to cease to exist?"]
+[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. ("And so if anything that happens, we can go back in time and get prepared for it" "no, we should go back in time and make it so we don't talk to Aster in the first place" "but that means we'd cease to exist!" "We can do the same thing they did, we can take full video recordings of what were doing, so the new versions of us will have all the information") Finally Marvin gets the idea (puts this together with how video Kayla felt?) And asks: "do you <em>want</em> to cease to exist?"]
 
 "I'm not going to kill myself," she said decisively. "[If I kill myself then I'm letting the bad guys win]"
 
 [She left the significant thing unspoken: the fact that she had spent enough time to thinking about it to have a clear answer. [" But when someone has a clear, decisive answer, that's because they've [spent a lot of time thinking about it/considering it]"]]
 
+["I'm sorry [that you've been through that]" "stop that./[Sarcastically] let's all feel bad for Kayla. We need to plan this out. Look, will you at least admit that it's better to do the stable time loop thing than to just die the regular way?"]
 
-[]
+[I guess so]
 
+["Then we should at least keep the video recordings as a backup plan!"]
+
+[I agreed, but I was uncomfortable with it]

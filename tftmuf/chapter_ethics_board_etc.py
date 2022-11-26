@@ -101,7 +101,7 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 ["Who are you and what have you done with Dr. Fuller?!"
 
-"You called him," I said, [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
+"You called him," I said, momentarily stunned. I don't know what I had expected her to do once she [knew I was lying. Trying to protect him should certainly have been among the possibilities]. Maybe I just wasn't prepared for the reality that [someone who seemed respectable would actually take his side, knowing what he was really like] [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
 
 [She stood up from her desk]
 
@@ -191,9 +191,32 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 "But then destroying the entire universe would be a morally neutral act" [because no one suffers afterwards]
 
-"Yes. Destroying the entire universe is a morally neutral act."
+A: "Yes. Destroying the entire universe is a morally neutral act."
 
-[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally runs from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally arise from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+
+K: it's definitely not neutral. The goodness of the world is the total amount of satisfaction minus the total amount of suffering, across all sentient beings. Right now, there's more suffering than satisfaction in the world, so destroying the entire universe would be a good act. If we can make there be more satisfaction than suffering, then destroying the entire universe would be an evil act.
+
+A: but there's no way to measure different people's satisfaction and suffering against each other; all we have are individual preferences, and if you destroy the universe, there are no longer any individual preferences to agree or disagree with
+
+
+...so then the ends justify the means?
+
+K: of course the ends justify the means. Every time people use it as an excuse for doing evil, they are not actually achieving good ends. In our bad society, people are always looking for excuses why it's okay to control or hurt others, and the excuses are always bad. 
+
+[wait, this doesn't quite make sense? because it's pure hindsight bias:]
+
+Simon? R?: if that's true then doesn't that make Doctor Fuller's research justified, to get us where we are now?
+
+K: We could have done this much faster if it wasn't for all the evil! Aster said so
+
+Reginald:[big declaration] Aster was wrong. [Explanation:] I have no doubt that Aster could have done better than Fuller given the same resources, but without Fuller's evil, we would never have had those resources in the first place. The whole team was formed by Fuller bullying people into it; without him, Aster would have been petitioning the committee and getting rejected. So Aster can only congratulate themselves for being better because they conveniently had an evil person to do the evil stuff for them. You have to sit with that. There are still people who excuse the Nazi human experimentation because we got scientific knowledge from it; we have to be able to say that it's always wrong.
+
+Kayla: I DO say that it's always wrong! About the Nazi research, now we know how long it takes to freeze people to death, do you think it was worth it? Of course not! If it was actually worth it for the world, then you could convince people to consent to it, like they did in the Minnesota Starvation Experiment. Every single time people abuse other beings and make excuses for it: either it wasn't worth it, or they could have done it consensually 
+
+
+
+
 
 
 [Ethics of going back in time and repeating someone's suffering – does the suffering count twice, or once, or zero times? Ontoh says it only counts if it isn't reverted]
@@ -205,6 +228,10 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 ["What about souls? What about continuity of consciousness?" Those are superstitions. Let us ask why you believe in them; you believe in them because it simply feels like they are true, yes? Well, that feeling is something that exists; moreover, both copies have it.]
 
 [Related, not sure of order: Ontoh says it's inevitable that the broadly accepted morality will be collective self-interest of those who can fight back ("just like how your society accepts breeding and slaughter of animals"); Kayla could relate collective self-interest to the Ring of Gyges story, but objects to the idea that morality is about the ability to fight back, and says [the powerful should do the right thing to the helpless]. Narrator remarks on this ("someone who was able to truly believe that you should do the right thing even if there would be no consequences… someone who had the [mental fortitude] to advocate for animals even in our society")]
+
+
+
+[Somewhere: how should we think of Ontoh, who is essentially a slaveowner who grew up in a society of slaveowners? Ontoh believes it's the inevitable order of the world, and trying to stop slavery from happening is foolish (in Huvinthu it was only banned because of worries about rebellions). Marvin(?) agonizes about whether they're a product of their society; Kayla insists that they are Evil ("you can just look at what's happening and figure out what's good and evil! I can tell that my own society is evil [in the treatment of prisoners, children, animals, etc.], so they can tell that their society is evil, they just choose not to")]
 
 
 
@@ -226,7 +253,7 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [K : this makes no sense, if you existed for septillions of subjective years, how are you not ahead of us in technology, haven't space travelled, etc.?
 
-But it was already making sense to me. "'Work expands to fill the time available'," I quoted.
+But it was already making sense to me. "'Work expands to fill the time available for its completion'," I quoted.
 
 "What?"
 
@@ -237,7 +264,7 @@ But it was already making sense to me. "'Work expands to fill the time available
 
 [sometime with talking to Ontoh, not sure of ordering]
 
-"What do you think happens if you bring a time machine back in time with you?"
+Ontoh: "What do you think happens if you bring a time machine back in time with you?"
 
 [Uhhhh, do you destroy the fabric of space-time?]
 
@@ -312,6 +339,11 @@ Reginald and Kayla both spoke at once.
 
 …and then I suppose Nochli would be happy to step into this role of 'God', when they reveal themselves
 
+
+
+
+
+[maybe here, or maybe in part 3? "Salnthu never understood relativity or quantum mechanics. What's going to happen when we unite time travel theory with relativity or quantum mechanics? How do we know we're not going to discover a power that is even worse than Salnthu?"… philosophize about "wise enough to accomplish greater destruction" – if you cooperate effectively instead of fighting, then you accomplish greater deeds, and if you don't proactively guarantee that greedy people can't take your work and use it for evil, then they will, and your goodness will have accomplished the greater evil. Compare and contrast how Nochli, who was wiser than Ontoh, was able to destroy Ontoh, even though Ontoh was more focused on fighting]
 
 
 

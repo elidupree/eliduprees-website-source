@@ -81,9 +81,9 @@ We'd been dating for about a month, and Yali was one of the calmest, most patien
 
 The gods?! I wondered again. How could Yali have something about the <em>gods</em>? Sure, "Our five gods are the foundation of all life in the city", but <em>really</em>. What did the gods ever do for kids like us?
 
-I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely, stumbling and springing back up to my feet. It was just a couple more blocks uphill to closest gate.
+I dashed across a street and tried to parkour my way up the high embankment on the other side. I made it, barely, stumbling and springing back up to my feet. It was just a couple more blocks uphill to the closest gate.
 
-Our city was built on a hill. It was split up by five circular walls, each one surrounding the last. I lived in the Fifth Ring – the district at the foot of the hill, just inside the outer wall. But my parents had gotten me into a school up in the Fourth Ring, and even though Yali went to the same school, <em>her</em> house was all the way up in the <em>Third</em> Ring. So it was always hard work running uphill to get there. I <em>could</em> have taken a bus, but I've never liked to just sit around and wait. Plus, the bus couldn't take a shortcut through some shmuck's backyard like I was doing. Heh.
+Our city was built on a hill. It was split up by five circular walls, each one surrounding the last. I lived in the Fifth Ring – the district at the foot of the hill, just inside the outer wall. But my parents had gotten me into a school up in the Fourth Ring, and even though Yali went to the same school, <em>her</em> house was all the way up in the <em>Third</em> Ring. So it was always hard work running uphill to get there. I <em>could</em> have taken a bus, but I've never liked to just sit around and wait. Plus, the bus couldn't take a shortcut through some chump's backyard like I was doing. Heh.
 
 Panting, I finally made it up to the gate. I leaned back to catch my breath, feeling the cool stones of the archway on my back, and the buzz of sorcery in my mind. When you're a little kid, they teach you how the five walls are woven with protective sorceries, and infused with the magic of the five gods who watch over us all. They'd always made it sound like everything was in perfect harmony, but in real life, it really wasn't. For one thing, the outer wall was in total ruins. Only four of the gods were actually worshipped, and only three of them had taxes and temples. And if anyone was "watching over me", it was those hypocrites who ran the schools, may the Stern God take them.
 
@@ -129,7 +129,7 @@ Yali muttered while she worked. "Your pants are pretty tight. That might have he
 
 We laughed together. Yali and I were so different – and yet, when we were together, everything seemed to flow so easily.
 
-But then… The time came. Yali had put away the extra bandages. I had finally caught my breath. It was time.
+But then… the time came. Yali had put away the extra bandages. I had finally caught my breath. It was time.
 
 "So…" I began, "about what you texted me…"
 
@@ -151,13 +151,13 @@ Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
 
 "It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could – I could lose you forever –"
 
-Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're, they're, the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also – Why am I talking like this? It's me. I'm the Farseer. And you're –"
+Yali spoke past me. "Most of the Chosen don't even know they've been picked until the moment they're – they're – the moment they're drawn into the Otherworld. Only the Farseer – that's the Waiting God's Chosen – only the Farseer can know who the Chosen are in advance. And the Farseer can also – Why am I talking like this? It's me. I'm the Farseer. And you're –"
 
 I froze. I could see where this sentence was going, and I didn't like it. Me, one of the Chosen? A million questions formed in my head at once. And then all the questions vanished again. What could I even say?
 
 "– you're the Blood Child."
 
-I snapped back into the present. Yali was looking at me carefully. Studying me, to see how was going to react. But there were so many things going through my head. What – how – why –
+I snapped back into the present. Yali was looking at me carefully. Studying me, to see how I was going to react. But there were so many things going through my head. What – how – why –
 
 "Do you know the history between them?" continued Yali. "The Waiting God and the Blood God –"
 
@@ -175,7 +175,7 @@ Yali shifted uncomfortably. "There has to be something more to it. There's plent
 
 "Power? What am I, a high priest?"
 
-Yali suppressed a laugh. "Not that kind of power." She leaned in close to me. "I think it means… The way you feel like you can do whatever you want. The way you're not afraid to tell anyone what you think of them. That's what I like about you. And that's a kind of power too, a power that you already have… right <em>here</em>."
+Yali suppressed a laugh. "Not that kind of power." She leaned in close to me. "I think it means… the way you feel like you can do whatever you want. The way you're not afraid to tell anyone what you think of them. That's what I like about you. And that's a kind of power too, a power that you already have… right <em>here</em>."
 
 She reached out a hand, and touched my heart.
 

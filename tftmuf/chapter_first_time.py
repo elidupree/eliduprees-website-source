@@ -1,11 +1,14 @@
 title: What Happened the First Time (That We Knew About (Yet))
 
 
+
+
+
 [Our divergence point was when/everything was the same for them until: when we got the message from them, and they didn't. Marvin-Zero and Kayla-Zero didn't have instructions about what to do, so they had to figure everything out themselves, while they were terrified of when the bad guys were going to find them out
 
 "Why are they calling themselves Marvin <em>Zero</em>?" asked the Kayla next to me.
 
-"It's a programmer thing. In programming, you usually start counting from zero. It makes sense for this because they're the ones who have time traveled zero <em>times</em>"
+"It's a programmer thing. In programming, you usually start counting from zero. It makes sense for this because they're the ones who've used the time machine zero <em>times</em>."
 
 [They argued about what to do, but then They had a smart idea. If they locked themselves IN the time machine room, then it was safe for them to spend more time deciding what to do, because if anything bad started to happen, they could just go back in time]
 
@@ -17,9 +20,20 @@ title: What Happened the First Time (That We Knew About (Yet))
 
 [They went back to the earliest possible time, avoided the night worker, and kept arguing about what to do. They hatched a plan to kill the bad guys? [Considered how to elaborate on Marvin's take/"why not go to the police" here and how it relates to PoV-Marvin's take later] By using the security cameras to track where they were, then ambushing them]
 
-[But at that point, Kayla-One and Marvin-One started to realize their mistakes. When they were sneaking through the buildings, what would would happen if Kayla-Zero and Marvin-Zero saw them? They would be changing their own past, causing a paradox. And the Zeros had looked on a load of different cameras.]
+[But at that point, Kayla-One and Marvin-One started to realize their mistakes. When they were sneaking through the buildings, what would would happen if Kayla-Zero and Marvin-Zero saw them? They would be changing their own past, causing a paradox – when Zeroes got into the machine, they wouldn't be the same as Ones, so they'd make different choices... And the Zeros had looked on a load of different cameras.]
 
-[So they spent their first loop starting to make the map. This time, they had the sense to not repeat their mistake: Marvin-One only checked the cameras in places where he already knew he wasn't planning to go. He even wrote a script to download the camera history only at exact times, without accidentally looking at other times. And While Marvin-Zero was using the security cameras to find their route to the time machine room, Marvin-One was watching the security <em>server logs</em>, checking the exact times and cameras where Marvin-Zero accessed the footage.
+
+"Marvin's going to be wondering about the butterfly effect."
+
+I had been too absorbed to think of it, but as soon as he said "butterfly effect", I saw the problem. It should have been impossible for Marvin-One to <em>not</em> change Marvin-Zero. Even in stories with pretentious narration about the butterfly effect, they usually underestimate how powerful it is. Every footstep, every breath of air, would cause tiny ripples that spread throughout the building, and beyond. And tiny changes lead to big changes. At the human scale, it's familiar: A lucky accident leads to a scientific discovery, a chance encounter decides the fate of nations, a tossed cigarette starts a fire that burns down an entire forest. At the molecular scale, it's even more so. Disturb a single atom, and it disturbs its neighbors, and <em>they</em> disturb <em>their</em> neighbors, until everything is different.
+
+People like to ask hypothetical questions about how their lives would be different, if society had been different in the past. But the physicist's answer is, if a single atom had been different a year before you were born, <em>you would never have been born</em>. Your parents might not conceive a child; if they did, a different sperm would unite with the egg, making the child your sibling instead of your self. By the time the child was grown up, society would be unrecognizable. There would be a different president, different slang, different new technology.
+
+"With these time machines, it doesn't work out that way," explained Marvin. "For Ones, it was all guesswork, but they were, uh, basically right, I guess. Aster's notes call it the 'impressioning effect', like if you draw something on a piece of paper, then erase it. You can redraw something completely different if you want to – but if you start drawing <em>almost</em> the same thing as before, your pencil settles into the groove it left in the paper the first time. The time machine 'remembers' what happened the first time, and guides us into the groove we left. It's too small to notice, but it's enough to keep the butterfly effect from breaking everything."
+
+
+
+[But Ones still had to avoid making changes that were big enough for Zeros to notice. So they spent their first loop starting to make the map. This time, they had the sense to not repeat their mistake: Marvin-One only checked the cameras in places where he already knew he wasn't planning to go. He even wrote a script to download the camera history only at exact times, without accidentally looking at other times. And While Marvin-Zero was using the security cameras to find their route to the time machine room, Marvin-One was watching the security <em>server logs</em>, checking the exact times and cameras where Marvin-Zero accessed the footage.
 
 
 [And then, in order to go back in time again, they had to get into the time machine room. But Zeros had been in the time machine room for hours, so Ones had to sneak in right after they left, etc.]
@@ -40,7 +54,7 @@ title: What Happened the First Time (That We Knew About (Yet))
 
 "I'm so glad I kept doing the physical therapy exercises even when I was in the [holding room], otherwise I would never have been able to lift the gun and pull the trigger. I never realized how much force it takes to pull a trigger"
 
-[Possible section break with big hook ("but the plan went all wrong" ish?)? But at 4:06 , when they took their positions in the hallway outside the meeting room, Simon thought he heard a noise [which was actually Ontoh] and came out to look in the hall, which hadn't happened any of the previous times. Simon saw them and shouted a warning [he knew we were time travelers because they'd just seen us on cams], Kayla shot him, and then shot the other scientists as they tried to escape and/or cower.]
+[Possible section break with big hook ("but the plan went all wrong" ish?)? But at 4:06 , when they took their positions in the hallway outside the meeting room, Simon thought he heard a noise [which was actually Ontoh] and came out to look in the hall, which hadn't happened any of the previous times. Simon saw them and shouted a warning [he knew we were time travelers because they'd just seen us on cams?], Kayla shot him, and then shot the other scientists as they tried to escape and/or cower.]
 
 [As Kayla-Five described her she'd killed the scientists, the Kayla next to me ????? An expression of unmistakable pride ????? The revelation, already somewhat expected due to the gun and blood, that the Kayla in the video had killed real, living people. I felt disturbed by it/dissociated, feeling at a distance from things. But the Kayla crouching next to me was watching with rapt attention. In awe/admiration of the version of herself who had succeeded (?). The promise that killing those people – the ones who had held her captive – was within her power.]
 
@@ -48,13 +62,25 @@ title: What Happened the First Time (That We Knew About (Yet))
 
 "Reggie, I thought he was evil like the rest of them, but maybe it's more complicated. The last thing he did before he died – literally while I was shooting all of them – he wrote… well, you can look at it." Video-Kayla held something up to the camera – a slightly crumpled sticky note, with some gibberish hastily scrawled across it in ballpoint pen. And under the gibberish, it said, "LAPTOP PASSWORD – TIME TRAVELERS YOU NEED THIS".
 
-[And in the room full of bodies, once the shooting was over, they had time to panic about the other thing: the time travel issue. They had started their attack too early, and they knew knew Zeros had been watching this exact room, meaning that Zeros would now be seeing <em>them</em> – One of the monitors in the meeting room was even open onto the security cameras in the time machine room, so they could see themselves watching themselves – so they had changed their own past. What did that mean for them? Why did they still exist?]
+[And in the room full of bodies, once the shooting was over, they had time to panic about the other thing: the time travel issue. They had started their attack too early, and they knew knew Zeros had been watching this exact room, meaning that Zeros would now be seeing <em>them</em> – One of the monitors in the meeting room was even open onto the security cameras in the time machine room, so they could see themselves watching themselves [wait, maybe that was blacked out?] – so they had changed their own past. What did that mean for them? Why did they still exist?]
 
 Desperate for answers, [they looked at the note Reggie had left, as it made him sound like someone who knew what needed to be done]. [They opened his laptop and found a document called Aster's Notes.]
 
 [Maybe put PoV Marvin reading asters notes here: "Aster's notes were also included in the zip file they'd sent us. They were… [Move some of the description from next chapter to here?]]
 
 [And what Fours had learned from the notes, just in time to not ruin everything… The delay of 48 minutes had been lucky. Because [partial explanation]. Now they needed to go back in time AGAIN, before the time when their original selves would fail to go back. They hurried to do that, convinced Zeros to let them past (invited Zeros along with them? "It's a paradox anyway, it won't matter either way")]
+
+
+[K: "... So anyway, it's going to be over for us soon [which is a relief], now it's you two's chance to do it without a paradox"]
+
+[M: demoralized uhhhh]
+
+[K: what?]
+
+[M: we don't even know why Simon came out the door. They'll only be able to fix the mistakes that we know about. How do we know how many more bugs there are? What if they're doomed too?]
+
+
+"I trust Marvin with my life. [Little pause] He works best if you get him talking about 'threat modeling'. He'll know what that means."
 
 
 [End of chapter (the below is a canceled approach, although we may still use bits and pieces of it]

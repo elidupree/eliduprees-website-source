@@ -113,7 +113,7 @@ That seemed to get under her skin a little. "That – the Farseer should not hav
 
 "Okay, fine." Right, this was one of the things Yali had warned me about. She'd said I shouldn't encourage Justicar to think about me attacking her. I decided to shut up. Justicar seemed satisfied with that, which was… both frustrating and a relief, I guess. I didn't like letting her win, but if she just stayed out of the way and kept thinking annoying things all by herself, that wasn't my biggest problem.
 
-It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted. Deep into the hours, I found myself noticing something I had missed before. Even though her rigid posture had seemed effortless at first, the lines in her face made her look like someone who was very, <em>very</em> tired.
+It <em>was</em> pretty irritating having her around, though. Even when she "slept", she stayed sitting up, with her eyes open, keeping an eye on me. She didn't take off her armor, either. I couldn't just go to bed with her watching me like that, so I slept sitting up too, staring right back at her. We sat that way for the whole "night", my eyes locked onto Justicar's face for longer than I would have ever wanted. And as the night wore on, I started to notice the lines in her face. Her rigid posture had seemed effortless at first, but now, I felt like I was looking at someone who was very, <em>very</em> tired.
 
 <bigbreak>
 
@@ -325,51 +325,31 @@ Suddenly, there was an awful squawking right behind me. I jumped and whirled aro
 
 Just when I had cornered him at the edge of the star, he manifested a foam sword and pointed it at me, striking a duelist pose. So of course, I made my own foam sword to challenge him. Then I had an idea. I turned to Yali. "So, this <em>hostile intent</em> thing… What if we fought with <em>real</em> swords? I mean, we won't <em>intend</em> to hurt each other for real, so if we make a mistake and –"
 
-"<em>Don't do that!</em>" said Yali and Justicar at the same time. Yali firmly explained the caveats. Even if you didn't damage the soul, you could still damage the body, and if you had to manifest new flesh to replace the damage, then the new flesh would disappear when you got back to the material world. And the act of swinging a real weapon at someone might even count as hostile intent of you weren't careful. Yali was pretty insistent – she must've thought I was going to be reckless.
+"<em>Don't do that!</em>" said Yali and Justicar at the same time. Yali firmly explained the caveats. Even if you didn't damage the soul, you could still damage the body, and if you had to manifest new flesh to replace the damage, then the new flesh would disappear when you got back to the material world. And the act of swinging a real weapon at someone might even count as hostile intent if you weren't careful. Yali was pretty insistent – she must've thought I was going to be reckless.
 
 "Yeah, fine, I won't do anything stupid," I said. I turned back towards Morrow. But he was ready for me, and he bopped me on the head with his foam sword before I could do anything. "Alas! For I am slain!" I joked along, manifesting a spurt of fake blood from my head. "But I'll take you down with me!!" I tackled Morrow and pulled him over the edge with me.
 
-Once got his bearings, he grinned. "So we have a whole empty side to work with! Amazing, let's build a castle!" He started manifesting a stone tower and gateway, but it kept falling apart while he was manifesting it.
+Once we were both on the underside of the star, we could <em>really</em> go wild. Right away, we were both mani&shy;festing huge castles, showing off by making them bigger and better than each other's. It was a rush, finally getting to indulge my competitiveness, away from Yali and Justicar being serious all the time. I made a golden throne; he made a bigger one. I made an even bigger throne out of Blood Blades, and slouched in it imperiously; he gave a theatrical bow and kissed my shoe, but secretly used the kiss to prank me by mani&shy;festing my shoelaces together. He made a battering ram and started knocking down my castle walls; I jumped up on the walls, yelled "Die invader!", and dumped a bucket of water on his head.
 
-"I call dibs on the throne room!" I made a golden throne again, this time with actual cushions.
+That last one didn't go over so well. Rather than prank me back, he froze up, bent-over and shivering, as the water dripped off of him. At first, I thought he was just playing along – but seconds passed, and he didn't snap back. What was his deal? He could jump right up from having his leg broken, but a bit of cold water was too much for him?
 
-"Mine's bigger!" Morrow was already sitting on a bigger throne.
-
-I tried to one-up him again, but I couldn't manifest something that big. But then I thought of making a throne out of Blood Blades. Since they were the easiest thing to manifest, I managed to make a much bigger one that way. Plus, it looked totally badass. It was so tall I couldn't just sit down in it, I had to climb up the pedestal. I slouched in it and looked down at him imperiously.
-
-"Oh, I have been outdone! I bow you, my queen." Morrow bowed and kissed my shoe theatrically. "Now, check this out!" He ran behind the stone tower and waved for me to follow.
-
-I got up from the throne, stepped forward, and fell flat on my face. I could hear Morrow laughing. "Oh my gods, you used manifesting to glue my shoes together when you kissed them! It is ON!" I kicked off my sneakers and manifested cool boots in their place, then I jumped up onto the tower he was hiding behind. "Die, invader!" I yelled, dumping a bucket of water on his head.
-
-I jumped down from the tower and manifested another wall so he couldn't chase me. Then I waited to ambush him when he came around the wall. And waited, and waited some more. At some point, it seemed like he wasn't going to show up.
-
-Cautiously, I peeked back around the wall. He wasn't waiting to prank me, either. He was frozen in place, bent over and shivering.
-
-"Dude, what's your deal? You can jump right up from having your leg broken, but a bit of cold water is too much to handle?" He didn't seem to hear me. "Look, if you don't like it, just manifest it off."
+I jumped down beside him. "Dude, it's okay. If water's not your thing, I can hold off. Just manifest it off."
 
 "I CAN'T!" he yelled. "It's YOUR water, YOU manifest it off!"
 
-"What? I'm sure I saw Yali do something like that earlier." Still, I tried. "I can't unmanifest it either! Are you pranking me?" It was obvious that he wasn't, though. Not sure what to do, I manifested a hair dryer. But of course, there was nowhere to plug it in. Whoops.
+"What? I'm sure I saw Yali do something like that earlier." Still, I tried. "I can't unmanifest it either! Are you pranking me?" It was obvious that he wasn't, though. Trying to help, I manifested a hair dryer. But of course, there was nowhere to plug it in. Whoops.
 
-Suddenly, Morrow manifested a <em>car</em>.
+Suddenly, Morrow manifested half of a <em>car</em>.
 
-"What the fuck?" I said.
+"What the fuck," I said, laughing.
 
-"It has a power outlet inside! So you can –" It seemed like he hadn't quite thought this through. "Never mind it doesn't matter!! Let's go back to building the castle right away!! No wait! I was just thinking, this thing we're standing on! We should tie a rope to the edge! So we can SWING from one side to the other!"
+Morrow grinned. "See, it has an inverter! So you can plug in your – Never mind it doesn't matter!!" Somehow, he had already distracted himself – he'd completely forgotten whatever happened with the water, even though he was still dripping.
 
-Morrow was still soaking wet, but it seemed like whenever he thought of a new thing, it automatically erased whatever he'd been thinking about before. Well, I could roll with it. "I mean, that'd be cool," I said, "but there's nowhere to tie it. The star is just smooth on all sides."
-
-"What if we tied it to the ENTIRE star?!"
-
-"What?"
-
-"All the ropes. In all directions. Like a giant web! Holding on to all the edges!" Morrow started wildly manifesting ropes in all directions.
-
-After a little while, I figured out what he was trying to do. "Oh. If we tied one big loop across the middle of the star, that would sort of be a way to attach something to it, but it would slip off because the star is a big circle. But if we made a big net on each side of the star, and then tied the two nets together with little loops all around the edge…" Morrow wasn't really making progress – he kept starting at one edge and then accidentally yanking the ropes so they landed in a big pile. And he probably kept redesigning the whole thing when he wasn't even half finished building it. Just like how he'd left the "castle" as just a tower and three thrones, and left a car sitting there not doing anything. But his idea was cool, so I went back to the topside and manifested a single, big net, with ropes dangling off at all the edges. Then I came back and started tying the dangling ropes to whatever Morrow was making. I wasn't very good at <em>tying</em> knots, but I had <em>touched</em> knots before, so I just used manifesting to transform the ropes into a knotted shape. Eventually, we had something that pretty much worked.
+Unfortunately for me, he had <em>also</em> lost interest in our castle-building, already moving on to another wild idea. We kept playing, but every time I started getting excited about one of Morrow's ideas, Morrow was already bored of it. It was still fun, but after a while, it got tiring – and I didn't feel like I knew Morrow any better than I had before we started.
 
 <bigbreak>
 
-"Wheeeee!" Morrow swung around from under the star. I was up on the topside with Yali and Justicar, taking a bit of a break from Morrow's antics. At least, it <em>had</em> been a break, until now. The three of us watched him careen up into the air, partially propelled by a rocket. Then he came crashing down. Justicar and I ducked out of the way.
+"Wheeeee!" Morrow swung around from under the star. I was up on the topside with Yali and Justicar, taking a bit of a break from Morrow's antics. At least, it <em>had</em> been a break, until now. The three of us watched him careen up into the air, swinging by a rope, partially propelled by a rocket. Then he came crashing down. Justicar and I ducked out of the way.
 
 "Ow ow ow ow OW OW OW ow ow!"
 
@@ -377,11 +357,11 @@ It looks like Justicar was about to tell him off, but I was faster. "Dude, you'v
 
 "Win-win," said Morrow cheerfully.
 
-"You shouldn't joke about suicide!" snapped Justicar.
+"You shouldn't joke about suicide!" snapped Justi&shy;car.
 
-Morrow grinned fiendishly. "What if I'm not joking?"
+Morrow grinned fiendishly. "What if I'm not jok&shy;ing?"
 
-"If you were not joking, you should seek serious help rather than make light of it. Unfortunately there are no trained therapists here, but under the circumstances, the Farseer or I would be able to consult –"
+"If you were not joking, you should seek serious help rather than make light of it. Unfortunately there are no trained therapists here, but under the circum&shy;stances, the Farseer or I would be able to consult –"
 
 Morrow ignored her, manifested a chunk of meat, and started chewing furiously. 
 
@@ -389,15 +369,15 @@ Morrow ignored her, manifested a chunk of meat, and started chewing furiously.
 
 "But I'm <em>huuungry!!</em> I'm always hungry, even when I've eaten –"
 
-"Wait, really? <em>I'm</em> not hungry, wait, can't you manifest yourself into not being hungry?" Curiously, I tried to manifest myself into <em>being</em> hungry. It worked.
+"Wait, really? <em>I'm</em> not hungry, wait, can't you mani&shy;fest yourself into not being hungry?" Curiously, I tried to manifest myself into <em>being</em> hungry. It worked.
 
-"It is probably because of his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, it would only be natural for the Imminent to –"
+"It is probably due to his nature as the Imminent," said Justicar. "It is the nature of the Seeking God to perpetually want more, and never be satisfied. Thus, it would only be natural for the Imminent to –"
 
-"That can't be right," I said. I didn't really have a <em>reason</em> to think it was wrong, but I couldn't stand Justicar being all <em>Well the Farseer would be like this and the Imminent would be like that</em> instead of listening to us as actual fucking people. So I scrambled to come up with a reason. "Hang on, if that was true, then all the old Imminents would have been hungry all the time too. Hey Yali, you have all those memories, so were they?"
+"That can't be right," I said. I didn't really have a <em>reason</em> to think it was wrong, but I couldn't stand Justicar being all <em>Well the Farseer would be like this and the Imminent would be like that</em>, instead of listening to us as actual fucking people. So I scrambled to come up with a reason. "Hang on, if that was true, then all the old Imminents would have been hungry all the time too. Hey Yali, you have all those memories, so were they?"
 
 Yali froze up, not answering.
 
-"I did it!" yelled Morrow into the silence. "I manifested myself into not being hungry! But it's even worse, it's so TIRING to stay like that, it's worse than just <em>being</em> hungr–"
+"I did it!" yelled Morrow into the silence. "I mani&shy;fested myself into not being hungry! But it's even worse, it's so TIRING to stay like that, it's worse than just <em>being</em> hungr–"
 
 "No, Yali, what's up? You okay there?"
 
@@ -433,11 +413,11 @@ Almost before I started speaking, Morrow dragged me off to have more fun on the 
 
 "I'm getting sleepy," I said. How many hours had it been? I checked my phone. I couldn't remember exactly when I had last slept, but it had definitely been a lot of hours.
 
-"But we still haven't decided who's the Ultimate Master of Manifesting!!" said Morrow. We'd been playing this game against each other for a while now, if you could call it a game when we hadn't managed to stick to the same rules for more than ten minutes in a row.
+"But we still haven't decided who's the Ultimate Master of Manifesting!!" said Morrow. We'd been play&shy;ing this game against each other for a while now, if you could call it a game when we hadn't managed to stick to the same rules for more than ten minutes in a row.
 
 "Yeah, but if we haven't figured that out in the last five hours, we're probably not gonna figure it out in one or two more. I'm going to bed."
 
-Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing her noise-cancelling headphones. I quickly saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
+Ignoring Morrow's complaints, I went back to the topside and went to bed. Yali was already in her own bed, wearing her noise-cancelling headphones. I soon saw why. Even though Morrow stayed on the underside while we slept, he made a huge racket. Every few minutes, there was a yell or a crash or a big explosion.
 
 "Can you be quieter down there?!" I yelled.
 
@@ -453,7 +433,7 @@ I had about five minutes of quiet to get started, then there was another boom an
 
 Three minutes and four seconds later, an actual person-sized cart rolled off the underside of the star and crashed near my bed.
 
-"Morrow! That was three minutes and four seconds! Are you kidding me! You can't give me peace and quiet for three minutes and four seconds??"
+"Morrow! That was three minutes and four sec&shy;onds! Are you kidding me! You can't give me peace and quiet for three minutes and four seconds??"
 
 "Wow! Did it actually keep rolling on the other side?"
 
@@ -473,13 +453,15 @@ At the end of <em>that</em> day, things went more or less the same.
 
 "How old are you, anyway?" I said.
 
-"Old enough to know better!" said Morrow cheerfully.
+"Old enough to know better!" said Morrow cheer&shy;fully.
 
 "Okay, got it, you're twelve," I said. He was clearly way older than twelve, but I was hoping to provoke him into telling me his actual age. It didn't work. He just jokingly manifested a birthday cake with twelve candles, blew them out, started eating the cake, and then got bored of eating the cake and dumped it on the floor.
 
-"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed earlier. Yali was still up. Knowingly, she handed me a set of earplugs and noise-cancelling headphones. "Thanks a bunch," I muttered. I put them on, then collapsed into bed.
+"See you tomorrow." My short rest the previous night had left me pretty tired, so this time I went to bed sooner. Yali was still up. Knowingly, she handed me a set of earplugs and noise-cancelling headphones.
 
-When I got up the next day, the star was strangely quiet, even after I took out the earplugs. Confused, I went to the underside to check on Morrow. I found him sprawled facedown over a heap of random junk, drooling. He didn't look injured, so the lack of sleep had probably caught up to him.
+"Thanks a bunch," I muttered, putting them on and collapsing into bed.
+
+The next time I got up, the star was strangely quiet, even after I took out the earplugs. Confused, I went to the underside to check on Morrow. He was sprawled facedown over a heap of random junk, drooling. He didn't look injured – it was probably just the lack of sleep catching up to him.
 
 I thought of pranking him while he slept, but it just didn't feel right. Instead, I manifested a mattress and tiredly rolled him onto it. He'd been lying on some pretty pointy stuff, it looked really uncomfortable.
 
@@ -491,9 +473,9 @@ Oh gods, this was <em>exactly</em> like me and Yali, wasn't it. I was complainin
 
 <bigbreak>
 
-Meanwhile, Yali and Justicar were hard at work trying to find the Alchemist. They spent hours poring over the Codex and watching the stars. They worked together mostly in silence. Yali would draw a star map with circles and arrows and distance labels everywhere, then Justicar would mark it up with corrections, then Yali would take it back and redraw it in a different shape. They made copies of each other's work and compared them to what they saw in the telescopes, noting down any inconsistencies. They slowly accumulated a pile of manifested three-dimensional models, too.
+Meanwhile, Yali and Justicar were hard at work trying to find the Alchemist. They spent hours poring over the Codex and watching the stars. They worked together mostly in silence. Yali would draw a star map with circles and arrows and distance labels everywhere, then Justicar would mark it up with corrections, then Yali would take it back and redraw it in a different shape. They made copies of each other's work and compared them to what they saw in the telescopes, noting down any inconsistencies. They even had a pile of manifested three-dimensional models – a pile that slowly grew taller as the days passed.
 
-I mostly left them alone. But Morrow couldn't resist pestering them for information – at least, when I wasn't keeping him occupied on the underside. Generally, Justicar fended him off while Yali continued working. It was like Yali was using her as a bodyguard. That kind of irritated me for some reason.
+I mostly left them alone. But Morrow couldn't resist pestering them for information – at least, when I wasn't keeping him busy on the underside. Generally, Justicar fended him off while Yali continued working. It was like Yali was using her as a bodyguard. That kind of irritated me for some reason.
 
 "Heyyyy you two how's it going? Spotted any cool stars yet??" said Morrow, for the umpteenth time.
 
@@ -535,7 +517,7 @@ Justicar let out a tiny sigh. "…As you say, we <em>can</em> get back to the ma
 
 <bigbreak>
 
-With a huge roar, a green, scaly dragon trampled over the wreckage on the underside of the star. It reared back and breathed a long stream of flames, singeing the rope net and setting a wooden crate on fire.
+With a huge roar, a green, scaly dragon trampled over the wreckage on the underside of the star. It reared back and breathed a long stream of flames, scorching a coil of rope and setting a wooden crate on fire.
 
 "Is that you, Morrow?" I said, impressed.
 
@@ -545,9 +527,9 @@ With a huge roar, a green, scaly dragon trampled over the wreckage on the unders
 
 "I manifested the fire in my mouth! And then I –"
 
-I tried it. "Owwww! That's hot!" I quickly manifested the burns away.
+I tried it. "Owwww! Hot hot hot!" I quickly mani&shy;fested the burns away.
 
-Morrow snickered. "Haha, you also gotta manifest on your mouth so it doesn't burn."
+Morrow snickered. "Haha, you gotta manifest on your mouth so it doesn't burn."
 
 It took me a few tries to get it right. I had to concentrate on cooling off the whole inside of my mouth, while simultaneously making fire appear inside and shoot outwards.
 
@@ -603,7 +585,7 @@ It <em>was</em> easier to just joke back and forth with him and not think about 
 
 "What is that, some kind of chart?" I said. Justicar had gathered us all on the topside, where she had a bunch of diagrams laid out in neat piles on a table near the telescope. Somehow, she had even convinced Morrow to sit still for a moment. We were all looking on with quiet uncertainty.
 
-"I have been recording the positions of the Alchemist over the last forty-eight hours. Farseer, what do you make of this?"
+"I have recorded the positions of the Alchemist over the last forty-eight hours. Farseer, what do you make of this?"
 
 Yali carefully took the chart from Justicar and squinted at it. "How many stars has the Alchemist visited in that time?"
 
@@ -621,9 +603,9 @@ Yali carefully took the chart from Justicar and squinted at it. "How many stars 
 
 Yali kept staring at the chart, a hint of worry creeping over her face. "For all this time," she said, "we've been trying to get to the Alchemist by visiting stars that will move closer to the Alchemist's star. But now that the Alchemist's star isn't even <em>connected</em> to the grand pattern, it will <em>never</em> meet up with us, or any other star, no matter what we do."
 
-"Oh no!" I said. "So the Alchemist is just going to be lost in space forever?? That's so sad!!"
+"Oh no!" I said. "So the Alchemist is just going to be lost in space this whole time?? That's so sad!!"
 
-"Or," said Yali darkly, "until the Waiting God decides to do whatever it does with Ravellers who fail to reach the portals."
+"Or," said Yali darkly, "until the Waiting God does whatever it does with Ravellers who fail to reach the portals."
 
 "We've gotta do something," I said.
 
