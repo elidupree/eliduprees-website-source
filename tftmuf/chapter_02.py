@@ -81,7 +81,7 @@ It was just sitting there, deceptively inactive. Given what it could do, I would
 
 But we didn't have time to think about that. Our job was to operate this thing.
 
-On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by mechanical arms – and a stepladder to help climb up to it. Once we entered the three "jump parameters" and pressed the button to start the "jump", that hatch would open, and we could crawl inside.
+On one side of the egg, there was a hatch that could open – a place where the egg could be swung open by mechanical arms – and a stepladder to help climb up to it. Once we entered the three "jump parameters" and pressed the button to start the "[jump]", that hatch would open, and we could crawl inside.
 
 The first "jump parameter" was the exact mass of the matter to be transported. The machine would ?????. The notes weren't too specific about what would happen to that matter – our flesh – if the number was wrong.
 

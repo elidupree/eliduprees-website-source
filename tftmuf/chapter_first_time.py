@@ -50,7 +50,7 @@ People like to ask hypothetical questions about how their lives would be differe
 
 [After some number of loops, they were ready to execute their plan. They were going to steal Fuller's gun, get into position, then wait until the exact moment Zeros stopped looking at the scientists, then move in and shoot them.]
 
-[Marvin didn't think he could go through with pulling the trigger himself, but he was willing to teach Kayla. I had grown up around guns – my father, before his passing, took me and my brothers to a shooting range every week, and taught us to respect the power and danger of the weapon. Unlike my brothers, I had never gotten a kick out of waving guns around ... Kayla was a good student and took it seriously]
+[Marvin didn't think he could go through with pulling the trigger himself, but he was willing to teach Kayla. I had grown up around guns – my father, before his passing, took me and my brothers to a shooting range every week, and taught us to respect the power and danger of the weapon. Unlike my brothers, I had never gotten a kick out of waving guns around ... Kayla was a good student and took it seriously (Marvin to Marvin: "don't let her general anger fool you, she DOES NOT lose her temper; every time she held the gun, she kept complete situational awareness at all times")]
 
 "I'm so glad I kept doing the physical therapy exercises even when I was in the [holding room], otherwise I would never have been able to lift the gun and pull the trigger. I never realized how much force it takes to pull a trigger"
 

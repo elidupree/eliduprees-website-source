@@ -78,7 +78,7 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 [Isn't that too good to be true? Why doesn't everyone do this?]
 
-[Because it's difficult, takes a long time, and only a few people know how to do it. We've been following industry best practices for testing, like they use that big tech companies like Google and Microsoft.]
+[Because it's difficult, takes a long time, and only a few people know how to do it. We've been following industry best practices for testing, like they use that big tech companies like Google and Microsoft – situations where a software bug usually won't kill hundreds of people. But it's sometimes used for safety critical systems like in avionics. Our systems are vastly more safety-critical than anything that has ever been built.]
 
 [Why can't Marvins do this?]
 

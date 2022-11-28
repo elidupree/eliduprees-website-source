@@ -53,9 +53,9 @@
 
 "Don't you know about climate change? About the rise of global fascism? The constant threat of nuclear war, ?????? Hell, even the pandemic? The world is already worse than when we found it. Doesn't matter if you do nothing but good deeds all day. Doesn't matter if I get out of here and live a [cute but in a mocking way] suburban little life. In twenty years we'll probably all be dead. You, me, <em>everyone</em>. And if we have a chance to <em>do</em> something about it –"
 
-[I realized how dramatically dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past.]
+[I realized how dramatically dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past. And if you could change your own past... then you could undo every decision that ever went wrong for you. You could make plans that couldn't possibly fail. A single person with a time machine could make themselves more foresighted than any political strategist, and luckier than any tyrant.]
 
-[Except that if you wanted to change it, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
+[Except that if you wanted to change your own past, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
 
 [I could tell I wasn't going to be able to stop her. "Can we just focus on the first problem?"]
 
@@ -112,7 +112,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 ????? "Do you believe in God?"
 
-"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all Gyges-es"
+"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all Gyges-es. They do evil and there are no consequences for them."
 
 [Maybe: K: what about you? / M: I'm not sure what I believe]
 
