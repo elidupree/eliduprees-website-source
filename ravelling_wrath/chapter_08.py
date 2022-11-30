@@ -144,7 +144,7 @@ Predictably, by the time Neenu reached our star, we'd had a lot more miscommunic
 
 Happily? How could I tell that she was happy? She was just a solid platform like all the others.
 
-We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. One moment, their big soft eyes blinked across at us, and the next, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced. The Alchemist didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up.
+We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. They didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up. One moment, they blinked across at us with big soft eyes, and the next moment, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced.
 
 "Now," said Justicar, "we only need a safe way for the Alchemist to get across to this star."
 
@@ -154,11 +154,11 @@ We all rushed to the edge to greet the Alchemist, who was standing nervously at 
 
 I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I felt completely stable now that I was standing on her. From here, it looked like the <em>other</em> star was the one that was bouncing around.
 
-"I can't do it," said Yali, standing at the edge and shuddering.
+"I, I can't just jump," said Yali, standing at the edge and shuddering.
 
 "What do you mean, you can't –"
 
-"It's the Waiting God. It <em>knows</em> where that star is supposed to be! This is just… <em>wrong</em>! Or… I should say, the Waiting God thinks it's wrong…" After hesitating for a while, Yali made a running jump and landed on Neenu, then collapsed to the ground.
+"It's the Waiting God. It <em>knows</em> where that star is supposed to be! If I think about jumping to it – the thoughts don't work right – because I know the star <em>isn't there</em>!" She glared at the gap. Slowly, still staring, she backed away – and then made a running leap, and collapsed onto the floor on our side.
 
 I rushed to her side. "You okay there?!"
 
@@ -168,7 +168,7 @@ I rushed to her side. "You okay there?!"
 
 "That, that… actually helps," she said.
 
-I sat with her and manifested a huge mat for both of us to sit on. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali gave a half smile.
+I sat with her and manifested a huge mat for both of us to sit on, and laid it out on the surface of Neenu. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali gave a half smile.
 
 Now, only Justicar was left on the other star.
 
