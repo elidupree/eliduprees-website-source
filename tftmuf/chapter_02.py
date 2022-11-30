@@ -165,6 +165,10 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 "– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I never wasted my time on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
 
+?????
+
+[Kayla puts on Simon's jacket/etc (does she need Marvin's help? Video-Kayla admonish her to accept Marvin's help?) And N95 masks (Simon has them for industrial reasons); Kayla insists they wear them ("how stupid would it be if we win and then I die of COVID because you didn't wear a mask? Put it on already"; There've been a few cases, the only reason they didn't spread further is the good ventilation); narration about how Marvin was aware that the pandemic was still dangerous (explain the pandemic a bit for the future audience), but didn't wear one because it was too hard to explain himself to everyone else in the office, who wasn't wearing them ("it was kind of a relief to be with someone who was expecting me to wear one; I guess if you are easily influenced by the opinions of the people around you, you need to surround yourself with people who have correct opinions")]
+
 <bigbreak>
 
 ?????
