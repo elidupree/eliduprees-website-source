@@ -204,7 +204,7 @@ The Alchemist hesitated. "Well I, maybe, my name? There are, a few different thi
 
 "Oh my gods, you guys," I said.
 
-"Everybody shut UPPPPP!" yelled Morrow. "Alchemist has something to say!!"
+"Everybody shut UPPP!" yelled Morrow. "Alchemist has something to say!!"
 
 Alchemist smiled nervously.
 
@@ -247,7 +247,7 @@ Nobody gave me a drumroll. I thought at least Morrow would do it, but no such lu
 
 Alchemist cringed.
 
-"Don't worry, I didn't have to go to the hospital or anything. I just got some really bad scrapes. But the worst thing is, I didn't EXPECT it, so I yelled out when it happened. Like, if I hadn't yelled, I could totally have still played dodgeball that way. But –" I sighed "– Mom and Dad came running and I was totally busted. They patched up the bleeding and then didn't let me out of their sight for the rest of the day. At least I got this cool scar though!" I unmanifested half of my pant leg so they could see the long scrape on my knee. Alchemist covered their face. Morrow came around the fire to take a closer look and poke at it.
+"Don't worry, I didn't go to the hospital or anything. I just got some really bad scrapes. But the worst thing is, I didn't EXPECT it, so I yelled out when it happened. Like, if I hadn't yelled, I could totally have still played dodgeball that way. But –" I sighed "– Mom and Dad came running and I was totally busted. They patched up the bleeding and then didn't let me out of their sight for the rest of the day. At least I got this cool scar though!" I unmanifested half of my pant leg so they could see the long scrape on my knee. Alchemist covered their face. Morrow came around the fire to take a closer look and poke at it.
 
 "Haha, that tickles. Anyway, there's more to the story. See, Mom and Dad had, like, a huge fight about it later. I think they thought I couldn't hear them, but they were really loud and I could totally hear them through the walls. Mom was like 'that was too dangerous, she could have gotten seriously hurt, we need to reinforce all the upstairs windows so she can never do that again'. And Dad was like 'that is Just Wrong, she is our daughter, that would be like putting her in a cage'. And I'm pretty sure they never came to an agreement about that. They just never tried to ground me in my room again, haha."
 
@@ -255,7 +255,7 @@ Justicar let out a tiny sigh.
 
 "You got a problem with that? Bet you think I'm a total terror and they SHOULD have put me in a cage."
 
-"I won't rise to your provocation," said Justicar calmly. "A child cannot be expected to understand the need for rules. I certainly did not when I was a child myself. And I cannot judge another person's family from a simple story. All I can say is that it is a parent's duty to provide rules to structure a child's life. It seems possible that they were not fulfilling that duty even before this incident."
+"I won't rise to your provocation," said Justicar calmly. "A child cannot be expected to understand the need for rules. <em>I</em> certainly did not when I was a child myself. And I cannot judge another person's family from a simple story. All I can say is that it is a parent's duty to provide rules to structure a child's life. It seems possible that they were not fulfilling that duty even before this incident."
 
 "Yeah," I said sarcastically, "I feel so deprived of rules. What a tragedy. Oh woe is me."
 
