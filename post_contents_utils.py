@@ -61,3 +61,30 @@ def content_warning_header(contents):
 def content_warning_section(contents):
   return secondary_hidden_cw_box('This section depicts '+contents+'.')
   
+
+def font_face(family, style, weight, path, mode="web"):
+    if mode=="web":
+      fragment = family.replace(" ", "")
+      # note: we have to use double quotes around the urls, not single quotes,
+      # because idupree-websitepy rewriting is only compatible with double quotes
+      rules = '''
+  src: url("'''+path+'''.eot?rr"); /* IE9 Compat Modes */
+  src: local(''),
+       url("'''+path+'''.eot?rr#iefix") format('embedded-opentype'), /* IE6-IE8 */
+       url("'''+path+'''.woff2?rr") format('woff2'), /* Super Modern Browsers */
+       url("'''+path+'''.woff?rr") format('woff'), /* Modern Browsers */
+       url("'''+path+'''.ttf?rr") format('truetype'), /* Safari, Android, iOS */
+       url("'''+path+'''.svg?rr#'''+fragment+'''") format('svg'); /* Legacy iOS */
+       '''
+    else:
+      rules = '''
+  src: url("'''+path+'''.ttf");
+       '''
+    return """@font-face {
+  font-family: '"""+family+"""';
+  font-style: """+style+""";
+  font-weight: """+weight+""";
+  """+rules+"""
+}"""
+
+  
