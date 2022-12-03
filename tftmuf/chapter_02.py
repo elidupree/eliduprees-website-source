@@ -51,13 +51,15 @@ I couldn't help it – I followed her gaze. But of course, there was nothing the
 
 When Kayla finally tore her eyes away, it was only reluctantly – not satisfied, but forced to admit she couldn't find what she was looking for. The "we have to keep moving" was the part that had convinced her. She faced forwards again, eyes locked on to the exit sign ahead of us.
 
-[????? When we got to the steel security door at the bottom of the stairs, I was behind Kayla because I had held the door at the top of the stairs for her first]
+The stairs weren't any easier. I held the door for Kayla at the top, putting her in front of me on the narrow staircase; I had to wait while she lowered herself, and force myself not to fill the time by looking out the windows. But at last, we got to the bottom – to the steel security door, locking away the basement floors.
 
-[hype the steel security door again (part of me excited that we were finally going to get to go past it); Kayla missed me being available to open it and did it herself, with an unusual gesture] She gripped the handle underhanded and pulled upwards from the shoulder, leaning backwards, struggling to pull the weight.
+Even [in the terrifying situation], I can't deny that I still had a bit of childlike excitement. This steel door had intrigued me for weeks; I was finally getting to sneak into somewhere I truly, absolutely, wasn't supposed to be. And indeed, we could enter now. It had already been unlocked for us, remotely, by the same Marvin who'd sent us the video.
+
+Kayla didn't wait for me to help her; she grabbed the handle herself. But her gesture seemed unusual, even for her weakened state. She gripped the handle underhanded and pulled upwards from the shoulder, leaning backwards, struggling to pull the weight.
 
 I caught the edge of the door to help her. "Is your arm okay?" I asked.
 
-"<em>Polyneuropathy, not-otherwise-specified,</em>" she said, her voice an irritable singsong – the voice of someone who has had to explain the same thing over and over, and is sick of it. "My arms are weak. I get phantom pains. No one knows why."
+She replied in an irritable singsong – "<em>Polyneuropathy, not-otherwise-specified.</em>" It was the voice of someone who has had to explain the same thing over and over, and is sick of it. "My arms are weak. I get phantom pains. No one knows why."
 
 "Is that – er, is it okay if I ask, uh –" I stumbled over my words.
 
@@ -71,13 +73,15 @@ Evidently, that wasn't the question she expected, because her anger subsided a l
 
 <bigbreak>
 
-The time machine room was huge. The walls and floors had been torn out across both basement levels to make room for the construction, leaving a two-story workspace broken up by bare steel columns and beams, and bare concrete underneath our feet. The only light came from a set of minimal, glaring work lights high above, casting all the machinery in bright highlights and sharp shadows. The whole place smelled like a machine shop; the sound of our footsteps was eerily absorbed by the huge airspace.
+The time machine room was huge. The walls and floors had been torn out to make room for the construction, leaving a two-story workspace broken up only by bare steel columns and beams, with bare concrete underneath our feet. The only light came from a set of minimal, glaring work lights high above, casting all the machinery in bright highlights and sharp shadows. The whole place smelled like a machine shop; the sound of our footsteps was eerily absorbed by the huge airspace.
 
 And in the center, on a pedestal of its own… the time machine itself.
 
-We had already seen it in our future selves' instructional video, so its appearance wasn't surprising. But it was one thing to see it on camera, from a distance – and quite another to experience it in person. Its central structure was an 8 foot tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here, bulky steel plates sticking out of the surface where the join-lines were. Electrical cords snaked up and down the egg on all sides, mismatched orange and white, powering components whose purpose I couldn't begin to guess at.
+We had already seen it in our future selves' instructional video, so its appearance wasn't surprising. But it was one thing to see it on camera, from a distance – and quite another to experience it in person. Its central structure was an 8-foot-tall, gleaming egg of steel, towering above us. It had clearly been built in several pieces, and then bolted together here; bulky steel plates stuck out of the surface where the join-lines were. Electrical cords snaked up and down the egg on all sides, mismatched orange and white, powering components whose purpose I couldn't begin to guess.
 
 It was just sitting there, deceptively inactive. Given what it could do, I would have expected it to look like something from a sci-fi movie, all glowing panels and holograms – not like a bulky antique from the Industrial Revolution. But maybe I <em>should</em> have been more scared by something from the Industrial Revolution. A new invention, nowhere near perfected, but already able to radically alter the world as we knew it… and maybe not for the better. Even the Marvin from the video, sobbing in terror of what would happen to him, hadn't begun to understand the danger we were in.
+
+[This isn't polished enough:]
 
 But we didn't have time to think about that. Our job was to operate this thing.
 
