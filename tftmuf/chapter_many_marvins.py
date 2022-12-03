@@ -6,6 +6,23 @@ You see, <em>I</em> wasn't the Marvin who had to build the initial duplication d
 
 As best I understand it, [Marvin Alpha had a terrible time/as soon as the adrenaline ran out, he had a mental breakdown/he couldn't concentrate on the engineering and locked himself in a room hiding for subjective days/Kayla Alpha had to yell at him to get back to work/he had a huge fight with Kayla where they both said hurtful things to each other, which he later deleted the recording of because he didn't want the rest of Marvins to be tempted to listen to it.] By the time he picked me up, he was barely holding it together. And he never wanted to be duplicated himself. We only duplicated the Marvins who started out like me, [not having had the crash yet, so that it could be made easier for them].
 
+[Maybe here, or earlier, or later, the money thing:]
+
+Fortunately, we had lots of money.
+
+When you think about how to use time travel to make yourself rich, maybe the first thing you think of is guessing the winning lottery numbers. But Dr. Fuller hadn't done that, because he understood reputation management. He didn't want his name in the news as "the big lottery winner", to be followed around by scammers and charities, and distained by the genuinely wealthy. He wanted his every act to appear magnanimous rather than stingy – so he wanted complete control over how much of his infinite money to reveal, and when.
+
+So maybe the next thing you'd think of is playing the stock market. Each day, you check which stock price has increased the most; then you go back to the previous day, and buy as much of that stock as you can; then you wait one day again, and then sell it. Naïvely, in a couple of months, you could grow $1 into $1 billion. But if you did this, you would be noticed by people much more dangerous than the scammers and the charities. Hedge funds and government regulators would be very interested to know how you'd achieved it. Before long, everyone in the finance world would know you as the "miracle investor", and the instant you tried to buy anything, everyone else would start buying it as well, driving up the price before you could buy much of it for the original, cheaper price. Your profits would disappear; you'd make the market incredibly volatile; there'd be paradoxes all over the place.
+
+If you wanted to go unnoticed, you needed a different environment. An environment where you didn't have to trade under your real name, where the regulators wouldn't move fast enough to stop you – and where, when you tried to spend the millions of dollars you had pulled out of thin air, people wouldn't look too closely.
+
+You needed cryptocurrency.
+
+Dr. Fuller hadn't understood cryptocurrency himself – if he had, maybe he would have cheated at Bitcoin <em>mining</em>, instead of just trading. But the programmer he hired to hide his transactions, did understand it. At the time I took over, Dr. Fuller had nearly 100,000 anonymous accounts, across dozens of different cryptocurrencies. Each account had only done a few trades, for no more than $200,000 at a time – but in total, he was dealing in billions. Luckily for Dr. Fuller, the programmer was competent; even luckier, the programmer was only diverting around 10% of the ill-gotten profits into his own accounts, rather than stealing all of it at once.
+
+But anonymous accounts are double-edged sword. If the account said "this is Jason Fuller's money", and then Marvin Fitzroy tried to spend it, maybe it wouldn't work; maybe there'd be some kind of fraud detection. But when the account says "this money belongs to whoever knows the secret password", and Marvin Fitzroy knows the secret password, who's to say it's not Marvin Fitzroy's money?
+
+
 [Detailed narration of the initial duplication, with the "Kaylas arguing, Marvins hesitating" "this is painful to watch!" Thing]
 
 And then my story skips forward <em>again</em>.
@@ -36,7 +53,7 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 
 
-[debriefer warning Marvin about what could happen with Kaylas ("don't try to stop her from deleting herself"); video of "kayla going to delete herself"]
+[debriefer warning Marvin about what could happen with Kaylas ("don't try to stop her from deleting herself"); video of "kayla going to delete herself". "The others all know what they're doing but I've [gotten dislodged out of it] – I was with 4 others who had [gotten dislodged] and they got back on track but I didn't – There's plenty more of me, and they're better… my existence has neither intrinsic value (because I don't enjoy it) nor instrumental value (because the others are a better use of resources than I am), so why shouldn't I delete myself??" "What is the point, we might as well just walk up to Nochli"... You should get therapy, we've been doing it and it's helpful. No way, not worth it, therapists will just tell me to be less of who I am. Well I'm not going to give up, even if you delete yourself today I'm going to keep trying to convince you to get therapy so you don't have to in the future, is that okay with you? Of course it's okay, [the only scenario where would I agree to it is one where I actually concluded it was a good idea, so asking is never a violation]]
 
 [We call it "Kayla Management". Don't worry, Kayla knows that we call it that, she actually approves of it. She said it was a form of 'instrumentality' –]
 
@@ -46,7 +63,7 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 
 
-[You could technically try eating meat now because we're duplicating it, so it doesn't increase the amount of animals being mistreated? I mean, if you still think it's wrong, I respect your beliefs –/stop it! What if my beliefs are wrong, then you'd be respecting something that's wrong! You have to form your own opinion]
+[You could technically try eating meat now because we're duplicating it, so it doesn't increase the amount of animals being mistreated? I mean, if you still think it's wrong, I respect your beliefs –/stop it! What if my beliefs are wrong, then you'd be respecting something that's wrong! You have to form your own opinion. "But what if I disagree with you?" "Then you'll be wrong"]
 
 
 
