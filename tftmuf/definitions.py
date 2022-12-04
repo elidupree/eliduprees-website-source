@@ -10,6 +10,7 @@ fonts = [
     ["Gudea", "normal", "400", "gudea-v15-latin-regular"],
     ["Gudea", "normal", "700", "gudea-v15-latin-700"],
     ["Gudea", "italic", "400", "gudea-v15-latin-italic"],
+    ["Alfa Slab One", "normal", "700", "alfa-slab-one-v17-latin-regular"],
   ]
 
 def fonts_css(fonts_path, mode="web"):
@@ -37,10 +38,11 @@ div.blog_post h1 {
   padding-right: 0;
 }
 div.blog_post h2 {
+  font-family: 'Alfa Slab One', serif;
+  font-size: 160%;
   text-align: center;
   padding-left: 0;
   padding-right: 0;
-  font-weight: 800;
 }
 .story_content_warning_header {
   margin-top: 1.1em;
