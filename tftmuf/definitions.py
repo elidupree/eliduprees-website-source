@@ -11,6 +11,7 @@ fonts = [
     ["Gudea", "normal", "700", "gudea-v15-latin-700"],
     ["Gudea", "italic", "400", "gudea-v15-latin-italic"],
     ["Alfa Slab One", "normal", "700", "alfa-slab-one-v17-latin-regular"],
+    ["Lalezar", "normal", "700", "lalezar-v14-latin-regular"],
   ]
 
 def fonts_css(fonts_path, mode="web"):
