@@ -83,14 +83,14 @@ It was just sitting there, deceptively inactive. Given what it could do, I would
 
 But we didn't have time to think about that. Our role, for the moment, was to get in and out quickly. The procedure, summarized on the printout, was as follows:
 
-First, I had to proceed to the folding table beside the machine, and open the laptop there – the only 21st-century-looking thing in the whole room. This was the device that actually controlled the machine, by a series of thin, concerningly flimsy-looking signal wires. Once I started running the program, it would ask me for the necessary information.
+First, I had to approach the folding table beside the time machine, and open the laptop there. This device, the only 21st-century-looking thing in the whole room, was what actually controlled the time machine; a series of thin signal wires ran from the laptop to the egg, concerningly flimsy-looking for how important they were. <em>Be careful not to yank the wires,</em> said the printout. <em>Just run this program on the laptop, and answer the prompts:</em>
 
 <pre><code>$ full_process.py
 1. Enter mass:</code></pre>
 
-Second, we had to weigh ourselves. We would have to tell the laptop the exact amount of mass to send into the past. The notes weren't too specific about what would happen to that matter – our flesh – if the number was wrong.
+Second, we had to weigh ourselves. We would have to tell the laptop the exact amount of matter to send into the past. The notes weren't too specific about what would happen to that matter – our flesh – if the number was wrong.
 
-For this, there was another device, standing 10 feet away from the giant egg. It was a massive industrial scale – a metallic platform wide enough for both of us to stand on – with a label boasting that it could measure up to 500 kg, to a precision of a single gram. <em>Weigh yourselves on the scale, together,</em> said the printout. <em>It should be around 130 kg. If it's around 140 kg, get off and then weigh yourselves again. There's a glitch where it's sometimes off by 11.2 kg.</em>
+For this, there was another device, standing 10 feet away from the giant egg. It was a massive industrial scale – a metallic platform wide enough for both of us to stand on, with a label boasting that it could measure up to 500 kg, to a precision of a single gram. <em>Weigh yourselves on the scale, together,</em> said the printout. <em>It should be around 130 kg. If it's around 140 kg, get off and then weigh yourselves again. There's a glitch where it's sometimes off by 11.2 kg.</em>
 
 When <em>we</em> did this, it got the right answer the first time. Even so, Kayla glared at the scale. "How can it be accurate to the nearest gram if it's sometimes off by eleven kilograms?!"
 
