@@ -285,7 +285,7 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 <div class="yali-narration">
 
-Arinyo Seti is not one of the people who abused me. But I can never forgive her for what she did do.
+"Arinyo Seti is not one of the people who abused me. But I can never forgive her for what she did do.
 
 I will start at the beginning. My biological father died shortly before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 

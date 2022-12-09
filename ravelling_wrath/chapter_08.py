@@ -220,7 +220,7 @@ Alchemist smiled nervously.
 
 After a very awkward silence, Alchemist managed to psych themself up into saying something. "I – me? I can make potions?"
 
-"It is one of the abilities that the Alchemist can learn," said Yali. "Once you learn how to do it, you should be able to store parts of the Broken God's power in a physical medium, like a potion."
+"It is one of the abilities that the Alchemist can learn," said Yali. "Once you understand how to do it, you should be able to store parts of the Broken God's power in a physical medium, like a potion."
 
 "If I could, maybe, learn? To do that? If you could help me?"
 
@@ -230,7 +230,11 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
-"Yeah, but then we wouldn't get to set things on fire." I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright. "Haha, sorry about that!" I said. The logs weren't properly on fire yet, so I gave them another few fiery breaths until they caught. I was breathing fire more carefully this time, but Justicar still only dismissed her wall once the logs were burning steadily on their own.
+"Yeah, but then we wouldn't get to set things on fire."
+
+I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright.
+
+"Haha, sorry about that!" I said. Being more careful this time, I gave another few fiery breaths, until the logs were burning steadily on their own. Of course, Justicar didn't trust me to be careful – she only dismissed her wall once I was completely done.
 
 <print_only><img class="full-page" src="/media/ravelling-wrath/illustrations/8-right.png?rr" alt=""></print_only>
 "Now everyone sit around the fire!" I said. They all did, to varying degrees of reluctance. Yali and I sat on a camping mat, with Yali sleepily putting one arm around my shoulders. On the other side, Morrow and Alchemist were in a similar position. Alchemist initially seemed nervous about the fire, but once they relaxed and started warming themself, their face melted into a dreamy smile. It was really heartwarming.
@@ -305,7 +309,7 @@ Yali gently pulled my hand back down. "I can tell one," she said.
 
 <div class="yali-narration">
 
-This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
+"This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
 
 In the early days of the city, before the walls went up, there was a family who oversaw the eastern farmland. And in this family, there was a child. She was a quiet child, and while the other children ran in the fields and played games of knights and priests, she liked to sit by herself, digging in the dirt with sticks and burying acorns that she found lying on the ground.
 
