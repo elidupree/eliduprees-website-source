@@ -194,9 +194,13 @@ The Alchemist wobbled back and forth shyly.
 
 The Alchemist hesitated. "Well I, maybe, my name? There are, a few different things people call me. Maybe it wouldn't be so bad? To just be the Alchemist? Do some alchemizing?"
 
-"Alchemy," corrected Justicar. The Alchemist flinched.
+"Alchemy," corrected Justicar.
 
-"Technically," said Yali, "The Alchemist's ability to make potions <em>isn't</em> alchemy. It has more in common with sorcery."
+At her words, several things happened at once. The Alchemist flinched away, cutting off what they were about to say – they were obviously uncomfortable with how Justicar had spoken to them. And Morrow reacted too. I caught a moment of genuine anger on his face – my instincts told me he was itching to fight for Alchemist's sake. But at the same moment, Yali stepped forward, speaking directly to Justicar. "It's not alchemy either," she said, too loudly, drawing all attention to herself.
+
+"Explain," said Justicar. Her eyes flicked back and forth over the others, not quite understanding what Yali had just interrupted.
+
+"Even though the Alchemist may have the ability to make potions, it isn't technically alchemy. It has more in common with sorcery."
 
 "That is impossible," said Justicar. "The titles are given to us by the gods. They cannot be incorrect."
 
@@ -204,7 +208,7 @@ The Alchemist hesitated. "Well I, maybe, my name? There are, a few different thi
 
 "Oh my gods, you guys," I said.
 
-"Everybody shut UPPP!" yelled Morrow. "Alchemist has something to say!!"
+"Everybody shut UPPPPP!" yelled Morrow, back to his usual self. "Alchemist has something to say!!"
 
 Alchemist smiled nervously.
 
