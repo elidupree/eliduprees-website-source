@@ -309,7 +309,7 @@ Yali gently pulled my hand back down. "I can tell one," she said.
 
 <div class="yali-narration">
 
-"This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
+"This is a story that was first told to me by... my mother, when I was very small. It was told to her by her own mother, who first heard it in... a temple, told by a priest who read it from the archives, written by an unknown hand.
 
 In the early days of the city, before the walls went up, there was a family who oversaw the eastern farmland. And in this family, there was a child. She was a quiet child, and while the other children ran in the fields and played games of knights and priests, she liked to sit by herself, digging in the dirt with sticks and burying acorns that she found lying on the ground.
 

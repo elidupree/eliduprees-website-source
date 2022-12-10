@@ -97,7 +97,7 @@ And if I was hoping to use that as my strategy, my hopes were quickly dashed. If
 
 At least this kind of nonsense still had clear rules. It wasn't so different from Stern law, full of impossible situations created by historical compromises, from which it was my job to find ways out.
 
-<p>– No, not <em>nonsense</em>. I couldn't let Brannet's opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet… I needed the full picture first.</p>
+<p>– No, not <em>nonsense</em>. I couldn't let Brannet's opinions get into my head. If this was about Blood, <em>I</em> had to find the <em>good</em> in it. Could I see the good in this? Not yet... I needed the full picture first.</p>
 
 Once there was a violation of blood, you had to decide which of the four <em>types</em> of violation it was: <em>shasset</em>, <em>dechiokhari</em>, <em>chet</em>, or <em>lowari</em>.
 
@@ -111,7 +111,7 @@ Third was <em>chet</em>, a crime of passion. If an argument between peers turned
 
 I felt myself getting tense. The <em>Dalners</em> had been irrationally angry. The <em>Dalners</em> had given in to selfish temptations when they abused me for six years. And the Blood Temple would be lenient with such things? I needed to find ways to <em>agree</em> with the Blood Temple, but I couldn't agree with this at all! The temples were supposed to protect people, and how could you protect anyone if you wouldn't even punish people who were seriously harming others? It was all I could do to stay focused on my task, and not give in to resenting Blood again, right there and then. But this was no time for me get distracted from what I had to learn.
 
-The final type of violation… was <em>lowari</em>.
+The final type of violation... was <em>lowari</em>.
 
 Blood law defined <em>lowari</em> as violations that <em>put one person above another</em>. The archetypal example was forcing someone to be obedient to you, or abusing a position of authority to take advantage of someone. But it also covered small things, like publicly showing contempt for someone else's accent. Assaulting someone for your own <em>amusement</em> was generally <em>lowari</em>, because it made someone's figurative blood subordinate to your whims, but assaulting someone out of irrational anger was still only <em>chet</em> – unless you were in a position of power over them, in which case it was <em>lowari</em> again. The most consistent thing the Book said was that rape was always <em>lowari</em> – even in the context of marriage, because intimate relationships were sacred to the Blood God, so coercion within a relationship was like desecrating a temple.
 
@@ -123,7 +123,7 @@ Brannet had told himself not to spend time studying the Blood Temple's <em>metho
 
 When the Stern Temple had punished the Dalners, I had never actually seen it with my own eyes. What would have happened, I wondered, if it had been the Blood Temple instead? I imagined Blood Temple warriors holding the Dalners in front of me, helpless and humiliated, at the mercy of <em>my</em> revenge. Then I could have made them suffer how I had suffered. How I had made Morrow suffer. I had <em>enjoyed</em> breaking his fingers. I had looked into his eyes and exulted in the pain I was causing, in knowing that I finally, <em>finally</em> had power over someone who had wronged me. And how much more might I have enjoyed it, if it had been my own abusers under my heel? I would have broken every bone in their bodies. I would have made them live the rest of their lives knowing that every time they moved a muscle, it might bring them pain from the memory of what I had done to them. Just as they had done to me.
 
-Was this how the Blood God felt about the Waiting God…?
+Was this how the Blood God felt about the Waiting God...?
 
 But the <em>Blood God's</em> revenge had tried to kill <em>me!</em> It wasn't innocent, it had kept fighting even when that meant killing humans who shouldn't have been involved! That was –
 
@@ -190,7 +190,7 @@ I could return to Brannet later, with a fresh mind. For now, it was time to lear
 
 <bigbreak>
 
-Ah… the Blood Temple…
+Ah... the Blood Temple...
 
 Whenever the kids started asking me for tales of the Blood Temple, it took me back to a happier time. Nowadays, apparently, I was "the cool substitute teacher", but it made me sad when they called me that. I <em>would</em> have been happy if I had earned that title with my stories of the old Blood Temple. Happier still if I had earned it when I patiently listened to <em>their</em> stories of their lives. But the truth was much less heartening. In all their other classes, these kids were being told to keep their heads down and study. All I had to do to be "cool" was to give them a break from that. A chance to relax and move their bodies.
 
@@ -200,7 +200,7 @@ The Stern were always telling us that things were better than ever, because of a
 
 I paused. <em>This</em> memory was wistful, but I could feel dozens of others behind it. Feelings of stress and struggle rose into my mind. Among the factory workers were Hiram's own friends and family. I remembered watching a cousin come home exhausted from a long day of work, yell at his wife, and collapse into bed with no time to cool off. I remembered long nights of comforting a friend, a friend who wanted to give up on life after an illness cost him all of his savings, which he had barely scraped together over years of labor.
 
-Instinctively, I found myself reaching for the Stern. <em>You can't give up! You have to keep working, you have to finish what you started or you'll lose everything!</em> I had to remind myself that these were only memories. But even then… for Hiram, there was no end in sight. These people <em>had</em> kept working, and they were <em>still</em> losing everything. What kind of world was this? It was against everything from the Waiting culture where I'd grown up. When you worked hard, you were supposed to <em>achieve</em> something! Hiram had made peace with these memories, but the sense of peace just made them more unsettling. And it was always me – Hiram – who had to mend feelings, to be the voice of stability.
+Instinctively, I found myself reaching for the Stern. <em>You can't give up! You have to keep working, you have to finish what you started or you'll lose everything!</em> I had to remind myself that these were only memories. But even then... for Hiram, there was no end in sight. These people <em>had</em> kept working, and they were <em>still</em> losing everything. What kind of world was this? It was against everything from the Waiting culture where I'd grown up. When you worked hard, you were supposed to <em>achieve</em> something! Hiram had made peace with these memories, but the sense of peace just made them more unsettling. And it was always me – Hiram – who had to mend feelings, to be the voice of stability.
 
 Just as I – <em>Yali</em> – had needed to be the voice of stability for Rinn. After I was forced into it by the Waiting God.
 
@@ -230,7 +230,7 @@ It was a time of peace, a slow autumn when the days were warm and the temple wel
 
 I was no priest, but I still looked forward to any time I could read the words aloud, lovingly thumbing through the worn pages of my old copy. The Book of Blood was the only holy book that published new versions on a yearly basis, to reflect the living truth of the people's will. But for me, I always kept the copy that my grandfather had read to me as I sat on his knee.
 
-"Each one of you has a fire inside you," I would always read. "A fire of your pride… A fire of your strength… A fire that is always burning. Always be sure to feed that fire, to grow strong in a way that is all your own. And be sure to feed the fires of those around you, because what makes any of us strong, makes all of us strong. No person is above or below any other." On the best days, there was time for everyone to listen together, from the smallest children to the most wizened elders, because everyone needed the words in their own way.
+"Each one of you has a fire inside you," I would always read. "A fire of your pride... A fire of your strength... A fire that is always burning. Always be sure to feed that fire, to grow strong in a way that is all your own. And be sure to feed the fires of those around you, because what makes any of us strong, makes all of us strong. No person is above or below any other." On the best days, there was time for everyone to listen together, from the smallest children to the most wizened elders, because everyone needed the words in their own way.
 
 <em>Okay, that all sounds nice,</em> I thought, as Yali. <em>But what did we actually <strong>do</strong>?</em>
 
@@ -276,7 +276,7 @@ Rohin, the old priest, briefly looked away from a heated conversation with a Ste
 
 Everyone understood that Rohin was in charge around here. That wasn't how the Blood Temple was <em>supposed</em> to work – tradition said that Blood priests should only offer education and advice, and let the listeners make their own decisions. But Rohin had a way of giving advice that didn't really give you a choice. He would just keep saying "Ah, but perhaps you haven't considered –" until you gave in. In theory, the Blood Temple had rules that could stop this kind of thing. If someone raised the issue before the Circle of Elders, the elders would investigate, and they would certainly find that he had too much power to be an ordinary priest. Then he would either be exiled or promoted to a Speaker. Since he was widely respected, he would probably be made a Speaker, which meant he <em>would</em> have official authority, but would have to wear the mask all the time and wouldn't be allowed to give himself an identity separate from the other Speakers. But in practice, none of that would happen – Rohin was likable enough, and no one was angry enough to get the Circle involved, and Rohin was smart enough not to do anything that would change that. Only Civeah still bothered to argue with him, and she usually ended up doing what he said anyway.
 
-Interesting… after the way Rinn had talked, I had almost been expecting Blood priests to be like something from a legend. But of course, they had really been just a normal role in society. And since Hiram had formed this memory while he was still alive, that meant he was willing to see the Temple's imperfections after all…
+Interesting... after the way Rinn had talked, I had almost been expecting Blood priests to be like something from a legend. But of course, they had really been just a normal role in society. And since Hiram had formed this memory while he was still alive, that meant he was willing to see the Temple's imperfections after all...
 
 Holding his hood open with his hand, Rohin said, "I think, perhaps, we can? We can't send the food onwards, but our own larder is nearly emptied." And it was still stocked with ice, praise the Waiting, not needing electricity to stay cold. "It is, perhaps, the way the least would go to waste –"
 
@@ -296,15 +296,15 @@ While I was hurriedly organizing everyone's items onto the shelves, I heard Jae-
 
 Sometimes, kids could be such a headache. If Jae-nyu kept working when she was this tired, she was going to hurt herself again. But that was her pride, and it was better to let her get hurt than to ask her to give up her pride. Eventually, she would learn her limits, and until then, it was my job to support her as best I could. "I know you can be strong," I said. "Keep being strong, but remember to be careful –"
 
-Hearing Hiram talk to the child like that… I could feel a bitter anger rising inside me. He actually <em>respected</em> her! I couldn't count how many times some useless adult had refused to believe what I was capable of. Had acted like they could keep me safe, when I actually had to do it all for myself. But Hiram <em>knew</em>.
+Hearing Hiram talk to the child like that... I could feel a bitter anger rising inside me. He actually <em>respected</em> her! I couldn't count how many times some useless adult had refused to believe what I was capable of. Had acted like they could keep me safe, when I actually had to do it all for myself. But Hiram <em>knew</em>.
 
 "Hiram, there you are! We could really use an extra body over here –"
 
 I looked up. Civeah and the others were straining to lift a pallet of portable generators out of a truck. They really did need help. Reluctantly, I started to stand. I patted Jae-nyu on the shoulder. "I'm sorry, but it looks like I'm needed. Jae, if you're okay to keep working, I'm appointing you as guardian of this broken glass. Don't touch it, but make sure nobody steps on it until someone can help you clean it up."
 
-Jae-nyu nodded resolutely. I stood and hurried towards the others, fighting the feeling that I was leaving something unfinished. An emergency was a difficult time. If only we lived in a world where there was always enough time to take care of everyone who was hurt. It had almost seemed like we did, back in that one autumn, when I had been able to spend a whole night to take care of…
+Jae-nyu nodded resolutely. I stood and hurried towards the others, fighting the feeling that I was leaving something unfinished. An emergency was a difficult time. If only we lived in a world where there was always enough time to take care of everyone who was hurt. It had almost seemed like we did, back in that one autumn, when I had been able to spend a whole night to take care of...
 
-That was… The same memory of the sick boy from earlier. As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. Hiram actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when Hiram might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But Hiram felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
+That was... The same memory of the sick boy from earlier. As Yali, something was bothering me. This wasn't <em>just</em> a fond memory of old times. Hiram actually felt like he had accomplished something then, and he was frustrated that it wouldn't get done now. But what was he thinking of? Staying up with the boy all night didn't solve anything! What about the next time the boy was sick, when Hiram might not be there? Someday, the boy would have to learn how to handle it on his own, and until then, this was just delaying the inevitable. But Hiram felt like this was a beautiful success, a <em>holy</em> thing. What was so successful about it? I couldn't tell. This was frustrating. It was even worse than when I was trying to understand the Waiting God – with the god, I could at least <em>ask</em> what it thought about something, and then I could form new god-thoughts to get my answer. But with the memories, I just had to hope there was already a memory that explained it.
 
 There might be some way I could figure it out, but I wasn't getting anywhere right now. I thought back to the hurricane.
 
@@ -312,7 +312,7 @@ There might be some way I could figure it out, but I wasn't getting anywhere rig
 
 The first memory that came up was the beginning again, the big meeting where they were arguing about where to send help first. I was about to skip forward to a different memory when I noticed an old man who looked oddly familiar. Not familiar to Hiram, but to me, Yali.
 
-But how could someone from eighty years ago look familiar? Unless – wait! It was familiar from the <em>Waiting God's</em> past, not mine. The man was dressed the same way as that group I had seen negotiating with the businesspeople. Who were they? Hiram's memory thought of them as important people who deserved a lot of respect… people you'd see working with the Blood Temple, but not exactly Blood Temple leaders, either. I thought back, trying to find other memories of them.
+But how could someone from eighty years ago look familiar? Unless – wait! It was familiar from the <em>Waiting God's</em> past, not mine. The man was dressed the same way as that group I had seen negotiating with the businesspeople. Who were they? Hiram's memory thought of them as important people who deserved a lot of respect... people you'd see working with the Blood Temple, but not exactly Blood Temple leaders, either. I thought back, trying to find other memories of them.
 
 It was a long time before, when I was just a few years out of school, the year my grandfather passed. I hadn't gotten used to my role at the Blood Temple yet, and I was nervous around all the important priests and community leaders who came by. That was how I met her – I was moving a cart of firewood down the hallway, to restock the beacon fires on the temple towers, when a proud, dignified old woman approached from the other direction. I hurried to move my cart to the wall so she would have plenty of room to pass.
 
@@ -330,23 +330,23 @@ But in the coming months, she made a point of noticing me, pausing on her way to
 
 "I don't understand," I said. "If they laugh at you in your own home, how do they expect to make you agree to anything?"
 
-"They have nothing new to offer. But they are <em>persistent</em>…" she scoffed. "They want us to think of how wonderful it would be that they will bring jobs, that they will hire Sarsonhillers. So their offer is that we will do the work for them, then they will own the result? What rubbish! But some of the weaker wits on my council are halfway persuaded by it. Young man, I fear for my grandchildren's generation… Just this morning little Surei asked me, 'why can't we have good radio like the upper rings?' Where did she even hear that the upper rings have good radio? I would hardly call it <em>good</em>, I have heard their programs, they are full of liars trying to sell you things you don't need. I told her, we <em>could</em> have good radio, but those greedy men will not let us have it unless they can use it to control us. We are a proud neighborhood, we will not be turned into working dogs for some distant company!"
+"They have nothing new to offer. But they are <em>persistent</em>..." she scoffed. "They want us to think of how wonderful it would be that they will bring jobs, that they will hire Sarsonhillers. So their offer is that we will do the work for them, then they will own the result? What rubbish! But some of the weaker wits on my council are halfway persuaded by it. Young man, I fear for my grandchildren's generation... Just this morning little Surei asked me, 'why can't we have good radio like the upper rings?' Where did she even hear that the upper rings have good radio? I would hardly call it <em>good</em>, I have heard their programs, they are full of liars trying to sell you things you don't need. I told her, we <em>could</em> have good radio, but those greedy men will not let us have it unless they can use it to control us. We are a proud neighborhood, we will not be turned into working dogs for some distant company!"
 
 "Surely the Blood Temple would put a stop to that!"
 
-"The Blood Temple is not what it used to be, young man. The Circle have made one too many treaties for my liking, and now they are too wrapped up in their politics to see how the world is changing around them. When I was your age, they would have come down hard on something like this, but too many things have changed…" She shook her head. "No, don't let me demoralize you. Maybe the Blood Temple isn't what it used to be, but you are part of its next generation. You can make it whole again."
+"The Blood Temple is not what it used to be, young man. The Circle have made one too many treaties for my liking, and now they are too wrapped up in their politics to see how the world is changing around them. When I was your age, they would have come down hard on something like this, but too many things have changed..." She shook her head. "No, don't let me demoralize you. Maybe the Blood Temple isn't what it used to be, but you are part of its next generation. You can make it whole again."
 
-"Me? I'm just a caretaker…"
+"Me? I'm just a caretaker..."
 
 She fixed me with a steely glare. "Caretakers are the beating heart of the city, and don't you forget it!"
 
-Hiram felt encouraged when he heard that. As Yali, it was bittersweet. Unfortunately, the Blood Temple had fallen before Hiram had been able to live a full life as part of it… Unfortunately? When had I started unconsciously taking the side of the Blood Temple? True, that was what I <em>wanted</em> to happen, but I had been expecting to make a conscious choice. Not to just have it… sneak in, without my permission.
+Hiram felt encouraged when he heard that. As Yali, it was bittersweet. Unfortunately, the Blood Temple had fallen before Hiram had been able to live a full life as part of it... Unfortunately? When had I started unconsciously taking the side of the Blood Temple? True, that was what I <em>wanted</em> to happen, but I had been expecting to make a conscious choice. Not to just have it... sneak in, without my permission.
 
-So <em>this</em> was what I had seen in the Waiting God's memory. In the vastness of the god, there must have been thousands of meetings like that one. Thousands of meetings where… where companies from the upper rings had tried to bring their idea of progress to the Fifth Ring. "Progress" that the Blood God and its people had resisted – and now I understood why. Because this "progress" was a form of control. Because they knew how it would end, as I had seen it end, in Hiram's old age, with the Fifth Ring's people turned into factory workers, never seeing the rewards of their labor.
+So <em>this</em> was what I had seen in the Waiting God's memory. In the vastness of the god, there must have been thousands of meetings like that one. Thousands of meetings where... where companies from the upper rings had tried to bring their idea of progress to the Fifth Ring. "Progress" that the Blood God and its people had resisted – and now I understood why. Because this "progress" was a form of control. Because they knew how it would end, as I had seen it end, in Hiram's old age, with the Fifth Ring's people turned into factory workers, never seeing the rewards of their labor.
 
 Progress that the Waiting God had seen as a stepping stone along the path to achieve true order.
 
-To <em>contribute to the order of the city</em>…
+To <em>contribute to the order of the city</em>...
 
 It was connected. The process had already begun in Hiram's youth, and it was the same process that, decades later, steered Garthold Brannet into his ill-fated court case.
 
@@ -386,7 +386,7 @@ But the reorganization had involved people from four different departments acros
 
 "Fool!" the Speaker shrieked –
 
-<p>– no, this memory felt distorted. Earlier, he had seen the Speaker as an authority figure. Now, she felt like an unreasonable person, irrational and shrieking. Why? It had changed when… when Brannet learned she was a <em>woman</em>. Now it made sense. I'd seen the same thing from a few of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently, not the way it would be for me, or Hiram, or most of the other Farseers.
+<p>– no, this memory felt distorted. Earlier, he had seen the Speaker as an authority figure. Now, she felt like an unreasonable person, irrational and shrieking. Why? It had changed when... when Brannet learned she was a <em>woman</em>. Now it made sense. I'd seen the same thing from a few of the other male Farseers. Whenever a woman was criticizing him, even the physical sound of her voice was recorded differently, not the way it would be for me, or Hiram, or most of the other Farseers.
 
 Mentally, I tried to correct it.
 
@@ -394,7 +394,7 @@ Mentally, I tried to correct it.
 
 I tried to think. The Speaker's words felt unreasonable, but only because I was inside Brannet's memories. Of course, she was right, Brannet didn't care about Tanmei Luef at all. I had to think about this as Yali. And as Yali –
 
-<p>– as Yali, I had been wrong all along. I had thought the courtroom details wouldn't matter, because I had assumed they would just be about the guilt or innocence of the random shoplifters. But now… Blood court went beyond that. The Speaker had pointed straight past Brannet's manipulations. The Blood Temple had a <em>system</em> for how society was supposed to care for its people, and when that system wasn't upheld… "The Blood God doesn't forget where the real fault is just because you point fingers!" was what Rinn had said. The guilty party was the Hatheraw & Green hierarchy itself.</p>
+<p>– as Yali, I had been wrong all along. I had thought the courtroom details wouldn't matter, because I had assumed they would just be about the guilt or innocence of the random shoplifters. But now... Blood court went beyond that. The Speaker had pointed straight past Brannet's manipulations. The Blood Temple had a <em>system</em> for how society was supposed to care for its people, and when that system wasn't upheld... "The Blood God doesn't forget where the real fault is just because you point fingers!" was what Rinn had said. The guilty party was the Hatheraw & Green hierarchy itself.</p>
 
 "Hatheraw & Green most certainly won't be complying with such a demand!" I said quickly. "We are established within the jurisdiction of the Stern Temple, and the Blood Temple has no authority to –"
 
@@ -406,7 +406,7 @@ I skipped forward.
 
 I never liked to think back to the time right after the hearing. When Mr. Tully fired me, he scheduled a full hour just to yell at me for bringing the Blood Temple's attention against us. Did he ever apologize for ordering me to do it in the first place? Did I ever get an apology from Hatheraw & Green after the repercussions ultimately ended in their favor? Of course not.
 
-But I did watch the news like a hawk. I had expected the case to fade into obscurity after Hatheraw & Green rejected the Blood Temple's demands… but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from Hatheraw & Green executives, but they did have authority over the Fifth Ring, where Hatheraw & Green had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> Hatheraw & Green from the Fifth Ring and seized the two storefronts. Hatheraw & Green appealed to the Stern to protect their assets. And that was where things got complicated.
+But I did watch the news like a hawk. I had expected the case to fade into obscurity after Hatheraw & Green rejected the Blood Temple's demands... but only the Waiting knows the end. The Blood Temple had no authority to compel testimony from Hatheraw & Green executives, but they did have authority over the Fifth Ring, where Hatheraw & Green had two storefronts. And they must have been waiting for an excuse to act, because they <em>banned</em> Hatheraw & Green from the Fifth Ring and seized the two storefronts. Hatheraw & Green appealed to the Stern to protect their assets. And that was where things got complicated.
 
 Back then, it was unprecedented for the Stern police to enter the Fifth Ring. But the Trade Unification Treaty had changed things, allowing corporations do business on both sides of the wall. No doubt, when the Blood Temple signed the treaty, none of them believed they were giving permission for Stern forces to enter their territory. But in a beautiful legal argument – no, not "beautiful", that was just Brannet's bias – the Stern Temple stated that the Blood Temple's seizure of Hatheraw & Green assets was a <em>violation</em> of the Trade Unification Treaty, and claimed the right to a "minimal enforcement action" to protect the assets.
 
@@ -430,7 +430,7 @@ It was hardly a grand design. Like so many things, it was a messy sequence of ev
 
 How disorganized I was being, to protest against something that was unavoidable.
 
-We went back and forth like this for a few minutes. The Waiting God's thoughts felt so true, it was hard to make them doubtful. Even if I had learned to view the Blood Temple as <em>good</em>… a good thing could still be sacrificed, if it would obtain something greater. I needed the final piece of the puzzle – I needed to see Blood as not just <em>good</em>, but <em>irreplaceable</em>.
+We went back and forth like this for a few minutes. The Waiting God's thoughts felt so true, it was hard to make them doubtful. Even if I had learned to view the Blood Temple as <em>good</em>... a good thing could still be sacrificed, if it would obtain something greater. I needed the final piece of the puzzle – I needed to see Blood as not just <em>good</em>, but <em>irreplaceable</em>.
 
 The memories were harder to reach this time, but the Waiting God wasn't fully present yet. And now that I had seen so many of them, I knew where to look. I would still be able to view them for a while longer.
 
@@ -442,7 +442,7 @@ I would like to think that I never truly left the Blood Temple. All of my social
 
 When the Stern captured our high priest, everyone disagreed on who should take over for her. It shouldn't have mattered, because the role of high priest was a formality – no individual person can have too much power. But even in the Blood Temple, people had a weakness for hero-worship. Worse, the Stern Temple insisted on acknowledging our Acting High Priest, even after the Circle appointed another to replace him. It should have been obvious that the Stern were trying to pit us against each other. But there were fights. Friends accused friends of betrayal. I did what I could to mend feelings, but the temple I had loved was falling apart.
 
-Again, Hiram was only sad, when my own response would have been more vindictive. One "betrayer" was a close friend of his, a disabled woman he'd helped with housework in his official role as caretaker. Without the Temple's support, she'd had to reenter the workforce to support herself, working for one of the new companies who'd moved in. And his other friends had called her a traitor for doing it… until they, too, saw their old jobs disappear from around them. Midwives and even cooks saw their traditional practices banned under the new Stern laws. The Stern were slowly dismantling what had come before them, until the Fifth Ring's people had no choice but to fit themselves into the Stern system, laboring their lives away for the new order. These people were being sacrificed for the Waiting God's plan. Just as it had tried to sacrifice me.
+Again, Hiram was only sad, when my own response would have been more vindictive. One "betrayer" was a close friend of his, a disabled woman he'd helped with housework in his official role as caretaker. Without the Temple's support, she'd had to reenter the workforce to support herself, working for one of the new companies who'd moved in. And his other friends had called her a traitor for doing it... until they, too, saw their old jobs disappear from around them. Midwives and even cooks saw their traditional practices banned under the new Stern laws. The Stern were slowly dismantling what had come before them, until the Fifth Ring's people had no choice but to fit themselves into the Stern system, laboring their lives away for the new order. These people were being sacrificed for the Waiting God's plan. Just as it had tried to sacrifice me.
 
 As Hiram, in the end, I was tired. Too many of my friends had died in the fighting, and too many more had been carried away to the Stern prison when they tried to protest against the new laws. I understood what drove them, but it was not a place I could follow. I had never had the Stern instinct, the instinct to sacrifice everything rather than compromise my principles. Something good had been lost forever, but there had always been loss, and there was no sense in fighting for something that was already gone. My one small rebellion was to keep my Book of Blood when the Stern burned all the copies, hiding it under a floorboard and lying to the Stern when they came to take them. Other than that, I adapted. I found small ways to keep the tradition of caretaking alive in the new order.
 
@@ -450,7 +450,7 @@ That was what the Blood Temple had always been about. It was never about all thi
 
 There was the memory of the sick boy again. The same fond memory of staying up all night just to comfort him.
 
-Why? Why did Hiram keep coming back to that memory, even when he was thinking about these bigger injustices? By now, I had seen him being both thoughtful and pragmatic. He liked feel-good things, but not enough to cloud his judgment. Was <em>I</em> the one who was missing something important? It was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would be a good formative experience for the boy. But to me… how could I make sense of it?
+Why? Why did Hiram keep coming back to that memory, even when he was thinking about these bigger injustices? By now, I had seen him being both thoughtful and pragmatic. He liked feel-good things, but not enough to cloud his judgment. Was <em>I</em> the one who was missing something important? It was unsettling. To <em>him</em>, it was so <em>obvious</em> why this would be a good formative experience for the boy. But to me... how could I make sense of it?
 
 I hunted through the memories, ruthlessly skipping back and forth, searching for an explanation. Memories of him watching over the children, breaking up fights and explaining the value of respect for each other – no, not quite the same thing. Memories of him making the rounds in the community, telling new neighbors about the Temple's services – no, too practical. When did he ever think about his reasons? How could he just keep going all the time?
 
@@ -464,7 +464,7 @@ Already knowing how she would answer, I began, "You should take some time for yo
 
 "Fffuck that," she said, as always. "Just, how do you put up with it? You perfect, you perfect, ahhh –"
 
-I knew she wouldn't remember in the morning, but I did my best. "You fixed something much bigger than a doll," I said. "The children rely on us. And every time they see us being there to support them, they're learning something bigger. They're learning that there is someone they can always rely on. That's the real magic of what we do. We're teaching them that this is a world where people can rely on each other. Where we care about each other. And maybe when they're older, when someone else is relying on <em>them</em>, they'll remember, and they'll know what they need to do…" I leaned against a wall, trying not to look at the harsh electric lights. "Ah, I'm sounding like my grandpa, bless his drifting soul…"
+I knew she wouldn't remember in the morning, but I did my best. "You fixed something much bigger than a doll," I said. "The children rely on us. And every time they see us being there to support them, they're learning something bigger. They're learning that there is someone they can always rely on. That's the real magic of what we do. We're teaching them that this is a world where people can rely on each other. Where we care about each other. And maybe when they're older, when someone else is relying on <em>them</em>, they'll remember, and they'll know what they need to do..." I leaned against a wall, trying not to look at the harsh electric lights. "Ah, I'm sounding like my grandpa, bless his drifting soul..."
 
 I pulled out of the memory, a sense of disappointment filling me. This was his reason? It wasn't a reason I could accept. In this world, you couldn't rely on anyone. You had to know how to take care of your own needs. I could feel an emptiness inside me, the sickness, the guilt, of every time I had been been hurt because I carelessly expected someone to get something done without me checking it. Every time I had hesitated because some useless adult had told me things would be taken care of. Teaching kids that they could rely on anyone was just going to get them hurt! They would blunder into danger again and again until they were burned enough times to stop trusting anyone else with their safety! And if the Blood God thought this was holy, the Blood God was letting it happen! It would be responsible for their suffering, for <em>my</em> suffering! I could feel anger building inside me, anger at this man who would try to soothe away the core of what made me strong, what made me <em>Yali Seti</em>. I could just imagine him softly telling me it was okay to let down my guard. I could never let down my guard! If I did, I would be weak and helpless and pathetic, I would be back with the Dalners, I would be sick and no one would take care of me, I wouldn't get up in the morning. How could this be <em>holy</em>?! How dare the Blood God try to soothe me! How dare it tell me that all my work was meaningless, that everything I had done to protect myself was meaningless?!
 
@@ -530,27 +530,27 @@ Civeah and the woman both started shouting. I stayed at Svet's side, whispering 
 
 Rohin and I exchanged a glance. We had all been in the middle of working when this had begun, but we would need to stay interrupted a little longer. The children were clustered together, waiting for us to speak – some upset, some not understanding what had happened. Quickly, we reassured them that they were safe, and that the mess they'd been cleaning up could wait until another time. In his most serious voice, Rohin explained how there are some people who believe that children are the property of their parents, but here, we believe that every child is their own person, with their own fire that cannot be suppressed by anyone. I held Svet gently while Rohin led us all in the Prayer to Recover Strength. Like many times before, the words washed over me:
 
-"…and though I have been shaken,
+"...and though I have been shaken,
 
 "And though storm and tide have tried to drown my flame,
 
-"I know that my body is a place of power…"
+"I know that my body is a place of power..."
 
 <bigbreak>
 
 It was impossible. It was too convenient. Was I supposed to believe that I could have just walked into the Blood Temple and they would have protected me from the Dalners? That they would have fed me, taken care of me, no questions asked? Without needing proof, without me having to record everything to be taken seriously? It couldn't be real. That just wasn't how the world worked. People might like to think of themselves as good, but as soon as it was difficult, their true natures would show themselves. I couldn't forget how my mother had abandoned me to suffer. I couldn't forget Morrow's memories of stranger after stranger closing their doors to him. No one would fight for you unless there was something forcing them to.
 
-But I couldn't deny what I had seen in Hiram's memories. If I had been there… there was nothing that made me different from Svet. The caretakers would have protected me, without demanding anything in return. And even before that… it hurt to imagine it, but when I had lived with my mother, I could imagine them visiting us on their rounds, helping to carry away the trash that lined the halls, making sure there was always food ready for us to eat.
+But I couldn't deny what I had seen in Hiram's memories. If I had been there... there was nothing that made me different from Svet. The caretakers would have protected me, without demanding anything in return. And even before that... it hurt to imagine it, but when I had lived with my mother, I could imagine them visiting us on their rounds, helping to carry away the trash that lined the halls, making sure there was always food ready for us to eat.
 
-I had thought it wasn't how the world worked, but maybe… maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood God</em>.
+I had thought it wasn't how the world worked, but maybe... maybe it only wasn't how the world worked <em>now</em>. How the world worked <em>without the Blood God</em>.
 
-My teeth chattered. I felt dizzy and sick. Everything I had done… Every time I had checked and double-checked so I wouldn't miss what my mother had forgotten, every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself… It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
+My teeth chattered. I felt dizzy and sick. Everything I had done... Every time I had checked and double-checked so I wouldn't miss what my mother had forgotten, every time I had forced myself to stay quiet when I wanted to scream, every time I had stayed awake late into the night planning out how to protect myself... It WOULD all have been meaningless. It SHOULD all have been meaningless. I should never have had to do any of it. I should have gotten to live in a world where I didn't have to work harder than everyone else just to live in safety. A world where I could be weak and helpless, where I could <em>afford</em> to be weak and helpless, because there would be someone there to protect me, to take care of me, no matter how many times I messed up.
 
 I wanted to scream. Without thinking, I forced myself to stay quiet. But then I remembered. I shoved past my barrier and screamed, my voice filling my throat with pain, my breath coming back in quick gasps. I screamed again and again, bracing myself against the chair, tears slopping unwanted into my lap. It was worse than anything from before. It was a pain too intense to bear, a pain I had thought I'd grown numb to long ago, suddenly ripped open and made fresh again. There was no escape. The pain was inside of me. I couldn't make it go away. I didn't even <em>want</em> it to go away. This pain meant something. I knew it in the core of my being. This pain was my connection to everything I had lost, to every part of me that I had locked away so that I could carry on.
 
 To the part of me that was the most Blood.
 
-And then I knew. Screaming and crying, I knew. This was it. This was the reason I had been looking for. The reason that no part of me could ever give up the Blood God. Even the most Waiting part of me, the part that would choke away all my weaknesses to carry me through to the next day, knew it was true. Even with everything I had sacrificed to stay alive, staying alive had never been the only part of my plan. I had planned to stay alive… <em>and then be happy</em>.
+And then I knew. Screaming and crying, I knew. This was it. This was the reason I had been looking for. The reason that no part of me could ever give up the Blood God. Even the most Waiting part of me, the part that would choke away all my weaknesses to carry me through to the next day, knew it was true. Even with everything I had sacrificed to stay alive, staying alive had never been the only part of my plan. I had planned to stay alive... <em>and then be happy</em>.
 
 It all felt so clear now. So this would be my final plan: to make a world where it was safe to let down my guard.
 
@@ -596,7 +596,7 @@ And before I knew it, I was near the peak.
 
 Before I got too close, I paused to think, manifesting a flat platform into the side of the pyramid so I could rest. The portal and the god weren't the only things I was about to face. The others were already there. Morrow and Alchemist.
 
-I could already see it through the Watchful Eye I had placed on Morrow. I had mostly been tuning it out, but now, I paid attention. The two of them were camped out on the flat top of the pyramid, a black and shining pentagon about fifty meters wide, centered around… <em>it</em>. I couldn't even see the portal through the Watchful Eye, it was like a blank spot in my vision.
+I could already see it through the Watchful Eye I had placed on Morrow. I had mostly been tuning it out, but now, I paid attention. The two of them were camped out on the flat top of the pyramid, a black and shining pentagon about fifty meters wide, centered around... <em>it</em>. I couldn't even see the portal through the Watchful Eye, it was like a blank spot in my vision.
 
 Morrow and Alchemist were lying near the edge, cuddling on top of a messy heap of pillows and mattresses, mostly manifested by Alchemist. Morrow was still <em>able</em> to manifest, but he had usually been too depressed to do it. He had alternated between the hurrying forward erratically and sitting down too depressed to move. Alchemist had been taking care of him, trying to give him encouragement and reassurance. They had even talked to him a little like the way Rinn had.
 
@@ -608,7 +608,7 @@ Not for Morrow, certainly! He had committed <em>lowari</em>, and – I hesitated
 
 And what about Alchemist?
 
-I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> hadn't liked how I was treating Alchemist. I didn't want to accept it… but she had a point, too. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. Even when I was kind to them, it was only to make sure they would make us the potions we needed. And it had kept us alive… but that was over now. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
+I breathed carefully, keeping myself calm. I cared about <em>Rinn</em>. And <em>Rinn</em> hadn't liked how I was treating Alchemist. I didn't want to accept it... but she had a point, too. For my whole time in the Otherworld, I had only been thinking of how Alchemist could be <em>useful</em> to us. Even when I was kind to them, it was only to make sure they would make us the potions we needed. And it had kept us alive... but that was over now. Our lives weren't in danger anymore. So it wasn't right for me to still be thinking of Alchemist that way. It wasn't right that my only feeling was frustration about their weaknesses.
 
 I had to find a better way to treat them, to think about them. A way that was more Blood.
 
@@ -638,21 +638,21 @@ Ahead of me, in the center of the floor, I could finally see the portal with my 
 
 Alchemist nervously approached me and looked at Rinn's head, the only part of her that was sticking out of the foam. Tears filled their eyes.
 
-"Is, she… You used, the…"
+"Is, she... You used, the..."
 
 "The second one we made," I said gently. "She was injured in the fight. But she will recover."
 
-"Will she… that one was…"
+"Will she... that one was..."
 
 Alchemist was trying to ask about the side effects of the potion. The sleeping effect was very powerful. If someone already had a weak soul when they drank it, they might never wake up. So Alchemist's worrying wasn't unreasonable. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
 
 Alchemist stepped closer and nervously touched Rinn's head. Then they nodded and pulled back again. After a pause, they turned and looked down over the city. I saw their eyes linger over the distant gouges among the buildings, where Justicar had fought us.
 
-"She's, not, coming, is she…"
+"She's, not, coming, is she..."
 
 "She's dead," I confirmed. "We couldn't convince her to stop." I waited for Alchemist to glance at Rinn, wondering if Rinn had been the one who killed her. I said the best thing I had found to assuage their worries. "We did it together."
 
-"Oh. I guess, you had to do it…" Tears dripped down their face.
+"Oh. I guess, you had to do it..." Tears dripped down their face.
 
 "I wish I could tell you something else."
 
@@ -660,17 +660,17 @@ Alchemist stepped closer and nervously touched Rinn's head. Then they nodded and
 
 Alchemist turned and looked at the portal.
 
-"I knew…" they said resignedly. "I knew… when we got here, there was already three…"
+"I knew..." they said resignedly. "I knew... when we got here, there was already three..."
 
 Those words had been confusing when I foresaw them, but now that I was here, I understood what they meant. The portal had five sides, just like the pyramid under us. I could instinctively tell that there was one side for each of us. But the dazzling energy of the portal was strongest in just three of them – Rinn's, Alchemist's, and mine. The sides for Morrow and Justicar were duller, as if the power had been stripped down to the minimum necessary. Its full energy had no purpose unless you were still alive and still a Raveller.
 
-"This wasn't right," I said. "None of this should have had to happen. All I can say is… it'll be over soon. We'll all go through that portal. You'll be home again."
+"This wasn't right," I said. "None of this should have had to happen. All I can say is... it'll be over soon. We'll all go through that portal. You'll be home again."
 
-"Will we, wait for, Rinn…?"
+"Will we, wait for, Rinn...?"
 
 "No. I'm going to send her through unconscious. Just to be safe."
 
-"Oh…"
+"Oh..."
 
 I sat down, manifesting a long bench for the three of us, with a wide base to keep it stable when Morrow would knock into it later. My mind was bent towards what lay ahead in the portal, but I could afford to take a little time for closure. Alchemist sat down next to me. Morrow thumped down on the other side of Alchemist, huddling into their chest. Alchemist idly started feeding him a large candy bar.
 
@@ -682,25 +682,25 @@ I sat down, manifesting a long bench for the three of us, with a wide base to ke
 
 Alchemist's head wobbled back and forth. The only sound was the sound of Morrow's chewing.
 
-"There is, maybe, one thing… I know you, don't like, Morrow, but…"
+"There is, maybe, one thing... I know you, don't like, Morrow, but..."
 
 "It's okay. Go on."
 
-"Do you know if he'll…" Alchemist glanced towards the portal. "Since he's not… with the god…"
+"Do you know if he'll..." Alchemist glanced towards the portal. "Since he's not... with the god..."
 
 I concentrated, just like if I was using the Seeing. I already knew what I was going to say, but Alchemist would feel more reassured if it looked like I had checked.
 
 "I believe he'll get back to the material world safely," I said. "Even though he can't be part of the rejuvenation, the process for returning the Ravellers to the material world is separate from that."
 
-"Oh…" Alchemist draped their arms around Morrow, slowly rocking him back and forth.
+"Oh..." Alchemist draped their arms around Morrow, slowly rocking him back and forth.
 
-I gave them a little time to relax. Then I added, "We can also exchange phone numbers, in case you think of anything I can do for you once we're in the material world. I won't have any magical abilities, but… people say I'm very capable." I pulled out my phone.
+I gave them a little time to relax. Then I added, "We can also exchange phone numbers, in case you think of anything I can do for you once we're in the material world. I won't have any magical abilities, but... people say I'm very capable." I pulled out my phone.
 
-Alchemist shivered. "I, didn't, have my phone, with me, when…"
+Alchemist shivered. "I, didn't, have my phone, with me, when..."
 
 In the future, Alchemist had also worried they'd be forgetful. If I just told them my number, they thought they might not remember it. And if <em>they</em> told me <em>their</em> number, they thought they might accidentally give me the wrong number. "Here's what we'll do," I said. "You can manifest a copy of your phone. It will have your phone number in it, so I can copy that number into my real phone. Then I'll call you once we get back to the material world. I won't be able to call right away, because I'll be taking care of Rinn, but I'll try to call within a day or two."
 
-Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn…"
+Alchemist nodded. They manifested their phone, and thumbed through it to find where it would show their number. "If I could, also, give this to, Morrow, and, Rinn..."
 
 I carefully copied Alchemist's number. "Rinn and Morrow both lost their real phones in the Stern God's world. But the lost phones will still go back to the material world with them. So I can write down Morrow's number now and then text it to you when I'm back, and for Rinn, I can give Rinn <em>your</em> number –"
 
@@ -722,11 +722,11 @@ Morrow panicked and jerked away, as I had known he would, at the thought of retu
 
 I had struggled with how to feel about Morrow. I hated him, and part of me felt sorry for him, and I hated him more because I felt sorry for him. And as much as I wanted him to just shut up and stay in a corner, I knew that wasn't how I wanted to leave things right before I went through the portal. It wasn't Blood.
 
-Morrow's eyes were still bugging out. Even with Alchemist here to soothe him, he was terrified. Part of me felt a sick satisfaction at that. But that wasn't what I was trying to do. "I'm not going to hurt you," I said. "I just want to say…"
+Morrow's eyes were still bugging out. Even with Alchemist here to soothe him, he was terrified. Part of me felt a sick satisfaction at that. But that wasn't what I was trying to do. "I'm not going to hurt you," I said. "I just want to say..."
 
 <em>Rinn</em> had forgiven him, even tried to encourage and support him. I could never do that. But the Blood Temple didn't have to be all love and support all the time, just like it wasn't all rage and violence all the time. They understood that there could be serious conflicts between people, and sometimes you needed strong boundaries to keep everyone from getting hurt. And sometimes you needed to fight to protect those boundaries, but sometimes, the time for fighting was in the past. I had made Morrow lower than me, and now, it was time to bring him back up to equal.
 
-"I just want to say…" I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but… Rinn cares about you. And I… I care about what the gods have done to you. You didn't deserve what happened, any more than the rest of us did."
+"I just want to say..." I continued. It was hard to make the words come out, but as I spoke, I felt like a tension was being released from me. "I just want you to know, I hope you can find peace. We can never be friends, but, but... Rinn cares about you. And I... I care about what the gods have done to you. You didn't deserve what happened, any more than the rest of us did."
 
 I held out my hand. Morrow didn't take it right away, but I kept holding it out, knowing it would only take time. Finally, he leaned forward with both hands and clasped them around mine, crying. I pulled him to his feet, holding him a short distance away from me, but balancing him as he stumbled.
 
