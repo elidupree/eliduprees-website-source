@@ -305,6 +305,8 @@ Stern take it all.
 
 Yali gently pulled my hand back down. "I can tell one," she said.
 
+As Yali began to tell her story, I caught just a hint of a wry smile on her face. She was calculatingly revealing a tiny bit of her past, but I could tell it was a bit more melancholy then she was showing on the outside.
+
 <bigbreak>
 
 <div class="yali-narration">
@@ -333,7 +335,7 @@ Just for a moment, she looked up from her trowel, smiled, and said nothing.
 
 <bigbreak>
 
-Justicar applauded softly. I joined in by clapping much louder, and pretty soon we were all clapping for Yali's storytelling.
+Justicar applauded softly. I joined in by clapping much louder, pulling the others in to applaud along with me.
 
 "Truly told in the Waiting tradition," said Justicar.
 
