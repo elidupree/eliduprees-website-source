@@ -39,11 +39,13 @@ div.blog_post h1 {
   padding-right: 0;
 }
 div.blog_post h2 {
-  font-family: 'Alfa Slab One', serif;
-  font-size: 160%;
+  font-family: 'Lalezar', serif;
   text-align: center;
   padding-left: 0;
   padding-right: 0;
+  line-height: 1.15;
+  transform: scale(1,1.15);
+  margin: 0 4em;
 }
 .story_content_warning_header {
   margin-top: 1.1em;
