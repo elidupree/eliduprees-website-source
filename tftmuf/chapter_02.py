@@ -148,13 +148,17 @@ But [the Kayla with me had already flung open the fridge and was stuffing her fa
 
 "Oh damn it, you're right, she's probably not even listening to me. Listen, uh… Marvin? Marvin, make sure she doesn't eat more than half of what's in that fridge, she'll vomit. Ask me how I know. She can eat half now, and half… maybe an hour from now ?????"
 
-[The Kayla with me was glaring back at her indignantly. "I AM listening" she tried to say amid mouthfuls of food, humiliated rage from having her flaws pointed out in front of me, by someone whose opinion she couldn't possibly deny. She pointedly started dividing everything in the fridge into two equal piles – well, three piles, one of which was all the animal products]
+[The Kayla with me was glaring back at her indignantly. "I AM listening" she tried to say amid mouthfuls of food, humiliated rage from having her flaws pointed out in front of me, by someone whose opinion she couldn't possibly deny. She pointedly started dividing everything in the fridge into two equal piles – well, three piles, one of which was all the animal products – literally tearing sandwich in half, eating one half, and putting the cheese in a separate pile]
 
 [After she forced herself to stop eating (staring at the food, but held back by the unbreakable laws inside her head), possibly Marvin trying to make conversation to distract her:]
 
 "Are you vegan?"
 
-[Physicality] "[explanation of how the captives were fed; I think Kayla should mention what vegan ethics mean to her here, although not in detail]"
+[Physicality - huddling, staring at the food] "Making animals live and die so we can eat them, is Evil," she said [bluntly]. "I'd stop it if I could. But at least I won't participate in it."
+
+[She stared at the cheese pile. Swallowed/coped with stomach discomfort]
+
+"????? and ?????," she went on. "Fuller's [grad students]. They always gave us food with meat in it. They thought it was funny to watch me "
 
 [I was in awe] "You were literally starving, and you still refused [food]?"
 
@@ -164,7 +168,7 @@ She answered with a single word. "Yes." [And in that word, I could feel/but she 
 
 The Kayla in the video was still talking, almost forgotten behind us. I skipped back to where we had left off.
 
-"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I never wasted my time on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
+"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I've never wasted my brain on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
 
 ?????
 
