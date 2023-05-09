@@ -12,7 +12,7 @@
 
 [Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"]
 
-[For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously]
+["For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously"]
 
 [K+M offer excuses for Aster and Reginald argues against them
 – "they were planning to get rid of Fuller" "
@@ -121,7 +121,7 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 [Kayla barged into the room before we could react. Both of us turned, surprised, to focus on her, the sudden new danger]
 
-[Kayla stood framed in the doorway, blocking the only way out. Stood tall and proud, like an avenging angel (?), carrying the rifle. I had trained her well/She remembered my training/even though she was angry, she remembered her training/; although she was obviously threatening Ethel with the gun, her finger was outside the trigger guard and the barrel was only pointed near her feet.]
+[Kayla stood framed in the doorway, blocking the only way out. Stood tall and proud, like an avenging angel (?), carrying the rifle. I had trained her well/She remembered my training/even though she was angry, she remembered her training/; although she was obviously threatening Ethel with the gun, her finger was outside the trigger guard and the barrel was only pointed near her feet./Just as the other Marvin had told me, she had taken her training completely seriously; her brain had already loaded the rules I taught her as the unbreakable laws of firearms: <em>Never put your finger on the trigger until you're ready to shoot, and never point a gun at anything you're not willing to destroy.</em>]
 
 [Long moment of silence, everyone staring at each other]
 
@@ -157,7 +157,11 @@ She bowed her head. "Is this my judgment, then?"
 
 [simon didn't show up early, so we decided to confront him in the meeting room. Physical description of the meeting room, with the giant table with screens built into it]
 
-[The others interrogate Simon about the experimentation victims, but he plausibly claims he didn't know anything, not-entirely-convincingly claims that obviously he thinks it's horrible now that he knows about it; they angrily argue in circles a bit, not able to prove anything. Marvin interrupts:]
+[Simon walked into the room without really paying attention to his surroundings, then suddenly noticed that things were different (Kayla with a gun), looked around nervously. Looking to the only person who (he thought) was someone he knew who might be in charge,] "Reggie, what's going on?"
+
+"Take a seat," said Reginald gravely.
+
+[The others interrogate Simon about the experimentation victims, but he plausibly claims he didn't know anything, not-entirely-convincingly claims that obviously he thinks it's horrible now that he knows about it "Obviously if that's what happened, I think that's horrible! But"; they angrily argue in circles a bit, not able to prove anything. Marvin interrupts:]
 
 "You're the one who wrote the code for the time machine, right?"
 

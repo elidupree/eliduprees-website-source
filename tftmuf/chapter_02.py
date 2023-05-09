@@ -158,7 +158,7 @@ But [the Kayla with me had already flung open the fridge and was stuffing her fa
 
 [She stared at the cheese pile. Swallowed/coped with stomach discomfort]
 
-"????? and ?????," she went on. "Fuller's [grad students]. They always gave us food with meat in it. They thought it was funny to watch me "
+"????? and ?????," she went on. "Fuller's [grad students]. They always gave us food with meat in it. They thought it was funny to watch me [pick apart the food] "
 
 [I was in awe] "You were literally starving, and you still refused [food]?"
 
