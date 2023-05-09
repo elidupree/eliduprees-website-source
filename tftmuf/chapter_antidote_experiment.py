@@ -29,7 +29,7 @@ In the social game, it was <em>Kayla</em> – no matter that she was unarmed, no
 
 [To my dread, it was working, Fuller knew how to get under her skin]
 
-[But then Aster interrupted. "Science? You're the worst scientist I've ever worked with. I could have gotten this far with way fewer deaths, and less than 1% of your budget, years ago. Half our experiments have just been redoing stuff you already did because your experimental design was crap. You wasted your time perfecting mind control while ignoring the ones of us who wanted to get to the bottom of why it was happening. We lost 2 whole years of progress because you wouldn't believe me that [Billy] didn't die from [cyanosol]"
+[But then Aster interrupted. "Science? You're the worst scientist I've ever worked with. I could have gotten this far with way fewer deaths, and less than 1% of your budget, years ago. Half our experiments have just been redoing stuff you already did because your experimental design was crap. You wasted your time perfecting mind control while ignoring the ones of us who wanted to get to the bottom of why it was happening. You damaged our most valuable test subject by the gross negligence of letting her be undernourished. We lost 2 whole years of progress because you wouldn't believe me that [Billy] didn't die from [cyanosol]"
 
 "[So sue me] for not believing the memory of someone with a memory disorder"
 
@@ -205,7 +205,7 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 [Did I? Well, yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist] [I'm happy to cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]
 
-[Marvin orders Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
+[Marvin orders Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, "and flip yourself upside down!" and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
 
 ["Are you done worrying now? There's important information you need to have, and we're both better off if I tell you as soon as possible. Since you can see me, you must've [freed yourselves] from the <em>huvith</em>, what you call the 'phrenochondria'. You need to know your enemy. Have you seen them? Have you looked out the window since ..."?]
 
