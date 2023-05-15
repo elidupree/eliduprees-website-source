@@ -216,8 +216,14 @@ K: We could have done this much faster if it wasn't for all the evil! Aster said
 
 Reginald:[big declaration] Aster was wrong. [Explanation:] I have no doubt that Aster could have done better than Fuller given the same resources, but without Fuller's evil, we would never have had those resources in the first place. The whole team was formed by Fuller bullying people into it; without him, Aster would have been petitioning the committee and getting rejected. So Aster can only congratulate themselves for being better because they conveniently had an evil person to do the evil stuff for them. You have to sit with that. There are still people who excuse the Nazi human experimentation because we got scientific knowledge from it; we have to be able to say that it's always wrong.
 
-Kayla: I DO say that it's always wrong! About the Nazi research, now we know how long it takes to freeze people to death, do you think it was worth it? Of course not! If it was actually worth it for the world, then you could convince people to consent to it, like they did in the Minnesota Starvation Experiment. Every single time people abuse other beings and make excuses for it: either it wasn't worth it, or they could have done it consensually 
+Kayla: I DO say that it's always wrong! About the Nazi research, now we know how long it takes to freeze people to death, do you think it was worth it? Of course not! If it was actually worth it for the world, then you could convince people to consent to it, like they did in the Minnesota Starvation Experiment. Every single time people abuse other beings and make excuses for it: either it wasn't worth it, or they could have done it consensually
 
+Reginald: not so impressed that you used the Minnesota starvation experiment as your example, that was draftees, so they were coerced. It's precisely the "conveniently there was someone else there to commit evil" that I am warning you about
+
+Kayla: no I've thought about this, everyone in society is coerced and so you would have to say that no one can ever consent to anything, but obviously people can sometimes consent to things. The problem is if someone is stuck with abuse because it's the "least bad option", but this experiment wasn't like that: Starving is worse than working in a hospital or whatever, so we can trust that the subjects must have had reasons of their own will to take it. And you can confirm that by the fact that it's documented that none of them regretted doing it
+
+
+[Hang on, hang on. Couldn't Aster still make loads of money with time travel?]
 
 
 
