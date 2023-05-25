@@ -14,7 +14,7 @@ posts = [
   
 Before I start telling you what I remember, I'd like to be clear about one thing. I don't want you to think of me as "<em>the real</em> Marvin Fitzroy", or "<em>the original</em> Marvin Fitzroy", or anything like that. Your brain will want to, because I'm the one you know about – the one telling you the story. But time travel doesn't make those distinctions. Even the Marvins that don't exist anymore, they were just as real as I am.
 
-And because this is <em>my</em> version of the story, I can only tell you the part I know. For Kayla, it started six years earlier, when the scientists first started using her. For the scientists, it started another seven years before that, when they published the paper they didn't realize was about time travel. For Ontoh and Nochli, it started at a time that's harder to explain – several months in the future, or thousands of years in the past, depending how you look at it.
+And because this is <em>my</em> version of the story, I can only tell you the part I know. For Kayla, it started six years earlier, when the scientists first started experimenting on her. For the scientists, it started another seven years before that, when they published the paper they didn't realize was about time travel. For Ontoh and Nochli, it started at a time that's harder to explain – several months in the future, or thousands of years in the past, depending how you look at it.
 
 But for me, it started when I was hired by the Whitney University Neuroscience Department.
 
@@ -117,7 +117,7 @@ Kayla was already physically weak and stumbling, and the assistants knew this. T
 
 Once the assistants had strapped Kayla into the fMRI machine, there was a hasty discussion. Dr. Fuller would be very angry, they agreed; it was imperative that this mess be gone before he learned of it. At 10:05, they agreed to split up – one to fetch replacements, the other to stay and clean. But as soon as the second assistant was alone, he realized he had no broom or dustpan to clear the broken glass. He glanced at Kayla; he must have known it would break protocol to leave her unattended. But she was fully restrained, lying motionless in the machine. Surely nothing would happen in just a few minutes. Surely Dr. Fuller's anger was a more urgent concern. This resulted in Kayla being left unattended for a total of six minutes, starting at 10:07. Only the room's security cameras could see her, and no one was monitoring them at the time – at least, not in the first timeline.
 
-26 seconds from the moment the door closed, Kayla had fully freed herself from the restraints. Over the next 18 seconds, she scanned through the shelves, taking what she needed with frantic but efficient motions. By 10:09 AM, she was out the door. She didn't know the full layout of the building, but she knew what she was looking for: she sprinted down the hall, following the exit signs, knowing they would lead her to the stairs.
+26 seconds from the moment the door closed, Kayla had fully freed herself from the restraints. Over the next 18 seconds, she scanned through the shelves, taking what she needed with frantic but efficient motions. By 10:09 AM, she was out the door. She didn't know the full layout of the building, but she knew what she was looking for. She sprinted down the hall, following the exit signs, knowing they would lead her to the stairs.
 
 And that's where I came in. By sheer luck, the moment she ran past the fifth-floor lobby camera was the moment I was watching it, while looking for a camera with a better view of Fuller. Of course, at the time, I had no idea of what had just happened before that. All I knew was what I could see on the camera. And what I saw – the way I first interpreted it – was a frightened, teenage girl, wearing nothing but a hospital gown, holding a scalpel in front of her like a weapon. In the twelve seconds she was in view, she entered the lobby on the fifth floor, looked quickly around her, and crept to the nearest stairs, then disappeared downwards. My mind jumped to an explanation: she was a captive, trying to escape the building. I was almost right. Right in the ways that mattered.
 
@@ -127,7 +127,7 @@ I didn't dare let myself be seen on the cameras. At 10:10 AM, I turned off every
 
 It was lucky that Kayla couldn't take the stairs at full speed. I wasn't exactly athletic, and I just barely got there ahead of her, panting as I reached second-floor door to the stairwell. By the time I cracked open the door, she was just half a flight above me.
 
-"This way, quick!" I gasped, trying to keep my voice gentle. "I can help you."
+"This way, quick!" I gasped, trying to keep my voice down so I wouldn't scare her. "I can help you."
 
 And then I looked up, and saw her properly.
 
@@ -185,7 +185,7 @@ Kayla explained as quickly as she could. "You were already being mind controlled
 
 <em>Biiiing!</em>
 
-I jumped – but it was just a message arriving on my work computer, an awful coincidence of timing. Except, of course, it wasn't a coincidence, because time travel was involved.
+I jumped – but it was just a message arriving on my work computer, an awful coincidence of timing. Except, of course, it wasn't a coincidence. It was time travel.
 
 <em>Hey Marvin, it's me, Marvin. You need to download this and watch the first video, ASAP.</em>
 

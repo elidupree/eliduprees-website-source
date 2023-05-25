@@ -101,18 +101,17 @@
 
 As I would later learn, [Kayla had spent lots of time reading philosophy when she was around 12, to cope with her anger and distress about everything around her. When you're having thoughts that bring you distress, about something you can't do anything about, you have two choices: you can [distract yourself and avoid thinking about the thing,] or you can [keep thinking about the thing. Mentally engaged with it. Face it.] And Kayla had always chosen the latter. She had chosen to keep trying to find ways to make sense of it/ways to interpret it that were acceptable to her.]
 
-["A man named Gyges finds a magic ring that can make him invisible," she began. "..."]
+["A man named Gyges [Jy-jeez, [IPA]] finds a magic ring that can make him invisible," she began. "..."] [the point is about whether people only behave justly because they are afraid of consequences.]
 
 
 [(Kayla strongly believes that she wouldn't be corrupted by the ring) "if you're a good person then you can recognize what's good and evil, and you can just choose not to do evil"]
 
 
-
-"… But Plato's conclusion is unsatisfying. He says that people who behave justly will ultimately be recognized and rewarded, first by other humans, and then by the gods in the afterlife. But obviously none of that is happening."
+["… But Plato's conclusion is unsatisfying. He says that people who behave justly will ultimately be recognized and rewarded, first by other humans, and then by the gods in the afterlife.] But obviously none of that is happening."
 
 ????? "Do you believe in God?"
 
-"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all Gyges-es. They do evil and there are no consequences for them."
+"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all just like Gyges. They do evil and there are no consequences for them."
 
 [Maybe: K: what about you? / M: I'm not sure what I believe]
 
@@ -134,6 +133,9 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 [They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") and 2TB flash drives for bringing video data back in time. With everything we're buying, this is thousands of dollars! How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
+
+
+[Back in the NeuroSci Innovations building, they carefully collect the video of themselves going to the time machine the first time (from the video: "you/we should really be keeping careful records of exactly what time everything happens, but we didn't want to give you too much stuff to remember at once. Anyway this time you can just take it from the camera records]
 
 
 

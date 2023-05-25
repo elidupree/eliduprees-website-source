@@ -18,16 +18,15 @@ But the Kayla crouching next to me – gaunt, strung tight with terror – had n
 
 Her words knocked me out of my trance. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – 02_print_this_out.png. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
 
-"–
+"– in fact, uh, why don't we just cut to the video of us using it, so you'll see what you need to do.
+
+[????? Probably summary-language stating that there was a video showing them how to use the time machine, an overhead view of yet another Marvin and Kayla, with voiceover, so that they could quickly go in and out ("you might need to use the time machine a lot of times, and you don't want to run into yourselves").]
 
 ?????
 
-?????
-
-"
+["Is there anything else they need to know here? I think we got it all, better for them to get moving. Listen, pause the video right now, go do the stuff, you can keep watching once you're in Simon's break room"]
 
 <bigbreak>
-
 
 There are few things as maddening as being told that you must not look at something, when the thing is all around you. This was supposed to be the easy part: the part where we just walked down the hallway to get where we were going. But video-Kayla's instructions – <em>keep your head down, don't look in any of the rooms</em> – made it a living hell. I couldn't stop myself wanting to look over my shoulder, wondering what was behind every door we passed, in the endless clinical white walls.
 
@@ -138,11 +137,11 @@ On one side of the egg, there was a hatch that could open – a place where the 
 
 "Okay," I whispered. "[They are far enough away]"
 
-[We opened the door and quickly crossed the darkened hall into [Simons workshop.] Following the instructions on the increasingly crumpled paper [which had been shoved in and out of my pocket?] I plugged in the USB stick, and brought up the video again, then skipped ahead to the part we'd been at]
+[We opened the door and quickly crossed the darkened hall into [Simon's break room.] Following the instructions on the increasingly crumpled paper [which had been shoved in and out of my pocket?] I plugged in the USB stick, and brought up the video again, then skipped ahead to the part we'd been at]
 
 ?????
 
-"Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – [and this is the private break room for Simon, who is not working today and only shows up for the meeting], so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/on the run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
+[The video had a 30 second long pause, followed by] "Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – [and this is the private break room for Simon, who is not working today and only shows up for the meeting], so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/on the run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
 
 But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it" ("you didn't see yourself rush for that fridge the first time we found it.]
 
@@ -170,25 +169,23 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 "– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I've never wasted my brain on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
 
-?????
+[voiceover Marvin: "uh, actually, _first_ you need to run the script." K: "the what?" "The script I'm going to make! The program that closes the time loop. You know how we sent you this video, and unlocked the door for you, and stuff? Well, if you're in the past now, you've replaced us, so now we won't be there to do that. So <em>you</em> have to do that. But not manually, of course! If you sent it manually, you might not do it at exactly the same time, and then there'd be a paradox again. So I'm going to make a script that automatically sends it at the exact same time as we did. Well, it'll send it at <em>some</em> exact time, and it'll be the same as when we sent it, because we'll use the same script. Well, for you, we <em>did</em> use the same script. Ugh, time travel. I've been doing this for a week and I'm still not used to it. Uhh… never mind, just go ahead and run it. It'll be called 'run_this_once_youre_in_simons_room.py' or something. You can run it on the computer in Simon's room"]
 
-[Kayla puts on Simon's jacket/etc (does she need Marvin's help? Video-Kayla admonish her to accept Marvin's help?) And N95 masks (Simon has them for industrial reasons); Kayla insists they wear them ("how stupid would it be if we win and then I die of COVID because you didn't wear a mask? Put it on already"; There've been a few cases, the only reason they didn't spread further is the good ventilation); narration about how Marvin was aware that the pandemic was still dangerous (explain the pandemic a bit for the future audience), but didn't wear one because it was too hard to explain himself to everyone else in the office, who wasn't wearing them ("it was kind of a relief to be with someone who was expecting me to wear one; I guess if you are easily influenced by the opinions of the people around you, you need to surround yourself with people who have correct opinions")]
+[I dutifully ran <code>03_once_youre_in_simons_room_you_can_run_this.py</code>]
+
+Meanwhile, Kayla was [scavenging the room]. [She found a jacket that gave me déjà vu because it was the same one the Kayla in the video was wearing] [Kayla puts on Simon's jacket/etc (does she need Marvin's help? Video-Kayla admonish her to accept Marvin's help?) And N95 masks (Simon has them for industrial reasons); Kayla insists they wear them ("how stupid would it be if we win and then I die of COVID because you didn't wear a mask? Put it on already"; There've been a few cases, the only reason they didn't spread further is the good ventilation); narration about how Marvin was aware that the pandemic was still dangerous (explain the pandemic a bit for the future audience), but didn't wear one because it was too hard to explain himself to everyone else in the office, who wasn't wearing them ("it was kind of a relief to be with someone who was expecting me to wear one; I guess if you are easily influenced by the opinions of the people around you, you need to surround yourself with people who have correct opinions")]
 
 <bigbreak>
 
-?????
+[????? but at last the time came to tell us the rules. Kayla began like "okay what's the most important stuff we need to tell them right away"
 
-"They've got time. We should explain this from the beginning"
+[But Marvin – voice breaking, crying again – had a different take] "For them, it's like 3 AM right now! We've got time to do this properly. Explain things from the beginning."
 
-"Do we need to? We're going to give them our notes, right?"
+"We're going to give them our notes, aren't we?"
 
-"Yeah, but we wrote them for <em>us</em>."
+"Yeah, but we wrote those notes for <em>us</em>. They won't understand them –"
 
 "They <em>are</em> us!"
 
-"I don't understand half the comments I wrote on my own code two years ago.
+"I don't understand half the comments I wrote on my own code two years ago. No. No." [half despair/half pushing through tears] "If I'm going to disappear, then I want them to know my story."
 
-
-?????
-
-[Maybe first they tell pov's to run the script? ("First they should run the script, right? The script that's going to send these files to them the second time. There's a computer in Simon's room, right? Yeah, there is. Just start the script and leave it running
