@@ -12,18 +12,29 @@ title: What Happened the First Time (That We Knew About (Yet))
 
 [They argued about what to do, but then They had a smart idea. If they locked themselves IN the time machine room, then it was safe for them to spend more time deciding what to do, because if anything bad started to happen, they could just go back in time]
 
-[So they checked all the cameras to find a route to the time machine room that no one was watching. A completely understandable choice, but it was their first mistake. [Note: do I explain the reasons here, or below? Probably below. But still hook that it was a mistake]]
+[So they turned the cameras back on and checked all the cameras to find a route to the time machine room that no one was watching. A completely understandable choice, but it was their first mistake. [Note: do I explain the reasons here, or below? Probably below. But still hook that it was a mistake]]
 
-[They waited in the time machine room, Marvin made a script to notify them if anyone logged in to the security console – their second mistake. ~~and put Tape over the security camera ("the lights were off before, they won't be able to tell the difference")~~ They spent hours discussing what to do, until the script finally notified them [paragraph hook: "when you don't know what to do, and you have plenty of time to argue, you will inevitably argue until time forces your hand"] at 4:06 PM.]
+[They waited in the time machine room, Marvin made a script to notify them if anyone logged in to the security console – their second mistake. ~~and put Tape over the security camera ("the lights were off before, they won't be able to tell the difference")~~ They spent hours discussing what to do, ]
 
-[At that point, they knew that their enemies would be actively looking for them. they hurried to figure out the time machine, but critically, it took them another 48 minutes [while also watching what was going on in the meeting room to know how much they had to hurry?] [Fuller was wasting time interrogating the others about who must have betrayed them by letting Marvin and Kayla through the electronic locks] [retrospectively: luckily for us, Fuller had completely misjudged the situation, not only having messed up the security, but also prioritizing threats wrong, by thinking that a time-travelling Kayla wasn't a threat to him]]
+But when you don't know what to do, and you have plenty of time to argue, you will inevitably argue until time forces your hand. At 4:06 PM, [Marvin's script finally notified them. Marvin checked the records, and that's how they found the meeting room; he started watching the meeting, where the scientists were actively discussing what to do about their missing test subject having seen that, Marvin and Kayla]. 
 
-[They went back to the earliest possible time, avoided the night worker, and kept arguing about what to do. They hatched a plan to kill the bad guys? [Considered how to elaborate on Marvin's take/"why not go to the police" here and how it relates to PoV-Marvin's take later] By using the security cameras to track where they were, then ambushing them]
+[Luckily for us, Dr. Fuller had completely misjudged the situation. As he saw it, the situation was:] His test subject had escaped, which was an inconvenience at worst. But worse, <em>someone</em> had deleted the critical footage. And who had access to the security system? Only the six people in that very room. By the time Marvin-Zero opened the camera, Fuller was angrily interrogating them, not letting any of them leave. He rounded on each of them in turn, accusing them of insubordination. [He had failed not only at the physical security, but also at threat modeling: He never considered that the escaped Kayla could be dangerous to him. [He was certain that one of them had betrayed him.]]
 
-[But at that point, Kayla-One and Marvin-One started to realize their mistakes. When they were sneaking through the buildings, what would would happen if Kayla-Zero and Marvin-Zero saw them? They would be changing their own past, causing a paradox – when Zeroes got into the machine, they wouldn't be the same as Ones, so they'd make different choices... And the Zeros had looked on a load of different cameras.]
+And that meant Zeroes had more time. They knew they had to escape into the past – but they didn't need to escape <em>immediately</em>. They could wait until the argument stopped and the scientists started actually looking for them. So Marvin kept one eye on the meeting while also studying the time machine, making sure they wouldn't make any mistakes. Critically, it was a full 48 minutes before they actually departed – although they had no idea how important that would be.
 
+Just like us, their first trip took them to the earliest possible time, 3:06 AM. [Which made them Kayla-One and Marvin-One] Like us, they hid in the time machine room until [the night worker] passed by. There, shivering in the stark [environment], they hatched a plan:
+<ul>
+  <li>Watch every camera, to see exactly when everyone came and went.</li>
+  <li>Sneak into Dr. Fuller's office and steal the gun which Kayla had seen him keep there.</li>
+  <li>Wait outside the meeting room until 5:04, the moment Zeroes were no longer watching.</li>
+  <li>Kill every single one of the monsters who were in charge of this place.</li>
+</ul>
 
-"Marvin's going to be wondering about the butterfly effect."
+For Marvin-One, there was no question about that last point. He was still reeling from what he'd heard during the meeting, the callous way the scientists had talked about the human beings they were holding prisoner. They had to die.
+
+But once Kayla-One and Marvin-One thought about the details of the plan, they started to realize their mistakes. Maybe they could sneak through the building without being seen by the <em>scientists</em>… but what if Kayla-Zero and Marvin-Zero saw them, on the cameras? Then Ones would be changing their own past, causing a paradox. If Zeroes saw something different than the first time, then they'd make different choices, and it wouldn't be the same people who got into the time machine to become Ones.
+
+As the Marvin in the video (Marvin-Five, apparently) explained this, he commented, "Marvin's going to be wondering about the butterfly effect."
 
 I had been too absorbed to think of it, but as soon as he said "butterfly effect", I saw the problem. It should have been impossible for Marvin-One to <em>not</em> change Marvin-Zero. Even in stories with pretentious narration about the butterfly effect, they usually underestimate how powerful it is. Every footstep, every breath of air, would cause tiny ripples that spread throughout the building, and beyond. And tiny changes lead to big changes. At the human scale, it's familiar: A lucky accident leads to a scientific discovery, a chance encounter decides the fate of nations, a tossed cigarette starts a fire that burns down an entire forest. At the molecular scale, it's even more so. Disturb a single atom, and it disturbs its neighbors, and <em>they</em> disturb <em>their</em> neighbors, until everything is different.
 
@@ -44,7 +55,9 @@ People like to ask hypothetical questions about how their lives would be differe
 
 [At some point: "yeah, you're going to need a different numbering system"]
 
-[Next loop they made the map even better. They followed everyone around using the cameras, getting the locations of all the PEOPLE in the building, so that every OTHER location was fair game (no one could be there except for Marvins/Kaylas, but Marvins/Kaylas COULD be there because it was undecided). And as for the gap when the cameras were off… Zeros hadn't actually _observed_ that they were still off, so the moment Marvin-Zero turned off the security cameras, Marvin-Two turned them on again.]
+[Anyway, they searched the building; after Twos slept, hunger caught up with them, and that's when they found Simon's break room; they spent the rest of that cycle taking care of themselves, ish]
+
+[Next loop they made the map even better. They followed everyone around using the cameras, getting the locations of all the PEOPLE in the building, so that every OTHER location was fair game (no one could be there except for Marvins/Kaylas, but Marvins/Kaylas COULD be there because it was undecided). And as for the gap when the cameras were off… Zeros hadn't actually _observed_ that they were still off, so the moment Marvin-Zero turned off the security cameras, Marvin-Three turned them on again.]
 
 
 [After some number of loops, they were ready to execute their plan. They were going to steal Fuller's gun, get into position, then wait until the exact moment Zeros stopped looking at the scientists, then move in and shoot them.]
@@ -53,7 +66,7 @@ People like to ask hypothetical questions about how their lives would be differe
 
 "I'm so glad I kept doing the physical therapy exercises even when I was in the [holding room], otherwise I would never have been able to lift the gun and pull the trigger. I never realized how much force it takes to pull a trigger"
 
-[Possible section break with big hook ("but the plan went all wrong" ish?)? But at 4:06 , when they took their positions in the hallway outside the meeting room, Simon thought he heard a noise [which was actually Ontoh] and came out to look in the hall, which hadn't happened any of the previous times. Simon saw them and shouted a warning [he knew we were time travelers because they'd just seen us on cams?], Kayla shot him, and then shot the other scientists as they tried to escape and/or cower.]
+[Possible section break with big hook ("but the plan went all wrong" ish?)? But at 4:06 , when they took their positions in the hallway outside the meeting room, Simon thought he heard a noise [which was actually Ontoh; ("we were really quiet! and we were waiting all the way down the hall! there's no way they could have heard us!")] and came out to look in the hall, which hadn't happened any of the previous times. Simon saw them and shouted a warning [he knew we were time travelers because they'd just seen us on cams?], Kayla shot him, and then shot the other scientists as they tried to escape and/or cower.]
 
 [As Kayla-Five described her she'd killed the scientists, the Kayla next to me ????? An expression of unmistakable pride ????? The revelation, already somewhat expected due to the gun and blood, that the Kayla in the video had killed real, living people. I felt disturbed by it/dissociated, feeling at a distance from things. But the Kayla crouching next to me was watching with rapt attention. In awe/admiration of the version of herself who had succeeded (?). The promise that killing those people – the ones who had held her captive – was within her power.]
 
@@ -65,7 +78,7 @@ People like to ask hypothetical questions about how their lives would be differe
 
 Desperate for answers, [they looked at the note Reggie had left, as it made him sound like someone who knew what needed to be done]. [They opened his laptop and found a document called Aster's Notes.]
 
-[Maybe put PoV Marvin reading asters notes here: "Aster's notes were also included in the zip file they'd sent us. They were… [Move some of the description from next chapter to here?]]
+[Maybe put PoV Marvin reading asters notes here: "Aster's notes were also included in the zip file they'd sent us. They were… [Move some of the description from next chapter to here?: Asters notes are extremely disorganized, lots of half formed sentences, using scientific terms that don't exist anywhere on the Internet. The scribblings of a genius, incomprehensible to us normal people.]]
 
 [And what Fours had learned from the notes, just in time to not ruin everything… The delay of 48 minutes had been lucky. Because [partial explanation]. Now they needed to go back in time AGAIN, before the time when their original selves would fail to go back. They hurried to do that, convinced Zeros to let them past (invited Zeros along with them? "It's a paradox anyway, it won't matter either way")]
 
