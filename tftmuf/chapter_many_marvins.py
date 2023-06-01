@@ -2,9 +2,11 @@
 
 At this point, my story skips forward a bit.
 
-You see, <em>I</em> wasn't the Marvin who had to build the initial duplication device. For <em>that</em> Marvin – who we later came to call Marvin Alpha – there were weeks of grueling work, [programming, building, keeping tabs on our prisoners and collaborators]. But for me, [I experienced only a few minutes of time from when we reset the original time machine to when Marvin Alpha and Kayla Alpha stepped out of it, to invite us into the future as their duplicates.]
+You see, <em>I</em> wasn't the Marvin who had to build the initial duplication device. For <em>that</em> Marvin – who later called himself Marvin Alpha – there were weeks of grueling work, [programming, building, keeping tabs on our prisoners and collaborators]. But for me, [I experienced only a few minutes of time from when we reset the original time machine to when Marvin Alpha and Kayla Alpha stepped out of it, to invite us into the future as their duplicates.]
 
 As best I understand it, [Marvin Alpha had a terrible time/as soon as the adrenaline ran out, he had a mental breakdown/he couldn't concentrate on the engineering and locked himself in a room hiding for subjective days/Kayla Alpha had to yell at him to get back to work/he had a huge fight with Kayla where they both said hurtful things to each other, which he later deleted the recording of because he didn't want the rest of Marvins to be tempted to listen to it.] By the time he picked me up, he was barely holding it together. And he never wanted to be duplicated himself. We only duplicated the Marvins who started out like me, [not having had the crash yet, so that it could be made easier for them].
+
+"Alpha" wasn't like in the sexist term "alpha male". It was the software development term. He was calling himself a buggy early version of Marvin, not suitable for public release, likely to break anything he touched.
 
 [Maybe here, or earlier, or later, the money thing:]
 

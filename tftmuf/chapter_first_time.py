@@ -30,7 +30,7 @@ Just like us, their first trip took them to the earliest possible time, 3:06 AM.
   <li>Kill every single one of the monsters who were in charge of this place.</li>
 </ul>
 
-For Marvin-One, there was no question about that last point. He was still reeling from what he'd heard during the meeting, the callous way the scientists had talked about the human beings they were holding prisoner. They had to die.
+When Kayla-One had said that last point, Marvin-One hadn't questioned it. He was still reeling from what he'd heard during the meeting, the callous way the scientists had talked about the human beings they were holding prisoner. He agreed: They had to die.
 
 But once Kayla-One and Marvin-One thought about the details of the plan, they started to realize their mistakes. Maybe they could sneak through the building without being seen by the <em>scientists</em>… but what if Kayla-Zero and Marvin-Zero saw them, on the cameras? Then Ones would be changing their own past, causing a paradox. If Zeroes saw something different than the first time, then they'd make different choices, and it wouldn't be the same people who got into the time machine to become Ones.
 
@@ -66,7 +66,7 @@ People like to ask hypothetical questions about how their lives would be differe
 
 "I'm so glad I kept doing the physical therapy exercises even when I was in the [holding room], otherwise I would never have been able to lift the gun and pull the trigger. I never realized how much force it takes to pull a trigger"
 
-[Possible section break with big hook ("but the plan went all wrong" ish?)? But at 4:06 , when they took their positions in the hallway outside the meeting room, Simon thought he heard a noise [which was actually Ontoh; ("we were really quiet! and we were waiting all the way down the hall! there's no way they could have heard us!")] and came out to look in the hall, which hadn't happened any of the previous times. Simon saw them and shouted a warning [he knew we were time travelers because they'd just seen us on cams?], Kayla shot him, and then shot the other scientists as they tried to escape and/or cower.]
+[Possible section break with big hook ("but the plan went all wrong" ish?)? But at 4:06 , when they took their positions in the hallway outside the meeting room, Simon thought he heard a noise [which was actually Ontoh; ("we were really quiet! and we were waiting fifty feet down the hall! there's no way they could have heard us!")] and came out to look in the hall, which hadn't happened any of the previous times. Simon saw them and shouted a warning [he knew we were time travelers because they'd just seen us on cams?], Kayla shot him, and then shot the other scientists as they tried to escape and/or cower.]
 
 [As Kayla-Five described her she'd killed the scientists, the Kayla next to me ????? An expression of unmistakable pride ????? The revelation, already somewhat expected due to the gun and blood, that the Kayla in the video had killed real, living people. I felt disturbed by it/dissociated, feeling at a distance from things. But the Kayla crouching next to me was watching with rapt attention. In awe/admiration of the version of herself who had succeeded (?). The promise that killing those people – the ones who had held her captive – was within her power.]
 

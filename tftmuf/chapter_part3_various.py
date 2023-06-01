@@ -1,6 +1,36 @@
 being god was hard work.
 
 
+[Near the start, and ethics board meeting where Marvin is still very upset about having killed millions of people; PoV Marvin isn't there, is watching it later:
+
+Kayla: "I propose an end to the rule that Marvins and Kaylas have to be equal participants."
+
+[This was unprecedented; that rule had been in force since the beginning of the duplications. We had made a temporary exception to it for the Nochli-hunting Kaylas, but had returned immediately after]
+
+Reggie: "On what grounds do you propose this?"
+
+Kayla: "[Marvin is being very unproductive because of his current mental condition, which is holding us back from the work the world needs. Allow Kaylas to take responsibility for the work]"
+
+Marvin: "how can you talk as if everything is normal?!"
+
+Kayla: "Things ARE normal! Having millions of people die because it's convenient for someone else's plan is the normal condition of humanity, and has been for thousands of years! And what we need to do right now is fix that, which you're not doing!" [you didn't even wear a mask for most of covid?] ]]
+
+Marvin, jumping out of his seat, very angry, "_beeeeeeeeeeeeep_"
+
+Reginald cleared his throat loudly. "We have important decisions to make. The chair recognizes that emotions are running high, but we must ask that you refrain from personal attacks. We recognize that Marvins' and Kaylas' conduct are pertinent to the question at hand, but please consider your words carefully before speaking."
+
+[Marvin sat down, suitably admonished]
+
+Reggie: "Also, I move that Marvin's comments, to the effect of _beeeeeeeeeeeeeeep_, be stricken from the record."
+
+["I second," said Marvin sheepishly. He had clearly regretted his words immediately]
+
+[After some more discussion, despite Kayla's arguments (that this wasn't to advance Kayla, it was good for the world; that Kayla would not get out of the ethics board's control; that she had proved as much when the Nochli hunters were deleted) the board's conclusion: "we appreciate the intent but we do not release you from the obligation to accommodate complicated human emotions"]
+
+
+
+
+
 [kayla: "i look at all of these people doing good things and evil things to each other, and think, how pointless it was to judge them … none of their decisions mattered. us, discovering time travel, had infinitely more effect on them than any of their good or bad deeds" [except stuff like murder, i guess?]]
 
 

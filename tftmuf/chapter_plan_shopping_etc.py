@@ -53,7 +53,7 @@
 
 "Don't you know about climate change? About the rise of global fascism? The constant threat of nuclear war, ?????? Hell, even the pandemic? The world is already worse than when we found it. Doesn't matter if you do nothing but good deeds all day. Doesn't matter if I get out of here and live a [cute but in a mocking way] suburban little life. In twenty years we'll probably all be dead. You, me, <em>everyone</em>. And if we have a chance to <em>do</em> something about it –"
 
-[I realized how dramatically dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past. And if you could change your own past... then you could undo every decision that ever went wrong for you. You could make plans that couldn't possibly fail. A single person with a time machine could make themselves more foresighted than any political strategist, and luckier than any tyrant.]
+[I realized how dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past. And if you could change your own past... then you could undo every decision that ever went wrong for you. You could make plans that couldn't possibly fail. A single person with a time machine could make themselves more foresighted than any political strategist, and luckier than any tyrant.]
 
 [Except that if you wanted to change your own past, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
 
@@ -74,7 +74,7 @@
 
 ["Were those there all along?"]
 
-[Yeah, I've been able to see them ever since they put me on [cyanosol]. They're all over the city, they are not scared of humans at all because humans can't see them. [The idea: the Pattern is some sort of weird effect that messes with your nervous system, so the urban coyotes evolved it to protect themselves from humans]
+[Yeah, I've been able to see them ever since they put me on [cyanosol]. They're all over the city, they are not scared of humans at all because humans can't see them. [The idea: the Pattern is some sort of weird effect that messes with your nervous system, so the urban coyotes evolved it to protect themselves from humans; later the scientists discovered it and started using it for mind control]]
 
 [I shuddered. There was one time when I had lost a sandwich while I was [standing around], I had thought I must have put it down somewhere by mistake, but probably a coyote had eaten it out of my hand and my brain just erased it from my memory. "How much other stuff is there that we can't see?"]
 
@@ -91,11 +91,11 @@
 
 "It's a story from Plato's <cite>The Republic</cite>. A man named Gyges finds a magic ring –"
 
-[I was surprised/not expecting Kayla to be referencing Plato. "That's, uh, impressive," I mumbled.]
+I'm ashamed to admit, I wasn't expecting a teen girl to reference Plato. "That's, uh, impressive," I mumbled.
 
-[Kayla immediately saw the implication that I wasn't expecting that much from her, and turned serious anger on me] "You're just like everyone else. Are you going to listen to what I say, or are you just going to stand around gaping?"
+Kayla saw the implication immediately. "You're just like everyone else!" she snapped. "Are you going to listen to what I say, or are you just going to stand around gaping?"
 
-[I felt defensive, but I remembered something I'd read in the information [from Zeroes?] about the Minnesota Starvation Experiment, a quote from the guidebook they'd made:] "Refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately." [I swallowed my defensiveness, long enough to realize that she had made a fair point. "I'm sorry, I shouldn't have made assumptions. Please, [tell me what you were going to tell me]."
+"Jeez, I only meant –" I began. But I stopped myself, remembering something I'd read, in the documents Zeroes had sent us. After the Minnesota Starvation Experiment, the researchers had made a guidebook for aid workers, and one of the things it said was this: "Refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately." I swallowed my defensiveness, long enough to realize that she had made a fair point. "I'm sorry, I shouldn't have made assumptions. Please, [tell me what you were going to tell me]."
 
 [Kayla began the story: (and/or bigbreak?)]
 
@@ -127,7 +127,7 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 [Maybe: K: Do <em>you</em> believe God exists? / M: I'm not sure what I believe / K: "That's just avoiding the question! Don't you think it's important to have the right answer about –"
 
-But for better or for worse, I didn't have to face that question that day, because we had just reached the store, and practicalities ensued.]
+But for better or for worse, I didn't have to face that question that day, because we had just reached the store, and [practicalities ensued. / We had to be unremarkable. Kayla: "if anyone talks to us, you do the talking! If I talk, people will remember me!"]]
 
 
 

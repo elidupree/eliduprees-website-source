@@ -97,7 +97,7 @@ The human body can withstand an incredible amount of punishment, but when it fai
 
 "Help".
 
-[Chapter break? - Something like "Making Decisions Based on Unknowable Evidence"? Or something related to ability to trust a future self who was coerced?]
+[Chapter break? - Something like "Making Decisions Based on Unknowable Evidence"? Or maybe that's later, for the decision to take the antidote? For here, maybe something related to ability to trust a future self who was coerced? "How I Took My Future Self Captive"?]
 
 ["Well if we're already in a paradox, there's no reason we CAN'T look at them [on the cameras]"]
 
@@ -107,7 +107,7 @@ The bodies of all the assistants were strewn around the room. Some of them had v
 
 Of all the people in the room, only Kayla and Marvin were still alive. [And, contrary to our plans, it was Marvin who was on the cot, with the IV in his arm, and Kayla who was standing to the side. Only when we reviewed the footage later did we notice the details – how Kayla already had the bandage and her arm, how she had already received the treatment before administering it to Marvin.]
 
-[My head swam. I sank back in the chair, trying to process what I was seeing. "Jesus Christ, what happened to them?" Watching numbly; both Kayla and Marvin were terrified, and as we watched, Kayla's body begin to jerk violently. She collapsed to the floor, dying like the others.]
+[My head swam. I sank back in the chair, trying to process what I was seeing. "Jesus Christ, what happened to them?" "A nerve agent!" exclaimed Aster. "Not gas, if Marvin's still standing" Watching numbly; both Kayla and Marvin were terrified, and as we watched, Kayla's body begin to jerk violently. She collapsed to the floor, dying like the others.]
 
 But the Kayla next to me [intense focus on the screen, neck leaning forwards?] "Lock the doors! Lock them in the room, right now!"
 
