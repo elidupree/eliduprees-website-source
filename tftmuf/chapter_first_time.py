@@ -74,13 +74,13 @@ People like to ask hypothetical questions about how their lives would be differe
 
 "Reggie, I thought he was evil like the rest of them, but maybe it's more complicated. The last thing he did before he died – literally while I was shooting all of them – he wrote… well, you can look at it." Video-Kayla held something up to the camera – a slightly crumpled sticky note, with some gibberish hastily scrawled across it in ballpoint pen. And under the gibberish, it said, "LAPTOP PASSWORD – TIME TRAVELERS YOU NEED THIS".
 
-[And in the room full of bodies, once the shooting was over, they had time to panic about the other thing: the time travel issue. They had started their attack too early, and they knew knew Zeros had been watching this exact room, meaning that Zeros would now be seeing <em>them</em> – One of the monitors in the meeting room was even open onto the security cameras in the time machine room, so they could see themselves watching themselves [wait, maybe that was blacked out?] – so they had changed their own past. What did that mean for them? Why did they still exist?]
+[And in the room full of bodies, once the shooting was over, they had time to panic about the other thing: the time travel issue. They had started their attack too early, [and they knew knew Zeros had been watching this exact room, meaning that Zeros would now be seeing <em>them</em> – One of the monitors in the meeting room was even open onto the security cameras in the time machine room, so they could see themselves watching themselves [wait, maybe that was blacked out?] – so they had changed their own past. / Or is it that they interrupted the meeting BEFORE the scientists checked the cameras, meaning that Zeroes would still be arguing (also a paradox)?] What did that mean for them? Why did they still exist?]
 
 Desperate for answers, [they looked at the note Reggie had left, as it made him sound like someone who knew what needed to be done]. [They opened his laptop and found a document called Aster's Notes.]
 
 [Maybe put PoV Marvin reading asters notes here: "Aster's notes were also included in the zip file they'd sent us. They were… [Move some of the description from next chapter to here?: Asters notes are extremely disorganized, lots of half formed sentences, using scientific terms that don't exist anywhere on the Internet. The scribblings of a genius, incomprehensible to us normal people.]]
 
-[And what Fours had learned from the notes, just in time to not ruin everything… The delay of 48 minutes had been lucky. Because [partial explanation]. Now they needed to go back in time AGAIN, before the time when their original selves would fail to go back. They hurried to do that, convinced Zeros to let them past (invited Zeros along with them? "It's a paradox anyway, it won't matter either way")]
+[And what Fours had learned from the notes, just in time to not ruin everything… The delay of 48 minutes had been lucky. Because [partial explanation]. Now they needed to go back in time AGAIN, before the time when their original selves would fail to go back. They hurried to do that, convinced Zeros to let them past (invited Zeros along with them? "It's a paradox anyway, it won't matter either way" – no, they were too much in a hurry, probably)]
 
 
 [K: "... So anyway, it's going to be over for us soon [which is a relief], now it's you two's chance to do it without a paradox"]
@@ -90,6 +90,8 @@ Desperate for answers, [they looked at the note Reggie had left, as it made him 
 [K: what?]
 
 [M: we don't even know why Simon came out the door. They'll only be able to fix the mistakes that we know about. How do we know how many more bugs there are? What if they're doomed too?]
+
+[What did he hear, anyway? (We were in a hurry and couldn't get the recording) Wait, could we just watch it again _now_? No, how do we know we wouldn't cause another paradox? We'd better just stick to the plan / (or, instead:) wouldn't it be in our recording? holy heck, I probably never even turned that recording off, the device is still on! [They don't hear Ontoh scratching the door, (" yeah I don't know what Simon heard, but we'll give it to PoV's in case they can figure it out) but PoV characters do hear it]]
 
 
 "I trust Marvin with my life. [Little pause] He works best if you get him talking about 'threat modeling'. He'll know what that means."

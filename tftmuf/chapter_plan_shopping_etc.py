@@ -131,6 +131,7 @@ But for better or for worse, I didn't have to face that question that day, becau
 
 
 
+[Somewhere in there: "...in all respects a god among men", from the Gyges story]
 
 [Not sure if this actually fits here: Maybe a child who grew up with the ring for their whole life, since before they developed their moral beliefs]
 
