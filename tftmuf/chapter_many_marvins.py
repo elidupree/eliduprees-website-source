@@ -65,7 +65,7 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 
 
-[You could technically try eating meat now because we're duplicating it, so it doesn't increase the amount of animals being mistreated? I mean, if you still think it's wrong, I respect your beliefs –/stop it! What if my beliefs are wrong, then you'd be respecting something that's wrong! You have to form your own opinion. "But what if I disagree with you?" "Then you'll be wrong"]
+[You could technically try eating meat now because we're duplicating it, so it doesn't increase the amount of animals being mistreated? I mean, if you still think it's wrong, I respect your beliefs –/stop it! What if my beliefs are wrong, then you'd be respecting something that's wrong! You have to form your own opinion. "But what if I disagree with you?" "Then you'll be wrong"] ["okay, I do have my own opinion. It's definitely okay because no more animals are dying or anything because of it""Someone's been murdered, and their corpse is just lying there. No one's _using_ it. Why _not_ eat it? ... Well, yes, technically, no one's being harmed, so I'm not morally obligated to stop you by force"]
 
 
 
