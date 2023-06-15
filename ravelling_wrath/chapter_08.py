@@ -373,9 +373,9 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 Justicar raised an eyebrow. "If it helps… there is always a choice."
 
-"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private information, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess. The place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
+"Oh, fuck off," I said. That was one of the Stern God's sayings. Stern types used it all the time when they wanted to blame people for stuff. Like, if a kid got in a fight, but they said the other kid hit first, then the Stern would be like "it was always your choice whether to hit them", and punish both kids equally. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying job as a factory engineer, because they were asking him to ignore safety rules to save money, and "there is always a choice" meant you could stick up for your values even if every&shy;one was telling you to just go along with something. I mean, good for him, I guess. The place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
-There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had pretty much been resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. I could feel the excitement building up in my chest. But at the same time, there was also a slow uncertainty.
+There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had pretty much been resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer.
 
 In the silence, Alchemist made a small sound under their breath.
 
@@ -391,9 +391,11 @@ In the silence, Alchemist made a small sound under their breath.
 
 "It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
 
-Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way." Yali was talking in a weirdly solemn voice. Something about it didn't feel sincere to me, but Alchemist didn't pick up on that.
+Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
 
 "Oh…" said Alchemist.
+
+I squinted at Yali. I was glad she knew what to say, but her voice was <em>too</em> solemn – it didn't feel sincere to me.
 
 Justicar added, "We all must cope with –"
 
@@ -413,17 +415,21 @@ I saw Morrow perk up, the way he did when he was about to prank someone. He was 
 
 It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
-It especially made a difference when Yali started to help Alchemist figure out about making potions. Yali had made a little workspace for the two of them, a marble countertop with a wide, shallow bowl shape. Off to one side, there were a bunch of bottles, made of glass and metal. At the other side, there were pencils and paper for notetaking. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power. And at first, Morrow hovered around them, asking all kinds of questions. But then, after just a few questions, he cut himself off, telling Alchemist, "I'm sorry, I didn't mean to break your concentration!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
+It especially made a difference when Yali started to help Alchemist figure out about making potions.
+
+Yali had made a little workspace for the two of them – a marble countertop with a wide, shallow bowl shape. On one side, she made rows of bottles, glass and metal. On the other, she made pencils and paper to take notes. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power.
+
+And at first, Morrow had hovered around them, asking all kinds of questions. But then, just as quickly, he cut himself off. "I'm sorry, I didn't mean to mush your brainflow!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
 
 "Why does Justicar have to come with us?" I said, laughing.
 
 "He needs a break from all us extroverts!"
 
-It took me a little while to realize what Morrow was implying. "Wait, are you saying Justicar's an extrovert?!"
+"Wait, how is Justicar an extrovert?!"
 
 "Ssshhh!" Morrow half-dragged me over the edge of the star.
 
-From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an undignified route." After a short while, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
+From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an un&shy;dignified route." [????? chainlink fences with barbed wire and handrails] After a moment, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
 
 <bigbreak>
 
@@ -509,7 +515,7 @@ I smiled across at Morrow. "Okay, fine, this is awesome, maaaayyybe I'd buy one 
 
 "Uh, she's not doing anything."
 
-"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
+"I TOLD you she's an extrovert! She keeps wanting to come join us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
 
 "If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
 
