@@ -429,7 +429,7 @@ And at first, Morrow had hovered around them, asking all kinds of questions. But
 
 "Ssshhh!" Morrow half-dragged me over the edge of the star.
 
-From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an un&shy;dignified route." [????? chainlink fences with barbed wire and handrails] After a moment, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
+From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an un&shy;dignified route." After a moment, two chain-link fences popped into existence, jutting out beyond the edge of the star, and curving around to the other side. They formed a narrow walkway, with handrails on both sides, so that Justicar could pull herself around the edge without leaving a standing position. It <em>was</em> much more dignified than just falling. But I couldn't help noticing the coils of barbed wire at the top of each fence – not a useful part of the walkway, just something she had manifested without thinking.
 
 <bigbreak>
 
@@ -449,7 +449,7 @@ Of course, Morrow had to try and outdo me. He stated manifesting a giant stack o
 
 I smirked. "That means I win! I totally win." I manifested a huge, spiky crown made of Blood Blades, and set it down on my head. "See this crown? This means I'm the winner, and I –"
 
-"The Blood Blades are not a <em>toy</em>," said Justicar severely.
+"The Blood Blades are not a <em>toy</em>," said Justicar severely, watching us from her usual hard stool.
 
 "Oh yeah? They're MY blades, and <em>I</em> say they <em>are</em> a toy! Check it out, now they're a –" I let one melt and flow in my hand, reshaping into – what was a toy that was vaguely blade-shaped? "Uh, now they're ski poles!" I jumped down and manifested more Blood Blades out of my feet, in the shape of skis, and pretended to ski around on the platform. Right away, my legs slipped out from under me and I fell on my face.
 
@@ -463,7 +463,7 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Yeah!!" added Morrow. "You from Walthridge? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the Fifth Ring like me, either.
+At first, I assumed Morrow was just messing with her. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the Fifth Ring like me, either.
 
 "I will not say I have not had privileges in my life. But no, I am not <em>from</em> Walthridge. I simply… was there for a time."
 
@@ -489,7 +489,7 @@ I snickered. Justicar looked away slightly, as if to say, <em>I can't believe I 
 
 Morrow danced away tauntingly. "Oh? So you've never wanted to burn down a house? Never ever?"
 
-"Okay, fine. But I wouldn't burn down some random mansions, I'd burn down the school."
+"Okay, fine. But I wouldn't just burn down some random mansions. I'd burn down the <em>school</em>."
 
 Justicar interrupted. "The premise was that he was <em>rich</em>. That gives you the ability to buy houses, but it does not give you the ability to burn down your school."
 
@@ -499,7 +499,7 @@ Justicar interrupted. "The premise was that he was <em>rich</em>. That gives you
 
 "Fuck rich people," I concurred.
 
-Morrow danced up to me, manifesting piles of gold coins spilling out of his hands. "What would you really do if you were rich, though?"
+Morrow danced up to me, with piles of gold coins spilling out of his hands. "What would you really do if you were rich, though?"
 
 "Well –" I hadn't actually thought about it that much. "Well – first of all, I'd pay Layo's way through art school, so he doesn't have to work in the summer. And then, um…"
 
@@ -507,21 +507,23 @@ Morrow danced up to me, manifesting piles of gold coins spilling out of his hand
 
 "You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway?" I pointed one finger at myself and another down through the star at Yali. "I already have everything I want." 
 
-Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Morrow joined me, and pretty soon we were both licking chocolate off the fountain and grinning at each other's messy faces.
+Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Pretty soon we were both licking up chocolate and grinning at each other's messy faces.
 
 I smiled across at Morrow. "Okay, fine, this is awesome, maaaayyybe I'd buy one of these –"
 
-"Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
+"Will you <em>stop doing that??</em>" Morrow hissed.
 
-"Uh, she's not doing anything."
+"What?" I followed his gaze – he was glaring at Justicar. "Uh… she's not doing anything."
 
 "I TOLD you she's an extrovert! She keeps wanting to come join us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
 
-"If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
+Justicar's voice came crisp and final. "If you have a problem with the choices I make, in what <em>should</em> be the privacy of my own mind," she said, "it is not my responsibility to accommodate you."
 
-Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
+Morrow was breathing hard, looking at Justicar with anguish. Normally, I liked it when he messed with her, but this was different. "<em>Dude</em>," I said, grabbing his shoulders and making him look at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But I didn't want Morrow to do anything stupid.
 
-Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten to use one before – there was one time when I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
+Of course, Morrow didn't listen to me. So I tried my usual tactic: distraction.
+
+"Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten to use one before – there was one time when I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
 
 Morrow started furiously manifesting fireworks of his own.
 
@@ -547,7 +549,7 @@ I cursed inwardly. "Sure, but why?" I said out loud.
 
 It looked like Morrow was about to pester Yali some more, so I grabbed his arm and dragged him back to our piles of junk. But what were we going to do now? Manifesting was so second-nature now, it was hard to think of what I'd do <em>without</em> manifesting.
 
-I slouched in one of my new thrones, watching Morrow as he rooted through the piles for Waiting-knows-what.
+I slouched in one of my thrones, watching Morrow as he rooted through the piles for Waiting-knows-what.
 
 "By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted around me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
 
