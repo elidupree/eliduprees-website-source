@@ -519,11 +519,11 @@ I smiled across at Morrow. "Okay, fine, this is awesome, maaaayyybe I'd buy one 
 
 Justicar's voice came crisp and final. "If you have a problem with the choices I make, in what <em>should</em> be the privacy of my own mind," she said, "it is not my responsibility to accommodate you."
 
-Morrow was breathing hard, looking at Justicar with anguish. Normally, I liked it when he messed with her, but this was different. "<em>Dude</em>," I said, grabbing his shoulders and making him look at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But I didn't want Morrow to do anything stupid.
+Morrow was breathing hard, looking at Justicar with anguish. Normally, I liked it when he messed with her, but this was different. "<em>Dude</em>," I said, grabbing his shoulders and making him look at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's really <em>not</em> our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But I didn't want Morrow to do anything stupid.
 
 Of course, Morrow didn't listen to me. So I tried my usual tactic: distraction.
 
-"Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten to use one before – there was one time when I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
+"Check <em>this</em> out!" I said, manifesting a bunch of fireworks. At first, I messed up lighting them, because I'd never actually done it before – I'd once been out with some older kids who smuggled them into the city, but I'd barely gotten to grab one before someone snatched it away so I wouldn't burn myself. So I accidentally shot the first one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I taunted Morrow, as I made bright trails across the sky.
 
 Morrow started furiously manifesting fireworks of his own.
 
@@ -565,21 +565,17 @@ Morrow smirked. "Whaddaya think?"
 
 "I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on." Haha, I had probably made this one girl hate me forever by picking a fight when she wasn't into fighting like I was. "Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
 
-Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Haha, should've known not to try to explain anything serious to him.
+Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Stern take it, why did he always ignore me when I talked about anything real?
 
-"You want to play like that?" I laughed. I was about to prank him by manifesting something, but then I remembered I wasn't supposed to be manifesting. So I just waited for a minute, then snuck up behind him and tickled him.
-
-Morrow jumped and dropped the puzzle box he was holding. "I'll get you back for that!" he said.
-
-Pretty soon, we were playing games and pranking each other like always. It didn't feel like very long before I heard Yali's voice, calling us to come back around.
+For lack of else to do, I decided to prank him again – maybe a bit more irritably than usual. Since I wasn't supposed to manifest, I just snuck up behind him and tickled him, making him jump and drop the box. Of course, he took it in fun, and pretty soon we were playing around like always – but my heart wasn't really in it. It was a relief when we heard Yali's voice, calling us to come see what Alchemist had made.
 
 <bigbreak>
 
-When we came back around the star, Alchemist was talking with Yali, quietly but confidently. But as soon as Alchemist saw the rest of us, their eyes locked on to us and they went silent again.
+Before we climbed back around the star, Alchemist was talking quietly but confidently with Yali. But when they saw the rest of us, they froze up again, silent and staring.
 
-"Don't think about them," Yali told Alchemist gently. "Just keep doing what you've been doing."
+"Don't think about them," Yali murmured. "Just keep doing what you've been doing."
 
-Alchemist nodded, and they looked back at the workspace in front of them. There were a bunch of bottles of bubbling potions, a lot of pictures and notes, and even some little heaps of colorful goo just lying on the table. Before I was done looking at it, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere, less like a stage magician waving a wand and more like a heavy laborer wringing magic out of the soaking air. 
+Alchemist gave a little nod, and looked back at the workspace in front of them. There were bottles of bubbling potions, stacks of pictures and notes, and even little heaps of colorful goo just lying on the table. As I took it all in, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere. It was less like a stage magician waving a wand, and more like a heavy laborer wringing magic out of the soaking air. 
 
 "We thought we'd have a little demonstration," said Yali. "Some of these potions are completely safe –"
 
