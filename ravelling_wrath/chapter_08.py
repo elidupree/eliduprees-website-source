@@ -573,7 +573,7 @@ For lack of else to do, I decided to prank him again – maybe a bit more irrita
 
 Before we climbed back around the star, Alchemist was talking quietly but confidently with Yali. But when they saw the rest of us, they froze up again, silent and staring.
 
-"Don't think about them," Yali murmured. "Just keep doing what you've been doing."
+"It's okay," Yali murmured to them. "Just keep doing what you've been doing."
 
 Alchemist gave a little nod, and looked back at the workspace in front of them. There were bottles of bubbling potions, stacks of pictures and notes, and even little heaps of colorful goo just lying on the table. As I took it all in, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere. It was less like a stage magician waving a wand, and more like a heavy laborer wringing magic out of the soaking air. 
 
@@ -591,17 +591,17 @@ Morrow was still out of it. Alchemist answered. "It, maybe, makes you, see, diff
 
 "Can I try it?"
 
-Alchemist made another one for me. It was slimy and tasted like raw fish. As soon as it went down my throat, my vision split apart into thousands of little bubbles, each observing only a very small area. Alchemist's face in front of me was split into thousands of little bits, like an intricate stained-glass window, but also moving and flowing as I looked around. Up above, individual stars danced from bubble to bubble. And somehow, I could see everything clearly at once, even without moving my eyes to focus on individual things.
+Alchemist made another one for me. It was slimy and tasted like raw fish. As soon as it went down my throat, my vision exploded into thousands of little bubbles, splitting up Alchemist's face like a stained-glass window. As I looked around, the bubbles moved, flowing over every little thing around us, even capturing the stars above into their own little pockets. And somehow, I could see everything clearly at once, even in my peripheral vision.
 
 I tried to move around to look at things from different angles. My vision was so <em>everything</em> that it was hard to remember how to walk. I managed it, but only slowly.
 
 "This is awesome," I said. "But, how do you turn it off?"
 
-In a thousand tiny bubbles, Justicar frowned. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
+The bubbles with Justicar's face flowed into a frown. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
 
-It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali thought it was important to have a bunch of the potion-removing-potions lying around. That was probably accurate.
+It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali had made sure there were a bunch of the potion-removing-potions lying around. Knowing me and Morrow, that was probably sensible.
 
-I drank one of them. It tasted like gritty ice, but lukewarm. My vision went back to normal, which was kind of a relief, and kind of a disappointment.
+I drank one of them, silently thanking the Waiting God for Yali's foresight. It tasted like gritty ice, but lukewarm. My vision went back to normal.
 
 <bigbreak>
 
@@ -609,7 +609,7 @@ Of course, that wasn't the <em>only</em> potion we got to play with.
 
 "This. Is. AWESOME!!" I zoomed up into the air.
 
-"Before you fly off," Yali called after me, "take this." I dropped back to the ground, but misjudged the distance and went tumbling onto the floor. Once I got up, Yali handed me a kitchen timer. "The potion won't last forever. This will go off when you need to come back."
+"Before you fly off," Yali called after me, "take this." I dropped back to the ground, but misjudged the distance and went tumbling. Once I got up, Yali handed me a kitchen timer. "The potion won't last forever. This will go off when you need to come back."
 
 "Okay, fine." I didn't want to just carry it in my hand the whole time, so I thought for a moment and then just glued it to the back of my arm. Then I realized that I had basically reinvented the wristwatch, haha.
 
