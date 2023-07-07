@@ -113,7 +113,7 @@ But the Kayla next to me [intense focus on the screen, neck leaning forwards?] "
 
 "W-what?"
 
-What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew that if the experiment was simply going to kill everyone in the room, the other Kayla would have no reason to message us, because she could simply allow the prearranged failure message to arrive. So if she messaged us for help, that meant a completely different form of danger, one that would need a response from us <em>immediately</em>. And our Kayla already had a guess of what it was.
+What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew that if the experiment was only going to kill everyone in the room, the other Kayla would have no reason to message us, because she could simply allow the prearranged failure message to arrive. So if she messaged us for help, that meant a completely different form of danger, one that would need a response from us <em>immediately</em>. And our Kayla already had a guess of what it was.
 
 "It's in there with them! The thing that was following me! Lock it in!"
 
