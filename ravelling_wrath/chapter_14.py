@@ -387,7 +387,7 @@ Yali answered matter-of-factly. "It was 100% my own fault. No child Romhisat's a
 
 "…<em>you</em> did that? <em>You</em>…?"
 
-"You've only ever seen what I'm like when I'm with <em>you</em>," she said simply.
+"You've only ever seen what I'm like when I'm with <em>you</em>," she said gravely. "Back then, I didn't know how to hold myself back. And I didn't have the memories of seventy Farseers guiding me. Showing me what will happen to our relationship if I give in to my old habits."
 
 It was true… Until now, I had hardly known anything about Yali's life before we met. I had loved her and wanted to know everything about her, but she had never wanted to talk about herself. She had kept it all hidden… she'd even told me to – "Wait…" I said. "When you said I couldn't tell anyone you were the Farseer…"
 
