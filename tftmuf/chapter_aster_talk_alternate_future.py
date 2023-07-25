@@ -50,6 +50,9 @@ A: no, please go on
 K: so, let's say it happens in the year 5001. Well, in the year 5000, what do you think people will be saying? The ones without PTSD are going to be saying 'we haven't destroyed ourselves in the last 5000 years, why would it happen now?' And they'll be flat-out wrong. How do you know that's not what's happening right now?
 
 
+[Somewhere in the downtime, or maybe in downtime in Part 2: Aster explains how Fuller cheated at the head-of-department election by telling Reggie the wrong date so he wouldn't get to vote; Marvin explicitly comments on how this makes him seem [not badass], just a petty, selfish man… Until he found the Ring of Gyges, and became a monster. ]
+
+
 
 [Somewhere during the above, Marvin: how are you so comfortable with ceasing to exist? Aster: well, is it really dying if you're still alive afterwards? One of you still exists, and the only difference is that you won't remember the same things you do now. Marvin: it's still freaky. I had my wisdom teeth removed and the anesthetic made it so that I didn't remember stuff I've said afterwards, I don't like to think about that. Aster: well, think about who I am. If I thought it was death every time I didn't know if I would remember, or didn't know the next time I would be conscious, then I would have to believe that I was dying basically every moment of my existence. Marvin [later]: so it really is just like forgetting…?]
 

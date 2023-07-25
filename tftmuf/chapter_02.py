@@ -2,6 +2,8 @@
 
 [????? Reestablish scene, maybe mention more details here]
 
+[It's surreal to see your alternate selves for the first time. And the 2 kaylas, who I'd just met but already looked so much different, and with the rifle. I didn't feel like it was real/hard to believe it was right in front of me]
+
 She continued in that same, dead-tired voice.
 
 "You need to get to the time machine as soon as you can. Once you go back, you can send this video to yourselves, so it turns into a stable time loop. Don't think about how that works right now, you'll have plenty of time to think about it once you're back at 3 AM. Right now, you have to worry about getting there.
@@ -16,7 +18,7 @@ But once you've forced out the first few words, the rest of the words come easie
 
 But the Kayla crouching next to me – gaunt, strung tight with terror – had no choice but to believe in it. "Why aren't you doing what he said?" she hissed at me.
 
-Her words knocked me out of my trance. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – 02_print_this_out.png. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
+Her words knocked me out of my trance. I fumbled through Marvin's instructions, digging a USB drive out of a drawer in my desk, then finding the file to print – <code>02_print_this_out.png</code>. It was definitely me who had chosen these filenames – practical names, telling me what I needed to know, using two digits out of habit even though the files only went up to ????? "09". It was eerie, seeing my own handiwork on something I had no memory of creating.
 
 "– in fact, uh, why don't we just cut to the video of us using it, so you'll see what you need to do.
 
@@ -111,43 +113,60 @@ On one side of the egg, there was a hatch that could open – a place where the 
 
 [The notes: "shut off your phone before you go back in time, literally take the battery out, it's too much of a paradox risk otherwise"]
 
-[Maybe narrated, but starting with a hook about the scream: Marvin climbs in first, leaning against the worryingly dark interior curve of the egg, like climbing into a cave. Kayla climbs after, having a bit of a hard time balancing as she tries to duck through the narrow metal entrance. She concentrates to do it right, but her muscles are shaking too much and they fail her, and she stumbles forward. I panicked and caught her shoulders]
 
-[Any noise in such close quarters, with [materials] around you, echoes back and multiplies itself. Kayla's scream was unexpected and hurt my ears a lot. Just as quickly, it was cut short]
+But when the time came for us to climb into the egg, [there was a problem] that we hadn't been warned about.
+
+In the first timeline, [Kayla had climbed in first, impatient with Marvin being nervous about it.] But in this timeline, I had been reassured enough by the words of my future self, and my sense of responsibility for Kayla overruled. So I resolutely/carefully climbed up the stepladder, poked my head into the narrow, worryingly dark entrance, like climbing into a cave. The inside was spherical, so there was nowhere to stand; I awkwardly stood slightly off-center, leaning against the side]
+
+[But that was the problem.] In the first timeline, Kayla had just slid in feet-first. But now, she had to avoid running into me. She [loomed as a silhoutte, shutting off the light in the narrow metal entrance, concentrating on keeping her balance, bracing her arms against the steel above her. But as she ducked through, her shaking muscles failed her. Her body pitched forward towards me. In a panic, I pushed myself up to catch her – and found myself holding her by the shoulders, the worst luck]
+
+When you're surrounded by a sphere of steel, any sound reflects back to you from every direction, multiplied and distorted by the resonant frequency of the chamber you're in. Kayla's scream [blasted my ears from all sides]. Just as quickly, it was cut short, leaving only metallic echoes and Kayla's short breaths as she controlled herself.
 
 "Oh my God, are you okay –"
 
-[, and she was panting and getting her balance. "It's fine, it's just my neuropathy, just don't touch my shoulders"]
+"It's fine, it's just my neuropathy, just don't touch my shoulders –"
 
-[The hatch closed behind us, swung into a place by a mechanical arm. There's something unusual about a space that's genuinely totally dark: you go through your whole life thinking darkness is when the lights are turned off, but there's always a bit of light sneaking in, from the streetlights, the moon, the stars, sneaking around your curtains, through your eyelids, helping you navigate by on an unconscious level. But the solid metal of the egg completely shut out, leaving only the afterimages early following my eyes wherever I looked, just Kayla's short breaths, her clammy hand clutching my arm to position herself,]
+And then the hatch closed behind us, swung into a place by a mechanical arm, shutting us into total darkness.
+
+[There's something unusual about a space that's genuinely totally dark: you go through your whole life thinking darkness is when the lights are turned off, but there's always a bit of light sneaking in, from the streetlights, the moon, the stars, sneaking around your curtains, through your eyelids, helping you navigate by on an unconscious level. But the solid metal of the egg completely shut out, leaving only the afterimages early following my eyes wherever I looked, just Kayla's breathing, her clammy hand clutching my arm to keep steady,]
 
 "God, I'm so sorry –"
 
 "It's only pain," she growled.
 
-[But I had recognized that scream. It hadn't been a scream of when you're startled, it was the one you scream when you're in unimaginable pain, using the full force of your lungs. I'd only heard a scream like that once before, when one of my nieces [mistake as a 12-year-old had to be rushed to hospital: crashed a bike "going down the same hill she'd gone down hundreds of times, one moment everything is fine and the next moment], one of the most terrifying experiences of my life. But to Kayla this level of pain was normal, as if it was just an annoyance she had to deal with]
-
-[The video hadn't warned us about this, because in their timeline, it never happened – Kayla had climbed in first, while Marvin was nervous]
+[But I had recognized that scream. It hadn't been a scream of when you're startled, it was the one you scream when you're in unimaginable pain, using the full force of your lungs. I'd only heard a scream like that once before, when one of my nieces [mistake as a 12-year-old had to be rushed to hospital: crashed a bike "going down the same hill she'd gone down hundreds of times, one moment everything is fine and the next moment], one of the most terrifying experiences of my life. But to Kayla, this level of pain was normal. Just an annoyance she had to deal with on a day-to-day basis.]
 
 [a low humming built up, then suddenly cut out, with a slight change of pressure in my ears. The hatch opened, onto the same room, but different. The lights were out]
 
+[Chapter break: the Minnesota Starvation Experiment?]
+
 ?????
+
 
 [Night worker walks by muttering "there's a ghost, I swear" about the circuit breaker being tripped; I could indulge in retrospective narration about the circuit breaker rather than forcing it into the worker's mouth]
 
+[We quickly got on the computer again and open the camera feed to the hall right outside the door. Passing in the hallway, the Voice of a beleaguered old woman who has been given the most thankless tasks, "there's a ghost, I swear. Why does this damn circuit breaker always trip at 3 AM. It's a damn ghost –" trailed off as she went around the corner.]
+
+[The notes said "Check the hallway on cams and wait til the night custodian has passed. (We're pretty sure ghosts don't exist)"]
+
+
 "Okay," I whispered. "[They are far enough away]"
 
-[We opened the door and quickly crossed the darkened hall into [Simon's break room.] Following the instructions on the increasingly crumpled paper [which had been shoved in and out of my pocket?] I plugged in the USB stick, and brought up the video again, then skipped ahead to the part we'd been at]
+[We opened the door and quickly crossed the darkened hall, entering the first door on our left. Fluorescent lights hummed on as we entered. Following the instructions on the increasingly crumpled paper [which had been shoved in and out of my pocket?] I found the nearest computer and plugged in the USB stick, and brought up the video again, then skipped ahead to the part we'd been at]
 
 ?????
 
-[The video had a 30 second long pause, followed by] "Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – [and this is the private break room for Simon, who is not working today and only shows up for the meeting], so it won't change anyone's timeline. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were [????? captive/on the run], but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
+[The video had a 30 second long pause, followed by] "Now. Kayla." [Video-Kayla's voice was suddenly stern, serious] "I really hope you went to the room I told you to. We picked this room because there's food in the fridge – and it won't change anyone's timeline, because this is Simon's private break room, and he only shows up for the meeting. You need to eat, <em>now</em>. Suppressing our hunger was a stupid decision. It was smart when we were running, but it was stupid to keep hiding it for hours after we could have asked Marvin to get food for us. Marvin, if she doesn't want to eat, you have to –"
 
-But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. He mumbled "She's probably already doing it" ("you didn't see yourself rush for that fridge the first time we found it.]
+But [the Kayla with me had already flung open the fridge and was stuffing her face. And the other Marvin had realized it. "She's probably already doing it," he mumbled.
+
+"What?"
+
+[Marvin had a bit of a [grimace? Wanting to be respectful, but can't help but smile at Kayla's contradictions, but too stressed to really smile?] "You didn't see yourself rush for that fridge the first time we found it. The new you, she'll have gone for it as soon as you said –"
 
 "Oh damn it, you're right, she's probably not even listening to me. Listen, uh… Marvin? Marvin, make sure she doesn't eat more than half of what's in that fridge, she'll vomit. Ask me how I know. She can eat half now, and half… maybe an hour from now ?????"
 
-[The Kayla with me was glaring back at her indignantly. "I AM listening" she tried to say amid mouthfuls of food, humiliated rage from having her flaws pointed out in front of me, by someone whose opinion she couldn't possibly deny. She pointedly started dividing everything in the fridge into two equal piles – well, three piles, one of which was all the animal products – literally tearing sandwich in half, eating one half, and putting the cheese in a separate pile]
+But the Kayla in the fridge still had an ear open. She glared back indignantly, her food-stuffed mouth pushing out words that might've been "I AM listening". I could recognize that humiliated rage. It's never fun to have your mistakes pointed out to you – and only moreso when it's your future self, pointing out the mistake you are making at the very moment, one you can't possibly deny. Kayla started pointedly dividing everything in the fridge into two equal piles [– well, three piles, one of which was all the animal products – literally tearing sandwich in half, eating one half, and putting the cheese in a separate pile]
 
 [After she forced herself to stop eating (staring at the food, but held back by the unbreakable laws inside her head), possibly Marvin trying to make conversation to distract her:]
 
@@ -167,9 +186,19 @@ She answered with a single word. "Yes." [And in that word, I could feel/but she 
 
 The Kayla in the video was still talking, almost forgotten behind us. I skipped back to where we had left off.
 
-"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up – where people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I've never wasted my brain on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. ????? you'll need to stock up for that when you go shopping later. But we can't do that yet, first we have to tell you the time travel rules."
+"– she needs to be eating about 4000 calories per day. I'm not joking, we looked it up. There was research in the 1940s – the Minnesota Starvation Experiment, you can look it up –"
 
-[voiceover Marvin: "uh, actually, _first_ you need to run the script." K: "the what?" "The script I'm going to make! The program that closes the time loop. You know how we sent you this video, and unlocked the door for you, and stuff? Well, if you're in the past now, you've replaced us, so now we won't be there to do that. So <em>you</em> have to do that. But not manually, of course! If you sent it manually, you might not do it at exactly the same time, and then there'd be a paradox again. So I'm going to make a script that automatically sends it at the exact same time as we did. Well, it'll send it at <em>some</em> exact time, and it'll be the same as when we sent it, because we'll use the same script. Well, for you, we <em>did</em> use the same script. Ugh, time travel. I've been doing this for a week and I'm still not used to it. Uhh… never mind, just go ahead and run it. It'll be called 'run_this_once_youre_in_simons_room.py' or something. You can run it on the computer in Simon's room"]
+"– no, they shouldn't look it up – remember, using the Internet might still be a paradox risk. We'll, uh, I guess we'll include the documents in the zip file –"
+
+"– Right. Anyway, in the experiment, people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I've never wasted my brain on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. You'll be able to stock up on food when you go shopping later. But you can't do that yet, first we have to tell you the time travel rules."
+
+At that point, there was a sudden cut in the video – switching to a part they recorded later, and edited in afterwards.
+
+"– just realized, before we tell them the story, we should have them run the script," said Marvin.
+
+"The what?"
+
+"The script I'm going to make! The program that closes the time loop." He faced the camera. "You know how we sent you this video, and unlocked the door for you, and stuff? Well, if you're in the past now, you've replaced us, so now we won't be there to do that. So <em>you</em> have to do that. But not manually, of course! If you sent it manually, you might not do it at exactly the same time, and then there'd be a paradox again. So I'm going to make a script that automatically sends it at the exact same time as we did. Well, it'll send it at <em>some</em> exact time, and that'll be the same as when we sent it, because we'll use the same script. Well, for you, we <em>did</em> use the same script. Ugh, time travel. I've been doing this for a week and I'm still not used to it. Uhh… never mind, just go ahead and run it. It'll be called 'run_this_once_youre_in_simons_room.py' or something. You can run it on the computer in Simon's room."
 
 [I dutifully ran <code>03_once_youre_in_simons_room_you_can_run_this.py</code>]
 
