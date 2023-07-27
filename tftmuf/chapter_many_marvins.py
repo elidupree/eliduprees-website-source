@@ -54,6 +54,37 @@ He actually called it "onboarding", as if we were a tech company, and not [basic
 
 
 
+[Kaylas and Marvins mostly worked in separate areas]
+
+Maybe it was inevitable that Marvins would be more comfortable working with other Marvins, and Kaylas with Kaylas. Maybe we were fundamentally incompatible, and couldn't live with each other for long, not without tearing each other apart, as Alphas had done. But we were never tested on that, because there was a more immediate, more proximal reason that Marvins and Kaylas couldn't work in the same room.
+
+The <em>proximal</em> reason was the screaming.
+
+Kayla's neuropathy was a constant presence in her life, but she had learned to cope with it. She knew how to be careful with her shoulder movements, and she didn't have screaming-out-loud pain on most days. As a result, there was only about one ear-spliting scream every 3.5 days… <em>per Kayla</em>. Multiply that by 200 Kaylas, and divide by Kayla's average of 17.4 waking hours per day… and you get, on average, one scream every 18 minutes. Sometimes there were many in a row, like when Kaylas rose from bed, their coordination impaired by sleep. Other times, I could visit her rooms for several hours, and be lulled into a false sense of security, before a series of screams assailed my ears again.
+
+I tried to get used to it. That's what Kayla wanted me to do: to respect that she was handling the pain herself, and not get distracted by it. But I couldn't get used to it. The sound activated my deepest instincts, telling me, <em>someone is in danger!</em> And even though my brain knew it wasn't true, my body sent me into fight-or-flight mode every time. As much as I wanted to share the space with her, I couldn't live like that. So we Marvins mostly stayed in our own half of the building. We worked with Kaylas over video chat, piping the audio through custom noise filters that changed the sound just enough to convince my body that it wasn't a threat.
+
+Kaylas had a different solution. Every Kayla wore a high-tech headset at all times, with bulky, passive sound isolation <em>and</em> active noise cancelling. They'd been designed for the military; Kayla had insisted on stealing one instead of buying it, so that no money would go towards the military. With the music she played on them, she couldn't hear a scream, not even from right next to her. If you wanted to get a Kayla's attention, there was a detailed protocol to follow. First, you were supposed to check her "do not disturb" status on your phone; then, if it was lower than "red", you could send her a message. Your message could specify an urgency level, which would determine whether it would play a sound, or show a notification, or just be in her chatbox next time she checked it. And then you had to wait for her to notice.
+
+There was no protocol for interrupting a Kayla with her "do not disturb" set to "red". If something was urgent enough for that, it was urgent enough for you to pull your personal alarm, and warn her in the past instead of the present.
+
+The first time I tried listening to Kayla's music, I couldn't hear anything but chaotic noise. I only later realized that she was listening to 2 or even 3 pieces of music at the same time, psytrance and thrash metal and industrial ambient.
+
+"Regular music is too empty!" she said, when I asked her about it. "I need more kinds of sounds, to fill the space. And it has to be loud enough to get into my brain –"
+
+"Okay, but be careful, you can damage your hearing –"
+
+"You Marvins always say that! We've talked about this, we have it on exactly 70 dBA, y'all tested it, it's safe –"
+
+Even her food was inhospitable to Marvin life. Besides being vegan, she couldn't stand anything that was sweet or sour or spicy – but she snacked on potato chips and salted almonds all day, and she <em>put more salt on them</em> before eating them. I had a taste for salty things myself, maybe more than was healthy for me, but when I put Kayla's food in my mouth, my mouth said, <em>get this out of here.</em> For her "serious meals", she had taken bags of peanuts and individually tasted them to find the "best peanuts", then slowly crushed them with a needle-nose pliers until they had a pasty texture, then duplicated them thousands of times and spread the resulting paste on slices of bread, from which she'd removed the crusts.
+
+"Isn't that just peanut butter?" I asked, like a dingus.
+
+"No it's not! Peanut butter is disgusting and gooey! This is more of a paste! And I left in the hard bits so I can scratch my tongue with it –"
+
+
+
+
 
 [debriefer warning Marvin about what could happen with Kaylas ("don't try to stop her from deleting herself"); video of "kayla going to delete herself". "The others all know what they're doing but I've [gotten dislodged out of it] – I was with 4 others who had [gotten dislodged] and they got back on track but I didn't – There's plenty more of me, and they're better… my existence has neither intrinsic value (because I don't enjoy it) nor instrumental value (because the others are a better use of resources than I am), so why shouldn't I delete myself??" "What is the point, we might as well just walk up to Nochli"... You should get therapy, we've been doing it and it's helpful. No way, not worth it, therapists will just tell me to be less of who I am. Well I'm not going to give up, even if you delete yourself today I'm going to keep trying to convince you to get therapy so you don't have to in the future, is that okay with you? Of course it's okay, [the only scenario where would I agree to it is one where I actually concluded it was a good idea, so asking is never a violation]]
 

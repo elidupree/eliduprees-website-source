@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+import os
 import os.path
 from num2words import num2words
 
@@ -19,6 +20,38 @@ chapters = flatten([
   tftmuf.chapter_01.posts,
 ])
 
+# quick hack to render the other chapters
+for name in os.listdir("tftmuf"):
+  m = re.match(r"^chapter_(.*)\.py$", name)
+  if m and name != "chapter_01.py":
+    with open(os.path.join("tftmuf", name), encoding="utf-8") as file:
+      text = file.read().strip()
+      chapter_title = m.group(1)
+      chapter_lines = []
+      def finish_chapter(new_title):
+        global chapter_title, chapter_lines
+        
+        if chapter_lines:
+          chapters.append ({
+            "title": f"The Future They Made Us Forget, chapter {len(chapters)+1}",
+            "auto_paragraphs": True,
+            "head": tftmuf.definitions.head,
+            "chapter_title": chapter_title,
+            "contents": "\n".join(chapter_lines)
+          })
+        
+        chapter_title = new_title
+        chapter_lines = []
+      lines = text.split("\n")
+      for line in lines:
+        c = re.match(r"\[Chapter (?:title|break): (.*)\]$", line)
+        if c:
+          finish_chapter(c.group(1))
+        else:
+          chapter_lines.append(line)
+      
+      finish_chapter(None)
+      
 
 for index, chapter in enumerate (chapters):
   chapter ["chapter_number"] = index + 1

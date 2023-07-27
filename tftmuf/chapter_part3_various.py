@@ -40,7 +40,16 @@ Reggie: "Also, I move that Marvin's comments, to the effect of _beeeeeeeeeeeeeee
 
 
 
-[not 100% sure whether i want to use this: shortly after they see the nochli ocean structure, a nochli approaches pov marvin, having sabotaged all of the nearby paradox traps using tiny insects and blacked out any windows to avoid being observed; Marvin pulls the personal alarm but nothing happens; "you're not the only one who can use paradox traps," said Nochli gently; Nochli butters up Marvin ("I'm impressed with what you've achieved") and claims to be willing to coexist in peace, as long as they minimize existential risk by making sure not too many people are freed of the huvith (and if too many people are freed, then Nochli will be forced to wipe them out). Nochli comes off as being like the forthright, trustworthy Nochli from before they became alchiia (because that's the appearance that would be appealing to Marvin's). Marvin is getting convinced, because Nochli is using time travel to be convincing. But in the middle of the conversation, Nochli gets shot to pieces and 3 Kaylas march in to rescue Marvin; "but he wasn't trying to hurt me, he was just talking!" (Kayla to another Kayla:) "this Marvin is compromised, we have to take them to the less secure base with the other compromised Marvin's"; while they take him there, they try to talk him out of it ("what do you think Nochli would do if they wanted to get you to sympathize with them? Isn't that exactly what you just experienced?")]
+[not 100% sure whether i want to use this: shortly after they see the nochli ocean structure, a nochli approaches pov marvin, having sabotaged all of the nearby paradox traps using tiny insects and blacked out any windows to avoid being observed; Marvin pulls the personal alarm but nothing happens; "you're not the only one who can use paradox traps," said Nochli gently; Nochli butters up Marvin ("I'm impressed with what you've achieved") and claims to be willing to coexist in peace, as long as they minimize existential risk by making sure not too many people are freed of the huvith (and if too many people are freed, then Nochli will be forced to wipe them out). Nochli comes off as being like the forthright, trustworthy Nochli from before they became alchiia (because that's the appearance that would be appealing to Marvin's). Marvin is getting convinced, because Nochli is using time travel to be convincing. But in the middle of the conversation, Nochli gets shot to pieces and 3 Kaylas [or robots?] march in to rescue Marvin; "but he wasn't trying to hurt me, he was just talking!" (Kayla to another Kayla:) "this Marvin is compromised, we have to take them to the less secure base with the other compromised Marvin's"; while they take him there, they try to talk him out of it ("what do you think Nochli would do if they wanted to get you to sympathize with them? Isn't that exactly what you just experienced?")]
+
+["but you vivisect people!"
+
+Nochli, emoting regret: "previous Nochli decided it was okay because they don't suffer. I have not done it; all Nochli have decided not to do it since [the bombing]."
+
+"You just _stopped_??
+
+"We hope to include you in our trust!
+
 
 
 
