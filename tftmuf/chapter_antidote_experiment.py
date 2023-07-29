@@ -133,33 +133,59 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 "He's not supposed to be [getting the treatment]! He's been mind controlled!" [She wasn't quite correct [he had only been coerced] but it was close enough]
 
+[While I worked, Kayla gave orders. "Aster, what's the fastest we can get more of the antidote?"]
 
+"The chem lab. That's where we keep the phrehibiphor. And for the antidote, we can use a distillation – no, the other me will've already done that, there'll still be some left in the condenser –"
 
-[Shouldn't we be going back in time?]
+"Then come with me! We'll go there right now. Marvin, you'll have to stay here and watch the doors –"  Kayla grabbed her current phone and mine, and set up a video call between them. "
 
-"[If there's someone, or something, following us] Right now is the ONLY time when we know where they are! [They were just in the experiment room, they are either there or kidnapping Marvin]" [maybe Marvin and Ontoh can have been promptly trapped in the experiment room, actually?]
+[Aster and Kayla go over the route to the chem lab. Kayla tells Marvin what doors to lock, so that no other invisible stalkers can kill them while they're on the way to the chem lab]
 
-"[Aster, where can we get more of the antidote that's least likely to have one of them waiting there?]"
+"Make sure Marvin doesn't get out of that room, no matter what happens!"
 
+?????
 
+Marvin: "[you're going to take the drugs??] You've died every time!"
 
+"I need to be able to see them!"
 
-[The other Marvin tries to get through the door, obviously in distress; Marvin can't resist using the security cameras to talk to him. "You need to let me use the time machine!" "What's going on? Why?"]
+[Gotta figure out ordering: "don't go back in time! Well, if we die, then I guess you'll have to risk it. And if any of the doors open, that means another invisible attacker is about to kill you, so you'd better risk it, yeah"]
 
+[They left before I could get used to the idea; I was stuck doing what they said. I watched the doors,; heart beating and ready to jump at the slightest sound; it was scarier because absolutely nothing was happening, I had to keep glancing at the doors to see that they hadn't changed, fighting doubts about whether if they did indeed change, whether I'd be about to die]
 
+[On the surveillance camera looking at the other Marvin: Marvin finally stops just standing there [i.e. talking to Ontoh] and tries to go out the door. He gets confused, wonders if someone else locked it, and tries to go in the security console, only to find that PoV Marvin removed his access. At this point he starts to freak out, yelling "to himself"; PoV feels guilty about trapping the other one; the hostage states trying to bash the door; PoV turns on the 2-way audio]
 
+["I don't know why it's not working! It's supposed to be working! –"]
 
-["it's, uh, I can't tell you because you won't be able to understand"]
+["I'm really sorry about this. It was me. Kayla thinks –"
 
-[But ?????. I had spent a lot of time watching myself on camera in the last few days, and I'd learned more about my own mannerisms than I had ever wanted to. So I very precisely recognized the tone of voice he was using – the tone of being excited to have realized something – in this case, excited to have thought of a plausible excuse
+Kayla's voice [verbed] from the phone, the video shaking as she hurried up the stairs. "Are you talking to him? What the hell are you doing, Marvin!"
+
+[Meanwhile the other Marvin looked up at the camera, yelled] "You have to let me out! You have to let me use the time machine!"
+
+"What's going on? Why?"
+
+"[Please! Please, you have to!] [or whatever Marvin would normally say to beg] If you don't let me out, the – I – I'm gonna die!! You have to!"
+
+My voice shaking, "I – I'm going to need more of an explanation than that! Kayla says <em>I'll</em> die if I <em>do</em> let you out! How do I know which of you to trust –"
+
+[His face, the look of someone who is trapped and panicking, desperate for a way out – it was painful to watch because I was the one who had done to him, but then his face lit up – "I <em>can't</em> explain it! I know things now –" he gestured wildly at the MRI machine, where he'd been given the drugs – "but I can't tell you, because you won't understand, maybe you'll even die! Just let me out, and I can fix this!"
+
+[What he was saying made logical sense, and maybe would have even have convinced me.] But unfortunately for him, the first thing I heard wasn't the words. It was his tone of voice. I had spent a lot of time watching myself on camera in the last few days, and I'd learned more about my own mannerisms than I had ever wanted to. So [I very precisely recognized the tone of voice he was using – the tone of being excited to have realized something – in this case, excited to have thought of a plausible excuse]
+
+"Oh God, she's right," [my throat closing up, as I knew I had to keep Marvin locked up, no matter how much he screamed]
+
+?????
 
 "Marvin, you need to turn off that [video feed] right now! You keep [spacing out], you're clearly seeing/hearing things you can't see, I don't want you to get distracted or die." "But what about needing to watch them?" "Watch the outside of the door!"
 
-[I did that; time passed; Kayla started taking the antidote in the chem lab; the terrifying apprehension of what would happen with either Kayla+Aster or Marvin+monster]
+[I did that; time passed; Kayla started taking the antidote in the chem lab; I wasn't being a very good watchman, too distracted by the terrifying apprehension of what would happen with either Kayla+Aster or Marvin+monster]
+
+[there wasn't much fanfare while they did the injections; I didn't even realize it was done until Kayla said:]
 
 ["I've listened to the kill statement and I'm still alive, please come over here and take it yourself, I need your help to make sense of this" ("understood the kill phrase but don't understand the implications")]
 
-[Kayla took over watching the experiment room (I guess seeing Ontoh, but not talking to them, so they don't know they can be seen yet), while I ran to the chem lab; Kayla probably mentions that there is something very bizarre to see there, adding to Marvin's curiosity]
+[Kayla took over watching the experiment room (I guess seeing Ontoh, but not talking to them, so they don't know they can be seen yet), while I ran to the chem lab; Kayla probably mentions that there is something very bizarre to see there ("What the hell is that? Is that what attacked us? What <em>is</em> it??"), adding to Marvin's curiosity]
 
 [Maybe if it hadn't been in such an high-stakes situation, I would have worried more about things like "possible permanent changes to my personality", but right now I was desperate to understand what was happening to us. Running high on adrenaline, barely noticed the pain of the needle being inserted as Aster helped inject me]
 
@@ -171,7 +197,7 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 
 
-[Description of Ontoh's voice; Ontoh immediately tells a bunch of lies to convince them they have to let Ontoh out of the room; probably, Marvin is worried that it's true, but Kayla isn't buying it, because she trusts the other Kayla who called for help; Kayla convinces Marvin by pointing out how it's way too convenient, and do you seriously think there's any way we can risk letting that monster out of there? [they could also ask if Aster can understand it, and if Aster can, it's not true]]
+[Description of Ontoh's voice; Ontoh immediately tells a bunch of lies to convince them they have to let Ontoh out of the room; [what are the lies? Maybe: "I apologize for the stressful situation. You've been looping for too long, you're on the verge of causing permanent damage to your personal timelines. I've only been trying to help, but it's difficult because you couldn't see me. Unfortunately I was only able to save Marvin from the deaths, which were definitely a consequence of the timeline damage or something. But since you're all still alive for the moment, if we hurry, I can show you how to rig the time machine to keep you alive for a while longer, and then you can join the league of time travelers, who are fighting against the evil time travelers who caused the mind control] probably, Marvin is worried that it's true, but Kayla isn't buying it, because she trusts the other Kayla who called for help; Kayla convinces Marvin by pointing out how it's way too convenient, and do you seriously think there's any way we can risk letting that monster out of there? [they could also ask if Aster can understand it, and if Aster can, it's not true]]
 
 [Okay we have to do something! High-emotions reasoning/argument about how to deal with this]
 
@@ -179,7 +205,7 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 ["So the plan is:
 – write a program to autocapture Ontoh at the scheduled moment and set up a stable time loop causing the experimental group to go back and run the program themselves; we go back in time and run that program the first time
 – to make sure the timing of Ontoh following the experiment group is exact, make sure they have the exact same history as the FIRST experiment group, by not having the program tell them to do the loop until after they've taken the antidote, and…
-– Wait, how do we know whether the first experiment group experienced Fuller going for the time machine or not?? What if we go back, and Fuller still hears of the experiment, but the first experiment group DIDN'T experience that, so now they have a paradoxical history and get reset again, undoing our work in capturing Ontoh (because the new instance of the experiment group may have different timing)? Or what if they DID experience Fuller going for the time machine, but it was because of actions by Ontoh?
+– Wait, how do we know whether the first experiment group experienced Fuller going for the time machine or not?? ("wait, did Fuller hear because of something _they_ did, or because of something _we_ did before that?") What if we go back, and Fuller still hears of the experiment, but the first experiment group DIDN'T experience that, so now they have a paradoxical history and get reset again, undoing our work in capturing Ontoh (because the new instance of the experiment group may have different timing)? Or what if they DID experience Fuller going for the time machine, but it was because of actions by Ontoh?
 
 [They use the cameras to figure out exactly how Fuller heard about it – getting texted by one of the assistants. [Cross-reference: preestablish that Marvin accesses the cameras exclusively through methods that record which camera data was accessed]]
 
