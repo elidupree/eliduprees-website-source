@@ -181,7 +181,7 @@ My voice shaking, "I – I'm going to need more of an explanation than that! Kay
 
 [I did that; time passed; Kayla started taking the antidote in the chem lab; I wasn't being a very good watchman, too distracted by the terrifying apprehension of what would happen with either Kayla+Aster or Marvin+monster]
 
-[there wasn't much fanfare while they did the injections; I didn't even realize it was done until Kayla said:]
+[there wasn't much fanfare while they did the injections (just Kayla sitting in a recliner that they had pulled from another room); I didn't even realize it was done until Kayla said:]
 
 ["I've listened to the kill statement and I'm still alive, please come over here and take it yourself, I need your help to make sense of this" ("understood the kill phrase but don't understand the implications")]
 
@@ -189,17 +189,73 @@ My voice shaking, "I – I'm going to need more of an explanation than that! Kay
 
 [Maybe if it hadn't been in such an high-stakes situation, I would have worried more about things like "possible permanent changes to my personality", but right now I was desperate to understand what was happening to us. Running high on adrenaline, barely noticed the pain of the needle being inserted as Aster helped inject me]
 
-[Opening the file labeled "kill phrase DO NOT PLAY THIS.ogg". The somewhat low-quality sound recording, "so you can understand everything now? If I tell you that you can use time machines to duplicate human beings, do you understand me?" "What do you mean, time machines can duplicate human beings?" And then: Why is "you can duplicate yourself with time travel"-ish the kill statement??]
+[Opening the file labeled "kill phrase DO NOT PLAY THIS.ogg", through earbuds so aster wouldn't overhear. The somewhat low-quality sound recording, Description of Ontoh's voice [the voice was tinny, like a badly autotuned song played through bad speakers] "so you can understand everything now? If I tell you that you can use time machines to duplicate human beings, do you understand me?" "What do you mean, time machines can duplicate human beings?" And then, huddling in a corner so aster won't hear: Why is "you can duplicate yourself with time travel"-ish the kill statement??]
 
 
+[They look on a camera at what's going on in the experiment room]
 
 [Ontoh was physically a rectangular box on crab legs, with the Pattern all over the box – a much more vivid and precise version of the pattern (paragraph hook talking about "the true pattern"?)
 
+[[Before Kayla could stop me?] I pressed the button to do 2 way communication]
+
+"We've both taken the antidote now, now explain what the hell is going on!"
+
+The creature spoke.
+
+It didn't have any lips that moved, but it was the same tinny voice from the "kill phrase" recording. ????? [Meanwhile, the other Marvin is whimpering in a corner or something]
+
+"I apologize that we had to meet in such distressing circumstances," it said. "There have been far too many time loops here, and it's already causing permanent damage. I was able to save Marvin using our technology, but I couldn't save the others in this timeline –"
+
+"You mean you <em>didn't</em> kill all those people?" [I said, hopefully? Kayla demanded?]
+
+"What? Of course not! We're only here to help! It's been difficult because you couldn't see me –"
+
+"And who is 'we'?" Kayla demanded.
+
+"I am part of the League of Free Time Travelers," the creature said. "[We're here to stop the ????? - the ones who made the phrenochondria to control people. But they got to this timeline first, and used the phrenochondria to prevent us from contacting you.]
+
+?????
+
+["If the deaths have started, then this collection of time loops won't last very long before it has spread to everything that was touched by this time machine. The rest of you are going to die only a few loops from now, or maybe even a few hours. At this point, there's no way to stop it except: With our technology, if we hurry, I can modify the time machine , which will let you out of this particular tangle, and then I can put you in contact with the rest of the League "]
+
+[Kayla mutes PoVs – "that's way too convenient, right?"
+
+["I don't know, we shouldn't there be a league who want to help us? ????? –"
+
+"I'm not talking about the League! I'm talking about how they conveniently have a reason why we need to let them out of the room! How do we know they're not making up the entire thing?"
+
+"But what if it's true!"
+
+[and do you seriously think there's any way we can risk letting that monster out of there?]
+
+[Possibly: "and can we at least let the other Marvin out of that room? We can keep the other doors locked, so he can't go too far –" "it's foot-in-the-door technique! They want you to do something easy first, so you'll get used to doing what they say –"]
+
+[Do they try to ask Aster?
+1. "No, we can't ask Aster, they might die if they heard this stuff without taking the antidote!" "It doesn't matter if they die, we're in a paradox anyway!" "I'm not going to risk that! What if we just give Aster the antidote too?" "Okay, fine"
+2. [they ask; Aster says "timeline damage? An extension of the impressioning effect, maybe? If different impressioning pulls your brain in more than one different direction…", Then:]
+2.a. "Wait. If Aster understood this, then it's not being censored as much as the kill phrase! Shouldn't it have been censored? But it wouldn't be censored if it was made up!"
+2.b. "Oh no, what if Aster dies from thinking about it more?" Aster, a little pale: "I respect Kayla's mistrust for me but I would very much like to take the antidote now"
+3. They turn to ask, only to find that Aster has already injected themselves when they weren't looking
+Regardless: Aster is now unconscious in the recliner, twitching like from a restless dream
+]
 
 
-[Description of Ontoh's voice; Ontoh immediately tells a bunch of lies to convince them they have to let Ontoh out of the room; [what are the lies? Maybe: "I apologize for the stressful situation. You've been looping for too long, you're on the verge of causing permanent damage to your personal timelines. I've only been trying to help, but it's difficult because you couldn't see me. Unfortunately I was only able to save Marvin from the deaths, which were definitely a consequence of the timeline damage or something. But since you're all still alive for the moment, if we hurry, I can show you how to rig the time machine to keep you alive for a while longer, and then you can join the league of time travelers, who are fighting against the evil time travelers who caused the mind control] probably, Marvin is worried that it's true, but Kayla isn't buying it, because she trusts the other Kayla who called for help; Kayla convinces Marvin by pointing out how it's way too convenient, and do you seriously think there's any way we can risk letting that monster out of there? [they could also ask if Aster can understand it, and if Aster can, it's not true]]
 
-[Okay we have to do something! High-emotions reasoning/argument about how to deal with this]
+[They check what actually happened, on the cameras. In the past, after Kayla becomes able to see Ontoh, Ontoh once again confirms that she can understand the kill phrase, then asks her to also inject Marvin [secretly: because Marvin is easier to manipulate and more able-bodied; explicitly: "so that I won't have to explain everything twice"]
+
+["But, what about –" experiment-Kayla gestured to the assistants.
+
+"I can deal with them." Suddenly everyone but Kayla and Aster becomes sedated. They fetch Marvin from the other room and inject him; Ontoh confirms that he can understand the kill phrase, then kills everyone else and starts threatening Marvin]
+
+Kayla: "see, that's why you should never trust anyone who's [telling you something is urgent]! That thing was fast-talking us, hoping we'd think there was no time to check"
+
+Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, it was lying. But what the hell do we do now?]
+
+[High-emotions reasoning/argument about how to deal with this:]
+
+[Well, right now at least we have it trapped, but we're in a paradox, as so as soon as our timeline runs out, it'll be not-trapped again. How much time do we have? Well, we must have done the experiment plan, right? So that puts it at [3:30]. Anyway, we need to make sure [Ontoh] gets trapped when we are NOT in a paradox. So we need to do a stable time loop thing. Capture it, then tell ourselves to go back in time and capture it. Where was it this whole time? [They frantically search the camera history, walking back from the experiment; Ontoh was waiting in the hall outside the time machine room, clumsily used its little crab legs to short the power, then waited and watched each copy of Marvin/Kayla/Aster leave the time machine room; sometime after they had all passed, Ontoh (stopped waiting in case there were more) crawled after the experiment group, climbing the stairs and jumping up to grab door handles, which was kind of slow. Then K+M check some other cameras to make sure there aren't any other Ontohs (there aren't)]]
+
+[We can't trap it on the stairs, because somebody use those stairs later. What about that fifth floor corridor, check the map? Yeah nobody goes there, there's a good time-window to trap Ontoh in that corridor]
 
 
 ["So the plan is:
@@ -209,7 +265,7 @@ My voice shaking, "I – I'm going to need more of an explanation than that! Kay
 
 [They use the cameras to figure out exactly how Fuller heard about it – getting texted by one of the assistants. [Cross-reference: preestablish that Marvin accesses the cameras exclusively through methods that record which camera data was accessed]]
 
-["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan]
+["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan; but it was already [2:54] and ]
 
 
 
