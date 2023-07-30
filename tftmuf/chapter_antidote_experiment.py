@@ -234,7 +234,7 @@ It didn't have any lips that moved, but it was the same tinny voice from the "ki
 1. "No, we can't ask Aster, they might die if they heard this stuff without taking the antidote!" "It doesn't matter if they die, we're in a paradox anyway!" "I'm not going to risk that! What if we just give Aster the antidote too?" "Okay, fine"
 2. [they ask; Aster says "timeline damage? An extension of the impressioning effect, maybe? If different impressioning pulls your brain in more than one different direction…", Then:]
 2.a. "Wait. If Aster understood this, then it's not being censored as much as the kill phrase! Shouldn't it have been censored? But it wouldn't be censored if it was made up!"
-2.b. "Oh no, what if Aster dies from thinking about it more?" Aster, a little pale: "I respect Kayla's mistrust for me but I would very much like to take the antidote now"
+2.b. "Oh no, what if Aster dies from thinking about it more?" Aster, a little pale: "I respect Kayla's mistrust for me but I would very much like to take the antidote now" M: "for Pete's sake, Kayla, you weren't going to let them take the antidote? After all they've helped us?" K: "okay, fine"
 3. They turn to ask, only to find that Aster has already injected themselves when they weren't looking
 Regardless: Aster is now unconscious in the recliner, twitching like from a restless dream
 ]
