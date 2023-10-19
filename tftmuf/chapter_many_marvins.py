@@ -87,8 +87,13 @@ Even her food was inhospitable to Marvin life. Besides being vegan, she couldn't
 "No it's not! Peanut butter is disgusting and gooey! This is more of a paste! And I left in the hard bits so I can scratch my tongue with it –"
 
 
+[Kayla was using a lot of CAD software to design time machines. Neither Marvin nor Kayla had known CAD before going into this, but Kayla would learn "whatever it takes" [de facto, any task that no one is good at falls to Kaylas because they learn faster and it's efficient use of resources], maybe learning from Simon but quickly getting impatient with his half-competence and studying other resources and software]
 
 
+[Maybe entangled with the above/below: "maybe you can do data mining. We have a few exabytes of data, video recordings of our work and Nochli stuff, we keep collecting it but haven't really analyzed it" "exabytes? I've forgotten which metric prefix that is" "billions of gigabytes" omg, then I realized: the reason we had all this high-tech stuff is that if you could duplicate human beings, you could also duplicate as much expensive hardware as you could possibly want]
+
+
+[PoV asks about Kayla; debriefer says "funny you should ask, you've asked about Kayla earlier than usual, I wonder what caused the divergence. It's uh... well maybe you should brace yourself]
 
 [debriefer warning Marvin about what could happen with Kaylas ("don't try to stop her from deleting herself"); video of "kayla going to delete herself". "The others all know what they're doing but I've [gotten dislodged out of it] – I was with 4 others who had [gotten dislodged] and they got back on track but I didn't – There's plenty more of me, and they're better… my existence has neither intrinsic value (because I don't enjoy it) nor instrumental value (because the others are a better use of resources than I am), so why shouldn't I delete myself??" "What is the point, we might as well just walk up to Nochli"... You should get therapy, we've been doing it and it's helpful. No way, not worth it, therapists will just tell me to be less of who I am. Well I'm not going to give up, even if you delete yourself today I'm going to keep trying to convince you to get therapy so you don't have to in the future, is that okay with you? Of course it's okay, [the only scenario where would I agree to it is one where I actually concluded it was a good idea, so asking is never a violation]]
 
@@ -181,7 +186,7 @@ Reginald: yeah, that's not a good consent system; an important part of consent s
 
 Marvin: wait wait wait, that's a solvable problem. When they give permission, we can record it; anytime the subject or a watchdog challenges us, we can reveal the recording. And of course, we'll get a record of ethics board approval for each individual act; and there can be a network of historical records preventing us from making excessive attempts to get the ethics board to authorize the same act in different timelines.
 
-Reginald: see, now you're thinking how you need to be; designing HOW to earn people's trust, instead of just justifying what you wanted to do.
+Reginald: see, now you're thinking how you need to be; designing HOW to earn people's trust, instead of just justifying what you wanted to do. [alt wording: "not why people should trust you as you are, but what you can DO to give them a REASON to trust you]
 
 Someone: wait a minute, we can't actually show them the record, because they can't believe that time travel exists! we can't even get informed consent!
 
