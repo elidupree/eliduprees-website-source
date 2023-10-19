@@ -85,43 +85,55 @@ The human body can withstand an incredible amount of punishment, but when it fai
 
 "It's not your fault,"
 
-["You're just telling me that because you don't want me to feel bad!"]
+["You're just telling me that because you don't want me to feel bad! I hate all you people who tell people not to [consider moral criticisms] because you don't want [people to feel bad/you to face the possibility that things might be bad]!"]
 
-["Of course it's not my fault! It's HIS fault! [Wait, what are Kayla's actual beliefs here? "Any violence carried out by the oppressed as a reaction to their oppression are primarily the responsibility of the oppressor?" except, at least the younger Kayla would not be inclined to divert responsibility from people who eat meat (contributing to the systematic abuse of animals), even though it's effectively foisted on them by society. And the present Kayla's main difference is that she has more cynicism ("a GOOD person would choose not to eat meat, Ring of JG's style, and the fact that most people do it anyway, means that humanity is largely corrupt, but I no longer spend my effort blaming them because I don't know what can be done about it"). I guess the difference is about what a good person would do – "obviously a good person would be strongly motivated to stop eating meat once they understood", while in the "harm another captive to protect yourself" scenario, it's not obvious that a good person wouldn't do that (maybe because of more equal ratio of harm to benefit – with animals, the animal is harmed by you eating it much more than you would be by not eating it). Maybe Kayla should go through some of this logic out loud (she's very upset, and moral philosophy is her coping strategy)]
+[When someone's very upset, their brain isn't ready to follow new paths, they follow the well-worn pathways, the thing they've always done that's their coping strategy. And for Kayla, that was moral philosophy.]
+
+["If you're not going to consider it, then I will! Obviously the primary cause of the evil is him, but you can't just say that every action taken in reaction to an evil act is excused. Otherwise you'd have to say that no one's evil, because they are all just trying to minimize the suffering that was unjustly forced on them by society forcing them to live, even when they do evil things like eat animals. Well obviously the basis of morality should be to minimize the total suffering across all sentient beings, so it's about whether the act causes more suffering than it prevents. That's why eating animals is evil, because you're making them live a whole life just so you can eat once." She rounded on Aster, a sickened grin on her face, obsessive wide-open eyes: "how much did [Billy] suffer when he died?]
+
+[Aster mischievous smile, but calculating what to say, e.g. is Kayla going to hurt someone: "if I tell you, what would you conclude from that"]
+
+[Kayla recognized Aster's tone, drops the question (stalks away?), "You could lie to me anyway! I wouldn't be morally justified to rely on your answer. I have to figure this out myself. If he suffered – well the logical expectation is that whoever you drugged would suffer the same amount, you can't reason from happenstance. So then all I did was change who suffered, so it's morally neutral –" the prospect of relief feels to her like the threat of complacency, shouting again to shout down anyone else who might try to end the analysis there "– but that's not the only moral principle you need to consider! The doctor can't kill one to save five because then people won't go to the doctor. What I did – I made Fuller believe things that weren't true. And he was evil! You should always lie to the Nazis! Even though it takes away their ability to make moral choices! They already made enough." Somehow her anger had resolved a little, she'd followed the internal flow to a dead end.
+
+[But when you face something as upsetting as this, it's not enough to prove that you did the right thing; you'll hear the proof, and then you'll still be upset afterwards, and _then_ what will you do? ( if proofs are your only coping strategy) Kayla wasn't exploding anymore, just spending and breathing hard, but I was worried that it could start again anytime]
 
 [Marvin tries to pull some resolution out of that (à la "the important thing is that it's over now"… Maybe "but it's over now, Fuller's dead, right? We're not going to time travel and make him come back to life, ...right??") only to be interrupted by:]
 
-[They get the text from future Kayla: maybe "My phone buzzed; I wanted to keep reassuring Kayla but she told me to check it in case it is important" or "I checked it" or "Kayla checked her phone". Regardless of which, "wait a minute, these are our future selves, the ones doing the experiment? They are not supposed to contact us, doesn't that mean they've just put us in a paradox?"]
+[They get the text from future Kayla: maybe "My phone buzzed; I wanted to keep reassuring Kayla but she told me to check it in case it is important" or "I checked it" or "Kayla checked her phone". ("oh god, oh god, don't tell me we DID bring him back and now we need to fix it???!?!?") Regardless of which, "wait a minute, these are our future selves, the ones doing the experiment? They are not supposed to contact us, doesn't that mean they've just put us in a paradox?"]
 
 [The text message was one word long:]
 
 "Help".
 
-[Chapter break? - Something like "Making Decisions Based on Unknowable Evidence"? Or maybe that's later, for the decision to take the antidote? For here, maybe something related to ability to trust a future self who was coerced? "How I Took My Future Self Captive"?]
+[Chapter break? - Something like "Making Decisions Based on Unknowable Evidence"? Or maybe that's later, for the decision to take the antidote? For here, maybe something related to ability to trust a future self who was coerced? "That Time I Took My Future Self Captive"?]
 
-["Well if we're already in a paradox, there's no reason we CAN'T look at them [on the cameras]"]
+["Well if we're already in a paradox, there's no reason we CAN'T look at them [on the cameras]" We crowded around the computer, bending over to quickly type out the command, open the feed to the experiment room]
 
-What we saw was the scene of a massacre.
+[… I should have sat down before I looked. My head swam, [[alternatively, more-retrospective narration about how it felt]]
 
-The bodies of all the assistants were strewn around the room. Some of them had vomited; one of them was slumped over a toppled medical cart, as if they had tried to cling to it in their final moments. [Whatever had happened, it was nothing like the silent, unsettling way Kayla and Aster had died from the "kill phrase"; one of them was still twitching on the ground, struggling for breath.]
+[What we saw] was the scene of a massacre.
+
+[This time, the assistants/Dr Fuller's grad students/] were no longer standing around the bed. They were scattered around the room, bodies slumped over the furniture or curled up on the floor. Some of them had vomited; one of them had their arms locked around the toppled medical cart, as if they had tried to cling to it in their final moments. [Whatever had happened, it was nothing like the silent, unsettling way Kayla and Aster had died from the "kill phrase"; one of them was still twitching on the ground, struggling for breath.]
 
 Of all the people in the room, only Kayla and Marvin were still alive. [And, contrary to our plans, it was Marvin who was on the cot, with the IV in his arm, and Kayla who was standing to the side. Only when we reviewed the footage later did we notice the details – how Kayla already had the bandage and her arm, how she had already received the treatment before administering it to Marvin.]
 
-[My head swam. I sank back in the chair, trying to process what I was seeing. "Jesus Christ, what happened to them?" "A nerve agent!" exclaimed Aster. "Not gas, if Marvin's still standing" Watching numbly; both Kayla and Marvin were terrified, and as we watched, Kayla's body begin to jerk violently. She collapsed to the floor, dying like the others.]
+[By some miracle I lowered myself into the chair, rather than passing out. My head swam, trying to process what I was seeing. "Jesus Christ, what happened to them?", I breathed, speaking to no one.]
+
+"A nerve agent!" exclaimed Aster, the chemist among us. They squinted at the scene. "But how was it delivered? Not gas, if Marvin's still standing –"
+
+[I couldn't follow Aster's calculating words – I could only watch numbly; both Kayla and Marvin were terrified, and as we watched, Kayla's body begin to jerk violently. She collapsed to the floor, dying like the others.]
 
 But the Kayla next to me [intense focus on the screen, neck leaning forwards?] "Lock the doors! Lock them in the room, right now!"
 
 "W-what?"
 
-What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew that if the experiment was only going to kill everyone in the room, the other Kayla would have no reason to message us, because she could simply allow the prearranged failure message to arrive. So if she messaged us for help, that meant a completely different form of danger, one that would need a response from us <em>immediately</em>. And our Kayla already had a guess of what it was.
+What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew that if the experiment was <em>only</em> going to kill everyone in the room, the other Kayla would have no reason to message us, because she could simply allow the prearranged failure message to arrive. So if she messaged us for help, that meant a completely different form of danger, one that would need a response from us <em>immediately</em>. And our Kayla already had a guess of what it was.
 
 "It's in there with them! The thing that was following me! Lock it in!"
 
-"S-shouldn't we just copy down the footage and go back in time? So we have time to figure out –"
+[My brain was only just catching up with the idea of what to do in a paradox] "S-shouldn't we just copy down the footage and go back in time? So we have time to figure out –"
 
 "Right now is the ONLY time when we know where it is! This is our chance to trap it –"
-
-"But –"
 
 "Do it," said Aster, the most serious they'd ever sounded. "If she's wrong, we can sort it out later."
 
@@ -149,11 +161,11 @@ Marvin: "[you're going to take the drugs??] You've died every time!"
 
 "I need to be able to see them!"
 
-[Gotta figure out ordering: "don't go back in time! Well, if we die, then I guess you'll have to risk it. And if any of the doors open, that means another invisible attacker is about to kill you, so you'd better risk it, yeah"]
+[Gotta figure out ordering: [K to M:] "don't go back in time! Well, if we die, then I guess you'll have to risk it. And if any of the doors open, that means another invisible attacker is about to kill you, so you'd better risk it, yeah"]
 
 [They left before I could get used to the idea; I was stuck doing what they said. I watched the doors,; heart beating and ready to jump at the slightest sound; it was scarier because absolutely nothing was happening, I had to keep glancing at the doors to see that they hadn't changed, fighting doubts about whether if they did indeed change, whether I'd be about to die]
 
-[On the surveillance camera looking at the other Marvin: Marvin finally stops just standing there [i.e. talking to Ontoh] and tries to go out the door. He gets confused, wonders if someone else locked it, and tries to go in the security console, only to find that PoV Marvin removed his access. At this point he starts to freak out, yelling "to himself"; PoV feels guilty about trapping the other one; the hostage states trying to bash the door; PoV turns on the 2-way audio]
+[On the surveillance camera looking at the other Marvin: Marvin finally stops just standing there [i.e. talking to Ontoh] and tries to go out the door. He gets confused, wonders if someone else locked it, and tries to go in the security console, only to find that PoV Marvin removed his access. At this point he starts to freak out, yelling "to himself"; PoV feels guilty about trapping the other one; the hostage starts trying to bash the door; PoV turns on the 2-way audio]
 
 ["I don't know why it's not working! It's supposed to be working! –"]
 
@@ -189,7 +201,7 @@ My voice shaking, "I – I'm going to need more of an explanation than that! Kay
 
 [Maybe if it hadn't been in such an high-stakes situation, I would have worried more about things like "possible permanent changes to my personality", but right now I was desperate to understand what was happening to us. Running high on adrenaline, barely noticed the pain of the needle being inserted as Aster helped inject me]
 
-[Opening the file labeled "kill phrase DO NOT PLAY THIS.ogg", through earbuds so aster wouldn't overhear. The somewhat low-quality sound recording, Description of Ontoh's voice [the voice was tinny, like a badly autotuned song played through bad speakers] "so you can understand everything now? If I tell you that you can use time machines to duplicate human beings, do you understand me?" "What do you mean, time machines can duplicate human beings?" And then, huddling in a corner so aster won't hear: Why is "you can duplicate yourself with time travel"-ish the kill statement??]
+[Opening the file labeled "kill phrase DO NOT PLAY THIS.ogg", through earbuds so aster wouldn't overhear. The somewhat low-quality sound recording, Description of Ontoh's voice [the voice was tinny, like a badly autotuned song played through bad speakers] "so you can understand everything now? If I tell you that you can use time machines to duplicate human beings, do you understand me?" "What do you mean, time machines can duplicate human beings?" And then, present K+M huddling in a corner so aster won't hear: Why is "you can duplicate yourself with time travel"-ish the kill statement??]
 
 
 [They look on a camera at what's going on in the experiment room]
@@ -240,8 +252,7 @@ Regardless: Aster is now unconscious in the recliner, twitching like from a rest
 ]
 
 
-
-[They check what actually happened, on the cameras. In the past, after Kayla becomes able to see Ontoh, Ontoh once again confirms that she can understand the kill phrase, then asks her to also inject Marvin [secretly: because Marvin is easier to manipulate and more able-bodied; explicitly: "so that I won't have to explain everything twice"]
+["we don't have time to worry about Aster!" They check what actually happened, on the cameras. In the past, after Kayla becomes able to see Ontoh, Ontoh once again confirms that she can understand the kill phrase, then asks her to also inject Marvin [secretly: because Marvin is easier to manipulate and more able-bodied; explicitly: "so that I won't have to explain everything twice"]
 
 ["But, what about –" experiment-Kayla gestured to the assistants.
 
@@ -265,7 +276,7 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 [They use the cameras to figure out exactly how Fuller heard about it – getting texted by one of the assistants. [Cross-reference: preestablish that Marvin accesses the cameras exclusively through methods that record which camera data was accessed]]
 
-["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan; but it was already [2:54] and ]
+["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan; but it was already [2:54] and there was a lot that we needed to execute in practice – maybe it would only take 5 minutes to download the footage and get in the time machine, but I knew from [long experience with undiagnosed ADHD] that if you wanted the 5 minute thing to get done today, you had to do it immediately]
 
 
 
@@ -283,13 +294,13 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 [(Dripping with the attitude of "of course I've lost,", humiliated-ish but also finding it tiresome that they don't acknowledge it, which is extra humiliating because how did I lose to someone THAT ignorant) I'm not your enemy, I'm not even any danger to you. If I thought you were my enemy, I wouldn't even be talking to you, I would have self-destructed as soon as I saw that you were in control?]
 
-[You killed a room full of people!]
+"You killed a roomful of people!"
 
-[Did I? Well, yes, I have the ability to do insignificant things like that, but I've heard of you, and you still exist] [I'm happy to cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]
+"Did I? Insignificant! <em>I've heard of you, and you still exist.</em> That should tell you all there is to know about how dangerous I am! <em>Ethra</em> waste of time –" [Sudden transition from angry to conciliatory/reasoning] "[I can see that you will need accommodation. I will cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]"
 
 [Marvin orders Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, "and flip yourself upside down!" and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
 
-["Are you done worrying now? There's important information you need to have, and we're both better off if I tell you as soon as possible. Since you can see me, you must've [freed yourselves] from the <em>huvith</em>, what you call the 'phrenochondria'. You need to know your enemy. Have you seen them? Have you looked out the window since ..."?]
+["Are you done worrying now? There's important information you need to have, and we're both better off if I tell you as soon as possible. Since you can see me, you must've disabled the <em>huvith</em>, what you call the 'phrenochondria'. You need to know your enemy. Have you seen them? Have you looked out the window since ..."?]
 
 [What the hell are you? What are you trying to do to us?]
 
