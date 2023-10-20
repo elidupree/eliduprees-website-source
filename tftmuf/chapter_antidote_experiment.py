@@ -296,20 +296,55 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 "You killed a roomful of people!"
 
-"Did I? Insignificant! <em>I've heard of you, and you still exist.</em> That should tell you all there is to know about how dangerous I am! <em>Ethra</em> waste of time –" [Sudden transition from angry to conciliatory/reasoning] "[I can see that you will need accommodation. I will cooperate in any way that will help you to believe that I'm not going to attack you again, because that will just waste your important time]"
+"Did I? Insignificant! <em>I've heard of you, and you still exist.</em> That should tell you all there is to know about how dangerous I am! <em>Ethra</em> stupidity –" [Sudden transition from angry to conciliatory/reasoning] "[I can see that you will need accommodation. I will cooperate/I will do anything you ask, if it helps you believe that I'm not a threat. So you can focus on the real enemy."
 
-[Marvin orders Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, "and flip yourself upside down!" and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
+"What enemy?" demanded Kayla.
 
-["Are you done worrying now? There's important information you need to have, and we're both better off if I tell you as soon as possible. Since you can see me, you must've disabled the <em>huvith</em>, what you call the 'phrenochondria'. You need to know your enemy. Have you seen them? Have you looked out the window since ..."?]
+But I was [being carried by emotions] "Oh, you'll <em>cooperate??</em> You'll <em>do anything we ask??</em>" I said hysterically. "Flip over on your back!"
 
-[What the hell are you? What are you trying to do to us?]
+[To my surprise, the creature actually did it, immediately flipping over; maybe physical description] "Now wriggle your little legs!" I yelled.
 
-[You <em>ethra</em> don't even have words for what I am. From your perspective, the perspective of your world, I am only… a stowaway, a saboteur. I came undetected when this timeline was created, and my only goal is to work against our mutual enemy, the one who created this timeline and bred the <em>huvith</em>, what you call the 'phrenochondria'. 
+"This is pointless!" snapped Kayla, as the creature squirmed. She reached over and muted us. "If it's going to do what we say, we should use that to lock it up better –"
+
+"Oh! Yes, of course –"
+
+[We ordered Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, flip upside down again, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
+
+[As I finished up the scripts, Kayla started interrogating] "Now answer me this time: What the hell are you, and what are you trying to do to us?"]
+
+"You <em>ethra</em> don't even have words for what I am!" the creature chirped. "From your perspective? Your timeline? I am a stowaway. A saboteur. When our enemy created this timeline, <em>cehilch hinah</em> [note: seh(two) hillch(time unit) hee-NA (memory, i.e. personal history)] – 3000 years in your history, I came along, right under their noses. My only goal is to work against them. If I attacked you, it was in service to that goal – probably to use you to make 'time machines' for me." [The tone of "time machines" was subtly different, as if our very concept of "time machines" was disgustingly primitive - perhaps for them it was like if we had called a cell phone an "adding machine".] "Since you've captured me, you will have to do that yourselves, though you will need my knowledge, if you don't want to be destroyed –"
+
+"And why should we trust you about who our enemy is?" Kayla demanded.
+
+"Since you can see me, you must have disabled the <em>huvith</em> – what you call the 'phrenochondria'. That makes Nochli your enemy. If they ever learn you've done this, they will <em>sel zutuch</em> [note: sel(sell)=tree, zu(zoo)=you, tuch=(tuck but with fricative)=dig, i.e. uproot] – uproot your entire tree, the tree of timelines that got you here. In your terms, they will 'go back and prevent you from being born', and likely do the same to all of your genetic relatives, to prevent the mutation that helped you escape their control."
+
+[maybe: "but first, they will discover that I was with you, and uproot _my_ tree, back 3000 years"]
+
+
+
+
+["Have you seen them? Have you looked out the window since ..."?]
+
+[the one who created this timeline and bred the <em>huvith</em>, what you call the 'phrenochondria'. 
 
 
 [Why are you a box with crab legs??]
 
-[I am a branch of Ontoh, the first true immortal human, one of (greatest of?) the five ruling lineages in the main timeline. Physically, I am an immortal human head piloting one of Nochli's transport-boxes.]
+["What this body is physically! stupidity to think that's important!" [switch, realizing that they will need to tell us so so we're not distracted by wondering.] "I see I will need to answer, to earn your trust. I became a 'box with crab legs' to infiltrate Nochli. Nochli uses boxes like these in their workshops. They bred the crabs to respond to whistled commands, to store tools and bring them on command. So, we – maybe you would say 'my other selves' – one of our great achievements was the place my head in one of these boxes, and rewire the nerves so that I could control the crab legs, so I could come and go beneath Nochli's notice.]
+
+"Your... head? What were you originally?"
+
+[I was originally a human body, though much ['improved by eugenics']"]
+
+["You removed your own head? And your head has been living inside a box for 3000 years???"]
+
+["My other selves removed my head, obviously! And yes, I am immortal, in fact we were the first <em>alchiia</em> ever to be immortal! How much more of our trillions of subjective years of technology must I explain before I can tell you how to not get deleted from existence?"]
+
+"Okay, but at least, what's your name?"
+
+"<em>Ontoh</em> is the name of my tree, my lineage. As I am the only Ontoh in this timeline, you may as well call me Ontoh."
+
+[I am a branch of Ontoh, the first true immortal human, one of (greatest of?) the five ruling lineages in the main timeline.]
 
 
 [The one you should be worrying about is our mutual enemy, the one who created your timeline and put us all in this situation. The one who bred the symbionts you call the 'phrenochondria'. <em>Nochli.</em>"]
