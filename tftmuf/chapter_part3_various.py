@@ -66,3 +66,12 @@ I instantly thought of her as "General Kayla". Her proud bearing, the way she wa
 
 The oldest Kayla I'd ever seen. She had spent lifetimes preparing for this. [What does it take for someone my Kayla to live all the way to old age, while remaining who they are? You can't get that old by continually forcing yourself – it will kill you first. For a typical person to get that old, they basically give up on their youthful idealism, softening themselves to avoid burning out. But Kayla had taken a third path: she had made sophisticated policies for how to maintain both her brain hardware and her ability to act with the same level of dedication when it counts.]
 
+
+[Nochli says that if Kayla takes away their ability to pull the plug, Nochli will inevitably be destroyed by other time travelers taking over, so it _makes no difference_ and they might as well allow Kayla to destroy the world; in fact this is a lie and Nochli would somewhat prefer to survive for the small chance of long-term survival rather than zero]
+
+
+[discuss the prospect of indefinitely living in the last hour of loop before Kayla and Nochli's negotation breaks down and Kayla destroys everything]
+
+[Kayla basically wins the negotiation because she will in-fact destroy everything and Nochli prefers to survive even if they are disempowered - the only question (for the plot design) is what Kayla agrees to]
+
+

@@ -296,7 +296,11 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 "You killed a roomful of people!"
 
-"Did I? Insignificant! <em>I've heard of you, and you still exist.</em> That should tell you all there is to know about how dangerous I am! <em>Ethra</em> stupidity –" [Sudden transition from angry to conciliatory/reasoning] "[I can see that you will need accommodation. I will cooperate/I will do anything you ask, if it helps you believe that I'm not a threat. So you can focus on the real enemy."
+"Did I? Insignificant! <em>I've heard of you, and you still exist.</em> That should tell you all there is to know about how dangerous I am! <em>Ethra</em> stupidity –"
+
+[Explanation of the pronunciation of ethra, maybe even the meaning – "a word for non-time travellers, possibly derogatory"]
+
+[But just as soon as the creature started snapping at us, Sudden transition from angry to conciliatory/reasoning] "[I can see that you will need accommodation. I will cooperate/I will do anything you ask, if it helps you believe that I'm not a threat. So you can focus on the real enemy."
 
 "What enemy?" demanded Kayla.
 
@@ -308,7 +312,7 @@ But I was [being carried by emotions] "Oh, you'll <em>cooperate??</em> You'll <e
 
 "Oh! Yes, of course –"
 
-[We ordered Ontoh to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, flip upside down again, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
+[We ordered the creature to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, flip upside down again, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
 
 [As I finished up the scripts, Kayla started interrogating] "Now answer me this time: What the hell are you, and what are you trying to do to us?"]
 
@@ -316,9 +320,15 @@ But I was [being carried by emotions] "Oh, you'll <em>cooperate??</em> You'll <e
 
 "And why should we trust you about who our enemy is?" Kayla demanded.
 
-"Since you can see me, you must have disabled the <em>huvith</em> – what you call the 'phrenochondria'. That makes Nochli your enemy. If they ever learn you've done this, they will <em>sel zutuch</em> [note: sel(sell)=tree, zu(zoo)=you, tuch=(tuck but with fricative)=dig, i.e. uproot] – uproot your entire tree, the tree of timelines that got you here. In your terms, they will 'go back and prevent you from being born', and likely do the same to all of your genetic relatives, to prevent the mutation that helped you escape their control."
+"If you can see me, you must have disabled the <em>huvith</em> – what you call the 'phrenochondria'. That makes Nochli your enemy. If they ever learn you've done this, they will <em>sel zutuch</em> [note: sel(sell)=tree, zu(zoo)=you, tuch=(tuck but with fricative)=dig, i.e. uproot] – uproot your entire tree, the tree of timelines that got you here. In your terms, they will 'go back in time and prevent you from being born', and likely do the same to all of your genetic relatives, to prevent the mutation that helped you escape their control."
 
 [maybe: "but first, they will discover that I was with you, and uproot _my_ tree, back 3000 years"]
+
+[Kayla was satisfied by the answer, because whoever made the phrenochondria was of-course the bad guys; maybe she says that aloud, "okay, so these Nochli are the bad guys who made the phrenochondria, next question:"]
+
+"Next question," interrupted Kayla. "Why are you a box with crab legs?"
+
+"Stupid <em>ethra</em>!" the creature rasped. "Your existence is at stake, and you ask such trivialities!"
 
 
 
