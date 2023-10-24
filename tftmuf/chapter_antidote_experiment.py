@@ -312,9 +312,44 @@ But I was [being carried by emotions] "Oh, you'll <em>cooperate??</em> You'll <e
 
 "Oh! Yes, of course –"
 
-[We ordered the creature to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, flip upside down again, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them, making him ready to start interrogating them]
+[We ordered the creature to go into a small storage closet (unlocking the door to let them through, and locking it again afterwards) and stand in the middle of the view of the security camera there, flip upside down again, spread out the legs horizontally, and not move; Marvin runs a script to do motion detection and notify him if Ontoh moves at all. This helps Marvin get slightly less immediately-terrified of them ("it didn't feel quite as scary upside down with its legs splayed out"), making him ready to start interrogating them]
 
-[As I finished up the scripts, Kayla started interrogating] "Now answer me this time: What the hell are you, and what are you trying to do to us?"]
+[Ontoh: "are you ready to listen now? This is obviously your first time, so the most important thing is, you need to stop doing anything that's visible from the sky –"]
+
+["Why should we trust you about anything? You lied to us!"]
+
+[The creature uttered a bunch of gibberish that I could only assume was the equivalent of swearing in its own language. "[I should be deleted for that! [?]] Now you stupid <em>ethra</em> are going to assume that I'd lie you as a <em>takir</em>. There's no point in lying now! If you don't believe me, just go back in time 1000 times and ask me 1000 different questions, and see if I slip up!" [slight pause, then, as if remembering that we were stupid and needed it to be repeated:] "<em>Just don't do anything they can see from the sky while doing it –"]
+
+[???? Kayla started interrogating] "First question: What the hell are you, and what are you trying to do to us?"]
+
+[Slight pause] "You <em>ethra</em> don't even have words for what I am!" the creature chirped. "Must I explain my whole personal history? I am the branch of Ontoh who snuck into this timeline when it was created, 3000 years ago. ????? –"
+
+"No, why are you a box with crab legs?"
+
+"Oh, a large brain question!" it rasped. I could tell this was an insult, but I misinterpreted it at first. The creature wasn't being sarcastic, as if "large brain" meant smart. It was comparing us to people who <em>thought</em> that a physically large brain <em>would</em> make you smart. [As if it was tedious to answer] "I'm a box with crab legs because I couldn't spy on Nochli as a human."
+
+Marvin: "You were a human??"
+
+"A better breed of human than exists in <em>your</em> timeline, but yes. We removed my head and placed it in this box, and rewired the nerves to control the crab –"
+
+"You removed your own head??!"
+
+I was definitely giving the creature the impression that I was very stupid. "Other Ontoh removed my head. It doesn't work to do it yourself."
+
+"And you've lived for 3000 years??"
+
+"You are shocked by our technology, is that the only thought in your head?"
+
+[[[Kayla and the creature were on the same wavelength]] Kayla cut in, demanded:] "Are you the one who made the phrenochondria?"
+
+"No." [The most plain answer it had given this whole time]. "The <em>huvith</em> – what you call the 'phrenochondria' – they were created by my enemy. The one who created this timeline that we are all stuck in. [The ones were watching from the sky] <em>Nochli.</em>"
+
+[So they are the reason we're not supposed to do stuff that's visible from the sky? Yes, if they knew you were time travelling or had disabled the huvith or that I was here, they would uproot us all. Can we see them now? Yes, but do not go look! You could be seen, and because you are back in time, they can recognize that you used time travel! What about on the cameras? If you can get them in view without even slightly rotating the camera to look at them, then yes."
+
+
+
+
+
 
 "You <em>ethra</em> don't even have words for what I am!" the creature chirped. "From your perspective? Your timeline? I am a stowaway. A saboteur. When our enemy created this timeline, <em>cehilch hinah</em> [note: seh(two) hillch(time unit) hee-NA (memory, i.e. personal history)] – 3000 years in your history, I came along, right under their noses. My only goal is to work against them. If I attacked you, it was in service to that goal – probably to use you to make 'time machines' for me." [The tone of "time machines" was subtly different, as if our very concept of "time machines" was disgustingly primitive - perhaps for them it was like if we had called a cell phone an "adding machine".] "Since you've captured me, you will have to do that yourselves, though you will need my knowledge, if you don't want to be destroyed –"
 

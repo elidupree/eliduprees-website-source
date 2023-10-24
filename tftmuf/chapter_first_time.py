@@ -51,7 +51,7 @@ People like to ask hypothetical questions about how their lives would be differe
 
 [And then they had to sleep? Although I imagine they didn't sleep very well. And they kept having to locate more food that they could steal without drawing attention. They didn't dare leave the building to go shopping, as they recommended for us to do, because they'd be changing the history of anyone who saw them outside the building, and if any of THOSE people posted anything online that anyone inside the building was going to see, it could disturb k+m past]
 
-["But you can get away with it, because your past doesn't extend beyond around noon yet. If you leave the building right after the time you got in the time machine, then none of your side effects will interfere with your own past. As long as you get back, and get in the time machine again, before 4 PM, you'll be pretty much safe. The side effects may make our map less reliable for you, but they won't cause a paradox for YOU"]
+[[No, they should START saying this, then get interrupted by Ontoh inducing fear in them: "it was odd, they were suddenly terrified by the idea of leaving the building" (they both agreed on it and didn't discuss why much)] "But you can get away with it, because your past doesn't extend beyond around noon yet. If you leave the building right after the time you got in the time machine, then none of your side effects will interfere with your own past. As long as you get back, and get in the time machine again, before 4 PM, you'll be pretty much safe. The side effects may make our map less reliable for you, but they won't cause a paradox for YOU"]
 
 [At some point: "yeah, you're going to need a different numbering system"]
 

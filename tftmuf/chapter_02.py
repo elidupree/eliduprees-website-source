@@ -190,7 +190,7 @@ The Kayla in the video was still talking, almost forgotten behind us. I skipped 
 
 "– no, they shouldn't look it up – remember, using the Internet might still be a paradox risk. We'll, uh, I guess we'll include the documents in the zip file –"
 
-"– Right. Anyway, in the experiment, people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I've never wasted my brain on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. You'll be able to stock up on food when you go shopping later. But you can't do that yet, first we have to tell you the time travel rules."
+"– Right. Anyway, in the experiment, people volunteered to go on a starvation diet, so that humankind could learn what it takes to help someone recover from starvation. And that's what they found out – you need about 4000 calories. Now, I don't know how many calories things are. Diet culture kills people, I've never wasted my brain on it. But you – Marvin – you told me you've tried dieting a few times yourself, so you know this stuff, and you can help. You'll be able to stock up on food when you go shopping [looting] later. But you can't do that yet, first we have to tell you the time travel rules."
 
 At that point, there was a sudden cut in the video – switching to a part they recorded later, and edited in afterwards.
 
