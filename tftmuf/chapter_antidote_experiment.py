@@ -278,6 +278,8 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 ["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan; but it was already [2:54] and there was a lot that we needed to execute in practice – maybe it would only take 5 minutes to download the footage and get in the time machine, but I knew from [long experience with undiagnosed ADHD] that if you wanted the 5 minute thing to get done today, you had to do it immediately]
 
+[Aster still unconscious as they leave, I think, but maybe starting to stir? But much too sleepy to consider bringing with them]
+
 
 
 [The horror of pretending to have a normal conversation while you can see the monster out of the corner of your eye but have to pretend that you can't see the monster; explicit dialogue (repeating what the experiment group said) where they mention they are going to go upstairs to do the experiment]

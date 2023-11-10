@@ -1,14 +1,37 @@
-????? We owe it to Aster to let them use the antidote
+[We reentered the room (where Aster was asleep) shortly after we left. It wasn't long before they started to stir, struggling to sit up in the seat]
+
+[Aster Aster can you hear us?]
+
+[[Not actually absorbing the words, gravelly voice]: Where am I? Who are you?]
+
+Marvin: "we are in the chem lab, right where we left – where we all used the antidote –"
+
+Kayla: "wait. I think this is Reggie. Not Aster."
+
+[Kayla had an advantage in recognizing him – I had never met Reginald, but Kayla had, a few times, years ago, before the research had suppressed his consciousness.]
 
 [reg being different than Aster - deeper, gravelly voice, look of fear - in all the time we'd known Aster, we'd never seen them afraid, not even when the gun was being pointed at them. but Reginald was deeply afraid]
 
 "I'm dissociating, you need to take me back to my office –"
 
-"I'm sorry. We can't let you leave until we've explained what's going on"
+It was only then that I realized what position we were in – Reginald had no idea what was going on, and had suddenly woken up in a strange place with strange people
 
-?????
+"I'm sorry. You can't leave yet –" I began.
 
-[At some point later: "what in God's name has Aster done with our back?? After all the work I did to try to learn good posture"]
+[That was a mistake. Reginald quickly glanced between me and Kayla with the gun; I had given him a much different impression of what we were about than I wanted to. "I don't know what you want with me, but I will not be intimidated"
+
+"No no no I didn't mean it like a threat!" I said frantically. "It's just –" the time travel? Was I going to try to tell him that time travel existed?? "There's stuff going on, you have to let me explain –"
+
+"If you are not a kidnapper," said Reginald severely, "then you will return me to my office, and explain it to me there!" He started pushing himself to his feet
+
+[I held up my hands to tell him to stay seated, which just made him more determined to get on his own feet; I was clearly losing control of the conversation. I scrambled for words] "we can't leave the building yet – none of us can –"
+
+"We've met Aster," said Kayla suddenly. "We've been working with Aster for the last [number] days."
+
+[Complex emotions caused Reginald's face, I can only imagine what must've been going through his head at the time. Embarrassment at his secret being known, fear of what could have kept him out of commission for days,. He sank back into the recliner, face pale. Whispered: "what has happened?"]
+
+[Kayla efficiently told him what had happened, bluntly stating the facts with no attempt to spare his feelings or ease him into the idea of time travel being real. To his credit, Reginald just sit there and absorb the information, nodding at the important parts
+
 
 [Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"]
 
@@ -18,12 +41,14 @@
 – "they were planning to get rid of Fuller" "
 – "they thought Fuller might kill them" "well isn't that convenient for them! A convenient excuse to go on and do exactly what they would have wanted to get away with anyway! They should have risked our life"
 – "They could have walked away" "if they'd walked away then I'd be dead because they didn't do time travel" "the fact that they could undo the deaths is why Fuller felt comfortable escalating the experiments in the first place! This is why you [bangs fist on table] never compromise with evil!"
+– "They just wanted to be able to talk to you! They care about you a lot!" "If they cared about me, then they should have cared about my values! If I'd known what they were doing, I would've never accepted it. If you can't satisfy your desires without harming other human beings, you must take those unfulfilled desires to your grave. There is no other acceptable outcome!"
 – At some point, "'Reggie' is only a name for my intimates, I can't believe Aster gave it out to everyone"]
 
 [With deeply aggrieved conviction] "If I get any say in this at all, we are going to have some god damn <em>ethics</em> around here."
 
 [Chapter break, "the ethics board"]
 
+[At some point : "what in God's name has Aster done with our back?? After all the work I did to try to learn good posture"; maybe we have him get out of the becoming or hear and feel it; maybe they are going to a better room for discussion, rather than a chem lab]
 
 [Reginald saying how everything up to this point has been an utter mess ethics wise, including some harsh words for Marvin's choices ("profoundly amoral act"/I hung my head/"at least you have the decency to be ashamed") and saying Kayla was "excused but not justified" (there is a difference between a justification and an excuse! We can excuse Kayla's [brutal murder of a man who had already surrendered] because [of her natural, extreme feelings about the situation he had put her in], but I will not sit here and allow you to justify it. More specifics, not sure of relative order:]
 
@@ -35,7 +60,7 @@
 
 "Did he know that?" Reginald demanded. ????? "[Did he know they were evil when he started]"
 
-[Kayla defensive some more – "of course he knew they were evil! They put surveillance cameras all over the place, they turned this building into the goddamn Panopticon! Even if they hadn't [done nonconsensual experiments] they would still be evil –"]
+[Kayla defensive some more – "of course he knew they were evil! They put surveillance cameras all over the place, they turned this building into the goddamn Panopticon! Even if they hadn't [done nonconsensual experiments] they would still be evil –" ("to surveil is to be evil, so Marvin knowing about the surveillance is the same thing as Marvin knowing about the evil")]
 
 But I knew that Reginald was right. [I hadn't thought about it at all – I was just lucky] I hung my head.
 
@@ -60,7 +85,7 @@ Kayla [settled a little, not trying to press the issue but not feeling like Regi
 
 Reginald [understood the implication; implicitly, he recognized it as a threat to him being taken seriously]. "Are you going to [say I'm evil because I'm not vegan?]" [With a incredulous tone – a couple degrees less severe than "voice dripping with skepticism"]
 
-Kayla shrugged. "Your lifestyle requires the murder of sapient beings," she said. Her tone wasn't accusatory – it was the tone of someone who is discussing the plain facts. "[You have no more right to judge than any of us]"
+Kayla shrugged. "Your lifestyle requires the murder of sapient beings," she said. Her tone wasn't accusatory – it was the tone of someone who is discussing the plain facts. "Why should I trust your judgment on anything to do with ethics?"
 
 Reginald [got back on top of things]. "Even if I take that to be true, it only illustrates my point. If none of us are morally pure, then that is why we cannot simply defer to any one person's judgment, but must actively [work together to be rigorously protected against our individual flaws]"
 
