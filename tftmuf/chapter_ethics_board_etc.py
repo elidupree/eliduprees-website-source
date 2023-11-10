@@ -43,6 +43,12 @@ But I knew that Reginald was right. [I hadn't thought about it at all – I was 
 
 
 
+["Panopticon" – discussion of that and the company name, explanation of what it is: Kayla: "Jeremy Bentham described such a prison, claiming it would be good because it would stop the prisoners from doing bad stuff. But it would only make the prisoners do what the guard wants, and the guard would obviously be evil." Marvin: "how do we know the guard is evil?" [Maybe "anyone who wants to control people is evil" but hang on, what would Kayla actually think about an incorruptible good being watching people? "Also I thought even normal people know prison guards aren't paragons of virtue! Don't you know the Stanford prison experiment?"]]
+
+Reginald: "I do not wish to defend surveillance, but as an educator, I must point out that the Stanford prison experiment has been discredited. [Details from the Thibault Le Texier paper]"
+
+[About the company name, these surveillance companies aren't very creative and]
+
 
 
 
