@@ -319,6 +319,25 @@ Reginald's deep voice cut through our bickering. "<em>Civilians</em>," he said.
 That was a sobering thought. [We were essentially [Earth]'s military now., And Reginald was reminding us to take our responsibility to Earth's people seriously]
 
 
+[so what are we now? the CIA? the SCP foundation?]
+
+
+
+[Some of the below rewritten to Ontoh's new voice; merge them later]
+
+[...no, not God, that's made up!]
+
+[How are you, Ontoh, so sure that God is made up?]
+
+[I know he's made up because I was there when you <em>ethra</em> made him up! [Larger than life heroes fighting each other replaced the all-powerful beneficence by Zoroaster, etc]… Your bizarre desire to make up someone else with power over you]
+
+[Ethel: that's interesting wording, "bizarre desire"]
+
+[Marvin: I mean, it's comforting to think that someone else will take care of everything?]
+
+[Ontoh: the inevitable desire of intelligent beings is to have absolute power over everything, and to have no one has power over you. It should be more comforting to think that you alone will have the power to take care of everything; how can it be comforting that someone else will have that power! This must be Nochli's interference]
+
+
 
 [Reginald: God gives us difficult moral puzzles but it's our obligation to unravel them]
 

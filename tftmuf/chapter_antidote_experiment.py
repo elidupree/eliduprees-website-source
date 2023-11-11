@@ -320,7 +320,7 @@ But I was [being carried by emotions] "Oh, you'll <em>cooperate??</em> You'll <e
 
 [The creature uttered a bunch of gibberish that I could only assume was the equivalent of swearing in its own language. "[I should be deleted for that! [?]] Now you stupid <em>ethra</em> are going to assume that I'd lie you as a <em>takir</em>. There's no point in lying now! If you don't believe me, just go back in time 1000 times and ask me 1000 different questions, and see if I slip up!" [slight pause, then, as if remembering that we were stupid and needed it to be repeated:] "<em>Just don't do anything they can see from the sky while doing it –"]
 
-[???? Kayla started interrogating] "First question: What the hell are you, and what are you trying to do to us?"]
+[???? Kayla started interrogating] "First question: What the hell are you?"]
 
 [Slight pause] "You <em>ethra</em> don't even have words for what I am!" the creature chirped. "Must I explain my whole personal history? I am the branch of Ontoh who snuck into this timeline when it was created, 3000 years ago. ????? –"
 
