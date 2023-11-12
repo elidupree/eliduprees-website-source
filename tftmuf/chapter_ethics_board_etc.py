@@ -1,4 +1,16 @@
-[We reentered the room (where Aster was asleep) shortly after we left. It wasn't long before they started to stir, struggling to sit up in the seat]
+[Start of part 2.]
+
+
+[As curious as I was about the airships, We quickly established with Ontoh that no immediate action had to be taken in relation to Nochli; 
+ONTOH: shoo! go secure the building, stupid! Nochli aren't going to destroy you all for another few months yet, the important thing is to secure your resources!]
+
+[Our immediate concerns were closing the time loop, getting back to Aster before they woke up, and dealing with the remaining scientists.]
+
+[We closed the time loop by hacking the cameras, as planned. Note programming practicalities: they have to be able to debug it if it doesn't work, so they watch the time machine room and make sure K+M receive the right text/video; maybe they get like 5 texts from alternate future selves telling them how to not mess up, prompting Marvin to have a bit of angst about how many of him got deleted, but he is basically getting desensitized to it now]
+
+[We watched on the cameras as ourselves left the chem lab with Aster still unconscious, just as we had done.]
+
+[As soon as they were out of earshot, we reentered the room. It wasn't long before Aster started to stir, struggling to sit up in the seat]
 
 [Aster Aster can you hear us?]
 
@@ -32,8 +44,9 @@ It was only then that I realized what position we were in – Reginald had no id
 
 [Kayla efficiently told him what had happened, bluntly stating the facts with no attempt to spare his feelings or ease him into the idea of time travel being real. To his credit, Reginald just sit there and absorb the information, nodding at the important parts
 
-
 [Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"]
+
+<bigbreak>
 
 ["For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously"]
 
@@ -92,7 +105,11 @@ Reginald [got back on top of things]. "Even if I take that to be true, it only i
 
 [We need to get more, responsible, people, to have a proper ethics board. Wait a minute, we can't ethically bring in anyone because they can't give informed consent!]
 
+[but they were all in on the evil!]
 
+[were _all_ of them?]
+
+[Chapter break: ]
 
 
 
@@ -116,7 +133,7 @@ I sat down with her in her office [physical description; she had arrived several
 
 ?????
 
-[Somehow I kept coming back to it, and even wrote the paper. But I didn't understand what was happening until a chance conversation with Re– ahem, with Dr. Nenge." I had the distinct impression that she was using his surname to show respect, since I was a stranger, but that she would normally call him Reggie, out of affection. Him? Them? She had probably been talking to Aster, actually[, they just hadn't come out to her]. "?????
+[Somehow I kept coming back to it, and even wrote the paper. But I didn't understand what was happening until a chance conversation with Re– ahem, with Dr. Nenge." [note that it's an African name; Reginald is fair-skinned and you could easily assume he's white, but he is not.] I had the distinct impression that she was using his surname to show respect, since I was a stranger, but that she would normally call him Reggie, out of affection. Him? Them? She had probably been talking to Aster, actually[, they just hadn't come out to her]. "?????
 
 "[He brought me to Dr. Fuller and they did some tests, showing me a series of chemical formulas and asking me to explain them, to show that my mind was normally functioning, and then showing me another one that I couldn't understand] It was very confusing to me at the time, but now I understand that they were showing me the formula for the argonization of iron. Dr. Nenge had derived it from our paper. Dr. Fuller could read it normally, because to him, the formula was laughable, a chemical impossibility. But for me, I would have understood it, because I had seen the results of our experiments. So it triggered the self-censoring effect.
 
@@ -222,7 +239,7 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 
 
-[Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I did not necessarily mean we needed to go deep into moral philosophy"/"but of course we need to!"/" Yes, now that you say so, I can see that it was inevitable, given the unprecedented nature of the forces at play. I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
+[Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I did not necessarily mean we needed to go deep into moral philosophy"/"but of course we need to!"/" Yes, now that you say so, I stand corrected. I can see that it was inevitable, given the unprecedented nature of the forces at play. I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
 
 "But then destroying the entire universe would be a morally neutral act" [because no one suffers afterwards]
 
@@ -313,7 +330,7 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 
 
-[Ethel: One develops an intuition for what observed behaviors might be emergent properties of physics, and what are based on human assumptions. And this budget rule doesn't feel elegant. [Are we in a simulation/imagined by a worldbrain? Was there another world before Salnthu, that somehow imposed the budget restriction?] I suppose it does have a certain stark elegance to it, in that you can never observe how much budget is left, because its only effect is to make your entire timeline cease to exist]
+[Ethel [no, this should be Marvin or Simon]: One develops an intuition for what observed behaviors might be emergent properties of physics, and what are based on human assumptions. And this budget rule doesn't feel elegant. [Are we in a simulation/imagined by a worldbrain? Was there another world before Salnthu, that somehow imposed the budget restriction?] I suppose it does have a certain stark elegance to it, in that you can never observe how much budget is left, because its only effect is to make your entire timeline cease to exist]
 
 
 [Ethel: hmm, it could just as easily prevent the "duplicating objects" trick by having "pinched off" timelines count as a contradiction and reset. But that's physics for you, utterly arbitrary and indifferent to what humans think is intuitive]
@@ -331,7 +348,7 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 
 
-[How the heck are we going to do anything against Nochli? Anything we do in this world will just get reverted. The time machines to get back to Salnthu are only big enough for written messages. MARTIN: well, let's see, they made resizable time machines before, right? What if we made a resizable time machine that was even more miniaturized, using Earth technology, and snuck it into their messages? The time machine could even contain us, like, secret agents, to infiltrate Salnthu. ONTOH: what are you planning to do? If you jump out on the other side, they will just revert you that way anyway; I have plenty of Ontohs in their base already, but that doesn't mean I can do anything about them. KAYLA [maybe with Ontoh feed turned off: Bomb Salnthu. "What?" No matter what we do, our entire world is going to be erased in a few months. At the very least, we shouldn't let Salnthu continue to exist either. Ontoh isn't going to consider options that also destroy Ontoh, but WE can. So let's combine time travel with Earth technology to make a bomb that can instantly wipe out all time machines, and all life, on the planet.]
+[How the heck are we going to do anything against Nochli? Anything we do in this world will just get reverted. The time machines to get back to Salnthu are only big enough for written messages. MARVIN: well, let's see, they made resizable time machines before, right? What if we made a resizable time machine that was even more miniaturized, using Earth technology, and snuck it into their messages? The time machine could even contain us, like, secret agents, to infiltrate Salnthu. ONTOH: what are you planning to do? If you jump out on the other side, they will just revert you that way anyway; I have plenty of Ontohs in their base already, but that doesn't mean I can do anything about them. KAYLA [maybe with Ontoh feed turned off: Bomb Salnthu. "What?" No matter what we do, our entire world is going to be erased in a few months. At the very least, we shouldn't let Salnthu continue to exist either. Ontoh isn't going to consider options that also destroy Ontoh, but WE can. So let's combine time travel with Earth technology to make a bomb that can instantly wipe out all time machines, and all life, on the planet.]
 
 [Come on, there has to be a way for Earth cultures to continue existing! [two Earths plan]]
 

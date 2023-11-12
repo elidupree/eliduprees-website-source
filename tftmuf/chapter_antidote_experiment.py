@@ -340,15 +340,24 @@ I was definitely giving the creature the impression that I was very stupid. "Oth
 
 "And you've lived for 3000 years??"
 
-"You are shocked by our technology, is that the only thought in your head?"
+"You are shocked by our technology, yes! Is that the only thought in your head?"
 
 [[[Kayla and the creature were on the same wavelength]] Kayla cut in, demanded:] "Are you the one who made the phrenochondria?"
 
-"No." [The most plain answer it had given this whole time]. "The <em>huvith</em> – what you call the 'phrenochondria' – they were created by my enemy. The one who created this timeline that we are all stuck in. [The ones were watching from the sky] <em>Nochli.</em>"
+"No." [The most plain answer it had given this whole time]. "The <em>huvith</em> – what you call the 'phrenochondria' – they were created by my enemy. The one who created this timeline that we are all stuck in. [The ones who are watching from the sky] <em>Nochli.</em>"
 
 [So they are the reason we're not supposed to do stuff that's visible from the sky? Yes, if they knew you were time travelling or had disabled the huvith or that I was here, they would uproot us all. Can we see them now? Yes, but do not go look! You could be seen, and because you are back in time, they can recognize that you used time travel! What about on the cameras? If you can get them in view without even slightly rotating the camera to look at them, then yes."
 
+[so we looked in the rooftop cameras, and saw.]
 
+[airships covered in the Pattern dotted the sky, a giant grid watching over everything. swarms of Patterned flying creatures attended them. ]
+["in this city people tend to keep their heads down and not look up, is this why???"]
+
+"What <em>are</em> they?"
+
+[Ontoh rasped – perhaps remind the reader of how they are upside down with their legs splayed –] "The rulers of your world."
+
+END OF PART ONE
 
 
 
@@ -404,8 +413,6 @@ I was definitely giving the creature the impression that I was very stupid. "Oth
 
 [Have you looked out any of the south windows since you freed yourselves?]
 
-[giant nochli blimp, "in this city people tend to keep their heads down and not look up, is this why???"]
-
 
 ["… And you really need to start duplicating yourselves"]
 
@@ -416,17 +423,6 @@ I was definitely giving the creature the impression that I was very stupid. "Oth
 
 
 
-[We're not calling it the main timeline. What's it called in your language? "Salnthu, and your world could be named after the changes Nochli made, particularly the 'phrenochondria'. Nochli called them 'huvith', named after their word for a fence to keep livestock from wandering out of the field. And when they referred to the timeline they were creating, they called it 'huvinthu', which basically means 'huvith world'." 'the fenced-in world'.]
-
-[M: so we're basically sheep, then?]
-
-#[K: I'm not calling my world that]
-
-
-
-[Millions of subjective years of human breeding; they did it because there was nothing stopping them, just like we do with animals [in our world, humans can fight back but animals can't; in their world, non-time travelling humans couldn't fight back either]]
-
-[was this the inevitable future of humanity, if the ability to duplicate yourself became publicly known?]
 
 
 
