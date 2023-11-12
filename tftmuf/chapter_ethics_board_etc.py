@@ -237,6 +237,9 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [Ethics board in session – everyone is here]
 
+[end of chapter, move into chapter_ontoh_debriefing; the rest of this file is waiting to be moved into a better location]
+
+
 
 
 [Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I did not necessarily mean we needed to go deep into moral philosophy"/"but of course we need to!"/" Yes, now that you say so, I stand corrected. I can see that it was inevitable, given the unprecedented nature of the forces at play. I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
@@ -284,12 +287,6 @@ Kayla: no I've thought about this, everyone in society is coerced and so you wou
 [maybe in response to that: it's a fascinating quirk of [Earth] culture that you think clipping a branch is the same as wiping out the tree./Seriously no one on Salnthu believes that?/I understand that there were some people who believed that in our ancient past, but everyone who believed that got wiped out./You persecuted them?/] "No, the belief caused them to die, of its own merits. [If you are never willing to reset any of yourselves, then eventually you'll die and not have any way to reverted]"
 
 ["What about souls? What about continuity of consciousness?" Those are superstitions. Let us ask why you believe in them; you believe in them because it simply feels like they are true, yes? Well, that feeling is something that exists; moreover, both copies have it.]
-
-[Related, not sure of order: Ontoh says it's inevitable that the broadly accepted morality will be collective self-interest of those who can fight back ("just like how your society accepts breeding and slaughter of animals"); Kayla could relate collective self-interest to the Ring of Gyges story, but objects to the idea that morality is about the ability to fight back, and says [the powerful should do the right thing to the helpless]. Narrator remarks on this ("someone who was able to truly believe that you should do the right thing even if there would be no consequences… someone who had the [mental fortitude] to advocate for animals even in our society")]
-
-
-
-[Somewhere: how should we think of Ontoh, who is essentially a slaveowner who grew up in a society of slaveowners? Ontoh believes it's the inevitable order of the world, and trying to stop slavery from happening is foolish (in Huvinthu it was only banned because of worries about rebellions). Marvin(?) agonizes about whether they're a product of their society; Kayla insists that they are Evil ("you can just look at what's happening and figure out what's good and evil! I can tell that my own society is evil [in the treatment of prisoners, children, animals, etc.], so they can tell that their society is evil, they just choose not to")]
 
 
 
@@ -339,18 +336,9 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 
 
-[But how do we know Nochli are evil? They are just hanging around in the sky, we only have Ontoh's word for it that they are evil]
-
-[As before, Kayla thinks their inaction makes them evil]
-
-[Marvin's theory: What if they understood that their world was evil, and concluded that they would inevitably end up with a world like that as long as time travel was possible? So when they got the opportunity to replace their world, they decided to give humanity a new history, where they got to develop however they would have developed without time travel, and Nochli oversee it? Remember, Ontoh didn't understand how Nochli don't fight each other and how they agreed to remain in small numbers while overseeing the world. And Ontoh isn't trustworthy, they would probably just as happy to cancel our world to get back their own, so they have every reason to convince us that Nochli is evil]
 
 
 
-
-[How the heck are we going to do anything against Nochli? Anything we do in this world will just get reverted. The time machines to get back to Salnthu are only big enough for written messages. MARVIN: well, let's see, they made resizable time machines before, right? What if we made a resizable time machine that was even more miniaturized, using Earth technology, and snuck it into their messages? The time machine could even contain us, like, secret agents, to infiltrate Salnthu. ONTOH: what are you planning to do? If you jump out on the other side, they will just revert you that way anyway; I have plenty of Ontohs in their base already, but that doesn't mean I can do anything about them. KAYLA [maybe with Ontoh feed turned off: Bomb Salnthu. "What?" No matter what we do, our entire world is going to be erased in a few months. At the very least, we shouldn't let Salnthu continue to exist either. Ontoh isn't going to consider options that also destroy Ontoh, but WE can. So let's combine time travel with Earth technology to make a bomb that can instantly wipe out all time machines, and all life, on the planet.]
-
-[Come on, there has to be a way for Earth cultures to continue existing! [two Earths plan]]
 
 
 
