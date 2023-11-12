@@ -15,3 +15,11 @@
  
  [does this conversation happen after Marvin becomes Kazon? "You don't understand Kayla. She doesn't break promises." Reginald, somewhat surprised: "I've had this conversation many times, but that's the first time you've spoken to me so confidently. I hope that you are correct. However, that doesn't take away the obligation to be a failsafe"]
  
+ "as of right now, you are the primary thing that tethers Kayla to [conventional morality / the emotional realities of a regular person]. This is too great a responsibility to put on any one person, but it's the situation we are in, and likewise, you are the only person who would be able to get us out of that situation."
+ 
+ ["I work with Kayla all the time now, I can't be thinking about how to fight her"]
+ 
+ ["I respect that. [Maybe there is something you can do regarding her emotional state, since she respects you more than the other Marvin's. ]"]
+ 
+ ["Please think on it"? Reginald should end this conversation in whatever way makes Marvin take it seriously and actually follow-up, which Reginald may know from experience at this point. Do they secure a promise from Marvin to consider it?]
+ 
