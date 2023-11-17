@@ -7,9 +7,13 @@
  
  Marvin: oh, [kind of awkward because Marvin respects Reginald (partly as an authority figure) and also feels guilty about what happened to Reginald but also feels like Reginald is going to be judging him] what is it?
  
- Reginald: Kayla. I respect the agreements that we have made [during the time skip, they agreed to have equal numbers of Marvin and Kayla, and Kayla agreed not to destroy humanity without due process/"I was able to extract from her 2 promises regarding the destruction of humanity: that she would not destroy humanity unless she was certain that it was the only option, and that she would not destroy humanity without first informing the ethics board and giving us a chance to convince her otherwise. These are not reassuring, because what will stop her from convincing herself that it is the only option, and why would we be able to convince her otherwise?], but I am not happy with the fact that half of our agents sincerely believe that we would be better off wiping out all of humanity, even if she has agreed not to. I could not live with myself if I didn't do everything I can to make sure that this does not come to pass.
+ Reginald: Kayla. [I should begin by saying that I have much respect for Kayla, she [truly thinks about things on a deeper level that most people refuse to]. She is as brilliant and tragic as Simone Weil."
  
- As things stand at the moment, you are the only one with the physical ability to hold her in check. If the time comes that she decides humanity needs to be destroyed, we are depending on you to stop her. You must take this seriously as one of the duties of Marvins
+ I could tell there was a "but" coming.
+ 
+ "But," [I respect the agreements that we have made [during the time skip, they agreed to have equal numbers of Marvin and Kayla, and Kayla agreed not to destroy humanity without due process/"I was able to extract from her 2 promises regarding the destruction of humanity: that she would not destroy humanity unless she was certain that it was the only option, and that she would not destroy humanity without first informing the ethics board and giving us a chance to convince her otherwise. These are not reassuring, because what will stop her from convincing herself that it is the only option, and why would we be able to convince her otherwise?], but I am not happy with the fact that half of our agents sincerely believe that we would be better off wiping out all of humanity, even if she has agreed not to. I could not live with myself if I didn't do everything I can to make sure that this does not come to pass.
+ 
+ As things stand at the moment, you are the only one with the physical ability to hold her in check. If the time comes that she decides humanity needs to be destroyed [the destruction of humanity ceases to be a mere theoretical consideration for her], we are depending on you to stop her. You must take this seriously as one of the duties of Marvins
  
  [I really didn't think Kayla was going to destroy humanity, and I didn't want to think that she was going to]
  
@@ -22,4 +26,6 @@
  ["I respect that. [Maybe there is something you can do regarding her emotional state, since she respects you more than the other Marvin's. ]"]
  
  ["Please think on it"? Reginald should end this conversation in whatever way makes Marvin take it seriously and actually follow-up, which Reginald may know from experience at this point. Do they secure a promise from Marvin to consider it?]
+ 
+ [...the fact that this message was delivered to me by Reginald, rather than by Marvins sharing their plans with me: he hadn't been able to convince any other Marvin to really work on this either.]
  

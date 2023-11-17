@@ -143,6 +143,8 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 [Instantly icy] "Dr. Fuller didn't send you," she said [crisply? no, feeling-threatened-ly? no, more restrained than either].
 
+[Ethel Wright was very perceptive, but not a skilled manipulator. If she'd been innocent, she would have said "the what?" And if she'd been intelligently evil, she would have pretended to be innocent, waited for me to leave, and <em>then</em> phoned the others to deal with [me/this mysterious infiltrator].]
+
 ?????
 
 [She tries to call Doctor Fuller, the phone rings and rings – or is Marvin carrying the phone right now?] "
@@ -410,6 +412,9 @@ Reginald and Kayla both spoke at once.
 
 [maybe here, or maybe in part 3? "Salnthu never understood relativity or quantum mechanics. What's going to happen when we unite time travel theory with relativity or quantum mechanics? How do we know we're not going to discover a power that is even worse than Salnthu?"… philosophize about "wise enough to accomplish greater destruction" – if you cooperate effectively instead of fighting, then you accomplish greater deeds, and if you don't proactively guarantee that greedy people can't take your work and use it for evil, then they will, and your goodness will have accomplished the greater evil. Compare and contrast how Nochli, who was wiser than Ontoh, was able to destroy Ontoh, even though Ontoh was more focused on fighting]
 
+
+
+[on the nature of evil: simon and ethel weren't cruel, they would just do what they were told by whoever offered them what they wanted. Now that was us. They were useful resources and ethel even, unsettlingly, provided useful input on ethics]
 
 
 
