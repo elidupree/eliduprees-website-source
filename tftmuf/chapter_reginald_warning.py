@@ -29,3 +29,9 @@
  
  [...the fact that this message was delivered to me by Reginald, rather than by Marvins sharing their plans with me: he hadn't been able to convince any other Marvin to really work on this either.]
  
+ 
+ [also: "also, she keeps living for 3 years in those rooms and then deleting herself repeatedly, this is way not anything I was prepared for, what am I supposed to do??? I can't handle this so I've basically been trying to ignore it"]
+ 
+ [Reg: 'You are not obligated to complete the work, but neither are you free to abandon it.' (I later learned that that was a Jewish saying) don't expect yourself to fix all of Kayla's problems right away, but think about things that are within your grasp that would move her in the right direction]
+ 
+ 

@@ -66,6 +66,14 @@ I instantly thought of her as "General Kayla". Her proud bearing, the way she wa
 
 The oldest Kayla I'd ever seen. She had spent lifetimes preparing for this. [What does it take for someone my Kayla to live all the way to old age, while remaining who they are? You can't get that old by continually forcing yourself – it will kill you first. For a typical person to get that old, they basically give up on their youthful idealism, softening themselves to avoid burning out. But Kayla had taken a third path: she had made sophisticated policies for how to maintain both her brain hardware and her ability to act with the same level of dedication when it counts.]
 
+[also she still had arms, why? only later I realized: Kayla's arms provided her the one thing that motivated her to continue being morally vigilant: _distress_.]
+
+
+[our weapons were tested outside the solar system, with the benefit of the speed-of-light delay to prevent detection?]
+
+
+[In game theory it is called the game of chicken; you benefit from making commitments; Kayla had given herself a perfect advantage by being able to commit _by actually doing it_, so that Nochli would always have to be the one to back down]
+
 
 [Nochli says that if Kayla takes away their ability to pull the plug, Nochli will inevitably be destroyed by other time travelers taking over, so it _makes no difference_ and they might as well allow Kayla to destroy the world; in fact this is a lie and Nochli would somewhat prefer to survive for the small chance of long-term survival rather than zero]
 

@@ -88,3 +88,36 @@ Marvin: so. We can just build a time machine around the entire Earth. And then u
 
 [Everyone impressed and/or "that's crazy" about this idea. But the obvious thing is that they can't get started on it right away, and so they need to figure out practical next steps]
 
+
+
+
+[Also, what are we going to do with the rest of the evil scientists?]
+
+[Kayla to Ethel: [the co-author], do you need him for the physics?]
+
+[Ethel, dignified: "if I say I don't need him, are you going to kill him?"]
+
+[Reginald: of course not, we're not going to kill anybody. Meanwhile,]
+
+[Kayla: kill [all the evil ones we don't need to keep]. Argument about this proceeds, until Aster says:]
+
+"How many times?" said a voice.
+
+[Took me a little while to realize it was Aster, since they'd spoken from Reginald mouth but the sound was different. [Or move this paragraph earlier, if they speak earlier.] Anyway, ]
+
+["How many times do you want to kill them? We could save them up in the past so that you can kill them as many times as you want. You could even kill me a few times, since I think you haven't gotten to do that in your current body?"]
+
+[Reginald wrestling back control over the mouth, "I will not allow any such thing, how dare you even consider such monstrous acts of cruelty –"]
+
+[But Reginald had missed the point Aster was making, while Kayla had understood. Defensively, "it's not about that! We need to kill them because [rationalizations!]" but basically she was backpedaling. Rationalizations are probably about: we can't risk having them try anything, and what if they leak to Nochli?]
+
+[But from the outside world's perspective you're talking about making them "missing persons", won't that attract attention as well? Most pragmatic thing is to make it as unremarkable from the outside world as possible]
+
+[Doctor Wright provided the solution. "Phrehibican-55 wears off after a week if you don't repeat the dose, as we found out to our chagrin with [oblique reference to back story]. If we hold them for a week, we can send them home with no memory of the specifics of recent months.]
+
+[... What about Fuller?]
+
+[Hell no, we are not messing with the paradoxes again!]
+
+[Ontoh deliberately doesn't mention how they could bring him back later if they wanted, but maybe they figure it out on their own]
+
