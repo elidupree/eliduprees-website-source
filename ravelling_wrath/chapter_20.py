@@ -644,7 +644,7 @@ Alchemist nervously approached me and looked at Rinn's head, the only part of he
 
 "Will she… that one was…"
 
-Alchemist was trying to ask about the side effects of the potion. The sleeping effect was very powerful. If someone already had a weak soul when they drank it, they might never wake up. So Alchemist's worrying wasn't unreasonable. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
+Alchemist could recognize the resonance of their own potions, so I couldn't hide it: I had used the strongest healing potion we'd made, which meant Rinn had been hurt most severely. So it wasn't unreasonable that they would worry for her. In the futures, I had tried dozens of responses before I found one that would reassure them. "Examine her soul yourself," I said. "Feel how strong it is. I am completely confident in her."
 
 Alchemist stepped closer and nervously touched Rinn's head. Then they nodded and pulled back again. After a pause, they turned and looked down over the city. I saw their eyes linger over the distant gouges among the buildings, where Justicar had fought us.
 

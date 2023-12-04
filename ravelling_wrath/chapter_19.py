@@ -17,65 +17,85 @@ posts = [
 
 '''+who_tells_the_story("Yali")+'''
 
-Two bodies lay before me. One dead, one only unconscious, both my doing. One Justicar. One Rinn.
+Justicar and Rinn lay before me. One dead, one only unconscious, both my doing.
 
-Was it over?
+It had worked! My true plan was working!
 
-I listened for the future. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. And even if the Seeing could still mislead me, there was no one left with hostile intent towards her. All paths led unerringly to the final portal.
+It had been hard to lie to Rinn. She had always stirred my soul, coming closer than anyone else to piercing my defenses. But I had done it. The potion <em>would</em> heal her – that much was true. But it would also make her sleep. Neither she nor the Blood God inside her would wake until after we crossed the final portal. For what I was about to do, that was essential for our safety.
 
-It was –
+I had never intended to drink the unravelling potion. I had made sure it was created, but only because it gave the Blood God something to hope for. To Rinn and the Blood God, a fight was simple: You beat up the enemy, and then you won. So if the Blood God would rejuvenate and the Waiting would not, then that was enough. The Blood God would have no reason to resist what we were doing.
 
-If I said it was over, I would sit down, and I wouldn't get up again for a long time. But there were many things I still needed to do. Only the first half of my plan was completed.
+But to me, even <em>that</em> wasn't enough.
 
-First, I had to deal with the bodies in front of me. And then, with the gods.
+The Waiting God had <em>allowed</em> its Farseers to die. It was callously sacrificing us, just to prove that the Blood Child was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was insignificant to it. And so it was insignificant to me as well. How could I be satisfied, if I only took away what it was already willing to discard?
+
+I could not. The Waiting God had tried to take away the two things I valued most in all the world: my life, and the life of my love. So I needed to take away what <em>it</em> valued most. And what was that? What it had done all this for?
+
+<em>To erase all memory of the Blood Temple.</em>
+
+So that was my goal. <em>I</em> would take away two of the things <em>it</em> valued most. First, I would I would wring the memories of the Blood Temple from it, whether it wanted me to or not. And then, when the Ravelling completed, I would influence its rejuvenation, just as I had always planned for Rinn to do. I would force it to re-weave its will with <em>mine</em>.
+
+All I needed... were the threads it had woven into my soul.
+
+As long as Rinn had been conscious, I hadn't been willing to take any risks. The more I pulled those threads, the more it might have provoked the Blood God into violence. But now, the Waiting God would answer to <em>me</em>.
 
 <bigbreak>
 
-First, I would have to look at Rinn. There would still be injuries on her body. But logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion I had given her would see to that. So there was no need for me to feel anxious about what I saw.
+But I could not make my move just yet. Not now, not with my body still shaking from the strain of combat, of taking Justicar's life in my hands and shredding it upon the blade. I couldn't think about that right now, about what it meant that I'd just ended a person's life.
+
+I had to make sure Rinn would be safe.
+
+I cleared my mind and listened for the future. The Waiting could hide the truth, but it could not show me falsehoods. So instead of listening for danger, I listened for life. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. And even if the Seeing could still mislead me, there was no one left with hostile intent towards her. All paths led unerringly to the final portal.
+
+It was –
+
+If I said it was over, I would sit down, and I wouldn't get up again for a long time. But there were many things I still needed to do.
+
+First, I would have to look at Rinn. There would still be injuries on her body. Logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion would see to that. So there was no need for me to feel anxious about what I saw.
 
 I looked.
 
-Unspeakable feelings loomed at the edges of my mind. If I kept looking at this mutilation, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
+Unspeakable feelings loomed at the edges of my mind. The blood, the horrific angle of one leg – if I kept looking, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
 
 I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn's body the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
 
-The left arm and left leg were positioned at angles that wouldn't be possible if the bones were intact. Most likely, they had been shattered by Justicar's first attack. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
+The left arm and left leg were at angles that wouldn't be possible if the bones were intact. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
 
-How would I go about this? What position could I put them in?
+How could I approach this?
 
-In the first aid videos I had seen, they said that you were supposed to put an unconscious person on their side, to make sure they could breathe properly. Did that apply to this situation? If I put the body on its side, it would put a lot of weight on one of the shoulders. And <em>both</em> of the shoulders had been crushed. They were being magically healed, but I didn't know what would happen if they tried to heal while they were still in a deformed position. I checked the future, but the healing process wouldn't be complete until after we returned to the material world, so I couldn't see far enough to be sure.
+In the first-aid videos I had seen, they said that you were supposed to put an unconscious person on their side, to make sure they could breathe properly. But if I put the body on its side, it would put a lot of weight on one of the shoulders. And <em>both</em> of the shoulders had been crushed. They were being magically healed, but what if they healed into the wrong shape?
 
-Could I put her in a different position?
+Also, how would I transport her? One way or another, she would have to be brought to the final portal. She was so light that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. I needed a way to move her while keeping her stable – like an ambulance.
 
-Also, how would I transport her? One way or another, she would have to be brought to the final portal. She was light enough that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. It would be better if I found a way to move her while keeping her stable, with padding.
+But we were in the Blood God's world. Rinn had said that we "wouldn't get closer to the heart" unless we moved using our own bodies. Would it count as using my own body if I used my arms and legs to drive...? How did Rinn even know what counted and what didn't? If she was awake, she'd probably say it was obvious, like you could feel it with your body or something.
 
-I considered this for many minutes. At last, I settled on an idea, inspired by the rolling hospital bed we'd used in the third layer. Of course, <em>that</em> bed wouldn't have been suitable for the current layer's cracked and slanted roads, even if I could manifest it. So instead, I manifested a regular bed, and <em>gave</em> it wheels, with big rubber tires to soften the bumps. Also, relying on one of the old Farseers' experience as a mechanic, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. After a lot of reshaping, I ended up with a sort of bulky wagon with a mattress on top.
+It wasn't obvious to <em>me</em>.
 
-With the help of some more manifested supports, I lifted Rinn into a sitting position in the wagon. To make sure she wouldn't fall, I surrounded her body with stiff foam blocks. I shaped each block around her, so her whole body was nestled in a perfect mold. Once I got the shape right, I made the blocks merge together, and also merged them into the mattress underneath, so there was one, solid object holding Rinn in place, and it couldn't slip or fall apart.
+I couldn't keep thinking about Rinn! I had to solve the problem in front of me. If I couldn't use an ambulance, maybe I could use something like a cart, with padding.
 
-I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. It made me want to ruffle her hair, to cup her cheek in my hand. But if I did those things, I would want more, and then more. It would lead to things I shouldn't do when she was unconscious, even if she wasn't injured. So if I started down that path, I would have to spend my concentration on calming myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I didn't think about any of it.
+At last, I settled on an idea, inspired by the rolling hospital bed we'd used in the third layer. Of course, <em>that</em> bed wouldn't have been suitable for the current layer's cracked and slanted roads, even if I could manifest it. So instead, I manifested a regular bed, and <em>gave</em> it wheels, with big rubber tires to soften the bumps. One of the old Farseers had been a mechanic – using their skills, I added ratchets to the wheels, so the bed wouldn't roll back down a hill if I lost my grip on it. Eventually, it became a sort of bulky wagon with a mattress on top.
 
-Now there was nothing more I could do for Rinn immediately. Maybe now I would have time to think and plan my next move.
+Lifting Rinn's body tugged at my feelings. Such a small thing, limp in my arms, blood smearing my long rubber gloves – was this my fault? Because I had counted on her to be injured in the fight, so I could feed her the potion? No, now wasn't the time for those thoughts! <em>Don't think of it as Rinn,</em> I told myself. <em>It's just a body – just someone I'm taking care of like a doctor –</em>
 
-Should I find a place to sit? It would not be possible for me to relax, not so soon after Rinn had been in danger. And even if I could, it would put me in pain. As much as I had improved my endurance, I could already feel my muscles aching from the strain of combat. For now, the feeling was kept at a distance, but if I relaxed, it would catch up with me.
+I set the body to recline in the wagon. I concentrated on the work, on getting everything stable. I surrounded the body with stiff foam blocks, shaping each one so the body was nestled in a perfect mold. Once I got the shape right, I made the blocks combine with each other and the mattress, so they formed a single solid piece, and nothing could slip or fall apart.
+
+I stepped back and checked my work. It seemed suitable. Rinn was secure now, with only her head sticking partway out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. I could just ruffle her hair, cup her cheek in my hand – no, then I would want more, and then more. If I even started, I would have to spend my concentration on bringing myself down, just as much as I did when I thought about Justicar or Morrow. It was easier if I kept all those thoughts away, for now.
+
+I brought myself back to the present: <em>What should I do next?</em> There was nothing more I could do for Rinn immediately. Could I act against the Waiting, then? No, I was not yet prepared for that – it was time to think and plan, and come down from the stress of the fight.
+
+But not to <em>rest</em>. I could not <em>rest</em> – my feelings were stable, for now, but if I let the adrenaline fade, my mind would fill itself with Justicar's light, with Rinn falling like a ragdoll. And even if I could, it would put me in pain. As much as I had improved my endurance, I could already feel my muscles aching from the strain of combat, waiting to catch up with me the moment I let them relax.
 
 I compromised by manifesting a hard bench and sitting up straight on it. That called back a memory of Szaieto chiding me that it wasn't good for me to be so tense. It was funny to think of such an ordinary thing at a time like this. I allowed myself to be amused, but only for a moment. I had plans to make.
 
 <bigbreak>
 
-I had never intended to drink the unravelling potion. I had made sure it was created, but not for the reasons I had let on. I had done it because it gave the Blood God something to hope for. The potion's existence meant that Rinn could believe in a simple solution, so that the Blood God would not resist what we were doing. It was one less complication in a situation where our lives were already at stake.
+It was one less complication in a situation where our lives were already at stake.
 
-The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But I couldn't accept an outcome that would let the Waiting God succeed. And then, of course, my next thought had been to drink it myself, to starve the Waiting God. But in the end, I couldn't accept that either.
+The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But I couldn't accept an outcome that would let the Waiting God succeed
 
-In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either. To her, a fight was simple. You beat up the enemy, and then you won. So the way to win was if the Blood God rejuvenated and the Waiting God did not. Anything less would not be enough.
+In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either.
 
-To me, even <em>that</em> wasn't enough.
 
-The Waiting God had <em>allowed</em> its Farseers to die. It had callously sacrificed them, for no more reason than to prove its story that the Blood God was a monster. Rinn's words echoed in my head: <em>I will kill you and kill you and kill you, and when I am gone, you will still be strong.</em> And the Waiting God knew it. The Waiting saw the grand span of time. The loss of a single rejuvenation, in a single year, was insignificant to it. And so that loss was insignificant to me as well. I was not content to take away only what it had already willingly discarded.
-
-What I needed was a way to access the Waiting God directly. A way to exert my own will directly onto its existence, so that the marks I made there would be <em>permanent</em>.
-
-What I needed… were the threads it had woven into my soul.
 
 And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn… Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked Alchemist to heighten that effect even further, just in case. I had sincerely hoped that Rinn wouldn't have to be injured. If she hadn't been, I would have used the Seeing again, to search again for ways the Blood God could be convinced. But this way, at least, everything was simpler. Now Rinn was no longer a threat, no matter what I chose to do. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
 
