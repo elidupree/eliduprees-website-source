@@ -16,7 +16,7 @@ posts = [
   
 "So," I said, summarizing the last hour of discussion, "the Alchemist is, like, infinitely far away. They broke their star, and it's not on the pattern anymore. We don't know if they did it on purpose. We don't know if they have any control over where it's going. And <em>we</em> have no way to get off the pattern to follow them, because what they did was probably an Alchemist power. And we have no way to communicate with them. And Yali's power is useless as usual, because apparently the Waiting God still thinks this is part of the challenge. And even if the Alchemist <em>did</em> figure out where we are, and <em>could</em> move their star on purpose, they might crash into us really fast, because they don't have the pattern to slow them down at the right moment. It would be even worse than what happened with Morrow, because, uh…"
 
-"Because Morrow was slowed down by air resistance," supplied Yali.
+"Because Morrow was slowed by air resistance," supplied Yali.
 
 "Right, because there's air everywhere, even though we're in space."
 
@@ -90,7 +90,7 @@ Morrow was still busy licking the floor. Justicar raised an eyebrow. "There <em>
 
 "Don't do that!" shouted Yali. "If it <em>is</em> the star, tell it to come close to here but be careful not to crash into us!"
 
-The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers, and when the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, so he could read what the star thought back in response. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
+The next few minutes were a frantic struggle to figure out how to communicate with a living star when all you had was magic mind powers, and when the person with the magic mind powers had zero attention span. Morrow eventually figured out a way to insert thoughts into the mind of the star, which allowed them to "talk" to each other – Morrow would insert a thought, then the star would think a response, and Morrow would "smell" the response – but it was nigh-impossible to keep the <em>rest</em> of us in the conversation. And then there was a problem of how to tell the star where to go. As far as we could tell, it literally had no senses, except for the sense of whether it was on the pattern. And it just wasn't any more. It couldn't, like, tell when it was getting closer or farther away or anything.
 
 The only thing it <em>could</em> do was try to move. And since it could never tell whether the moving was working, it had just kept trying to move every which way, hoping something would happen. And it didn't have a language to express which <em>direction</em> it was trying to move, so Morrow had to try to interpret it for us.
 
@@ -140,11 +140,11 @@ What's more, in between talking to the Alchemist, he actually <em>paid attention
 
 "You <em>like</em> them, don't you?" I said. He just kept smiling and stared past me into space. Haha, he was lovestruck for sure.
 
-Predictably, there was a lot more confusion and miscommunications with telling Neenu where to go. But she finally made it. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
+Predictably, by the time Neenu reached our star, we'd had a lot more miscommunications and general confusion. But she finally made it. Neenu didn't sweep smoothly toward us like all the other stars we'd seen. She zigzagged back and forth erratically, like someone who was trying to juggle but kept almost dropping stuff. Yali spent the whole time half-in-half-out of the Seeing, making sure Morrow's instructions weren't going to make Neenu crash into us. When she was finally within a few meters of our own star, she zoomed straight towards it, then bumped and bounced against the edge of our star happily.
 
 Happily? How could I tell that she was happy? She was just a solid platform like all the others.
 
-We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. One moment, their big soft eyes blinked across at us, and the next, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced. The Alchemist didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up.
+We all rushed to the edge to greet the Alchemist, who was standing nervously at the edge of Neenu. They didn't look like they were ready for this. They were dressed in a loose bathrobe, and it looked like they had just been plucked out of bed and plopped down on the star before they had a chance to wake up. One moment, they blinked across at us with big soft eyes, and the next moment, they looked down at the gap between the two stars, which kept getting wider and narrower as Neenu bounced.
 
 "Now," said Justicar, "we only need a safe way for the Alchemist to get across to this star."
 
@@ -154,11 +154,11 @@ We all rushed to the edge to greet the Alchemist, who was standing nervously at 
 
 I jumped across to join them, then looked back to Yali. Oddly, even though Neenu was bouncing around, I felt completely stable now that I was standing on her. From here, it looked like the <em>other</em> star was the one that was bouncing around.
 
-"I can't do it," said Yali, standing at the edge and shuddering.
+"I, I can't just jump," said Yali, standing at the edge and shuddering.
 
 "What do you mean, you can't –"
 
-"It's the Waiting God. It <em>knows</em> where that star is supposed to be! This is just… <em>wrong</em>! Or… I should say, the Waiting God thinks it's wrong…" After hesitating for a while, Yali made a running jump and landed on Neenu, then collapsed to the ground.
+"It's the Waiting God. It <em>knows</em> where that star is supposed to be! If I think about jumping to it – the thoughts don't work right – because I know the star <em>isn't there</em>!" She glared at the gap. Slowly, still staring, she backed away – and then made a running leap, and collapsed onto the floor on our side.
 
 I rushed to her side. "You okay there?!"
 
@@ -168,7 +168,7 @@ I rushed to her side. "You okay there?!"
 
 "That, that… actually helps," she said.
 
-I sat with her and manifested a huge mat for both of us to sit on. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali gave a half smile.
+I sat with her and manifested a huge mat for both of us to sit on, and laid it out on the surface of Neenu. "This is a, uh, a magic mat that can fly in empty space, see?" I joked. Yali gave a half smile.
 
 Now, only Justicar was left on the other star.
 
@@ -194,9 +194,13 @@ The Alchemist wobbled back and forth shyly.
 
 The Alchemist hesitated. "Well I, maybe, my name? There are, a few different things people call me. Maybe it wouldn't be so bad? To just be the Alchemist? Do some alchemizing?"
 
-"Alchemy," corrected Justicar. The Alchemist flinched.
+"Alchemy," corrected Justicar.
 
-"Technically," said Yali, "The Alchemist's ability to make potions <em>isn't</em> alchemy. It has more in common with sorcery."
+At her words, several things happened at once. The Alchemist flinched away, cutting off what they were about to say – they were obviously uncomfortable with how Justicar had spoken to them. And Morrow reacted too. I caught a moment of genuine anger on his face – my instincts told me he was itching to fight for Alchemist's sake. But at the same moment, Yali stepped forward, speaking directly to Justicar. "It's not alchemy either," she said, too loudly, drawing all attention to herself.
+
+"Explain," said Justicar. Her eyes flicked back and forth over the others, not quite understanding what Yali had just interrupted.
+
+"Even though the Alchemist may have the ability to make potions, it isn't technically alchemy. It has more in common with sorcery."
 
 "That is impossible," said Justicar. "The titles are given to us by the gods. They cannot be incorrect."
 
@@ -204,7 +208,7 @@ The Alchemist hesitated. "Well I, maybe, my name? There are, a few different thi
 
 "Oh my gods, you guys," I said.
 
-"Everybody shut UPPPPP!" yelled Morrow. "Alchemist has something to say!!"
+"Everybody shut UPPPPP!" yelled Morrow, back to his usual self. "Alchemist has something to say!!"
 
 Alchemist smiled nervously.
 
@@ -216,7 +220,7 @@ Alchemist smiled nervously.
 
 After a very awkward silence, Alchemist managed to psych themself up into saying something. "I – me? I can make potions?"
 
-"It is one of the abilities that the Alchemist can learn," said Yali. "Once you learn how to do it, you should be able to store parts of the Broken God's power in a physical medium, like a potion."
+"It is one of the abilities that the Alchemist can learn," said Yali. "Once you understand how to do it, you should be able to store parts of the Broken God's power in a physical medium, like a potion."
 
 "If I could, maybe, learn? To do that? If you could help me?"
 
@@ -226,7 +230,11 @@ After a very awkward silence, Alchemist managed to psych themself up into saying
 
 "We could also tell stories without setting anything on fire," said Justicar.
 
-"Yeah, but then we wouldn't get to set things on fire." I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright. "Haha, sorry about that!" I said. The logs weren't properly on fire yet, so I gave them another few fiery breaths until they caught. I was breathing fire more carefully this time, but Justicar still only dismissed her wall once the logs were burning steadily on their own.
+"Yeah, but then we wouldn't get to set things on fire."
+
+I dropped a pile of logs out of thin air onto the middle of the star. Then I took a big, exaggerated breath inwards, and breathed fire all over the logs. The fire shot out farther than I'd intended, but in a flash, Justicar manifested a glass wall to block the flames from burning anyone. Alchemist, standing just behind the wall, jumped in fright.
+
+"Haha, sorry about that!" I said. Being more careful this time, I gave another few fiery breaths, until the logs were burning steadily on their own. Of course, Justicar didn't trust me to be careful – she only dismissed her wall once I was completely done.
 
 <print_only><img class="full-page" src="/media/ravelling-wrath/illustrations/8-right.png?rr" alt=""></print_only>
 "Now everyone sit around the fire!" I said. They all did, to varying degrees of reluctance. Yali and I sat on a camping mat, with Yali sleepily putting one arm around my shoulders. On the other side, Morrow and Alchemist were in a similar position. Alchemist initially seemed nervous about the fire, but once they relaxed and started warming themself, their face melted into a dreamy smile. It was really heartwarming.
@@ -247,7 +255,7 @@ Nobody gave me a drumroll. I thought at least Morrow would do it, but no such lu
 
 Alchemist cringed.
 
-"Don't worry, I didn't have to go to the hospital or anything. I just got some really bad scrapes. But the worst thing is, I didn't EXPECT it, so I yelled out when it happened. Like, if I hadn't yelled, I could totally have still played dodgeball that way. But –" I sighed "– Mom and Dad came running and I was totally busted. They patched up the bleeding and then didn't let me out of their sight for the rest of the day. At least I got this cool scar though!" I unmanifested half of my pant leg so they could see the long scrape on my knee. Alchemist covered their face. Morrow came around the fire to take a closer look and poke at it.
+"Don't worry, I didn't go to the hospital or anything. I just got some really bad scrapes. But the worst thing is, I didn't EXPECT it, so I yelled out when it happened. Like, if I hadn't yelled, I could totally have still played dodgeball that way. But –" I sighed "– Mom and Dad came running and I was totally busted. They patched up the bleeding and then didn't let me out of their sight for the rest of the day. At least I got this cool scar though!" I unmanifested half of my pant leg so they could see the long scrape on my knee. Alchemist covered their face. Morrow came around the fire to take a closer look and poke at it.
 
 "Haha, that tickles. Anyway, there's more to the story. See, Mom and Dad had, like, a huge fight about it later. I think they thought I couldn't hear them, but they were really loud and I could totally hear them through the walls. Mom was like 'that was too dangerous, she could have gotten seriously hurt, we need to reinforce all the upstairs windows so she can never do that again'. And Dad was like 'that is Just Wrong, she is our daughter, that would be like putting her in a cage'. And I'm pretty sure they never came to an agreement about that. They just never tried to ground me in my room again, haha."
 
@@ -255,7 +263,7 @@ Justicar let out a tiny sigh.
 
 "You got a problem with that? Bet you think I'm a total terror and they SHOULD have put me in a cage."
 
-"I won't rise to your provocation," said Justicar calmly. "A child cannot be expected to understand the need for rules. I certainly did not when I was a child myself. And I cannot judge another person's family from a simple story. All I can say is that it is a parent's duty to provide rules to structure a child's life. It seems possible that they were not fulfilling that duty even before this incident."
+"I won't rise to your provocation," said Justicar calmly. "A child cannot be expected to understand the need for rules. <em>I</em> certainly did not when I was a child myself. And I cannot judge another person's family from a simple story. All I can say is that it is a parent's duty to provide rules to structure a child's life. It seems possible that they were not fulfilling that duty even before this incident."
 
 "Yeah," I said sarcastically, "I feel so deprived of rules. What a tragedy. Oh woe is me."
 
@@ -297,11 +305,13 @@ Stern take it all.
 
 Yali gently pulled my hand back down. "I can tell one," she said.
 
+As Yali began to tell her story, I caught just a hint of a wry smile on her face. She was calculatingly revealing a tiny bit of her past, but I could tell it was a bit more melancholy then she was showing on the outside.
+
 <bigbreak>
 
 <div class="yali-narration">
 
-This is a story that was first told to me by… my mother, when I was very small. It was told to her by her own mother, who first heard it in… a temple, told by a priest who read it from the archives, written by an unknown hand.
+"This is a story that was first told to me by... my mother, when I was very small. It was told to her by her own mother, who first heard it in... a temple, told by a priest who read it from the archives, written by an unknown hand.
 
 In the early days of the city, before the walls went up, there was a family who oversaw the eastern farmland. And in this family, there was a child. She was a quiet child, and while the other children ran in the fields and played games of knights and priests, she liked to sit by herself, digging in the dirt with sticks and burying acorns that she found lying on the ground.
 
@@ -325,7 +335,7 @@ Just for a moment, she looked up from her trowel, smiled, and said nothing.
 
 <bigbreak>
 
-Justicar applauded softly. I joined in by clapping much louder, and pretty soon we were all clapping for Yali's storytelling.
+Justicar applauded softly. I joined in by clapping much louder, pulling the others in to applaud along with me.
 
 "Truly told in the Waiting tradition," said Justicar.
 
@@ -363,9 +373,9 @@ I hadn't thought about that, but it was true. There was one portal for each of u
 
 Justicar raised an eyebrow. "If it helps… there is always a choice."
 
-"Oh, fuck off," I said. That saying was basically just something Stern types used to blame other people. Like, if a kid got in a fight but they said the other kid hit first, the Stern would be like "it was always your choice whether to hit them" and punish both of them anyway. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying tech job because they were asking him to help snoop on people's private information, and "there is always a choice" meant you could stick up for your values even if everyone was telling you to just go along with something. I mean, good for him, I guess. The place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
+"Oh, fuck off," I said. That was one of the Stern God's sayings. Stern types used it all the time when they wanted to blame people for stuff. Like, if a kid got in a fight, but they said the other kid hit first, then the Stern would be like "it was always your choice whether to hit them", and punish both kids equally. I had this history teacher who claimed that the saying was supposed to be empowering – he was always telling this story about how he had given up a high-paying job as a factory engineer, because they were asking him to ignore safety rules to save money, and "there is always a choice" meant you could stick up for your values even if every&shy;one was telling you to just go along with something. I mean, good for him, I guess. The place he worked for sounded like real scumbags. But outside of that, it basically meant everything was your fault. And even that one teacher still got mad when kids didn't do exactly what he said, so how the fuck did he think he was teaching us to make our own choices?
 
-There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had pretty much been resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer. I could feel the excitement building up in my chest. But at the same time, there was also a slow uncertainty.
+There was a lull in the conversation. Everyone was quiet, thinking about what was going to come next. Just a few hours ago, I had pretty much been resigned to being stuck on a tiny star with the others for a while. But now, the next world – better yet, the Seeking God's world – was feeling a lot closer.
 
 In the silence, Alchemist made a small sound under their breath.
 
@@ -381,9 +391,11 @@ In the silence, Alchemist made a small sound under their breath.
 
 "It's okay!" I said hastily. "It's still, like, beautiful, that she got to live for at least a little while!" That seemed to make Alchemist even sadder. Stern take it, I never knew what to say to make anyone feel better.
 
-Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way." Yali was talking in a weirdly solemn voice. Something about it didn't feel sincere to me, but Alchemist didn't pick up on that.
+Yali put a hand on my shoulder. "She will not be <em>gone</em>," she said to Alchemist. "She will become part of the Waiting God. So when you remember her, look to the Waiting. She will be there, in a way."
 
 "Oh…" said Alchemist.
+
+I squinted at Yali. I was glad she knew what to say, but her voice was <em>too</em> solemn – it didn't feel sincere to me.
 
 Justicar added, "We all must cope with –"
 
@@ -403,17 +415,21 @@ I saw Morrow perk up, the way he did when he was about to prank someone. He was 
 
 It was weird, and I noticed it more and more as we all spent time together. Morrow acted like a completely different person when he was around Alchemist. He wasn't just affectionate, he was also patient and reassuring. Not as patient as Yali or anything, but still totally different from his normal self.
 
-It especially made a difference when Yali started to help Alchemist figure out about making potions. Yali had made a little workspace for the two of them, a marble countertop with a wide, shallow bowl shape. Off to one side, there were a bunch of bottles, made of glass and metal. At the other side, there were pencils and paper for notetaking. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power. And at first, Morrow hovered around them, asking all kinds of questions. But then, after just a few questions, he cut himself off, telling Alchemist, "I'm sorry, I didn't mean to break your concentration!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
+It especially made a difference when Yali started to help Alchemist figure out about making potions.
+
+Yali had made a little workspace for the two of them – a marble countertop with a wide, shallow bowl shape. On one side, she made rows of bottles, glass and metal. On the other, she made pencils and paper to take notes. Then she started patiently explaining what she knew, and suggesting things for Alchemist to try. Like, ways that Alchemist could try to concentrate, to unlock the right mental pathways to access the Broken God's power.
+
+And at first, Morrow had hovered around them, asking all kinds of questions. But then, just as quickly, he cut himself off. "I'm sorry, I didn't mean to mush your brainflow!" He looked around frantically, then jabbed his fingers at me and Justicar. "You two! We're going bottomside!"
 
 "Why does Justicar have to come with us?" I said, laughing.
 
 "He needs a break from all us extroverts!"
 
-It took me a little while to realize what Morrow was implying. "Wait, are you saying Justicar's an extrovert?!"
+"Wait, how is Justicar an extrovert?!"
 
 "Ssshhh!" Morrow half-dragged me over the edge of the star.
 
-From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an undignified route." After a short while, a big metal staircase popped into existence near us. Justicar had manifested two staircases, one on each side of the star. The tops of the two staircases were joined together by a big half-circle walkway from one side of the star to the other. With a loud clank-clank-clank, Justicar walked up the stairs on her side, along the walkway, and down on our side. It <em>was</em> much more dignified than just falling around the edge. Then she sat down on her customary hard stool.
+From behind me, I heard Justicar say, "Very well, I will accompany you. But I will not take such an un&shy;dignified route." After a moment, two chain-link fences popped into existence, jutting out beyond the edge of the star, and curving around to the other side. They formed a narrow walkway, with handrails on both sides, so that Justicar could pull herself around the edge without leaving a standing position. It <em>was</em> much more dignified than just falling. But I couldn't help noticing the coils of barbed wire at the top of each fence – not a useful part of the walkway, just something she had manifested without thinking.
 
 <bigbreak>
 
@@ -433,7 +449,7 @@ Of course, Morrow had to try and outdo me. He stated manifesting a giant stack o
 
 I smirked. "That means I win! I totally win." I manifested a huge, spiky crown made of Blood Blades, and set it down on my head. "See this crown? This means I'm the winner, and I –"
 
-"The Blood Blades are not a <em>toy</em>," said Justicar severely.
+"The Blood Blades are not a <em>toy</em>," said Justicar severely, watching us from her usual hard stool.
 
 "Oh yeah? They're MY blades, and <em>I</em> say they <em>are</em> a toy! Check it out, now they're a –" I let one melt and flow in my hand, reshaping into – what was a toy that was vaguely blade-shaped? "Uh, now they're ski poles!" I jumped down and manifested more Blood Blades out of my feet, in the shape of skis, and pretended to ski around on the platform. Right away, my legs slipped out from under me and I fell on my face.
 
@@ -447,7 +463,7 @@ Justicar's voice softened a little. "Have you never skied before?"
 
 "Yeah!!" added Morrow. "You from Walthridge? You some kind of rich person?"
 
-My first thought was that Morrow was being ridiculous. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the fifth ring like me, either.
+At first, I assumed Morrow was just messing with her. As overbearing as she was, Justicar didn't seem anything like a <em>rich</em> person. She certainly didn't seem like the stereotype of someone from Walthridge, living in a huge mansion and relaxing in nature all the time. But with all the little details of how she talked, she definitely wasn't from down in the Fifth Ring like me, either.
 
 "I will not say I have not had privileges in my life. But no, I am not <em>from</em> Walthridge. I simply… was there for a time."
 
@@ -473,7 +489,7 @@ I snickered. Justicar looked away slightly, as if to say, <em>I can't believe I 
 
 Morrow danced away tauntingly. "Oh? So you've never wanted to burn down a house? Never ever?"
 
-"Okay, fine. But I wouldn't burn down some random mansions, I'd burn down the school."
+"Okay, fine. But I wouldn't just burn down some random mansions. I'd burn down the <em>school</em>."
 
 Justicar interrupted. "The premise was that he was <em>rich</em>. That gives you the ability to buy houses, but it does not give you the ability to burn down your school."
 
@@ -483,7 +499,7 @@ Justicar interrupted. "The premise was that he was <em>rich</em>. That gives you
 
 "Fuck rich people," I concurred.
 
-Morrow danced up to me, manifesting piles of gold coins spilling out of his hands. "What would you really do if you were rich, though?"
+Morrow danced up to me, with piles of gold coins spilling out of his hands. "What would you really do if you were rich, though?"
 
 "Well –" I hadn't actually thought about it that much. "Well – first of all, I'd pay Layo's way through art school, so he doesn't have to work in the summer. And then, um…"
 
@@ -491,21 +507,23 @@ Morrow danced up to me, manifesting piles of gold coins spilling out of his hand
 
 "You take that back!" I yelled. "I'm not doing it to be noble, he's my friend! And what else would I spend it on, anyway?" I pointed one finger at myself and another down through the star at Yali. "I already have everything I want." 
 
-Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Morrow joined me, and pretty soon we were both licking chocolate off the fountain and grinning at each other's messy faces.
+Morrow leaned close to my ear. "But do you have… a two story tall chocolate fountain?" He manifested a chocolate fountain near us as he said it. It was only about one story tall, but I wasn't complaining. I stuck my face in it right away. Pretty soon we were both licking up chocolate and grinning at each other's messy faces.
 
 I smiled across at Morrow. "Okay, fine, this is awesome, maaaayyybe I'd buy one of these –"
 
-"Will you <em>stop doing that??</em>" Morrow hissed at Justicar suddenly.
+"Will you <em>stop doing that??</em>" Morrow hissed.
 
-"Uh, she's not doing anything."
+"What?" I followed his gaze – he was glaring at Justicar. "Uh… she's not doing anything."
 
-"I TOLD you she's an extrovert! She keeps wanting to be closer to us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
+"I TOLD you she's an extrovert! She keeps wanting to come join us! But then she SQUASHES it! She keeps SHOVING her feelings down a DUMPSTER! I can't STAND it!" he spat.
 
-"If you have a problem with the choices I make in what <em>should</em> be the privacy of my own mind," said Justicar, "it is not my responsibility to accommodate you."
+Justicar's voice came crisp and final. "If you have a problem with the choices I make, in what <em>should</em> be the privacy of my own mind," she said, "it is not my responsibility to accommodate you."
 
-Morrow was breathing hard, looking at Justicar with an anguished expression on his face. Normally I would have been happy to let him have a go at Justicar, but this was different. I didn't want him to do something stupid. "<em>Dude</em>," I said. I grabbed his shoulders and forced him to look back at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's <em>really</em> not our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But getting Morrow calmed down was more important.
+Morrow was breathing hard, looking at Justicar with anguish. Normally, I liked it when he messed with her, but this was different. "<em>Dude</em>," I said, grabbing his shoulders and making him look at me. "I can't believe I'm agreeing with Justicar, but if she wants to beat herself up, that's really <em>not</em> our problem." I kind of felt like I was lying, like Justicar being screwed up <em>was</em> my problem. But I didn't want Morrow to do anything stupid.
 
-Morrow didn't seem to be listening to me, so I decided to distract him instead. "Check <em>this</em> out!" I said, manifesting a whole bunch of fireworks. I messed up lighting them because I'd never actually gotten to use one before – there was one time when I'd been out with some older kids who smuggled them into the city, but I'd barely gotten my hands on one before someone snatched it away to stop me burning myself. So at first, I accidentally shot one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I said to Morrow as I made bright trails across the sky.
+Of course, Morrow didn't listen to me. So I tried my usual tactic: distraction.
+
+"Check <em>this</em> out!" I said, manifesting a bunch of fireworks. At first, I messed up lighting them, because I'd never actually done it before – I'd once been out with some older kids who smuggled them into the city, but I'd barely gotten to grab one before someone snatched it away so I wouldn't burn myself. So I accidentally shot the first one onto the ground, where it set a cabinet on fire until Justicar put it out with a fire extinguisher. But then I got the hang of it. "Bet you can't top this!" I taunted Morrow, as I made bright trails across the sky.
 
 Morrow started furiously manifesting fireworks of his own.
 
@@ -531,7 +549,7 @@ I cursed inwardly. "Sure, but why?" I said out loud.
 
 It looked like Morrow was about to pester Yali some more, so I grabbed his arm and dragged him back to our piles of junk. But what were we going to do now? Manifesting was so second-nature now, it was hard to think of what I'd do <em>without</em> manifesting.
 
-I slouched in one of my new thrones, watching Morrow as he rooted through the piles for Waiting-knows-what.
+I slouched in one of my thrones, watching Morrow as he rooted through the piles for Waiting-knows-what.
 
 "By the way, are you gay?" I said. I'd kind of been assuming Morrow was gay based on how he acted around me, but all the times he'd called Alchemist "she" had made me wonder. "I mean, I know you're into Alchemist, but that doesn't tell me much about what genders you like, haha."
 
@@ -547,21 +565,17 @@ Morrow smirked. "Whaddaya think?"
 
 "I think you're just messing with me, but whatever, I'll tell you anyway. It's never really been a question whether <em>I'm</em> gay. For my whole life, I've been, like, <em>obsessed</em> with girls. Whenever there's a girl I like, I never want to be away from her. I want to know everything <em>about</em> her, I want to sleep in the same <em>bed</em> with her, I want to <em>impress</em> her – I've done loads of stupid shit to impress girls, haha. And if she's good at the same things I am, I want to <em>beat</em> her." I smirked. "Nothing gets me going like fighting with a girl I've got a crush on." Haha, I had probably made this one girl hate me forever by picking a fight when she wasn't into fighting like I was. "Or, like, playing sports against her. <em>Girls</em>." I sighed happily.
 
-Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Haha, should've known not to try to explain anything serious to him.
+Then I looked over at Morrow. He was messing with a puzzle box in his hands, not listening to me at all. Stern take it, why did he always ignore me when I talked about anything real?
 
-"You want to play like that?" I laughed. I was about to prank him by manifesting something, but then I remembered I wasn't supposed to be manifesting. So I just waited for a minute, then snuck up behind him and tickled him.
-
-Morrow jumped and dropped the puzzle box he was holding. "I'll get you back for that!" he said.
-
-Pretty soon, we were playing games and pranking each other like always. It didn't feel like very long before I heard Yali's voice, calling us to come back around.
+For lack of else to do, I decided to prank him again – maybe a bit more irritably than usual. Since I wasn't supposed to manifest, I just snuck up behind him and tickled him, making him jump and drop the box. Of course, he took it in fun, and pretty soon we were playing around like always – but my heart wasn't really in it. It was a relief when we heard Yali's voice, calling us to come see what Alchemist had made.
 
 <bigbreak>
 
-When we came back around the star, Alchemist was talking with Yali, quietly but confidently. But as soon as Alchemist saw the rest of us, their eyes locked on to us and they went silent again.
+Before we climbed back around the star, Alchemist was talking quietly but confidently with Yali. But when they saw the rest of us, they froze up again, silent and staring.
 
-"Don't think about them," Yali told Alchemist gently. "Just keep doing what you've been doing."
+"It's okay," Yali murmured to them. "Just keep doing what you've been doing."
 
-Alchemist nodded, and they looked back at the workspace in front of them. There were a bunch of bottles of bubbling potions, a lot of pictures and notes, and even some little heaps of colorful goo just lying on the table. Before I was done looking at it, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere, less like a stage magician waving a wand and more like a heavy laborer wringing magic out of the soaking air. 
+Alchemist gave a little nod, and looked back at the workspace in front of them. There were bottles of bubbling potions, stacks of pictures and notes, and even little heaps of colorful goo just lying on the table. As I took it all in, Alchemist got to work again. Their soft hands reached out and tugged glowing strands out of nowhere. It was less like a stage magician waving a wand, and more like a heavy laborer wringing magic out of the soaking air. 
 
 "We thought we'd have a little demonstration," said Yali. "Some of these potions are completely safe –"
 
@@ -577,17 +591,17 @@ Morrow was still out of it. Alchemist answered. "It, maybe, makes you, see, diff
 
 "Can I try it?"
 
-Alchemist made another one for me. It was slimy and tasted like raw fish. As soon as it went down my throat, my vision split apart into thousands of little bubbles, each observing only a very small area. Alchemist's face in front of me was split into thousands of little bits, like an intricate stained-glass window, but also moving and flowing as I looked around. Up above, individual stars danced from bubble to bubble. And somehow, I could see everything clearly at once, even without moving my eyes to focus on individual things.
+Alchemist made another one for me. It was slimy and tasted like raw fish. As soon as it went down my throat, my vision exploded into thousands of little bubbles, splitting up Alchemist's face like a stained-glass window. As I looked around, the bubbles moved, flowing over every little thing around us, even capturing the stars above into their own little pockets. And somehow, I could see everything clearly at once, even in my peripheral vision.
 
 I tried to move around to look at things from different angles. My vision was so <em>everything</em> that it was hard to remember how to walk. I managed it, but only slowly.
 
 "This is awesome," I said. "But, how do you turn it off?"
 
-In a thousand tiny bubbles, Justicar frowned. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
+The bubbles with Justicar's face flowed into a frown. "The Stern God's power allows me to remove certain forms of magic, but these potions are beyond me."
 
-It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali thought it was important to have a bunch of the potion-removing-potions lying around. That was probably accurate.
+It turned out that Yali and Alchemist had prepared a potion for this, too. A potion that would remove the effects of most other potions. It was actually one of the hardest ones to design, because there was no unifying thread to the Broken God's power, so it was hard to specifically remove <em>all potions</em> without removing other parts of your soul, too. But Yali and Alchemist had found a trick that made it work safely – at least to remove minor, fun potions like these ones. Yali had made sure there were a bunch of the potion-removing-potions lying around. Knowing me and Morrow, that was probably sensible.
 
-I drank one of them. It tasted like gritty ice, but lukewarm. My vision went back to normal, which was kind of a relief, and kind of a disappointment.
+I drank one of them, silently thanking the Waiting God for Yali's foresight. It tasted like gritty ice, but lukewarm. My vision went back to normal.
 
 <bigbreak>
 
@@ -595,7 +609,7 @@ Of course, that wasn't the <em>only</em> potion we got to play with.
 
 "This. Is. AWESOME!!" I zoomed up into the air.
 
-"Before you fly off," Yali called after me, "take this." I dropped back to the ground, but misjudged the distance and went tumbling onto the floor. Once I got up, Yali handed me a kitchen timer. "The potion won't last forever. This will go off when you need to come back."
+"Before you fly off," Yali called after me, "take this." I dropped back to the ground, but misjudged the distance and went tumbling. Once I got up, Yali handed me a kitchen timer. "The potion won't last forever. This will go off when you need to come back."
 
 "Okay, fine." I didn't want to just carry it in my hand the whole time, so I thought for a moment and then just glued it to the back of my arm. Then I realized that I had basically reinvented the wristwatch, haha.
 

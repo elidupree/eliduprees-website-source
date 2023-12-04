@@ -110,7 +110,7 @@ Yali held me down. "I'll be using the Seeing regularly. If anything is going to 
 
 "Stop," said Yali forcefully. "I need to think about this, okay?"
 
-Yali thought about it. As she thought, her expression got darker and darker. When she finally spoke, it was stiff and cheerless. "I should have known," she said. "You're right. There's only a tiny chance that something would happen without me foreseeing it, but it's not worth risking everything for that. I should have known it wouldn't work to try to be close to you."
+Yali thought about it. As she thought, her expression got darker and darker. When she finally spoke, it was stiff and cheerless. "I should have known," she said. "You're right. There's only a tiny chance that something would happen without me foreseeing it, but it's not worth risking everything for that. I should have known it wouldn't work, trying to be close to you."
 
 "You what…? You… did you let me stab you so you could be <em>close</em> to me?"
 
@@ -268,7 +268,7 @@ It wasn't long before my anger dulled again. I settled into a routine – not a 
 
 The Paths were nothing I hadn't seen before. It only took about half of me to focus on the Stern God's grind. The other half was free to wander, to bend back and linger over what I had just done.
 
-I saw my blade sliding into her flesh. I saw my deathblow erased as if I had never even managed to touch her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
+I saw my blade sliding into her flesh. I saw my deathblow erased as if I had never even touched her. I heard her voice, purring in my ears, stirring my feelings into something I couldn't understand, something I couldn't handle understanding.
 
 How…? How…? How…?
 
@@ -282,7 +282,7 @@ Hours passed. I turned from the Imminent's Path to the Alchemist's, and then lat
 
 And had stabbed her…
 
-I swallowed. I swallowed again. I felt sick and confused. But why should I feel confused? It was all obvious. What I had done… It was so wrong, so obviously, sickeningly wrong. How could I be confused about that? How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I tore at my hair, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that ricocheted up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
+I swallowed. I swallowed again. I felt sick and confused. But why should I feel confused? It was all obvious. What I had done… It was so wrong, so obviously, sickeningly wrong. How could I be confused about that? How had I <em>not known why I felt guilty??</em> Of course I should feel guilty!! I had tried to fucking murder somebody!!! <em>My own girlfriend!!</em> I reared back to punch the nearest wall, and only my memory of the pain held me back. I tore at my hair, my head spinning, guilt gnawing at my stomach again. I was the WORST person in HISTORY! I stomped along the path harder and harder, hoping the pain that echoed up through my legs would be enough to make me suffer for what I'd done. I didn't deserve Yali. I didn't deserve Alchemist. I didn't deserve for anyone to care about me. I should suffer.
 
 <em>Suffer.</em>
 

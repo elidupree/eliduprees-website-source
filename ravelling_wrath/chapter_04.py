@@ -200,7 +200,9 @@ Yali gave me a long, slow look. "Maybe it's trying to lure you in?" she said, wi
 
 I laughed. "I've never doubted myself in my life!"
 
-Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it." It was obvious how much this was worrying her. She asked a bunch of probing questions, trying to figure out what the Blood God was up to. However, it didn't get any clearer. In the end, reluctantly, she had to admit that she didn't know what advice to give me. "I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
+Yali didn't smile. She was still focused on the danger. "Maybe. Maybe the god just hasn't realized what you're like, maybe it'll be easier for you than – than –" she cut herself off. "But – but – I don't trust it." It was obvious how much this was worrying her. She asked a bunch of probing questions, trying to figure out what the Blood God was up to. However, it didn't get any clearer. In the end, reluctantly, she had to admit that she didn't know what advice to give me.
+
+"I can't just tell you to repress your feelings," she said. "If I told you to stop feeling good about it, that just, just, wouldn't make things any better anyway. So… just keep paying attention to it. Notice if the feelings start to change."
 
 She said it conclusively, like she was telling herself that it was okay. But she still had an intense look. I could tell she couldn't stop worrying about the thing that was inside me. I decided to change the subject.
 
@@ -298,9 +300,9 @@ But that was when the problems started. Because right away, Yali started asking 
 
 "Are you sure? We only just –" She cut herself off and waited for me to respond.
 
-"…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em>. Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
+"…yeah, I'm sure." It felt weird to hear myself say that. Normally I'd snap at someone who asked me that, like, <em>'course I'm sure, you think I would've said it if I wasn't sure, huh?</em> Or since it was Yali, I'd have stopped and come up with something nice instead. But now… I just <em>said</em> it. Snapping back felt meaningless.
 
-And Yali accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. Even the things I normally liked doing seemed sort of distant and pointless. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we couldn't think of anything better than to send me home early. At home, I collapsed into bed even before my official bedtime. I just wanted the day to be over already.
+And Yali accepted it, of course. We tried to find something fun to do instead, but my heart just wasn't in it. I <em>tried</em> to make it work, and she could tell I was trying, that was the worst part. But in the end, we gave up. I went home and flopped into bed before it was even my official bedtime. I just wanted the day to be over already.
 
 <bigbreak>
 
@@ -324,7 +326,7 @@ Ugh, she'd <em>planned</em> for this. Even when I decided <em>not</em> to get he
 
 A few minutes later, I had another problem: Where the fuck was Layo?
 
-I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volunteered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there anyway because he couldn't stand the smoke, but it was worth a shot.
+I had looked everywhere for him. He hadn't answered my message, and he wasn't at his locker, or his last classroom, or the club he sometimes volun&shy;teered with. The only people I did find were Pèi and Dehel, who were hanging out at the corner behind the school where the Stern wouldn't catch them smoking. I knew Layo wouldn't be there anyway because he couldn't stand the smoke, but it was worth a shot.
 
 "Hey, where's Layo?" I called as I ran up to them.
 
@@ -344,7 +346,7 @@ I stared at her.
 
 On any other day, it would've gone on like this for a while. I would've kept getting madder, and Pèi would've kept finding more ways to send me Seeking. Until she finally decided it would be funnier to tell me the answer than to keep going. But today… I could see it all coming, and I just thought, <em>why?</em>
 
-What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automatically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
+What I'd been doing with Yali was practically a ritual now. <em>Calming Game</em>, I said to myself automat&shy;ically. "Never mind, I'll be fine either way," I said out loud. But hey, the other part was automatic too. <em>Releasing Game</em>. "You fucking asshole, I could just smash your face in!" <em>Calming Game</em>. "Nah, I'm cool, I'm cool…"
 
 "Uh, I think Rinn's gone crazy," said Pèi.
 
@@ -390,7 +392,7 @@ I thought about it. But when I visualized what it would be like, to be sitting a
 
 Layo hugged me tight. "I understand. It's not the answer you wanted. But my dad always says, 'no one with a mission wants to stop and rest, but –'"
 
-"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And… shit. It wasn't wrong. I sank deeper into the feeling… the desire to just give up and rest…
+"'– but when it catches up to you, you'll wish you rested,'" I mumbled into my hands. Layo's dad had loads of sayings like that, bits of wisdom from the Broken. And hearing it that way… hearing it apply to <em>me</em>… I couldn't deny it anymore. I sank deeper into the feeling… the desire to just give up and rest…
 
 When I pulled my hand away from my face, it was damp with tears.
 
@@ -456,7 +458,7 @@ Layo smiled. "I <em>know</em> you. You've had something on your mind for a while
 
 "Nah, you're fine, let's go to the park obviously." I grabbed his hand and dragged him along with me.
 
-The one nice thing about the fourth ring was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
+The one nice thing about the Fourth Ring was how it had a lot of green space. You'd have a whole mess of blocky-ass buildings jammed next to each other, like near the school, but then right next to them there'd be a plot of trees as far as you could see. Maybe it <em>was</em> a bit like the Broken God's world after all. Anyway, it was much nicer than down near my home.
 
 We got to the park and picked a trail to walk along. There were technically more buildings pretty close on the other side, but there were <em>just</em> enough trees to make it feel like you were lost in the woods. Trees had always been a good compromise between me and the Layo – he liked nature, I liked climbing things, it was a perfect match.
 

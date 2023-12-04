@@ -1,29 +1,67 @@
-????? We owe it to Aster to let them use the antidote
+[Start of part 2.]
+
+
+[As curious as I was about the airships, We quickly established with Ontoh that no immediate action had to be taken in relation to Nochli; 
+ONTOH: shoo! go secure the building, stupid! Nochli aren't going to destroy you all for another few months yet, the important thing is to secure your resources!]
+
+[Our immediate concerns were closing the time loop, getting back to Aster before they woke up, and dealing with the remaining scientists.]
+
+[We closed the time loop by hacking the cameras, as planned. Note programming practicalities: they have to be able to debug it if it doesn't work, so they watch the time machine room and make sure K+M receive the right text/video; maybe they get like 5 texts from alternate future selves telling them how to not mess up, prompting Marvin to have a bit of angst about how many of him got deleted, but he is basically getting desensitized to it now]
+
+[We watched on the cameras as ourselves left the chem lab with Aster still unconscious, just as we had done.]
+
+[As soon as they were out of earshot, we reentered the room. It wasn't long before Aster started to stir, struggling to sit up in the seat]
+
+[Aster Aster can you hear us?]
+
+[[Not actually absorbing the words, gravelly voice]: Where am I? Who are you?]
+
+Marvin: "we are in the chem lab, right where we left – where we all used the antidote –"
+
+Kayla: "wait. I think this is Reggie. Not Aster."
+
+[Kayla had an advantage in recognizing him – I had never met Reginald, but Kayla had, a few times, years ago, before the research had suppressed his consciousness.]
 
 [reg being different than Aster - deeper, gravelly voice, look of fear - in all the time we'd known Aster, we'd never seen them afraid, not even when the gun was being pointed at them. but Reginald was deeply afraid]
 
 "I'm dissociating, you need to take me back to my office –"
 
-"I'm sorry. We can't let you leave until we've explained what's going on"
+It was only then that I realized what position we were in – Reginald had no idea what was going on, and had suddenly woken up in a strange place with strange people
 
-?????
+"I'm sorry. You can't leave yet –" I began.
 
-[At some point later: "what in God's name has Aster done with our back?? After all the work I did to try to learn good posture"]
+[That was a mistake. Reginald quickly glanced between me and Kayla with the gun; I had given him a much different impression of what we were about than I wanted to. "I don't know what you want with me, but I will not be intimidated"
+
+"No no no I didn't mean it like a threat!" I said frantically. "It's just –" the time travel? Was I going to try to tell him that time travel existed?? "There's stuff going on, you have to let me explain –"
+
+"If you are not a kidnapper," said Reginald severely, "then you will return me to my office, and explain it to me there!" He started pushing himself to his feet
+
+[I held up my hands to tell him to stay seated, which just made him more determined to get on his own feet; I was clearly losing control of the conversation. I scrambled for words] "we can't leave the building yet – none of us can –"
+
+"We've met Aster," said Kayla suddenly. "We've been working with Aster for the last [number] days."
+
+[Complex emotions caused Reginald's face, I can only imagine what must've been going through his head at the time. Embarrassment at his secret being known, fear of what could have kept him out of commission for days,. He sank back into the recliner, face pale. Whispered: "what has happened?"]
+
+[Kayla efficiently told him what had happened, bluntly stating the facts with no attempt to spare his feelings or ease him into the idea of time travel being real. To his credit, Reginald just sit there and absorb the information, nodding at the important parts
 
 [Reginald feeling utterly betrayed by Aster; as a grave whisper, "God damn it, Aster, what have you done?"]
 
-[For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously]
+<bigbreak>
+
+["For the sixty years since the Monster Study and the Nuremberg Code, the field of neuroscience has been trying to earn back some semblance of not being morally bankrupt, and this has set that back enormously"]
 
 [K+M offer excuses for Aster and Reginald argues against them
 – "they were planning to get rid of Fuller" "
 – "they thought Fuller might kill them" "well isn't that convenient for them! A convenient excuse to go on and do exactly what they would have wanted to get away with anyway! They should have risked our life"
 – "They could have walked away" "if they'd walked away then I'd be dead because they didn't do time travel" "the fact that they could undo the deaths is why Fuller felt comfortable escalating the experiments in the first place! This is why you [bangs fist on table] never compromise with evil!"
+– "They just wanted to be able to talk to you! They care about you a lot!" "If they cared about me, then they should have cared about my values! If I'd known what they were doing, I would've never accepted it. If you can't satisfy your desires without harming other human beings, you must take those unfulfilled desires to your grave. There is no other acceptable outcome!"
 – At some point, "'Reggie' is only a name for my intimates, I can't believe Aster gave it out to everyone"]
 
 [With deeply aggrieved conviction] "If I get any say in this at all, we are going to have some god damn <em>ethics</em> around here."
 
 [Chapter break, "the ethics board"]
 
+[At some point : "what in God's name has Aster done with our back?? After all the work I did to try to learn good posture"; maybe we have him get out of the becoming or hear and feel it; maybe they are going to a better room for discussion, rather than a chem lab]
 
 [Reginald saying how everything up to this point has been an utter mess ethics wise, including some harsh words for Marvin's choices ("profoundly amoral act"/I hung my head/"at least you have the decency to be ashamed") and saying Kayla was "excused but not justified" (there is a difference between a justification and an excuse! We can excuse Kayla's [brutal murder of a man who had already surrendered] because [of her natural, extreme feelings about the situation he had put her in], but I will not sit here and allow you to justify it. More specifics, not sure of relative order:]
 
@@ -35,13 +73,19 @@
 
 "Did he know that?" Reginald demanded. ????? "[Did he know they were evil when he started]"
 
-[Kayla defensive some more – "of course he knew they were evil! They put surveillance cameras all over the place, they turned this building into the goddamn Panopticon! Even if they hadn't [done nonconsensual experiments] they would still be evil –"]
+[Kayla defensive some more – "of course he knew they were evil! They put surveillance cameras all over the place, they turned this building into the goddamn Panopticon! Even if they hadn't [done nonconsensual experiments] they would still be evil –" ("to surveil is to be evil, so Marvin knowing about the surveillance is the same thing as Marvin knowing about the evil")]
 
 But I knew that Reginald was right. [I hadn't thought about it at all – I was just lucky] I hung my head.
 
 "At least you have the decency to be ashamed," said Reginald brusquely.
 
 
+
+["Panopticon" – discussion of that and the company name, explanation of what it is: Kayla: "Jeremy Bentham described such a prison, claiming it would be good because it would stop the prisoners from doing bad stuff. But it would only make the prisoners do what the guard wants, and the guard would obviously be evil." Marvin: "how do we know the guard is evil?" [Maybe "anyone who wants to control people is evil" but hang on, what would Kayla actually think about an incorruptible good being watching people? "Also I thought even normal people know prison guards aren't paragons of virtue! Don't you know the Stanford prison experiment?"]]
+
+Reginald: "I do not wish to defend surveillance, but as an educator, I must point out that the Stanford prison experiment has been discredited. [Details from the Thibault Le Texier paper]"
+
+[About the company name, these surveillance companies aren't very creative and]
 
 
 
@@ -54,14 +98,18 @@ Kayla [settled a little, not trying to press the issue but not feeling like Regi
 
 Reginald [understood the implication; implicitly, he recognized it as a threat to him being taken seriously]. "Are you going to [say I'm evil because I'm not vegan?]" [With a incredulous tone – a couple degrees less severe than "voice dripping with skepticism"]
 
-Kayla shrugged. "Your lifestyle requires the murder of sapient beings," she said. Her tone wasn't accusatory – it was the tone of someone who is discussing the plain facts. "[You have no more right to judge than any of us]"
+Kayla shrugged. "Your lifestyle requires the murder of sapient beings," she said. Her tone wasn't accusatory – it was the tone of someone who is discussing the plain facts. "Why should I trust your judgment on anything to do with ethics?"
 
 Reginald [got back on top of things]. "Even if I take that to be true, it only illustrates my point. If none of us are morally pure, then that is why we cannot simply defer to any one person's judgment, but must actively [work together to be rigorously protected against our individual flaws]"
 
 
 [We need to get more, responsible, people, to have a proper ethics board. Wait a minute, we can't ethically bring in anyone because they can't give informed consent!]
 
+[but they were all in on the evil!]
 
+[were _all_ of them?]
+
+[Chapter break: ]
 
 
 
@@ -85,7 +133,7 @@ I sat down with her in her office [physical description; she had arrived several
 
 ?????
 
-[Somehow I kept coming back to it, and even wrote the paper. But I didn't understand what was happening until a chance conversation with Re– ahem, with Dr. Nenge." I had the distinct impression that she was using his surname to show respect, since I was a stranger, but that she would normally call him Reggie, out of affection. Him? Them? She had probably been talking to Aster, actually[, they just hadn't come out to her]. "?????
+[Somehow I kept coming back to it, and even wrote the paper. But I didn't understand what was happening until a chance conversation with Re– ahem, with Dr. Nenge." [note that it's an African name; Reginald is fair-skinned and you could easily assume he's white, but he is not.] I had the distinct impression that she was using his surname to show respect, since I was a stranger, but that she would normally call him Reggie, out of affection. Him? Them? She had probably been talking to Aster, actually[, they just hadn't come out to her]. "?????
 
 "[He brought me to Dr. Fuller and they did some tests, showing me a series of chemical formulas and asking me to explain them, to show that my mind was normally functioning, and then showing me another one that I couldn't understand] It was very confusing to me at the time, but now I understand that they were showing me the formula for the argonization of iron. Dr. Nenge had derived it from our paper. Dr. Fuller could read it normally, because to him, the formula was laughable, a chemical impossibility. But for me, I would have understood it, because I had seen the results of our experiments. So it triggered the self-censoring effect.
 
@@ -95,13 +143,15 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 [Instantly icy] "Dr. Fuller didn't send you," she said [crisply? no, feeling-threatened-ly? no, more restrained than either].
 
+[Ethel Wright was very perceptive, but not a skilled manipulator. If she'd been innocent, she would have said "the what?" And if she'd been intelligently evil, she would have pretended to be innocent, waited for me to leave, and <em>then</em> phoned the others to deal with [me/this mysterious infiltrator].]
+
 ?????
 
 [She tries to call Doctor Fuller, the phone rings and rings – or is Marvin carrying the phone right now?] "
 
 ["Who are you and what have you done with Dr. Fuller?!"
 
-"You called him," I said, [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
+"You called him," I said, momentarily stunned. I don't know what I had expected her to do once she [knew I was lying. Trying to protect him should certainly have been among the possibilities]. Maybe I just wasn't prepared for the reality that [someone who seemed respectable would actually take his side, knowing what he was really like] [kind of: stunned by the reality.] I shouldn't have been shocked by it, but seeing her actually do it – take Fuller's side the instant she knew there was a conflict – ?????
 
 [She stood up from her desk]
 
@@ -121,7 +171,7 @@ And then I came to the [big question that was the biggest purpose of this talk].
 
 [Kayla barged into the room before we could react. Both of us turned, surprised, to focus on her, the sudden new danger]
 
-[Kayla stood framed in the doorway, blocking the only way out. Stood tall and proud, like an avenging angel (?), carrying the rifle. I had trained her well/She remembered my training/even though she was angry, she remembered her training/; although she was obviously threatening Ethel with the gun, her finger was outside the trigger guard and the barrel was only pointed near her feet.]
+[Kayla stood framed in the doorway, blocking the only way out. Stood tall and proud, like an avenging angel (?), carrying the rifle. I had trained her well/She remembered my training/even though she was angry, she remembered her training/; although she was obviously threatening Ethel with the gun, her finger was outside the trigger guard and the barrel was only pointed near her feet./Just as the other Marvin had told me, she had taken her training completely seriously; her brain had already loaded the rules I taught her as the unbreakable laws of firearms: <em>Never put your finger on the trigger until you're ready to shoot, and never point a gun at anything you're not willing to destroy.</em>]
 
 [Long moment of silence, everyone staring at each other]
 
@@ -157,7 +207,11 @@ She bowed her head. "Is this my judgment, then?"
 
 [simon didn't show up early, so we decided to confront him in the meeting room. Physical description of the meeting room, with the giant table with screens built into it]
 
-[The others interrogate Simon about the experimentation victims, but he plausibly claims he didn't know anything, not-entirely-convincingly claims that obviously he thinks it's horrible now that he knows about it; they angrily argue in circles a bit, not able to prove anything. Marvin interrupts:]
+[Simon walked into the room without really paying attention to his surroundings, then suddenly noticed that things were different (Kayla with a gun), looked around nervously. Looking to the only person who (he thought) was someone he knew who might be in charge,] "Reggie, what's going on?"
+
+"Take a seat," said Reginald gravely.
+
+[The others interrogate Simon about the experimentation victims, but he plausibly claims he didn't know anything, not-entirely-convincingly claims that obviously he thinks it's horrible now that he knows about it "Obviously if that's what happened, I think that's horrible! But"; they angrily argue in circles a bit, not able to prove anything. Marvin interrupts:]
 
 "You're the one who wrote the code for the time machine, right?"
 
@@ -185,15 +239,47 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [Ethics board in session – everyone is here]
 
+[end of chapter, move into chapter_ontoh_debriefing; the rest of this file is waiting to be moved into a better location]
 
 
-[Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I did not necessarily mean we needed to go deep into moral philosophy"/"but of course we need to!"/" Yes, now that you say so, I can see that it was inevitable, given the unprecedented nature of the forces at play. I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
+
+
+[Also, is going back in time murder? Kayla says we SHOULD consider the idea that we are murdering and/or torturing billions of people by going back in time even once. So they have to talk about the basis of their moral system. Maybe Reginald says "when I said ethics, I did not necessarily mean we needed to go deep into moral philosophy"/"but of course we need to!"/" Yes, now that you say so, I stand corrected. I can see that it was inevitable, given the unprecedented nature of the forces at play. I suppose we are not short of [he said the word with absolute disdain] <em>time</em> for such a discussion"… So what is the fundamental basis of morality?. Someone says that suffering is bad and satisfaction is good, and it's the total amount of suffering and satisfaction that makes the world good and bad. How do you tell whether to Something is murder? Well, the reason murder is bad is because it causes people to suffer]
 
 "But then destroying the entire universe would be a morally neutral act" [because no one suffers afterwards]
 
-"Yes. Destroying the entire universe is a morally neutral act."
+A: "Yes. Destroying the entire universe is a morally neutral act."
 
-[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally runs from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+[Something like [I feel like I've forgotten the proper way to state this though]: Moral statements generally arise from someone considering two possible ways things could go and decide that they like one of them better than the other, yes? But if you destroy the entire universe, there is no one who can make that comparison]
+
+K: it's definitely not neutral. The goodness of the world is the total amount of satisfaction minus the total amount of suffering, across all sentient beings. Right now, there's more suffering than satisfaction in the world, so destroying the entire universe would be a good act. If we can make there be more satisfaction than suffering, then destroying the entire universe would be an evil act.
+
+A: but there's no way to measure different people's satisfaction and suffering against each other; all we have are individual preferences, and if you destroy the universe, there are no longer any individual preferences to agree or disagree with
+
+
+...so then the ends justify the means?
+
+K: of course the ends justify the means. Every time people use it as an excuse for doing evil, they are not actually achieving good ends. In our bad society, people are always looking for excuses why it's okay to control or hurt others, and the excuses are always bad. 
+
+[wait, this doesn't quite make sense? because it's pure hindsight bias:]
+
+Simon? R?: if that's true then doesn't that make Doctor Fuller's research justified, to get us where we are now?
+
+K: We could have done this much faster if it wasn't for all the evil! Aster said so
+
+Reginald:[big declaration] Aster was wrong. [Explanation:] I have no doubt that Aster could have done better than Fuller given the same resources, but without Fuller's evil, we would never have had those resources in the first place. The whole team was formed by Fuller bullying people into it; without him, Aster would have been petitioning the committee and getting rejected. So Aster can only congratulate themselves for being better because they conveniently had an evil person to do the evil stuff for them. You have to sit with that. There are still people who excuse the Nazi human experimentation because we got scientific knowledge from it; we have to be able to say that it's always wrong.
+
+Kayla: I DO say that it's always wrong! About the Nazi research, now we know how long it takes to freeze people to death, do you think it was worth it? Of course not! If it was actually worth it for the world, then you could convince people to consent to it, like they did in the Minnesota Starvation Experiment. Every single time people abuse other beings and make excuses for it: either it wasn't worth it, or they could have done it consensually
+
+Reginald: not so impressed that you used the Minnesota starvation experiment as your example, that was draftees, so they were coerced. It's precisely the "conveniently there was someone else there to commit evil" that I am warning you about
+
+Kayla: no I've thought about this, everyone in society is coerced and so you would have to say that no one can ever consent to anything, but obviously people can sometimes consent to things. The problem is if someone is stuck with abuse because it's the "least bad option", but this experiment wasn't like that: Starving is worse than working in a hospital or whatever, so we can trust that the subjects must have had reasons of their own will to take it. And you can confirm that by the fact that it's documented that none of them regretted doing it
+
+
+[Hang on, hang on. Couldn't Aster still make loads of money with time travel?]
+
+
+
 
 
 [Ethics of going back in time and repeating someone's suffering – does the suffering count twice, or once, or zero times? Ontoh says it only counts if it isn't reverted]
@@ -203,8 +289,6 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 [maybe in response to that: it's a fascinating quirk of [Earth] culture that you think clipping a branch is the same as wiping out the tree./Seriously no one on Salnthu believes that?/I understand that there were some people who believed that in our ancient past, but everyone who believed that got wiped out./You persecuted them?/] "No, the belief caused them to die, of its own merits. [If you are never willing to reset any of yourselves, then eventually you'll die and not have any way to reverted]"
 
 ["What about souls? What about continuity of consciousness?" Those are superstitions. Let us ask why you believe in them; you believe in them because it simply feels like they are true, yes? Well, that feeling is something that exists; moreover, both copies have it.]
-
-[Related, not sure of order: Ontoh says it's inevitable that the broadly accepted morality will be collective self-interest of those who can fight back ("just like how your society accepts breeding and slaughter of animals"); Kayla could relate collective self-interest to the Ring of Gyges story, but objects to the idea that morality is about the ability to fight back, and says [the powerful should do the right thing to the helpless]. Narrator remarks on this ("someone who was able to truly believe that you should do the right thing even if there would be no consequences… someone who had the [mental fortitude] to advocate for animals even in our society")]
 
 
 
@@ -226,7 +310,7 @@ Only Ethel Wright seemed unaffected by the details. But of course, she had been 
 
 [K : this makes no sense, if you existed for septillions of subjective years, how are you not ahead of us in technology, haven't space travelled, etc.?
 
-But it was already making sense to me. "'Work expands to fill the time available'," I quoted.
+But it was already making sense to me. "'Work expands to fill the time available for its completion'," I quoted.
 
 "What?"
 
@@ -237,7 +321,7 @@ But it was already making sense to me. "'Work expands to fill the time available
 
 [sometime with talking to Ontoh, not sure of ordering]
 
-"What do you think happens if you bring a time machine back in time with you?"
+Ontoh: "What do you think happens if you bring a time machine back in time with you?"
 
 [Uhhhh, do you destroy the fabric of space-time?]
 
@@ -245,7 +329,7 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 
 
-[Ethel: One develops an intuition for what observed behaviors might be emergent properties of physics, and what are based on human assumptions. And this budget rule doesn't feel elegant. [Are we in a simulation/imagined by a worldbrain? Was there another world before Salnthu, that somehow imposed the budget restriction?] I suppose it does have a certain stark elegance to it, in that you can never observe how much budget is left, because its only effect is to make your entire timeline cease to exist]
+[Ethel [no, this should be Marvin or Simon]: One develops an intuition for what observed behaviors might be emergent properties of physics, and what are based on human assumptions. And this budget rule doesn't feel elegant. [Are we in a simulation/imagined by a worldbrain? Was there another world before Salnthu, that somehow imposed the budget restriction?] I suppose it does have a certain stark elegance to it, in that you can never observe how much budget is left, because its only effect is to make your entire timeline cease to exist]
 
 
 [Ethel: hmm, it could just as easily prevent the "duplicating objects" trick by having "pinched off" timelines count as a contradiction and reset. But that's physics for you, utterly arbitrary and indifferent to what humans think is intuitive]
@@ -254,18 +338,9 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 
 
 
-[But how do we know Nochli are evil? They are just hanging around in the sky, we only have Ontoh's word for it that they are evil]
-
-[As before, Kayla thinks their inaction makes them evil]
-
-[Marvin's theory: What if they understood that their world was evil, and concluded that they would inevitably end up with a world like that as long as time travel was possible? So when they got the opportunity to replace their world, they decided to give humanity a new history, where they got to develop however they would have developed without time travel, and Nochli oversee it? Remember, Ontoh didn't understand how Nochli don't fight each other and how they agreed to remain in small numbers while overseeing the world. And Ontoh isn't trustworthy, they would probably just as happy to cancel our world to get back their own, so they have every reason to convince us that Nochli is evil]
 
 
 
-
-[How the heck are we going to do anything against Nochli? Anything we do in this world will just get reverted. The time machines to get back to Salnthu are only big enough for written messages. MARTIN: well, let's see, they made resizable time machines before, right? What if we made a resizable time machine that was even more miniaturized, using Earth technology, and snuck it into their messages? The time machine could even contain us, like, secret agents, to infiltrate Salnthu. ONTOH: what are you planning to do? If you jump out on the other side, they will just revert you that way anyway; I have plenty of Ontohs in their base already, but that doesn't mean I can do anything about them. KAYLA [maybe with Ontoh feed turned off: Bomb Salnthu. "What?" No matter what we do, our entire world is going to be erased in a few months. At the very least, we shouldn't let Salnthu continue to exist either. Ontoh isn't going to consider options that also destroy Ontoh, but WE can. So let's combine time travel with Earth technology to make a bomb that can instantly wipe out all time machines, and all life, on the planet.]
-
-[Come on, there has to be a way for Earth cultures to continue existing! [two Earths plan]]
 
 
 
@@ -280,6 +355,25 @@ Ethel had the answer to this one. [Her clear voice, immediately making sense of 
 Reginald's deep voice cut through our bickering. "<em>Civilians</em>," he said.
 
 That was a sobering thought. [We were essentially [Earth]'s military now., And Reginald was reminding us to take our responsibility to Earth's people seriously]
+
+
+[so what are we now? the CIA? the SCP foundation?]
+
+
+
+[Some of the below rewritten to Ontoh's new voice; merge them later]
+
+[...no, not God, that's made up!]
+
+[How are you, Ontoh, so sure that God is made up?]
+
+[I know he's made up because I was there when you <em>ethra</em> made him up! [Larger than life heroes fighting each other replaced the all-powerful beneficence by Zoroaster, etc]… Your bizarre desire to make up someone else with power over you]
+
+[Ethel: that's interesting wording, "bizarre desire"]
+
+[Marvin: I mean, it's comforting to think that someone else will take care of everything?]
+
+[Ontoh: the inevitable desire of intelligent beings is to have absolute power over everything, and to have no one has power over you. It should be more comforting to think that you alone will have the power to take care of everything; how can it be comforting that someone else will have that power! This must be Nochli's interference]
 
 
 
@@ -313,6 +407,14 @@ Reginald and Kayla both spoke at once.
 …and then I suppose Nochli would be happy to step into this role of 'God', when they reveal themselves
 
 
+
+
+
+[maybe here, or maybe in part 3? "Salnthu never understood relativity or quantum mechanics. What's going to happen when we unite time travel theory with relativity or quantum mechanics? How do we know we're not going to discover a power that is even worse than Salnthu?"… philosophize about "wise enough to accomplish greater destruction" – if you cooperate effectively instead of fighting, then you accomplish greater deeds, and if you don't proactively guarantee that greedy people can't take your work and use it for evil, then they will, and your goodness will have accomplished the greater evil. Compare and contrast how Nochli, who was wiser than Ontoh, was able to destroy Ontoh, even though Ontoh was more focused on fighting]
+
+
+
+[on the nature of evil: simon and ethel weren't cruel, they would just do what they were told by whoever offered them what they wanted. Now that was us. They were useful resources and ethel even, unsettlingly, provided useful input on ethics]
 
 
 

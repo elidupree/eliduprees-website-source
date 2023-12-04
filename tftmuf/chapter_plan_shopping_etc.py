@@ -1,3 +1,12 @@
+[Chapter title: The Ring of Gyges?]
+
+
+"What's 'threat modeling'?"
+
+"It's a computer security thing. [Explanation, with examples: maybe a random hacker is trying to steal your money; maybe the NSA is trying to spy on everyone; maybe an abusive partner wants to snoop on you. In this context… One adversary is the evil scientists, so we need to think about what their abilities are. They have uncertain amounts of mind control over the uninitiated, they have the time machine but only if they can get into the room with it – I can keep the doors locked, but there's a "master keycard" that can get to any of the doors; Fuller will probably have that. The other threat is the possibility of paradoxes [go over any general mitigations that weren't discussed in previous chapter] Meanwhile, our resources are: I have all the scripts the other Marvin wrote, and I can write more,]
+
+[... which inevitably leads into the discussion of what their actual plan needs to be:]
+
 [Maybe the other Marvin had seen things in a different way than I did, to be willing to kill the scientists; he had been plenty angry at the scientists and they were certainly evil enough, and he had made the decision himself. But for me, my first exposure to it was when I saw our future selves, with Marvin looking so devastated, and Kayla looking so [uhh... brutally pragmatic?]. Having it put right in my face, that we had already killed them, maybe it made part of me think about how we would have to live with that, instead of / When you're in the middle of a fight, you don't think ahead as much, but when you see the aftermath to begin with,]
 
 [Can we at least try going to the police?]
@@ -44,78 +53,89 @@
 
 "Don't you know about climate change? About the rise of global fascism? The constant threat of nuclear war, ?????? Hell, even the pandemic? The world is already worse than when we found it. Doesn't matter if you do nothing but good deeds all day. Doesn't matter if I get out of here and live a [cute but in a mocking way] suburban little life. In twenty years we'll probably all be dead. You, me, <em>everyone</em>. And if we have a chance to <em>do</em> something about it –"
 
-[I realized how dramatically dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past.]
+[I realized how dramatically] my Kayla had already diverged from the one in the video. Video-Kayla [had spent her first N days of time travel experience assuming that you weren't allowed to change your own past, which made it not-so-useful (you could play the stock market, maybe), and had kept thinking in that framing after she learned Aster's notes. But for my Kayla, that revelation had been upfront, and she was already thinking from a framing where you could change your own past. And if you could change your own past... then you could undo every decision that ever went wrong for you. You could make plans that couldn't possibly fail. A single person with a time machine could make themselves more foresighted than any political strategist, and luckier than any tyrant.]
 
-[Except that if you wanted to change it, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
+[Except that if you wanted to change your own past, you would end up like them. The one who made the decision would be erased from existence. And only the next version of you would keep going.]
 
 [I could tell I wasn't going to be able to stop her. "Can we just focus on the first problem?"]
 
 "Fine."
 
 
-[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable?]
+[Going to the store: if people see them and that causes divergence in what they text the scientists, then the later parts of the recorded timeline won't be accurate anymore. I guess we should try not to be memorable? If we take the car, we could affect traffic… Should we walk? They try to walk, but Kayla struggles to walk even as far as the car, so they take the car]
 
 
 
-[Kayla sees a coyote on the way to the store and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
+[Kayla sees a coyote on the way to the store [waiting next to the car when Marvin is about to get out] and has to point out to Marvin, they start to think about how there could be things that they still can't see:]
 
 ["Hey! Watch out!"]
 
-[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Holy crap! I yelled and shooed it away (waving an object?) and it ran off]
+[Kayla was pointing. At first I didn't see anything where she was pointing at, it was just part of the road. But I kept looking, trying to grasp what it was. There was a coyote there/the face of a coyote, not like it appeared out of nowhere, more like it had been there all along and somehow my eyes had just skipped over it. With purple and white stripes, like the Pattern. Jesus Christ! I yelled and shooed it away (waving an object?) and it ran off]
 
 ["Were those there all along?"]
 
-[Yeah, I've been able to see them ever since they put me on [cyanosol]. They're all over the city, they are not scared of humans at all because humans can't see them]
+[Yeah, I've been able to see them ever since they put me on [cyanosol]. They're all over the city, they are not scared of humans at all because humans can't see them. [The idea: the Pattern is some sort of weird effect that messes with your nervous system, so the urban coyotes evolved it to protect themselves from humans; later the scientists discovered it and started using it for mind control]]
 
 [I shuddered. There was one time when I had lost a sandwich while I was [standing around], I had thought I must have put it down somewhere by mistake, but probably a coyote had eaten it out of my hand and my brain just erased it from my memory. "How much other stuff is there that we can't see?"]
 
-["The coyotes are the only thing I've seen. But you know… They're the only one I've <em>seen</em>." The implication was clear – there could be more things, and we wouldn't have any idea how many things we weren't aware of. "[Maybe: Reggie was never fully satisfied with my progress, so there must be more to see even for me]"]
+["The coyotes are the only thing I've seen. But you know… They're the only one I've <em>seen</em>." The implication was clear – there could be more things, and we wouldn't have any idea how many things we weren't aware of. "Reggie has this set of photos he shows me. He always shows me them in sequence and asks me what's in each of them, and he looks disappointed. That's got to mean that there's stuff I'm supposed to be seeing in the later photos that I'm not seeing!"]
 
 
 
 
 "Wait, what if we put the Pattern on ourselves, like printed it on a shirt? Would people not see us, the same way they can't see the coyotes?"
 
-[("this is some real Ring of Gyges shit" ("Yeesh, this is just like the Ring of G", "Real life Ring of G" she muttered)]
+"Eugh! Like a real life Ring of Gyges," she mutterred.
 
 "Ring of what?"
 
 "It's a story from Plato's <cite>The Republic</cite>. A man named Gyges finds a magic ring –"
 
-[I was surprised/not expecting Kayla to be referencing Plato. "That's, uh, impressive," I mumbled.]
+I'm ashamed to admit, I wasn't expecting a teen girl to reference Plato. "That's, uh, impressive," I mumbled.
 
-[Kayla immediately saw the implication that I wasn't expecting that much from her, and turned serious anger on me] "You're just like everyone else. Are you going to listen to what I say, or are you just going to stand around gaping?"
+Kayla saw the implication immediately. "You're just like everyone else!" she snapped. "Are you going to listen to what I say, or are you just going to stand around gaping?"
 
-[I felt defensive, but I remembered something I'd read when I looked up the Minnesota Starvation Experiment, a quote from the guidebook they'd made:] "Refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately." [I swallowed my defensiveness, long enough to realize that she had made a fair point. "I'm sorry, I shouldn't have made assumptions. Please, [tell me what you were going to tell me]."
+"Jeez, I only meant –" I began. But I stopped myself, remembering something I'd read, in the documents Zeroes had sent us. After the Minnesota Starvation Experiment, the researchers had made a guidebook for aid workers, and one of the things it said was this: "Refrain from arguments; the starving are ready to argue on little provocation, but they usually regret it immediately." I swallowed my defensiveness, long enough to realize that she had made a fair point. "I'm sorry, I shouldn't have made assumptions. Please, [tell me what you were going to tell me]."
 
 [Kayla began the story: (and/or bigbreak?)]
 
 As I would later learn, [Kayla had spent lots of time reading philosophy when she was around 12, to cope with her anger and distress about everything around her. When you're having thoughts that bring you distress, about something you can't do anything about, you have two choices: you can [distract yourself and avoid thinking about the thing,] or you can [keep thinking about the thing. Mentally engaged with it. Face it.] And Kayla had always chosen the latter. She had chosen to keep trying to find ways to make sense of it/ways to interpret it that were acceptable to her.]
 
-["A man named Gyges finds a magic ring that can make him invisible," she began. "..."]
+["A man named Gyges [Jy-jeez, [IPA]] finds a magic ring that can make him invisible," she began. "And once he realizes people can't see him, he knows that there won't be any consequences for his actions, and he starts doing evil stuff. Pretty soon he's killed the king and made himself the new king –"
 
+"Wait, why would he get to be king just because the old king was dead?"
 
-[(Kayla strongly believes that she wouldn't be corrupted by the ring)]
+"That's not the point of the story! The point is about the nature of justice. [It starts from the idea that you might like to be able to hurt or steal from other people, but not as much as you'd dislike having other people hurt or steal from you, so we'd all be better off if we just agree not to do it./If you have to choose between no stealing and everyone stealing, you would choose no stealing. But what if you could hurt people and not be hurt in return, if you could steal from everyone and no one could steal from you? Plato's Glaucon says that anyone who found the Ring of Gyges would do that, no matter how good of a person they are when they might face consequences.]
 
+"Oof. That's a tough one."
 
-
-"… But Plato's conclusion is unsatisfying. He says that people who behave justly will ultimately be recognized and rewarded, first by other humans, and then by the gods in the afterlife. But obviously none of that is happening."
-
-????? "Do you believe in God?"
-
-"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in this country, they are all Gyges-es"
-
-[Maybe: K: what about you? / M: I'm not sure what I believe]
-
-
-
-"[Maybe a child who grew up with the ring for their whole life, since before they developed their moral beliefs, but, <em>I</em> wouldn't use the ring of gyges to do evil stuff. Would you? If you could go into anyone's house whenever you want, and take whatever you want,]"
+"What? No it isn't! Plato only wrote that for the sake of argument, so he could show why it's wrong! Obviously there are people who wouldn't rob everybody just because they could! You can just look at what's good and evil, and decide not to do evil! <em>I</em> wouldn't [do that]! Would <em>you</em> do that?"
 
 [I was uncomfortable because I knew that the temptation did exist for me] "I mean, uh… if you, like, steal someone's PlayStation, there's someone who's actually using that. They're going to be upset, they're going to have to replace it… maybe I'd steal from, you know," I nodded at the store in front of us.
 
 "That doesn't count. Stealing from megacorps is a social good."
 
-[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about looking through everyone's private photos? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about…]
+[But another thought was sneaking into the back of my mind. Sure, maybe I didn't like to upset people. But what about just spying on them whenever I was curious about their private lives? What about bank scams where you steal half a cent from every account? If I could have whatever I wanted, and no one would even know that there was something to be upset about… I wasn't so sure I wouldn't do that. But I didn't mention that to Kayla. [She was still on a hair trigger/she was a true believer/she clearly wanted me to say that I wouldn't do that, and I didn't want to disappoint her]]
+
+[By habit from taking care of my nieces, I kept her talking, to give her something to focus on instead of the pain] "so, what does Plato say about it?"
+
+"Oh, Plato's wrong too," she said, like it was the most straightforward thing in the world. "He says that anyone who behaves justly will eventually be recognized for it, and the unjust will eventually be found out and punished. And then they'll be rewarded or punished by the gods in the afterlife, too. But obviously none of that is happening."
+
+????? "Do you believe in God?"
+
+"Of course not," she said. "And if there <em>was</em> a God, they'd be evil. If there was anyone who has power, and they weren't evil, they would do something about all this." She [made a gesture all around]. She didn't just mean [the evil scientists], she meant our whole capitalist dystopia. "Look at who is in charge in the world, they are all just like Gyges. They do evil and there are no consequences for them."
+
+[Maybe: K: Do <em>you</em> believe God exists? / M: I'm not sure what I believe / K: "That's just avoiding the question! Don't you think it's important to have the right answer about –"
+
+But for better or for worse, I didn't have to face that question that day, because we had just reached the store, and [practicalities ensued. / We had to be unremarkable. Kayla: "if anyone talks to us, you do the talking! If I talk, people will remember me!"]]
+
+
+
+[Somewhere in there: "...in all respects a god among men", from the Gyges story]
+
+[Not sure if this actually fits here: Maybe a child who grew up with the ring for their whole life, since before they developed their moral beliefs]
+
+
 
 
 
@@ -123,8 +143,11 @@ As I would later learn, [Kayla had spent lots of time reading philosophy when sh
 
 [Duct tape, a screwdriver ("you always need one of these in escape room games")]
 
-[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
+[They buy separate burner phones for every time loop. Marvin insists on buying 16 of them ("you always end up wanting more than you expect. Our last selves did 5 loops, we should get more just in case.") and 2TB flash drives for bringing video data back in time. With everything we're buying, this is thousands of dollars! How can he afford it? "I'm not super rich, but software engineers are well paid. I don't have to worry about spending a few thousand dollars if it's a real emergency."]
 
+
+
+[Back in the NeuroSci Innovations building, they carefully collect the video of themselves going to the time machine the first time (from the video: "you/we should really be keeping careful records of exactly what time everything happens, but we didn't want to give you too much stuff to remember at once. Anyway this time you can just take it from the camera records]
 
 
 
@@ -154,23 +177,25 @@ As always, Kayla saw the problem immediately. "What happens if you say <em>exact
 
 "This must be what it feels like to read the code of the Therac-25." [Shaking my head?]
 
-["The what?"; explanation of the Therac-25, "my professor said, this is why us software engineers need to take our responsibilities seriously"]
+["The what?"; explanation of the Therac-25 (but "I'll spare you the gruesome details" "hiding the details is wrong, it's like pretending they didn't happen!" I shuddered. "you can look them up yourself if you want to"), "my professor said, this is why us software engineers need to take our responsibilities seriously"]
 
 
 ["There's no way I can make sense of these notes. But you know who can? Aster..." Kayla doesn't like that. "Okay I know you have good reasons to not like that, but ?????. Also remember the other Kayla said maybe he is not evil?"]
 
 ["No she said maybe it's more complicated than that" but Kayla was definitely considering it. "But we can't just go talk to him, the only thing keeping us safe is the fact that they don't know we've already time traveled. If we talk to him, what if he calls Fuller and then Fuller uses his keycard and goes back in time to stop us?"]
 
-["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we come him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
+["Well." Time to think about precautions! Eventually: "we could stay in the time machine room and call him, so if anything else happens we can go back in time again" "but then he could do anything he wants off camera – wait, is there a camera in his office?" There isn't, but we could PUT one in his office "wait, what if we call him before work? [They check the schedule] darn it, he talks to Fuller 2 minutes before Fuller talks to Marvin, so we basically can't contact him before he gets to his office" "we could have one of us wait in the time machine room, so if Fuller shows up -- "we can't wait IN the time machine room, we need to leave it open for us to come out of later, but we can wait NEAR it"]
 
-
-
-[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. Finally Marvin gets the idea and asks: "do you <em>want</em> to cease to exist?"]
+[Kayla wants to do backup plans where they might cease to exist, seems unconcerned about it, while Marvin is very worried. ("And so if anything that happens, we can go back in time and get prepared for it" "no, we should go back in time and make it so we don't talk to Aster in the first place" "but that means we'd cease to exist!" "We can do the same thing they did, we can take full video recordings of what were doing, so the new versions of us will have all the information") Finally Marvin gets the idea (puts this together with how video Kayla felt?) And asks: "do you <em>want</em> to cease to exist?"]
 
 "I'm not going to kill myself," she said decisively. "[If I kill myself then I'm letting the bad guys win]"
 
 [She left the significant thing unspoken: the fact that she had spent enough time to thinking about it to have a clear answer. [" But when someone has a clear, decisive answer, that's because they've [spent a lot of time thinking about it/considering it]"]]
 
+["I'm sorry [that you've been through that]" "stop that./[Sarcastically] let's all feel bad for Kayla. We need to plan this out. Look, will you at least admit that it's better to do the stable time loop thing than to just die the regular way?"]
 
-[]
+[I guess so]
 
+["Then we should at least keep the video recordings as a backup plan!"]
+
+[I agreed, but I was uncomfortable with it]

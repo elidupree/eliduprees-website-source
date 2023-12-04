@@ -704,9 +704,9 @@ I wanted to keep shouting, but as I opened my mouth, a terrible tiredness came o
 
 "Wait a minute. Only three fifths?"
 
-"The Waiting Temple has formal authority over the first ring. The Seeking Temple, the second. And the Stern Temple is based in the third ring, but also has authority over the fourth and the fifth –"
+"The Waiting Temple has formal authority over the First Ring. The Seeking Temple, the second. And the Stern Temple is based in the Third Ring, but also has authority over the fourth and the fifth –"
 
-"– the fifth ring, which <em>should</em> go with the Blood Temple," I finished instinctively.
+"– the Fifth Ring, which <em>should</em> go with the Blood Temple," I finished instinctively.
 
 "Which <em>did</em> belong to the Blood Temple before its collapse and dissolution." Something about that description felt completely unfair. But I couldn't figure out how to express it, so I just glared at her while she continued. "But the Blood Temple was disorganized and corrupt. As I was saying, only the Stern is capable of the organization the city needs. That is why the Stern Temple was given the lower rings, and why the Stern God maintains equal influence in the Ravelling, despite what it lacks in raw power."
 

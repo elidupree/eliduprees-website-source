@@ -9,7 +9,7 @@ posts = [
 {
   "title":"Ravelling Wrath, chapter 16",
   "auto_paragraphs": True,
-  "blurb_image":"/media/ravelling-wrath/sketches/ch16.jpg?rr",
+  "blurb_image":"/media/ravelling-wrath/illustrations/16.png?rr",
   "head":head,
   "chapter_title": "Soulfire",
   "contents": '''
@@ -137,7 +137,7 @@ I couldn't believe it. I was actually going to do this. I was actually talking t
 
 "I know what you're thinking. You're thinking, we can't kill the Farseer without hurting Yali. But there's gotta be a way around that, we'll figure something out. We're both amazing. And you too! All three of us are amazing." I slapped Yali on the arm. I grinned. "I'm so fucking happy right now! I can't believe it! This whole time, I've been fighting against me, and now I don't have to fight anymore!" I felt like there'd been an oppressive wall inside of me, and it was melting down even as we talked. I shook my fist in the air. "Now I am everything again! I am power! I am passion! I am… Aaaaaaaahhhhhh!" I screamed an exultant scream, shaking the sky with my joy. The power blazed forth from my heart, an unquenchable fire of strength, of sureness, of love.
 
-<not_print><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt=""></not_print>
+<not_print><img class="full-page" src="/media/ravelling-wrath/illustrations/16.png?rr" alt=""></not_print>
 
 My fire billowed around me. I rose effortlessly to my feet. Within my aura of flame, everything felt amazing. The rain boiled off of me, leaving me warm and dry. My remaining wounds faded away, my flesh made whole and warm again, my skin smoothed together into a single, beautifully sensitive organ.
 
@@ -150,7 +150,7 @@ In front of me, I saw Yali wide-eyed, a look of both fear and awe. In a husky wh
 <em>No force can break me for as long as my blood still flows.</em>
 </div>
 
-<print_only><img class="sketch full-page" src="/media/ravelling-wrath/sketches/ch16.jpg?rr" alt=""></print_only>
+<print_only><img class="full-page" src="/media/ravelling-wrath/illustrations/16.png?rr" alt=""></print_only>
 
 A thrill rose through me as I heard those words. "That sounds like a prayer," I declared. It wasn't a question. I knew this prayer. I had known it for a thousand years. Countless generations of humanity had lived and loved and died, and at every step, they had called out to me, speaking these words, to take pride in their strengths, to celebrate their triumphs, to rally themselves against death and despair. Warriors had spoken them on the verge of battle. Parents had spoken them at the birth of their children. Lovers had spoken them together as they defied persecution. This was no Stern prayer. When you prayed to the Stern, you looked to the spires of distant temples, debasing yourself for the mercy of a power that stood above you. But when you prayed to the Blood God, you looked to your own heart.
 
@@ -252,7 +252,7 @@ I looked at the photo. "<em>That</em> fucker!" I yelled.
 
 "– who killed me? Haha no, this guy sucks. It's more about when he was a human… like he did something against the Blood Temple? No – it feels like it was <em>about</em> the Blood Temple, but he didn't do anything himself…"
 
-Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the fifth ring back then. Unless that work is what the Blood God is mad about?"
+Yali concentrated. "I don't remember him doing anything against the Blood Temple either. Most of his work was in the Stern courts, which didn't even have jurisdiction over the Fifth Ring back then. Unless that work is what the Blood God is mad about?"
 
 "Nah, I mean, Stern law is fucked up, but it's not that. It's…" But I couldn't remember. The feeling was gone. "He just sucks," I concluded.
 
@@ -268,7 +268,7 @@ And then it hit me. "By my heart's blood!" I swore. "What gave <em>you</em> the 
 
 "<em>Yes!!</em>" I yelled through my tears. "Twenty-five years if it was a day! I was with him when he stoked the fires! And you took him away from me!! How can you –"
 
-"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory. If it was for twenty-five years, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the fourth ring… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
+"But…" Yali was concentrating. "No, you're right, he must've worked for the Blood Temple before he was a teacher, it feels like it's right on the edge of my memory. If it was for twenty-five years, I should be able to remember some of it! He's already middle-aged when he's a teacher, the Blood Temple must've been his whole early adulthood… so if I think back to then… my friend is taking me on a trip to the gardens up in the Fourth Ring… but that's a special occasion, I'd normally be back at… at… it has to be the Blood Temple, right? But I can't remember the rest of that day… what else can I try? You said 'when he stoked the fires' – yes, I'm lifting the chopped wood with my hands, so it <em>is</em> there… but, wait, what was in the rest of the room around me? It's hard to…"
 
 "It erased the memories," I breathed.
 

@@ -17,124 +17,29 @@ def who_tells_the_story(who):
     </tr>
   </table>'''
 
+
+fonts = [
+    ["Kadwa", "normal", "400", "kadwa-v5-latin-regular"],
+    ["Kadwa", "normal", "700", "kadwa-v5-latin-700"],
+    ["Kreon", "normal", "400", "kreon-v24-latin-regular"],
+    ["Kreon", "normal", "700", "kreon-v24-latin-700"],
+    ["Alegreya Sans", "normal", "400", "alegreya-sans-v14-latin-regular"],
+    ["Alegreya Sans", "normal", "800", "alegreya-sans-v14-latin-800"],
+    ["Alegreya SC", "normal", "400", "alegreya-sc-v15-latin-regular"],
+    ["Alegreya SC", "normal", "800", "alegreya-sc-v15-latin-800"],
+    ["Alegreya Sans SC", "normal", "800", "alegreya-sans-sc-v13-latin-800"],
+    ["Lexend", "normal", "400", "lexend-v12-latin-regular"],
+    ["Lexend", "normal", "700", "lexend-v12-latin-700"],
+    ["Lexend", "normal", "900", "lexend-v12-latin-900"],
+  ]
+
 def fonts_css(fonts_path, mode="web"):
-  def font_rules(name_style):
-    if mode=="web":
-      # note: we have to use double quotes around the urls, not single quotes,
-      # because idupree-websitepy rewriting is only compatible with double quotes
-      return '''
-  src: url("'''+fonts_path+name_style+'''.eot?rr"); /* IE9 Compat Modes */
-  src: local(''),
-       url("'''+fonts_path+name_style+'''.eot?rr#iefix") format('embedded-opentype'), /* IE6-IE8 */
-       url("'''+fonts_path+name_style+'''.woff2?rr") format('woff2'), /* Super Modern Browsers */
-       url("'''+fonts_path+name_style+'''.woff?rr") format('woff'), /* Modern Browsers */
-       url("'''+fonts_path+name_style+'''.ttf?rr") format('truetype'), /* Safari, Android, iOS */
-       url("'''+fonts_path+name_style+'''.svg?rr#Kadwa") format('svg'); /* Legacy iOS */
-       '''
-    else:
-      return '''
-  src: url("'''+fonts_path+name_style+'''.ttf");
-       '''
-      
-  
-  return """
-/* kadwa-regular - latin */
-@font-face {
-  font-family: 'Kadwa';
-  font-style: normal;
-  font-weight: 400;
-  """+font_rules("kadwa-v5-latin-regular")+"""
-}
+  return "\n\n".join(
+    font_face(family, style, weight, fonts_path+name_style, mode)
+    for family, style, weight, name_style
+    in fonts
+  )
 
-/* kadwa-700 - latin */
-@font-face {
-  font-family: 'Kadwa';
-  font-style: normal;
-  font-weight: 700;
-  """+font_rules("kadwa-v5-latin-700")+"""
-}
-
-/* kreon-regular - latin */
-@font-face {
-  font-family: 'Kreon';
-  font-style: normal;
-  font-weight: 400;
-  """+font_rules("kreon-v24-latin-regular")+"""
-}
-
-/* kreon-700 - latin */
-@font-face {
-  font-family: 'Kreon';
-  font-style: normal;
-  font-weight: 700;
-  """+font_rules("kreon-v24-latin-700")+"""
-}
-
-
-/* alegreya-sans-regular - latin */
-@font-face {
-  font-family: 'Alegreya Sans';
-  font-style: normal;
-  font-weight: 400;
-  """+font_rules("alegreya-sans-v14-latin-regular")+"""
-}
-
-/* alegreya-sans-800 - latin */
-@font-face {
-  font-family: 'Alegreya Sans';
-  font-style: normal;
-  font-weight: 800;
-  """+font_rules("alegreya-sans-v14-latin-800")+"""
-}
-
-/* alegreya-sc-800 - latin */
-@font-face {
-  font-family: 'Alegreya SC';
-  font-style: normal;
-  font-weight: 800;
-  """+font_rules("alegreya-sc-v15-latin-800")+"""
-}
-
-/* alegreya-sc-regular - latin */
-@font-face {
-  font-family: 'Alegreya SC';
-  font-style: normal;
-  font-weight: 400;
-  """+font_rules("alegreya-sc-v15-latin-regular")+"""
-}
-
-/* alegreya-sans-sc-800 - latin */
-@font-face {
-  font-family: 'Alegreya Sans SC';
-  font-style: normal;
-  font-weight: 800;
-  """+font_rules("alegreya-sans-sc-v13-latin-800")+"""
-}
-
-/* lexend-regular - latin */
-@font-face {
-  font-family: 'Lexend';
-  font-style: normal;
-  font-weight: 400;
-  """+font_rules("lexend-v12-latin-regular")+"""
-}
-
-/* lexend-700 - latin */
-@font-face {
-  font-family: 'Lexend';
-  font-style: normal;
-  font-weight: 700;
-  """+font_rules("lexend-v12-latin-700")+"""
-}
-
-/* lexend-900 - latin */
-@font-face {
-  font-family: 'Lexend';
-  font-style: normal;
-  font-weight: 900;
-  """+font_rules("lexend-v12-latin-900")+"""
-}
-"""
 
 head = """<style>
 
