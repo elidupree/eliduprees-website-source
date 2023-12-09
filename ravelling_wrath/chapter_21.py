@@ -454,7 +454,7 @@ When we had both finished eating, Yali gathered up the dishes and brought them t
 
 "Yeah?"
 
-"The whole time I was in the Otherworld, there wasn't a single moment when I felt bad about killing Justicar. She was just, just… someone who was in the way of my goals. So I knew I had to get her out of the way, in whatever way was practical."
+"The whole time I was in the Otherworld, there wasn't a single moment when I felt bad about killing Justicar. She was just, just… she was a threat to my goals. So I knew I had to deal with her, however was necessary."
 
 "That's…"
 

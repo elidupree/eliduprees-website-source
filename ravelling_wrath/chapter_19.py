@@ -85,19 +85,23 @@ I brought myself back to the present: <em>What should I do next?</em> There was 
 
 But not to <em>rest</em>. I could not <em>rest</em> – my feelings were stable, for now, but if I let the adrenaline fade, my mind would fill itself with Justicar's light, with Rinn falling like a ragdoll. And even if I could, it would put me in pain. As much as I had improved my endurance, I could already feel my muscles aching from the strain of combat, waiting to catch up with me the moment I let them relax.
 
-I compromised by manifesting a hard bench and sitting up straight on it. That called back a memory of Szaieto chiding me that it wasn't good for me to be so tense. It was funny to think of such an ordinary thing at a time like this. I allowed myself to be amused, but only for a moment. I had plans to make.
+I compromised by manifesting a hard bench and sitting up straight on it. That called back a memory of Szaieto chiding me that it wasn't good for me to be so tense. It was funny to think of such an ordinary thing at a time like this. I allowed myself to be amused, but only for a moment. I had plans to make. I needed to clear my thoughts, and –
 
 <bigbreak>
 
-It was one less complication in a situation where our lives were already at stake.
+Justicar should have listened to me!
 
-The first time I had foreseen Alchemist approaching with the idea of the potion, my first thought had been to make Rinn drink it. But I couldn't accept an outcome that would let the Waiting God succeed
+I could have had her! I had spent so long weaving my web to convince her, appealing to the Stern that we both shared! It would've brought an end to my mistake – then she wouldn't have almost killed Rinn <em>one more time, because of the same mistake –</em>
 
-In many different futures, I had tried to convince Rinn of my true plan. But the Blood God refused to hear of anything that would allow the Waiting God to rejuvenate. I might have been able to convince it if at least <em>Rinn</em> had been on my side. But this wasn't something that Rinn could truly understand either.
+No. It was no use blaming myself a second time. I had already known that this was the likely outcome. Rinn had known it wouldn't work. <em>I...</em> had known it <em>probably</em> wouldn't work.
 
+In the big picture, everything was going as expected.
 
+Yes, it had been possible for things to go better. Justicar could have surrendered. Rinn could have survived unscathed. Then, I would have had to convince Rinn of my true plan. But I had already tried, in many different futures. The Blood God could not abide anything that would allow the Waiting God to rejuvenate. I would have had to drink the unravelling potion, and let the Waiting God go, for our own safety.
 
-And so, here we were. Everything was going according to plan. Justicar was no longer a threat. Rinn... Well, that was one of the things it would be easier not to think about. Working with Alchemist, I had learned that the most powerful healing potions also leave the drinker unconscious, sometimes for days at a time. And when Rinn wasn't with us, I had asked Alchemist to heighten that effect even further, just in case. I had sincerely hoped that Rinn wouldn't have to be injured. If she hadn't been, I would have used the Seeing again, to search again for ways the Blood God could be convinced. But this way, at least, everything was simpler. Now Rinn was no longer a threat, no matter what I chose to do. Neither she nor the Blood God inside her would wake until we had already entered the final portal.
+And it had been possible for things to go worse. Rinn could have been killed. I could have been killed.
+
+But what happened – Justicar dead, Rinn injured and sleeping – had always been the most likely. The most likely, and the simplest. Now, neither of them was a threat any longer. It was one less complication in a situation where our lives were at stake.
 
 Now only my most powerful enemy was left.
 

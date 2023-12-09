@@ -51,7 +51,7 @@ I gripped her shoulders. "Then it's NOT going to happen! Didn't you always say t
 
 "Come on, <em>Justicar</em> tried to kill me. You <em>saved</em> me. How are you even – wait, just because you didn't foresee it by magic –"
 
-"It's not <em>just</em> that I didn't <em>foresee</em> it," Yali sobbed. "I was the one who told Justicar how you stabbed me. I didn't think –"
+"It's not <em>just</em> that I didn't <em>foresee</em> it," Yali sobbed. "I was the one who told Justicar how you stabbed me. I thought it would be less risk than if she found out some other way! I didn't think –"
 
 "Look, it's not your fault, there's no way you could have known she was going to AFTER EVERYTHING WE'VE BEEN THROUGH, YOU SOLD ME OUT TO THE STERN <strong>AGAIN?!?!!</strong>"
 
