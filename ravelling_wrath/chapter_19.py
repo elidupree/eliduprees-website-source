@@ -101,7 +101,7 @@ Yes, it had been possible for things to go better. Justicar could have surrender
 
 And it had been possible for things to go worse. Rinn could have been killed. I could have been killed.
 
-But what happened – Justicar dead, Rinn injured and sleeping – had always been the most likely. The most likely, and the simplest. Now, neither of them was a threat any longer. It was one less complication in a situation where our lives were at stake.
+But what had happened – Justicar dead, Rinn injured and sleeping – had always been the most likely. The most likely, and the simplest. Now, neither of them was a threat any longer. It was one less complication in a situation where our lives were at stake.
 
 Now only my most powerful enemy was left.
 
