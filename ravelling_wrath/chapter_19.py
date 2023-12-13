@@ -109,21 +109,25 @@ Now only my most powerful enemy was left.
 
 <bigbreak>
 
-How was I going to do this?
+The Waiting God…
 
-I would need to access the Waiting God's threads within me. But I was not yet certain how to do that. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... more like <em>performing a protocol</em> to access the god's magic.
+Until now, only few way of waiting for access the Waiting God's threads. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... more like <em>performing a protocol</em> to access the god's magic.
 
-<em>Rinn</em> had fully connected with <em>her</em> god. How had she done it? It was probably easier with the Blood God, for more than one reason, but there might still be something I could learn from it.
+Backspace backspace
+
+Now, instead, I would have to fully connect with the god, just as Rinn had fully connected with hers. [I had spent a long time thinking about how she had done it. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. And if I wanted to change the god, I would have to treat it as if I was trying to change part of <em>myself</em>.
+She had said me and me;
+
+
 
 <print_only><img class="full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
-Thinking back, I remembered how she had talked when she was speaking for the Blood God. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. I would have to treat it as if I was trying to change part of <em>myself</em>.
 
 I smiled grimly.
 
 Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's consciousness. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
 
-It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
+[Instead of deliberate, "no, that was wrong!" Doubts by Yali] It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
 
 With each new thought, the presence felt weaker. This was too easy. It couldn't possibly be this easy to influence the god, so I had to assume I wasn't influencing it. After a little more thinking, I realized what was really happening. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
 
