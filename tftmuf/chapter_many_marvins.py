@@ -16,7 +16,7 @@ When you think about how to use time travel to make yourself rich, maybe the fir
 
 So maybe the next thing you'd think of is playing the stock market. Each day, you check which stock price has increased the most; then you go back to the previous day, and buy as much of that stock as you can; then you wait one day again, and then sell it. Naïvely, in a couple of months, you could grow $1 into $1 billion. But if you did this, you would be noticed by people much more dangerous than the scammers and the charities. Hedge funds and government regulators would be very interested to know how you'd achieved it. Before long, everyone in the finance world would know you as the "miracle investor", and the instant you tried to buy anything, everyone else would start buying it as well, driving up the price before you could buy much of it for the original, cheaper price. Your profits would disappear; you'd make the market incredibly volatile; there'd be paradoxes all over the place.
 
-If you wanted to go unnoticed, you needed a different environment. An environment where you didn't have to trade under your real name, where the regulators wouldn't move fast enough to stop you – and where, when you tried to spend the millions of dollars you had pulled out of thin air, people wouldn't look too closely.
+If you wanted to go unnoticed, you needed a different environment. An environment where you didn't have to trade under your real name, where the regulators wouldn't move fast enough to stop you – and where, when you tried to <em>spend</em> the millions of dollars you had pulled out of thin air, people wouldn't look too closely.
 
 You needed cryptocurrency.
 
