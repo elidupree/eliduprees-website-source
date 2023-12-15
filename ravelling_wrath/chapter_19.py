@@ -111,19 +111,15 @@ Now only my most powerful enemy was left.
 
 The Waiting God…
 
-Until now, only few way of waiting for access the Waiting God's threads. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... more like <em>performing a protocol</em> to access the god's magic.
-
-Backspace backspace
+Until now, my access to the Waiting God's threads had been limited. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... more like <em>performing a protocol</em> to access the god's magic.
 
 Now, instead, I would have to fully connect with the god, just as Rinn had fully connected with hers. [I had spent a long time thinking about how she had done it. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. And if I wanted to change the god, I would have to treat it as if I was trying to change part of <em>myself</em>.
-She had said me and me;
-
 
 
 <print_only><img class="full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
 
-I smiled grimly.
+I smiled grimly. I <em>knew</em> this part of myself.
 
 Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's consciousness. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
 
