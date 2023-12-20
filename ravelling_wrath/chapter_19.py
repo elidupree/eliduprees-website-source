@@ -121,6 +121,42 @@ Now, instead, I would have to fully connect with the god, just as Rinn had fully
 
 I smiled grimly. I <em>knew</em> this part of myself.
 
+
+[for Rinn it had been easy. The Blood God was always trying to assert itself, and all she had to do was listen. But the Waiting God was different. It was keeping secret; the principle under which this works is that the Waiting God only asserts itself when the time is right.
+
+[I needed to make it think the time was right, meaning I needed to make myself think the time was right. I said to myself: it was time to rethink my plan.
+
+[Mostly silence from the Waiting God, so I tried things: it was time to rethink it because doubts had been raised; it was time to rethink it because its success was being threatened by how I'd allowed the Blood God to rejuvenate; my plan to erase the Blood God? My plan to… No, the Waiting God doesn't think in terms of crass force; it guides the world to its chosen outcome. Then, my plan to guide the world to… to a world without Blood. [Meta: we are triggering the Waiting God to review its plan, not out of deep concern, just out of prudence]
+
+[Slowly blending into actual thoughts of the Waiting God, until we run into when Yali disagrees with, at which point of like "wait a minute, that wasn't right!" and she's "jarred awake"-ish, [unpleasant because it makes her own upset come back] realizes she has to entertain believing the Waiting God's thoughts in order to draw out enough of them
+
+[Now that I had found the thought, it was easier to return to… And very pleasant, because it helped me encapsulate all the things that I was upset about, tell them to wait for later – just as I had always done myself using the parts of the waiting that were intrinsic to me, but now so much easier with the god directly attached
+
+[Big god monologue basically]
+
+[Traditionalists were sacred to me, but when they cling to traditions that no longer serve humanity, their story will inevitably come to an end]
+
+[It felt so right! Like those people who said "kids shouldn't be on their phones all the time", they absolutely don't understand anything! Humanity WAS shortsighted and corrupt, and needed to change!
+
+[Wait, I wasn't supposed to agree with the Waiting God! It was my enemy! I couldn't forgive it for
+
+[I needed details, details. I got out my phone and started taking notes, because it felt like a dream.
+
+[Big sequence of detail questions]
+
+[Something triggers the Waiting God: Yali's love for Rinn getting mixed with its feelings about the Blood God? Anyway, something makes it deeply concerned, so it tries to "review the plan more fully," which overtaxes the connection]
+
+[Yali worried and upset about what happened ("did the god do it in on purpose?"); has less access to her Waiting skills; realizes what actually happened, including the "raised concern level" thing; writes down all she can remember;
+
+[notices that the memories are still there, and tries to access the memories of the blood Temple at least, but they still resist her, "I felt like I was trying the same thing and getting the same result", getting impatient, self regulation says to stop]
+
+[Needs something to fill her time with or the anger will cause problems "and I needed to bring Rinn through the city anyway!", gets up and [Justicar's body thing] and then walks a constrained-anger walk with the wagon while her thoughts keep going back to the problem of the memories,]
+
+[... Which leads into the forge being a "pile of trash getting in her way"]
+
+[Doesn't think so much about practical ways to get across the chasm, she recognizes it as a "riddle, just like in the Seeking God's world"]
+
+
 Thinking of it this way, it wasn't so different from the Seeing after all. Keeping still and silent, I listened for the Waiting God's consciousness. The reassuring pillar of inevitability. The watchful presence that knew the past and future, that would grant me the knowledge to guide the world to my chosen outcome.
 
 [Instead of deliberate, "no, that was wrong!" Doubts by Yali] It was time to cast doubt on all that. I thought it over, doubting each part in turn. Its reassurance had no foundation. The knowledge it offered was misleading. Its vision for the world was wrong.
