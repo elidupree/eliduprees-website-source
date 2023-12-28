@@ -113,20 +113,25 @@ The Waiting God…
 
 Until now, my access to the Waiting God's threads had been limited. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... more like <em>performing a protocol</em> to access the god's magic.
 
-Now, instead, I would have to fully connect with the god, just as Rinn had fully connected with hers. [I had spent a long time thinking about how she had done it. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to influence the Waiting, it wouldn't work to think about it as attacking an external enemy. And if I wanted to change the god, I would have to treat it as if I was trying to change part of <em>myself</em>.
+Now, instead, I would have to fully connect with the god, just as Rinn had fully connected with hers. I had spent long hours thinking about how she had done it. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to bring the Waiting God out where I could see it, it wouldn't work to think about it as attacking an external enemy. And if I wanted to force the god to change, I would have to treat it as if I was trying to change part of <em>myself</em>.
 
 
 <print_only><img class="full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
+For Rinn, this had been so much easier. The Blood God was constantly trying to assert itself, and all she had to do was listen. But the Waiting God was different. It had kept its secrets from me. There was no voice in my head saying the Waiting God's opinion. But that part was not a trick, it was simply the god's nature, just as I had always been taught in the Waiting culture where I grew up: <em>Do not speak until you know the time is right</em>.
+
+So I needed to make it believe that the time was right. Which meant that I needed to make <em>myself</em> believe that the time was right. I said to myself: <em>It's time to rethink my grand plan</em>.
+
+Nothing happened. I was not surprised – that would have been too easy. I tried more things. <em>I needed to think over my plan again, because I had serious doubts about whether it was a good idea… my goals were at risk because the Blood God was going to rejuvenate, I had to consider what would happen now…</em> None of that helped. How would the Waiting God think of the plan? <em>My plan to erase the Blood God…</em> No, that didn't feel right for the Waiting. We always spoke of it as a guide, not a destroyer. My plan to… <em>guide</em>… Blood… into nonexistence? My plan to guide… <em>humanity</em>… to a world without Blood…
+
+Yes, that felt closer. After all, it was foolish to imagine that you could simply reach out and erase a part of humanity – if you wanted them to change, you had to show them the way. I would have to remember that, because it was a mistake about how I had thought – about – how the Waiting God thought. So, then… I should rethink my plan about how to show humanity the way away from Blood… because it was at risk? No… because we were having doubts? Well, my doubts did not feel very serious, but it was never a bad time to remind ourselves of –
+
+Wait, what? I felt like I had been jarred out of a strange dream – why had I felt like my doubts weren't very serious?! The plan had put my life in danger! It had forced me to kill Justicar and lie to Rinn and – ?????
+
+????? Realized what it meant: it had been working: and now that I had found the thought, it was easier to return to – but, how could I follow that train of thought, when it's so unsettlingly disagreed with my vehement beliefs? But I knew that this was real, really the Waiting God, I knew I had to do whatever it took to draw it out, even if that meant feeling like I believed it
 
 I smiled grimly. I <em>knew</em> this part of myself.
-
-
-[for Rinn it had been easy. The Blood God was always trying to assert itself, and all she had to do was listen. But the Waiting God was different. It was keeping secret; the principle under which this works is that the Waiting God only asserts itself when the time is right.
-
-[I needed to make it think the time was right, meaning I needed to make myself think the time was right. I said to myself: it was time to rethink my plan.
-
-[Mostly silence from the Waiting God, so I tried things: it was time to rethink it because doubts had been raised; it was time to rethink it because its success was being threatened by how I'd allowed the Blood God to rejuvenate; my plan to erase the Blood God? My plan to… No, the Waiting God doesn't think in terms of crass force; it guides the world to its chosen outcome. Then, my plan to guide the world to… to a world without Blood. [Meta: we are triggering the Waiting God to review its plan, not out of deep concern, just out of prudence]
+[Meta: we are triggering the Waiting God to review its plan, not out of deep concern, just out of prudence]
 
 [Slowly blending into actual thoughts of the Waiting God, until we run into when Yali disagrees with, at which point of like "wait a minute, that wasn't right!" and she's "jarred awake"-ish, [unpleasant because it makes her own upset come back] realizes she has to entertain believing the Waiting God's thoughts in order to draw out enough of them
 
