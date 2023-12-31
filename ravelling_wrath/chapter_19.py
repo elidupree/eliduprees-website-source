@@ -144,7 +144,7 @@ I smiled grimly. I <em>knew</em> this part of myself.
 
 [Big sequence of detail questions]
 
-[Something triggers the Waiting God: Yali's love for Rinn getting mixed with its feelings about the Blood God? Anyway, something makes it deeply concerned, so it tries to "review the plan more fully," which overtaxes the connection]
+[Something triggers the Waiting God: Yali's love for Rinn getting mixed with its feelings about the Blood God? [Waiting God primary consciousness attempts to _analyze_ Yali's thoughts?] Anyway, something makes it deeply concerned, so it tries to "review the plan more fully," which overtaxes the connection]
 
 [Yali worried and upset about what happened ("did the god do it in on purpose?"); has less access to her Waiting skills; realizes what actually happened, including the "raised concern level" thing; writes down all she can remember;
 
