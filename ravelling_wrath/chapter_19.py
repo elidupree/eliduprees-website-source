@@ -21,9 +21,9 @@ Justicar and Rinn lay before me. One dead, one only unconscious, both my doing.
 
 It had worked! My true plan was working!
 
-It had been hard to lie to Rinn. She had always stirred my soul, coming closer than anyone else to piercing my defenses. But I had done it. The potion <em>would</em> heal her – that much was true. But it would also make her sleep. Neither she nor the Blood God inside her would wake until after we crossed the final portal. For what I was about to do, that was essential for our safety.
+It had been hard to lie to Rinn. No one had ever stirred my soul as she had. No one had come so close to piercing my defenses. But I had done it. The potion <em>would</em> heal her – that much was true. But it would also make her sleep. Neither she nor the Blood God inside her would wake until after we crossed the final portal. Given what I was about to do, that was the only way we could be safe.
 
-I had never intended to drink the unravelling potion. I had made sure it was created, but only because it gave the Blood God something to hope for. To Rinn and the Blood God, a fight was simple: You beat up the enemy, and then you won. So if the Blood God would rejuvenate and the Waiting would not, then that was enough. The Blood God would have no reason to resist what we were doing.
+What I couldn't tell Rinn was that I had never intended to drink the unravelling potion. When I'd seen that it was possible, I had seen only one use for it: to give the Blood God something to hope for. After all, to Rinn, and to the Blood God, a fight was simple: You beat up the enemy, and then you won. So if the Blood God would rejuvenate and the Waiting would not, then that was enough. The Blood God would have no reason to resist what we were doing.
 
 But to me, even <em>that</em> wasn't enough.
 
@@ -37,21 +37,23 @@ So that was my goal. <em>I</em> would take away two of the things <em>it</em> va
 
 All I needed... were the threads it had woven into my soul.
 
-As long as Rinn had been conscious, I hadn't been willing to take any risks. The more I pulled those threads, the more it might have provoked the Blood God into violence. But now, the Waiting God would answer to <em>me</em>.
+Ever since I'd learned the truth, I had been waiting for my chance – a chance to pull those threads without the Blood God watching. I'd wished I could believe what Rinn said, that the Blood God wouldn't harm me now – but I knew we couldn't afford the risk. But now, the risk was over. Soon, the Waiting God would answer to <em>me</em>.
 
 <bigbreak>
 
-But I could not make my move just yet. Not now, not with my body still shaking from the strain of combat, of taking Justicar's life in my hands and shredding it upon the blade. I couldn't think about that right now, about what it meant that I'd just ended a person's life.
+But I could not make my move just yet. Not now, not with my body still shaking from the strain of combat, of taking Justicar's life in my hands and shredding it upon the blade. I couldn't think about that right now! Now wasn't the time to face what it meant that I'd just ended a person's life –
 
-I had to make sure Rinn would be safe.
+– Now was the time to make sure Rinn would be safe.
 
-I cleared my mind and listened for the future. The Waiting could hide the truth, but it could not show me falsehoods. So instead of listening for danger, I listened for life. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. And even if the Seeing could still mislead me, there was no one left with hostile intent towards her. All paths led unerringly to the final portal.
+Nothing was going to touch her body. Nothing moved among the wreckage around us. But I could not trust until I had seen every possibility. I cleared my mind and listened for the future.
+
+I had planned for this – for how I could use the Seeing at this moment. The Waiting could hide the truth, but it could not show me falsehoods. So instead of listening for danger, I listened for life. There was the heavy hum of Alchemist's presence. The deadened coil of Morrow's anguish. And the strong, reassuring pulse of Rinn's heartbeat. I followed its thread down every branch, into every corner of the future, letting no tiny offshoot escape my notice. But everywhere I looked, the heartbeat continued. And even if the Seeing could still mislead me, there was no one left with hostile intent towards her. All paths led unerringly to the final portal.
 
 It was –
 
-If I said it was over, I would sit down, and I wouldn't get up again for a long time. But there were many things I still needed to do.
+If I said it was over, I would sit down, and I wouldn't get up again for a long time. I couldn't let that happen. There were many things I still needed to do.
 
-First, I would have to look at Rinn. There would still be injuries on her body. Logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion would see to that. So there was no need for me to feel anxious about what I saw.
+First, I would have to <em>look</em> at Rinn. There would still be injuries on her body. Logically, I knew that she was not in pain, and that the injuries would not be permanent. The healing potion would see to that. So there was no need for me to feel anxious about what I saw.
 
 I looked.
 
