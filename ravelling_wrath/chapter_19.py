@@ -57,15 +57,13 @@ First, I would have to <em>look</em> at Rinn. There would still be injuries on h
 
 I looked.
 
-Unspeakable feelings loomed at the edges of my mind. The blood, the horrific angle of one leg – if I kept looking, I wouldn't be able to stay in control. I would strike Justicar in anger, even though she was already dead. And the tradition was clear: Anyone who defiles a corpse will be cursed for life. I was not sure if the curse was literal, but this would not be a good time to risk being cursed, not after everything we had just survived. So I looked away.
+Feelings crowded at the edges of my mind. The blood, the horrific angle of one leg – Justicar did this! She had to pay, I could break her body as she had broken my Rinn! – but Justicar was already dead. Every child knew the tales of the curses that befell those who defiled the dead – I couldn't risk losing control – we had survived too much to stumble at the last moment! I turned my head away –
 
-I took a minute to pack away the unwanted thoughts. Then I tried again, looking at Rinn's body the way a doctor might, seeing only the practical facts and not my tangled feelings about them.
+– but it wasn't right to look away either. My responsibility was to Rinn. I needed to keep these feelings contained – to look at her body the way a doctor might, seeing only the practical facts and not the tangle of my feelings. I could do that. I was far too good at that. I looked.
 
-The left arm and left leg were at angles that wouldn't be possible if the bones were intact. Before they could heal properly, I would have to move them to a more natural position. Meanwhile, beneath the body, the right shoulder was also crushed, torn and bloody. Again, I would have to reposition it.
+The left arm and left leg – those angles wouldn't be possible if the bones were intact. Even with the potion, those wouldn't heal until I straightened them. The right shoulder, as well, was crushed – the force had torn through jacket and skin alike. Head and shoulders were soaked with blood, hers and the enemy's – I would clean it – but that was for later. We'd agreed that blood loss wasn't a danger. The first need was to reposition her, so the bones wouldn't heal in the wrong shape. But how?
 
-How could I approach this?
-
-In the first-aid videos I had seen, they said that you were supposed to put an unconscious person on their side, to make sure they could breathe properly. But if I put the body on its side, it would put a lot of weight on one of the shoulders. And <em>both</em> of the shoulders had been crushed. They were being magically healed, but what if they healed into the wrong shape?
+In the first-aid videos I'd seen, they said that you were supposed to put an unconscious person on their side, to make sure they could breathe properly. But then her weight would be on one shoulder, when both shoulders were  damaged – I needed to think – yes, I shouldn't rush this, or I might have to move her a second time 
 
 Also, how would I transport her? One way or another, she would have to be brought to the final portal. She was so light that I could carry her, but if I slipped or jostled her along the way, it could reinjure her. I needed a way to move her while keeping her stable – like an ambulance.
 
