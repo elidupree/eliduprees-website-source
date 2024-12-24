@@ -79,7 +79,7 @@ Lifting Rinn's body tugged at my feelings. Such a small thing, limp in my arms, 
 
 I set the body to recline in the wagon. I concentrated on the work, on getting everything stable. I surrounded the body with stiff foam blocks, shaping each one so the body was nestled in a perfect mold. Once I got the shape right, I made the blocks combine with each other and the mattress, so they formed a single solid piece, and nothing could slip or fall apart.
 
-I stepped back and checked my work. Rinn was secure now, with only her head sticking partway out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. I could just ruffle her hair, cup her cheek in my hand – no, then I would want more, and then more. It was easier if I didn't even start.
+I stepped back and checked my work. Rinn was secure now, with only her head sticking partway out of the foam. There was a peaceful half-smile on her face. She looked so cozy, nestled in the foam. I could just ruffle her hair, cup her cheek in my hand – no, then I would want more, and then more. Now wasn't the time for <em>those</em> thoughts either. It was easier if I didn't even start.
 
 I brought myself back to the present: <em>What should I do next?</em> Rinn... There was nothing more I could do for her right now. The rest was up to the potion and her soul. Could I act against the Waiting, then? No, I was not yet prepared for that – I knew the main idea, but there were so many details to consider. So many things I'd been putting off while the dangers of the Blood God and Justicar were more urgent. Now I could return to those thoughts. It was time to think, to plan, to give myself space now that no one was trying to kill us –
 
