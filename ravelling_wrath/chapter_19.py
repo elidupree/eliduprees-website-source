@@ -57,7 +57,7 @@ First, I would have to <em>look</em> at Rinn. There would still be injuries on h
 
 I looked.
 
-Feelings crowded at the edges of my mind. The blood, the horrific angle of one leg – Justicar did this! She had to pay, I could break her body as she had broken my Rinn! – but Justicar was already dead. Every child knew the tales of the curses that befell those who defiled the dead – I couldn't risk losing control – we had survived too much to stumble at the last moment! I turned my head away –
+Feelings crowded at the edges of my mind. The blood, the horrific angle of one leg – Justicar did this! She had to pay, I should break her body as she had broken my Rinn! – but Justicar was already dead. Every child knew the tales of the curses that befell those who defiled the dead – I couldn't risk losing control – we had survived too much to stumble at the last moment! I turned my head away –
 
 – but it wasn't right to look away either. My responsibility was to Rinn. I needed to keep these feelings contained – to look at her body the way a doctor might, seeing only the practical facts and not the tangle of my feelings. I could do that. I was far too good at that. I looked.
 
@@ -124,16 +124,17 @@ So I needed to make it believe that the time was right. Which meant that I neede
 
 Nothing happened. I was not surprised – that would have been too easy. I tried more things. <em>I needed to think over my plan again, because I had serious doubts about whether it was a good idea… my goals were at risk because the Blood God was going to rejuvenate, I had to consider what would happen now…</em> None of that helped. How would the Waiting God think of the plan? <em>My plan to erase the Blood God…</em> No, that didn't feel right for the Waiting. We always spoke of it as a guide, not a destroyer. My plan to… <em>guide</em>… Blood… into nonexistence? My plan to guide… <em>humanity</em>… to a world without Blood…
 
-Yes, that felt closer. After all, it was foolish to imagine that you could simply reach out and erase a part of humanity – if you wanted them to change, you had to show them the way. I would have to remember that, because it was a mistake about how I had thought – about – how the Waiting God thought. So, then… I should rethink my plan about how to show humanity the way away from Blood… because it was at risk? No… because we were having doubts? Well, my doubts did not feel very serious, but it was never a bad time to remind ourselves of –
+Yes, that felt closer. After all, it was foolish to imagine that you could simply reach out and erase a part of humanity – if you wanted them to change, you had to show them the way. I would have to remember that, because it was a mistake about how I had thought – about – how the Waiting God thought. So, then… I should rethink my plan about how to show humanity the way away from Blood… because it was at risk? No… because we were having doubts? Well, they weren't the most important doubts, but it was never a bad time to remind ourselves of –
 
-Wait, what? I felt like I had been jarred out of a strange dream – why had I felt like my doubts weren't very serious?! The plan had put my life in danger! It had forced me to kill Justicar and lie to Rinn and – ?????
+Wait, what? I felt like I had been jarred out of a strange dream – why had I felt like my doubts weren't important?! The plan had put my life in danger! It had forced me to kill Justicar and lie to Rinn! It was cruel, inhuman –
 
-????? Realized what it meant: it had been working: and now that I had found the thought, it was easier to return to – but, how could I follow that train of thought, when it's so unsettlingly disagreed with my vehement beliefs? But I knew that this was real, really the Waiting God, I knew I had to do whatever it took to draw it out, even if that meant feeling like I believed it
+And then I realized what this meant: The Waiting God was here with me, just as I had hoped. And now that I'd felt that fragment of a thought, the <em>not important</em>, I could sense where it lingered in my brain, I could summon it back –
 
-I smiled grimly. I <em>knew</em> this part of myself.
-[Meta: we are triggering the Waiting God to review its plan, not out of deep concern, just out of prudence]
+– but I could not. My own thoughts crowded it away: <em>I will not be discarded again! How many times must gods and priests treat my life as a minor detail?</em> But if this was really the Waiting God... I knew I had to do whatever it took to draw it out. Protesting was only getting in my way. I told my thoughts: This <em>is</em> our way to strike back. If we wanted to ?????, we had to ?????, even if that meant feeling like I believed it.
 
-[Slowly blending into actual thoughts of the Waiting God, until we run into when Yali disagrees with, at which point of like "wait a minute, that wasn't right!" and she's "jarred awake"-ish, [unpleasant because it makes her own upset come back] realizes she has to entertain believing the Waiting God's thoughts in order to draw out enough of them
+This thought... it wasn't just "<em>not important</em>". It was the sense of a wider perspective. The knowledge that we must abandon what does not serve us. To say no to our desires if we know that they will only lead to more hurt.
+
+I smiled grimly. I <em>knew</em> this part of myself. Every time I had ?????, every time I had ?????, that was <em>me</em>, that was the Waiting God that lives within us all. And now it was so much easier, with the god's soul freshly intertwined with my own. ????? [very pleasant perspective-shift] protesting thoughts in a box to wait their turn ????
 
 [Now that I had found the thought, it was easier to return to… And very pleasant, because it helped me encapsulate all the things that I was upset about, tell them to wait for later – just as I had always done myself using the parts of the waiting that were intrinsic to me, but now so much easier with the god directly attached
 
