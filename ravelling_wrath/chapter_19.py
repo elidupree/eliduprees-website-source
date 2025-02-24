@@ -73,7 +73,7 @@ It wasn't obvious to <em>me</em>.
 
 I couldn't keep thinking about Rinn! I had to solve the problem in front of me.
 
-Minutes ticked away. At last, I settled on an idea, based on the rolling hospital bed we'd used in the third layer. I couldn't copy it exactly – even if I could manifest it, we didn't have the orderly hallways of the Stern here, only cracked and slanted roads that would've jostled her at every step, where she could roll violently back downhill if I lost my grip. But one of the past Farseers had been a mechanic, and I could draw on the memory of their skills. I manifested a bed and <em>gave</em> it wheels, with big rubber tires to soften the bumps, and ratchets so it could never roll backwards. It became a sort of bulky wagon with a mattress on top, and padding to cradle the rider.
+Minutes ticked away. At last, I settled on an idea, based on the rolling hospital bed we'd used in the third layer. I couldn't copy it exactly – even if I could manifest it, we weren't in the orderly halls of the Stern anymore. Here, the cracked and slanted roads would've jostled her at every step, and if I lost my grip, she would roll out-of-control downhill. But one of the past Farseers had been a mechanic, and I could draw on the memory of their skills. I manifested a bed and <em>gave</em> it wheels, with big rubber tires to soften the bumps, and ratchets so it could never roll backwards. It became a sort of bulky wagon with a mattress on top, and padding to cradle the rider.
 
 Lifting Rinn's body tugged at my feelings. Such a small thing, limp in my arms, blood smearing my long rubber gloves – was this all my fault? Because I had counted on her to be injured in the fight, so I could feed her the potion? No, now wasn't the time for those thoughts! <em>Don't think of it as Rinn,</em> I told myself. <em>It's just a body – just a patient –</em>
 
@@ -111,18 +111,18 @@ Now only my most powerful enemy was left.
 
 The Waiting God…
 
-Until now, my access to the Waiting God's threads had been limited. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... more like <em>performing a protocol</em> to access the god's magic.
+Until now, my access to the Waiting God's threads had been limited. I knew how to use the Seeing, but that was not a complete connection. It was only me listening for the information the god would bring me, with only a limited ability to direct it. Of all my powers, the only thing under my direct control was my power to place the Watchful Eye, but even that had felt more like... like the rituals of etiquette I'd been taught in childhood. I would play my part, and the god would play its own.
 
 Now, instead, I would have to fully connect with the god, just as Rinn had fully connected with hers. I had spent long hours thinking about how she had done it. She hadn't said "Rinn" and "the Blood God". She had said "me" and "me". If I wanted to bring the Waiting God out where I could see it, it wouldn't work to think about it as attacking an enemy outside myself. And if I wanted to force the god to change, I would have to treat it as if I was trying to change part of <em>myself</em>.
 
 
 <print_only><img class="full-page" src="/media/ravelling-wrath/sketches/ch19.jpg?rr" alt=""></print_only>
 
-For Rinn, this had been so much easier. The Blood God was constantly trying to assert itself, and all she had to do was listen. But the Waiting God was different. It had kept its secrets from me. There was no voice in my head saying the Waiting God's opinion. But that part was not a trick, it was simply the god's nature, just as I had always been taught in the Waiting culture where I grew up: <em>Do not speak until you know that the time is right</em>.
+For Rinn, this had been so much easier. The Blood God was constantly trying to assert itself, and all she had to do was listen. But the Waiting God was different. It had kept its secrets from me. There was no voice in my head saying the Waiting God's opinion. But that part was not a trick, it was simply the god's nature, just as I had always been taught in the Waiting culture where I grew up: <em>Do not speak until you know that the time is right</em>. So I needed to make it believe that the time was right. Which meant that I needed to make <em>myself</em> believe that the time was right.
 
-So I needed to make it believe that the time was right. Which meant that I needed to make <em>myself</em> believe that the time was right. I said to myself: <em>It's time to rethink my grand plan</em>.
+I closed my eyes, held still on the bench, and cleared my mind, like I always did when I used the Seeing. Then I said to myself: <em>It's time to rethink my grand plan</em>.
 
-Nothing happened. I was not surprised – that would have been too easy. I tried more things. <em>I needed to think over my plan again, because I had serious doubts about whether it was a good idea… my goals were at risk because the Blood God was going to rejuvenate, I had to consider what would happen now…</em> None of that helped. How would the Waiting God think of the plan? <em>My plan to erase the Blood God…</em> No, that didn't feel right for the Waiting. We always spoke of it as a guide, not a destroyer. My plan to… <em>guide</em>… Blood… into nonexistence? My plan to guide… <em>humanity</em>… to a world without Blood…
+Nothing happened. I was not surprised – that would have been too easy. I tried more things. <em>I need to think over my plan again, because I'm having serious doubts about whether it was a good idea… my goals are at risk because the Blood God is going to rejuvenate, I have to consider what will happen next…</em> None of that helped. How would the Waiting God think of the plan? <em>My plan to erase the Blood God…</em> No, that didn't feel right for the Waiting. We always spoke of it as a guide, not a destroyer. My plan to… <em>guide</em>… Blood… into nonexistence? My plan to guide… <em>humanity</em>… to a world without Blood…
 
 Yes, that felt closer. After all, it was foolish to imagine that you could simply reach out and erase a part of humanity – if you wanted them to change, you had to show them the way. I would have to remember that, because it was a mistake about how I had thought – about – how the Waiting God thought. So, then… I should rethink my plan about how to show humanity the way away from Blood… because it was at risk? No… because we were having doubts? Well, they weren't the most important doubts, but it was never a bad time to remind ourselves of –
 
@@ -130,13 +130,31 @@ Wait, what? I felt like I had been jarred out of a strange dream – why had I f
 
 And then I realized what this meant: The Waiting God was here with me, just as I had hoped. And now that I'd felt that fragment of a thought, the <em>not important</em>, I could sense where it lingered in my brain, I could summon it back –
 
-– but I could not. My own thoughts crowded it away: <em>I will not be discarded again! How many times must gods and priests treat my life as a minor detail?</em> But if this was really the Waiting God... I knew I had to do whatever it took to draw it out. Protesting was only getting in my way. I told my thoughts: This <em>is</em> our way to strike back. If we wanted to ?????, we had to ?????, even if that meant feeling like I believed it.
+<em>No!</em> cried my own thoughts. <em>How many times must gods and priests tell me how unimportant I am? Didn't I swear that I would never accept this again? I will not be discarded, I refuse to be discarded!</em> I tried to quiet those thoughts. I knew this was my foothold on the Waiting God! How could I coax out the god if my brain was crowded with my own defenses? At least I knew how to deal with this. I told my thoughts: This was exactly what I must do to strike back. If I couldn't strike the god without feeling like I believed its thoughts, then that was what I would do – and I would return to myself afterwards. I was no longer the little girl who could be made to doubt myself. I could win. I <em>would</em> win. I had to.
 
-This thought... it wasn't just "<em>not important</em>". It was the sense of a wider perspective. The knowledge that we must abandon what does not serve us. To say no to our desires if we know that they will only lead to more hurt.
+This thought... the <em>not important</em>. It wasn't just "<em>not important</em>". It was the sense of a wider perspective. The knowledge that we must abandon what does not serve us. To say no to our desires if we know that they will only lead to more hurt.
 
-I smiled grimly. I <em>knew</em> this part of myself. Every time I had ?????, every time I had ?????, that was <em>me</em>, that was the Waiting God that lives within us all. And now it was so much easier, with the god's soul freshly intertwined with my own. ????? [very pleasant perspective-shift] protesting thoughts in a box to wait their turn ????
+I smiled grimly. I <em>knew</em> this part of myself. Every time I had delayed my anger, every time I had kept silent when I wanted to scream, that was <em>me</em>, that was the Waiting God that lives within us all. And now it was so much easier, with the god's soul freshly intertwined with my own. I could see it so easily. My protesting thoughts were already folding away, each into its own cupboard to wait its turn. The world opened up before me, the truth coming into sharper focus. This was why I could understand what others did not. Why I could succeed, while others clung to what they wanted to believe.
 
-[Now that I had found the thought, it was easier to return to… And very pleasant, because it helped me encapsulate all the things that I was upset about, tell them to wait for later – just as I had always done myself using the parts of the waiting that were intrinsic to me, but now so much easier with the god directly attached
+Threads of past and future floated past me, ghosts of other worlds that could have been. In the darkness of my closed eyes, I could still see the Blood God's city around me. And now it was so much clearer. I saw the buildings and towers from every side at once. I saw the foundations and the posts inside the walls. From every brick and beam, more threads trailed off, leading back to the Ravellers, from whose imagination they had formed. The mimicry was so simple, so bold. It was easy to see how Blood had made this. It had chosen these images of ruination, even now, when it had only just begun to weaken. Perhaps it understood what was coming. Yes... it could see the shape of things. This was one of its virtues. Yet how unfortunate that it could not see as we did.
+
+Blood...
+
+It could not see the truth of our city.
+
+The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always take the straightest path, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
+
+The other powers, each struggling in their own way to guide the city… they had their own little fragments of wisdom, but they did not understand.
+
+Those of the rigidity of law, the demand for adherence – <em>the Stern</em>, came a thought from our symbiont – they were a foundation. Flawed, yes; at times unnecessarily cruel, yes; but a foundation. Where humanity would not accept gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape. With them, the force of tradition dug in against the tide; traditionalists were sacred to us, but whenever they cling to traditions that no longer serve humanity, their story will inevitably come to an end. Thus the Stern would bend, with each passing of the tide, always believing that they had never changed. They would return to where they must be.
+
+Those of the flash of release, the spark of inspiration – <em>the Seeking</em> – they pointed the way to undiscovered futures. Yes, they were impetuous; yes, they reached out for disaster in equal measure to progress; but their progress could be nurtured, and their disasters could never become too great without a loan of another's strength. The fuel to their fire could be limited, and with the proper limits, their ingenuity could be turned to the benefit of all. When they burned too brightly, they would only burn themselves low; and they would always grow again, in a form more fitted to the new world. They would return to where they must be. 
+
+But Blood...
+
+Blood resisted guidance. They were not merely inflexible; they did not merely flare up and die down. Once they had latched onto an agenda, they would claw and churn against every compromise. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
+
+Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations.
 
 [Big god monologue basically]
 
@@ -175,26 +193,14 @@ I did not know, but I <em>knew</em>. The Waiting God did not feel the reassuranc
 
 So... I waited. The knowledge I wanted would come to me. In fact, it was already here.
 
-I closed my eyes. I reached out for the Seeing, then allowed my mind to drift. Threads of past and future floated past me, ghosts of other worlds that could have been. In the darkness of my closed eyes, I could still see the Blood God's city around me. Only I could see it even more clearly than before. I saw the buildings and towers from every side at once. I saw the foundations and the insides of the walls. From every brick and beam, more threads trailed off, leading back to the Ravellers, from whose imagination they had formed. The mimicry was so simple, so bold. It was easy to see how Blood had made this. It had chosen these images of ruination, even now, when it had only just begun to weaken. Perhaps it understood what was coming. Yes... it could see the shape of things. This was one of its few virtues. Yet how unfortunate that it could not see as we did.
 
-Blood...
-
-It could not see the truth of our city.
-
-The city stretched across the centuries, from its cloudy origins as a struggling cluster of huts, to the compromise of the five walls around its present-day center on the hill, to the unified metropolis it could one day become. We who rested in every foundation, we who stood watch over every lintel, had guided this city, quietly pointing the way to its potential. The city did not always take the straightest path, it did not always follow where we led, but we showed it to the shape of what it could become, and it would always return to that shape in the end.
 
 
 Within our oversight, three other powers struggled to guide the city, each with their own shortsighted fragments of wisdom.
 
-The Stern were a foundation. Flawed, yes; at times unnecessarily cruel, yes; but a foundation. Where humanity would not accept our gentle guidance to the proper path, the Stern would ensure that the way was not lost. And where the Stern reached to excess, they could be tempered, guided into a more efficient shape.
+The Stern
 
-The Seeking were a source of inspiration, pointing the way to undiscovered futures. Ever impetuous, they reached out for disaster in equal measure to progress. Yet they had no power to achieve disaster without a loan of another's strength. The strength available to them could be regulated, and when they were adequately regulated, their ingenuity could be turned to the benefit of all.
-
-But Blood...
-
-Blood refused guidance. Unlike the Seeking, they did not merely flare up and die down. Once they had latched onto an agenda, they refused to let go, even if it went against all that was right. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
-
-Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations.
+The Seeking were a source of inspiration,
 
 The thoughts subsided.
 
