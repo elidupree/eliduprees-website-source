@@ -152,9 +152,13 @@ Those of the flash of release, the spark of inspiration – <em>the Seeking</em>
 
 But Blood...
 
-Blood resisted guidance. They were not merely inflexible; they did not merely flare up and die down. Once they had latched onto an agenda, they would claw and churn against every compromise. Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
+Blood resisted guidance. This was no mere flareup that would die down; those could be outlasted. This was no mere rigidity of rules; if a rule obstructed the straightest path, other paths could be found that led to the same destination. No: once Blood had latched onto its opposition, it would claw and churn against every compromise. If it did not like the fruits of our dreaming, it would tear down the rest of the vine that had borne them.
 
-Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations.
+Faced with a ????? like that, one has few options.
+
+[One can try to negotiate, but it will take all ones energy. One can try to fight, but dragging down one's opponent is small comfort for being dragged into the quagmire oneself. Only one option [is sturdy] among [the murk]: To withdraw, and wait for a better moment. [Many times have we withdrawn) Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. {When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
+
+Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations.}
 
 [Big god monologue basically]
 
