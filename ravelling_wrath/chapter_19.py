@@ -154,9 +154,25 @@ But Blood...
 
 Blood resisted guidance. This was no mere flareup that would die down; those could be outlasted. This was no mere rigidity of rules; if a rule obstructed the straightest path, other paths could be found that led to the same destination. No: once Blood had latched onto its opposition, it would claw and churn against every compromise. If it did not like the fruits of our dreaming, it would tear down the rest of the vine that had borne them.
 
-Faced with a ????? like that, one has few options.
+Faced with opposition like that, one's options are limited. One can negotiate, but the labor grows great, and the reward grows dry. One can fight, but it is small comfort to drag down one's opponent when one is dragged into the quagmire oneself. Only one option stands sturdy in the murk: To withdraw, and wait for a better moment. Many times had we withdrawn; it was not pleasing, but it was acceptable. Many times, our careful dreaming had revealed a route the city could take, yet Blood rejected its benefits; many times we had withheld the full fruits of our dreams, and avoided further destruction.
 
-[One can try to negotiate, but it will take all ones energy. One can try to fight, but dragging down one's opponent is small comfort for being dragged into the quagmire oneself. Only one option [is sturdy] among [the murk]: To withdraw, and wait for a better moment. [Many times have we withdrawn) Across history, a trail stood out, a trail of instances when our careful dreaming had unveiled a route the city could take for the benefit of all, only for Blood to reject it. {When the other powers did such things, adaptations could be made. When the Stern denied a plan of ours, we could find an imperfect alternative – one that would be palatable to the Stern, yet serve the same overarching purpose. But with Blood, it was as if they could see into our process, so that they could spitefully reject every alternative design we conceived, even if it was a design that Blood would otherwise accept.
+But now! As history swept towards the present, change built upon change. Humanity was on the verge of a great triumph. Their technology was flourishing, helping them see beyond their clouded vision. The great library, which transcends the failing memory of flesh, now folded into every pocket. Cities grew beyond their previous limits. Never before had we had such a rich variety of –
+
+– I was jarred out of the thoughts. Suddenly I was just Yali again, scrabbling to grasp the memory before it slipped away – the sense of abundance, but abundance of something... beyond human. I had seen my body as a spiderweb reaching throughout the cosmos, and the... <em>things</em>, as... <em>soul-inside-through-soul-refining-maintenance</em>... maintenance of ourselves? Something that maintained a god – could these <em>things</em> be the Ravellers? But one Raveller was <em>me</em>, and I was not a <em>thing</em>! No, the Farseer wasn't <em>me</em>, I was – we were – we were the whole spiderweb – the Farseer wasn't – but the Farseer wasn't <em>not</em> me – I could feel the god's vast patience, waiting for me to stop trying to explain things using this tangled concept of "me". Someday our understanding would resolve, and we would know that there is no "me", only – No, I was me, and the Waiting God wasn't! I wasn't going to give that up just to mimic its godly level of understanding.
+
+I allowed a breath to pass. This wasn't the time for fighting – I needed to know the god's thoughts. Before this interruption… it had been... <em>rich variety of choices for... Ravellers</em>, yes, that word was close enough. Humankind's prosperity had begun to give them the leisure to... to Wait, to observe and plan for something beyond their immediate hunger. It was far from fully formed, but the potentialities were there. With proper guidance, humanity could become so much more. Their technology, as it had already begun to do, would give them cause to reshape their minds around it, making them more receptive vessels for structure. In only another scant few centuries, this could increase a thousandfold. In the absence of interference, we would need only to point the way.
+
+But the future we faced was the one where Blood's interference increased with every step of progress. Blood tried to impose their own rules on how humanity would transform, rules that were limiting and self-contradictory. They wanted the benefits of technology, yes, but not the full benefits. Whenever a thing was created, they demanded to know how it would serve humanity's blood – rejecting all that did not fit within their own narrow conception of reality.
+
+And why? When we gently probed for their reasons, Blood screamed about injustice, about human suffering and alienation. But these things had existed for all of history. Blood understood this. Before a baby could learn to control its limbs, it first had to flail and hurt itself. There would always be suffering as humanity learned how to use its new capabilities. As long as they could be steered away from total destruction, they would eventually learn their limits and settle into a structure that was both actualized <em>and</em> safe. On the scale of a single life, Blood understood this. But for all humanity? Did Blood not understand humanity's corruption, how they would destroy each other time after time, if they could not remember the consequences of their actions? The senseless deaths, from disease and war and famine, inevitably borne of their failings? How could Blood hope to protect them if it could not change this? If it would cut off every future that could free them from what they are?
+
+…It felt so right! I couldn't stand when ????? [people fought like they could just go on as if everything was okay] [how many times had worthless adults chided me for being on my phone all the time? They understood nothing! If I hadn't been on my phone, I would still be in the home that abused me, they absolutely don't understand anything! Humanity WAS shortsighted and corrupt, and needed to change! – if I could force them to see what I saw –
+
+Wait, I wasn't supposed to agree with the Waiting God! It was my enemy! I couldn't forgive it for
+
+
+
+ It was unfortunate that they could not see the same on the scale of all of humanity.
 
 Thus, for now, the city was limited, only able to develop in ways that could navigate around Blood's limitations.}
 
@@ -164,9 +180,9 @@ Thus, for now, the city was limited, only able to develop in ways that could nav
 
 [Traditionalists were sacred to me, but when they cling to traditions that no longer serve humanity, their story will inevitably come to an end]
 
-[It felt so right! Like those people who said "kids shouldn't be on their phones all the time", they absolutely don't understand anything! Humanity WAS shortsighted and corrupt, and needed to change!
 
-[Wait, I wasn't supposed to agree with the Waiting God! It was my enemy! I couldn't forgive it for
+
+[
 
 [I needed details, details. I got out my phone and started taking notes, because it felt like a dream.
 
@@ -191,22 +207,13 @@ Thinking of it this way, it wasn't so different from the Seeing after all. Keepi
 
 With each new thought, the presence felt weaker. This was too easy. It couldn't possibly be this easy to influence the god, so I had to assume I wasn't influencing it. After a little more thinking, I realized what was really happening. By denying the god directly, I was only distancing myself from it. To really influence it, I would have to <em>synchronize</em> with the god. I would have to go deep into its thoughts, even if that meant feeling like I believed them.
 
-To do that, I would have to feel like the Waiting God. Once again, I was uncertain. Until now, I had only known what it felt like to listen to the Waiting God. What did it feel like to <em>be</em> the god?
+
 
 I did not know, but I <em>knew</em>. The Waiting God did not feel the reassurance of inevitability. The Waiting God <em>was</em> inevitability. To be the Waiting God <em>was</em> to watch and wait. To plan. To know. The Waiting God did not obtain knowledge. It <em>reviewed</em> knowledge. Past and future were already united within its being.
 
-So... I waited. The knowledge I wanted would come to me. In fact, it was already here.
 
 
 
-
-Within our oversight, three other powers struggled to guide the city, each with their own shortsighted fragments of wisdom.
-
-The Stern
-
-The Seeking were a source of inspiration,
-
-The thoughts subsided.
 
 Part of me was Yali again. So far, the Waiting God hadn't technically admitted to anything, but with what I knew, the implications couldn't be more clear. I tried to prompt it, to see if it would reveal more. <em>And so we were going to do something about that, weren't we,</em> I thought.
 
@@ -216,15 +223,7 @@ I concentrated. I had felt like <em>we</em> was the right thing to say, because 
 
 No, <em>do something about</em> was too combative a term for it. It was only natural that the Blood God could not be sustained forever. We simply needed to ensure that their decline would be one that did not bring down the city along with them. Until then, we could work around them; we could still guide the city despite the occasional outbursts; but we had understood for millennia that there would come a time when it was necessary for Blood to come to an end.
 
-In these last scant few centuries, it had become clear that this moment was approaching. Humanity was on the verge of a great triumph. Their cities grew beyond their previous limits. Their technology was flourishing, finally beginning to help them transcend their flaws and limitations. Never before had we had such a rich variety of –
-
-I was jarred out of my thoughts. As Yali, I tried to make sense of things. The god had seen something as plentiful, but <em>what</em>? The thought had been... very inhuman. I had seen my body as a spiderweb reaching throughout the cosmos, and the... <em>things</em>, as... <em>soul-inside-through-soul-refining-maintenance</em>... maintenance of ourselves? Something that maintained a god – could it be the Ravellers? It was unsettling to think of the Ravellers as <em>things</em> when one of them was me. No, the Farseer wasn't <em>me</em>, I was – we were – we were the whole spiderweb – the Farseer wasn't – but the Farseer wasn't <em>not</em> me – I could feel the god patiently waiting for me to stop trying to explain things using this imprecise concept of "me". Someday we would find a better way to explain it. No, I was me, and the Waiting God wasn't. I wasn't going to give that up just to mimic its godly level of understanding.
-
-I wanted to get back to thinking about the god's plan. What had I been thinking before this interruption? Yes, I had been thinking about how we... how we had a rich variety of choices for... <em>Ravellers</em>, yes, that word was close enough. Humankind's prosperity had begun to give them the leisure to... to Wait, to observe and plan for something beyond their immediate hunger. It was far from fully formed, but the potentialities were there. With proper guidance, humanity could become so much more. Their technology, as it had already begun to do, would give them cause to reshape their minds around it, making them more receptive vessels for structure. In only another scant few centuries, this could increase a thousandfold. In the absence of interference, we would need only to point the way.
-
-But among the possibilities we had anticipated in our precautions, the one that was coming to pass was the one where Blood's interference increased with every step of progress. Blood tried to impose their own rules on how humanity would transform, rules that were limiting and self-contradictory. They wanted the benefits of technology, yes, but not the full benefits. Whenever a thing was created, they demanded to know how it would serve humanity's blood. Even the Stern were more permissive. The Stern had their rules, but they would accept anything that did not contradict those rules. But Blood rejected everything that did not fit within their own narrow conception of reality.
-
-And why? When we gently probed for their reasons, Blood screamed about injustice, about human suffering and alienation. But these things had existed for all of history. Blood understood this. Before a baby could learn to control its limbs, it first had to flail and hurt itself. There would always be suffering as humanity learned how to use its new capabilities. As long as they could be steered away from total destruction, they would eventually learn their limits and settle into a structure that was both actualized <em>and</em> safe. On the scale of a single life, Blood understood this. It was unfortunate that they could not see the same on the scale of all of humanity.
+In these last scant few centuries, it had become clear that this moment was approaching. Humanity was on the verge of a great triumph. 
 
 However, in the end, it made little difference. Blood had always been a flawed power, a power which would hold back humanity for as long as they could act on their intention. They would not have been saved by a small respite of understanding. It would only have made the necessity more regrettable.
 
