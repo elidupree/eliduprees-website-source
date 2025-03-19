@@ -215,7 +215,7 @@ The spike she had been holding earlier was still lying near us, but its energy w
 
 "I mean, Alchemist did it, but it's just a regular type of sorcery that regular sorcerers can do, too. You just don't hear about it much because it's too dangerous to use in practice. No one wants to risk tearing their soul or –"
 
-"You did something really dangerous… for me."
+"You risked… your own soul… for me."
 
 "Of course I did. I will risk anything I need to, to keep us both alive."
 
@@ -223,11 +223,11 @@ The spike she had been holding earlier was still lying near us, but its energy w
 
 Yali blushed a little, but suddenly turned agitated again. "That doesn't matter right now! The important thing is keeping you safe! I, I, I need to think! I <em>don't know what's about to happen!</em>"
 
-It took me a moment to realize what that implied. "Wait, the Seeing –?"
+A heartbeat passed before I realized why that was weird. "Wait, doesn't the Seeing –?"
 
-"I don't know why I didn't see that this was going to happen! I <em>used</em> the Seeing! I specifically looked for danger! I didn't see Justicar attacking you! Why couldn't I find it?!"
+"I <em>used</em> the Seeing! I <em>specifically</em> looked for danger! I didn't see Justicar attacking you! Why couldn't I find it?!"
 
-"Could the Stern God… mess it up somehow?"
+"Could the Stern God… mess it up…? …somehow?"
 
 "I don't know! It doesn't feel like it! But, but, I <em>don't know!</em> Until I understand why it didn't work, I can't assume that we're safe, ever again! So! First of all, I am <em>not</em> leaving your side again, and I don't care what you have to say about it!"
 
@@ -249,7 +249,7 @@ Almost immediately, I felt his voice in my head. Just like the first time, it so
 
 It was a lot of negotiating and confusion, trying to communicate through Morrow. I didn't know how Alchemist could stand it all the time. But we managed to do it. We planned out a spot to meet up, mostly taking the Alchemist's Path to meet each other.
 
-Yali didn't want me to walk. "I'll carry you. No, no, that would jostle you too. We should, we should put you in one of those rolling hospital beds." She stuck out her hands, but nothing happened. "I must not have one imprinted… I think I've only seen them in shows…"
+Yali didn't want me to walk. "I'll carry you. No, no, that would jostle you too. We should, we should put you in one of those rolling hospital beds." She stuck out her hands, but nothing happened. "I must not have one imprinted… I must have only seen them in shows…"
 
 "I think I was in one when my leg was broken…"
 
@@ -271,11 +271,11 @@ The bed's hard wheels click-click-clicked over the stone brick floor. I tugged a
 
 It kind of didn't even feel like something that had really happened. I mean, I was in the bed now. I was just lying limply in the bed, it didn't really feel like I had been killed and had my death wiped away by the force of Yali. Yali… <em>Seti</em>…
 
-"You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's a common name, I didn't think…"
+"You're actually the daughter of Arinyo Seti? I mean, I knew you had the same last name, but it's such a common name for, like, rich people, I didn't think…"
 
 Yali frowned. But after a moment, she decided to answer. "It's easier if people don't know that about me."
 
-The thoughts slowly clicked into place in my brain. Yali's mother, who wasn't part of her life anymore… A mother who betrayed her… "Holy shit, is she the one who, uh… Wait, shit, I didn't mean to bring that up, I'm sorry –"
+The thoughts slowly clicked into place in my brain. Yali's mother, who wasn't part of her life anymore… A mother who betrayed her… "Holy shit, is she the one who – uh… Wait, shit, I didn't mean to bring that up, I'm sorry –"
 
 Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>did</em> ask you not to bring that up, didn't I. But I see no reason not to tell you now."
 
@@ -287,17 +287,17 @@ Yali looked at me incredulously. Then she laughed her harsh laugh again. "I <em>
 
 "Arinyo Seti is not one of the people who abused me. But I can never forgive her for what she did do.
 
-I will start at the beginning. My biological father died shortly before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and she had friends who were willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
+I will start at the beginning. As I now know, as my mother and her friends have told me: My biological father died shortly before I was born. Arinyo Seti had never intended to raise me by herself. With her memory and attention issues, she knew that she was not prepared even to live alone, much less to raise a child that way. In the home where I lived, trash piled up for weeks before she would clear it. More than once, the city shut off our water because she had forgotten to pay her bills. And even though she always made sure I ate before she did, there were some days when there was no food left in the house. We were not poor, and her friends were always willing to help, but she rarely asked for help until I reminded her. By the time I was six years old, I was more organized than my own mother.
 
 That was not her fault. That was not when she betrayed me.
 
-I was only dimly aware of the negotiations for her to become high priest. There were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. As a child, I was only aware of her absences. But I could also feel her hope for the future. She finally had a calling that gave her a sense of purpose. And I hoped for her too.
+But that was before the old high priest felt ill, and needed a successor. I was only dimly aware of the negotiations involved. I only knew that there were long meetings for her to go to, meetings with the old high priest and his advisers, rituals where they consulted with the god. I remember that as a happier time for me. I stayed with family friends during my mother's absences, and each time she returned home, I could feel her hope for the future. She finally had a calling that gave her a sense of purpose. And so, knowing nothing, I too hoped that she would be selected.
 
-So when she explained to me that I would be given to another family when she was ordained as the high priest, I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly believed that this was the way to give me the life I deserved. This was not when she betrayed me. 
+And when she was, when she explained to me that I would be given to another family when she assumed the role of high priest… I was upset, as a child always is, but soon I believed it was something I could accept. She explained that they would take care of me from then on, that they would give me the care and nurturing that she could not. She honestly believed that this was the way to give me the life I deserved. This was not when she betrayed me. 
 
-Pallivan and Miniri Dalner were praised and respected by everyone in our community. They were fashionable. They made huge donations to good causes. And everyone remembered their grand gestures of love for each other – surprise romantic messages that they delivered at their formal parties. They always laughed and smiled charmingly, and whenever they were praised, they always made a show of modesty.
+Everyone in our community had stories of how wonderful my adoptive parents, Pallivan and Miniri Dalner, were supposed to be. How fashionable they were. How they made huge donations to good causes. How they made such grand gestures of love for each other at their formal parties. I had met them only a little, but even I remembered their charming smiles and laughter, and how they always made a show of modesty when someone praised them.
 
-And at the same time, they were a husband and wife who could not have children of their own. So it seemed only natural that they would be a good candidate to care for the high priest's child when she was consumed by her duties. Everyone told me it was a perfect match. They said it was sad I would be away from my mother, but they could not imagine a better replacement.
+And, I was told, they were a husband and wife who could not have children of their own. So it seemed only natural that they would be a good candidate to care for the high priest's child while she was consumed by her duties. Everyone told me it was a perfect match. They said it was sad I would be away from my mother, but they could not imagine a better replacement.
 
 At first, I thought they were right. I ate good food. I lived in a clean house. I missed my mother, but she had told me to trust the Dalners, and I believed her.
 
@@ -313,11 +313,11 @@ I was a child. I didn't understand what sex was. But I had heard them. I had lis
 
 And then there was the day when I walked in on them.
 
-I understand that memories can be altered when we remember them. False memories are a thing that can happen. And the order of events I remember is impossible. But I have no doubt of what ultimately happened: They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their convoluted rules about which kinds of sex were disgusting or perverted, literally using a child's body to pleasure themselves was not covered.
+I understand that memories can be altered when we remember them. False memories are a common thing for all of us. And the order of events I remember is impossible. But I have no doubt of what ultimately happened: They used me as a glorified sex toy. Maybe they were trying to spice up their sex life to forget everything that was wrong with the relationship. And for all their sanctimonious rules about which kinds of sex were disgusting or perverted, literally using a child's body to pleasure themselves was not covered.
 
-Once they had done it once, they did it again and again. Both of them raped me many times. Both together and separately.
+I will not be cruel to you by telling you the details. I do not need to tell them for my own sake; I have told them enough times. All you need to know is this: Once the Dalners had done it once, they did it again and again. Both of them raped me many times. Both together and separately.
 
-I blamed myself for a long time. I no longer do. I do not allow those thoughts to have authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than last time. That is good.
+I blamed myself for a long time. I no longer do. I do not allow those thoughts to have authority in my mind. I thought, "if only I had not given them the idea, by walking in on them that day, none of this would have happened." Yes. Now I can even say it out loud without being afraid I will believe it. This time was easier than the last. That is good.
 
 On other days, they cried and begged me not to tell anyone what they had done. They said it would ruin them. They accused me of tempting them into it. They accused me of despising them for their weakness. Because I was silent. Because I never cried or screamed. Because I had seen them for what they really were.
 
@@ -327,9 +327,9 @@ She refused to believe me.
 
 She told me she <em>understood</em> that I wasn't happy with the Dalners. She told me she <em>understood</em> why I would <em>make up a story</em> to try to get her back. But she was the one who was making up a story because the truth was inconvenient for her! Maybe because I didn't act upset, she thought she was allowed to not believe me. But she should have listened to what I was saying.
 
-<em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much I seem to act out the Waiting God's virtues, I refuse to let it puppeteer my life any longer.
+<em>That</em> is when she betrayed me. To keep her grand plan to serve the Waiting God, she could not admit to her mistake, not even to save me from years of abuse. I will never forgive her for that. And I will never forgive the Waiting God for accepting her service after that. The Waiting God knows all, but it did nothing to protect me. My suffering was insignificant to it. No matter what it wants or why, no matter how much I seem to act out the Waiting God's virtues, I refuse to let it puppeteer my life any longer.
 
-But that is about the future, and I am not finished telling you about the past. The Dalners still had to keep up appearances. At eight years old, they sent me to a private boarding school, which is normal practice for the upper class in the First Ring. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
+But that is about the future, and I am not finished telling you about the past. The Dalners still had to keep up appearances. At eight years old, they sent me to – and this is normal practice for the upper class in the First Ring – they sent me to a private boarding school. I later learned that they pretended to be sad when I was gone, pretended they were doing it for my sake. When they were around <em>me</em>, they only sometimes remembered to pretend. It was obvious that they did it to get rid of me, for nine months of the year.
 
 I have been told it was a very good boarding school, but it was not what I needed. I liked it better than home, but I only did what I was told. I didn't trust the teachers, especially not the ones who were nice. I didn't like the other kids either. In those days, I had only one friend. Her name was Romhisat. I was very attached to her, but I treated her very badly. I didn't have anyone else to play with, and whenever she didn't want to play with me, I yelled at her until she did. One day she left me a note saying she couldn't take it anymore and she didn't want to be friends anymore. That day was the worst day of my life.
 
