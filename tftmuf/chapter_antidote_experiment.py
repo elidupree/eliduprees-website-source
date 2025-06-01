@@ -147,7 +147,7 @@ What I didn't have, that Kayla did, was Kayla's knowledge of herself. She knew t
 
 [While I worked, Kayla gave orders. "Aster, what's the fastest we can get more of the antidote?"]
 
-"The chem lab. That's where we keep the phrehibiphor. And for the antidote, we can use a distillation – no, the other me will've already done that, there'll still be some left in the condenser –"
+"The chem lab. That's where we keep the phrehibiphor. Ah, for the antidote – we'll need a distillation – no, the other me will've done that, there'll be some left in the condenser –"
 
 "Then come with me! We'll go there right now. Marvin, you'll have to stay here and watch the doors –"  Kayla grabbed her current phone and mine, and set up a video call between them. "
 
@@ -216,7 +216,9 @@ The creature spoke.
 
 It didn't have any lips that moved, but it was the same tinny voice from the "kill phrase" recording. ????? [Meanwhile, the other Marvin is whimpering in a corner or something]
 
-"I apologize that we had to meet in such distressing circumstances," it said. "There have been far too many time loops here, and it's already causing permanent damage. I was able to save Marvin using our technology, but I couldn't save the others in this timeline –"
+"You're the ones who locked us in here?! The hell are you doing? You're gonna get yoursel's killed!"
+
+{"I apologize that we had to meet in such distressing circumstances," it said. "There have been far too many time loops here, and it's already causing permanent damage. I was able to save Marvin using our technology, but I couldn't save the others in this timeline –"}
 
 "You mean you <em>didn't</em> kill all those people?" [I said, hopefully? Kayla demanded?]
 
@@ -224,7 +226,23 @@ It didn't have any lips that moved, but it was the same tinny voice from the "ki
 
 "And who is 'we'?" Kayla demanded.
 
-"I am part of the League of Free Time Travelers," the creature said. "[We're here to stop the ????? - the ones who made the phrenochondria to control people. But they got to this timeline first, and used the phrenochondria to prevent us from contacting you.]
+"I am part of the League of Free Time Travelers," the creature said. "[We're here to stop the ????? - the ones who made the phrenochondria to control people. But they got to this timeline first, and used the phrenochondria to prevent us from contacting you.]the
+
+
+"Jesus. Jesus…" the creature slumped downwards. [Relenting anger affect; maybe even paragraph hook About relenting anger] "You think <em>I</em> killed those guys? Oh, this is such a disaster. God, this…" [As if despairing, realizing they have no idea how to convince us to do what we need to do]
+
+"How did they die then?" demanded Kayla.
+
+The crab legs gestured wildly. "They were entangled with you! You've got no idea what you're doing. Your history, your future, it's chaos. Thank God <em>this</em> one's not dead yet. We can still untangle things – we just need to get to the source."[[But] I need you to let me get to the source!]"
+
+"The time machine?"
+
+"Exactly! ?????"
+
+"We're not letting you mess with the time machine!" Kayla snapped. "If it's so important, you can tell <em>us</em> what to do."
+
+[Exasperated] "I can't teach you the whole thing in a day! And you're dead in twenty hours <em>at the latest!</em>"
+
 
 ?????
 
