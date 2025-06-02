@@ -269,14 +269,27 @@ The crab legs gestured wildly. "They were entangled with you! You've got no idea
 Regardless: Aster is now unconscious in the recliner, twitching like from a restless dream
 ]
 
+"No, we can't ask Aster, they might die if they heard this stuff without taking the antidote!"
 
-["we don't have time to worry about Aster!" They check what actually happened, on the cameras. In the past, after Kayla becomes able to see Ontoh, Ontoh once again confirms that she can understand the kill phrase, then asks her to also inject Marvin [secretly: because Marvin is easier to manipulate and more able-bodied; explicitly: "so that I won't have to explain everything twice"]
+"It doesn't matter if they die, we're in a paradox anyway!"[out loud] "hey Aster!This thing said they died because we did too much time travel, is there any way that could be true?" [Thoughtful] "Ah… could it be the impressioning effect? If they've got more than one history now, maybe different parts of their body could settle in different directions? Destroy their homeostasis… I haven't seen it before, but –"
+
+"Stop talking! Stop talking!" [My voice was louder than I'd planned on] "Anything that thing told us could be like the kill phrase! They could die <em>right now! Right in front of us –</em>"
+
+[Aster raised a finger to interrupt –, a little pale] "I respect Kayla's mistrust for me but I would very much like to take the antidote now"
+
+"For Pete's sake, Kayla, you <em>still</em> aren't letting them take the antidote? After all they've helped us?"
+
+[I could see that Kayla was still angry and didn't want to let them take it [And I started feeling bad because I remembered how they had done the evil stuff?], but then she realized:] "It <em>doesn't matter!</em> Take it if you want!"
+
+[Aster started injecting themselves, but that was going to take some time, so
+
+["we don't have time to worry about Aster!" They check what actually happened, on the cameras. In the past, after Kayla becomes able to see Ontoh, Ontoh once again confirms that she can understand the kill phrase, then asks her to also inject Marvin [secretly: because Marvin is easier to manipulate and more able-bodied; explicitly: "so that I don't need to tell you the whole thing twice"]
 
 ["But, what about –" experiment-Kayla gestured to the assistants.
 
-"I can deal with them." Suddenly everyone but Kayla and Aster becomes sedated. They fetch Marvin from the other room and inject him; Ontoh confirms that he can understand the kill phrase, then kills everyone else and starts threatening Marvin]
+"I can deal with those." Suddenly everyone but Kayla and Aster becomes sedated. They fetch Marvin from the other room and inject him; Ontoh confirms that he can understand the kill phrase, then kills everyone else and starts threatening Marvin]
 
-Kayla: "see, that's why you should never trust anyone who's [telling you something is urgent]! That thing was fast-talking us, hoping we'd think there was no time to check"
+Kayla: "see, that's why you should never trust anyone who's [telling you something is urgent]! That thing was fast-talking us, hoping we'd think there was no time to check" ("It's a basic fast-talking trick! You make the victim think they don't have time to check if it's actually true")
 
 Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, it was lying. But what the hell do we do now?]
 
@@ -294,6 +307,8 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 [They use the cameras to figure out exactly how Fuller heard about it – getting texted by one of the assistants. [Cross-reference: preestablish that Marvin accesses the cameras exclusively through methods that record which camera data was accessed]]
 
+"Wait!" [I was having a brilliant idea] "We only saw any of this _on the cameras_! We can use a replay attack again, like we did on Fuller, but this time on <em>ourselves</em>!"
+
 ["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan; but it was already [2:54] and there was a lot that we needed to execute in practice – maybe it would only take 5 minutes to download the footage and get in the time machine, but I knew from [long experience with undiagnosed ADHD] that if you wanted the 5 minute thing to get done today, you had to do it immediately]
 
 [Aster still unconscious as they leave, I think, but maybe starting to stir? But much too sleepy to consider bringing with them]
@@ -308,7 +323,9 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 [Again mention the quality of Ontoh's voice; this time it has a resigned/aggrieved tone]
 
-"If you had grown up in the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."
+"Don't waste your energy. You already won."
+
+{"If you had grown up in the main timeline, you wouldn't be angry. You would be laughing at me for being defeated so easily."}
 
 [Chapter break (The Future They Made Us Forget?)]
 
@@ -316,13 +333,13 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 "You killed a roomful of people!"
 
-"Did I? Insignificant! <em>I've heard of you, and you still exist.</em> That should tell you all there is to know about how dangerous I am! <em>Ethra</em> stupidity –"
+"Did I? Useless! <em>I know who you are, and you still exist.</em> That should tell you all you need to know! You need to think o' the <em>real</em> danger –"
 
-[Explanation of the pronunciation of ethra, maybe even the meaning – "a word for non-time travellers, possibly derogatory"]
+{about how dangerous I am! <em>Ethra</em> stupidity –"[Explanation of the pronunciation of ethra, maybe even the meaning – "a word for non-time travellers, possibly derogatory"]}
 
-[But just as soon as the creature started snapping at us, Sudden transition from angry to conciliatory/reasoning] "[I can see that you will need accommodation. I will cooperate/I will do anything you ask, if it helps you believe that I'm not a threat. So you can focus on the real enemy."
+[But just as soon as the creature started snapping at us, Sudden transition from angry to conciliatory/reasoning] "I get it. You'll need extra reasons to trust that. Look, I surrender. I'll do anything you ask – as long as it doesn't let the sky see us."
 
-"What enemy?" demanded Kayla.
+"What's in the sky?!" demanded Kayla.
 
 But I was [being carried by emotions] "Oh, you'll <em>cooperate??</em> You'll <em>do anything we ask??</em>" I said hysterically. "Flip over on your back!"
 
