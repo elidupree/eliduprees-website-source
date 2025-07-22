@@ -277,3 +277,38 @@ Yali squared her shoulders, and began to explain her plan.
 ''',
 },
 ]
+
+
+"""
+Potential new draft of opening lines…
+
+
+
+"Ow! Fuck."
+
+I shouldn't have messed up jumping that fence! I did this all the time, it was the best shortcut through the Fourth Ring. Yali needed me, and I wasn't going to slow down. Stern God take whoever put that fence there! I hated taking the main roads – they stank with car exhaust, and I always got a headache from all the safety sorceries. Jump a fence, every time. Fuck the Stern.
+
+I landed on my feet – and my leg did <em>hurt</em>, but it held my weight just fine. Just a bruise, who cares. I took off running. <em>Yali.</em>
+
+She'd caught me between classes, keeping her voice low in the bustle of the hall: "Rinn, there's something I'll need to tell you about. In private." She'd put her big hand on my arm, and I felt her squeeze just a little too hard. "Can we meet after school? My place?"
+
+Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew! In the whole month I'd been her girlfriend, she'd never once asked me something like this. If something put <em>her</em> on gatewatch, you can bet it was deadly serious. You know the saying – <em>when the Waiting God moves, beware.</em>
+
+…but then the Stern gave me a fucking detention! <em>Apparently</em>, when I'd punched those assholes earlier that day, that wasn't "proper behavior for a young lady". What was I supposed to do, take the Waiting while they were picking on that kid? That's what I <em>would've</em> said to the Stern, too, right there in detention – it's fun to watch them get mad, when they're supposed to follow the Stern God and be dignified and shit. But then they'd've kept me later. So I pretended to care about their lecture, just this once. For Yali.
+
+[Gods, what <em>was</em> her thing? As I ran, I pulled out my phone to check the messages we'd exchanged]
+
+<div class="texts">
+<p class="text right">omg they gave me detention 😡 I'll skip it tho</p>
+<p class="text left">Lol don't do that</p>
+<p class="text right">what about your thing?</p>
+<p class="text right">I don't care if they punish me</p>
+<p class="text left">Can't talk about it over text. But [delaying by an hour won't hurt]. Don't take risks</p>
+<p class="text right">but I wanted an excuse to skip 😂 jk see you right after ❤</p>
+<div class="end-of-texts"></div>
+</div>
+
+<em>Can't</em> talk over text! Was she planning crimes? Heresy? I <em>knew</em> I loved her. Fuck the temples.
+
+
+"""

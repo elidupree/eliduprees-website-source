@@ -204,7 +204,9 @@ I squinted. Every thought had felt different than the last. In one, the reluctan
 
 Frustration was building inside me once again. Since the moment I had been Chosen, I had hated the Waiting God for taking advantage of me. For expecting me to serve it after it had done nothing to protect me. But somehow, it hadn't even <em>understood</em> that that was what it was doing?! Was I supposed to be patient with it for not understanding, like I was supposed to be patient with a baby for being clumsy?! But it wasn't a baby, it was a <em>god</em>! It had no <em>right</em> to not understand!
 
-I forced the thoughts back. Hadn't I told myself – I couldn't afford to let myself get upset! If the Waiting God couldn't understand its own nature, that didn't change anything – it was just more reason to sever its abhorrent plan and put my own in its place. <em>No, it's better than that</em>, whispered a cruel thought of my own. Anything the Waiting God couldn't understand… was a <em>weakness I could use to my advantage</em>.
+I forced the thoughts back. Hadn't I told myself – I couldn't afford to let myself get upset! If the Waiting God couldn't understand its own nature, that didn't change anything – it was just more reason to sever its abhorrent plan and put my own in its place.
+
+<em>No, it's better than that</em>, whispered a cruel thought of my own. Anything the Waiting God couldn't understand… was a <em>weakness I could use to my advantage</em>.
 
 [????? Possible section break around here?]
 
