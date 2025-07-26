@@ -294,9 +294,13 @@ She'd caught me between classes, keeping her voice low in the bustle of the hall
 
 Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew! In the whole month I'd been her girlfriend, she'd never once asked me something like this. If something put <em>her</em> on gatewatch, you can bet it was deadly serious. You know the saying – <em>when the Waiting God moves, beware.</em>
 
-…but then the Stern gave me a fucking detention! <em>Apparently</em>, when I'd punched those assholes earlier that day, that wasn't "proper behavior for a young lady". What was I supposed to do, take the Waiting while they were picking on that kid? That's what I <em>would've</em> said to the Stern, too, right there in detention – it's fun to watch them get mad, when they're supposed to follow the Stern God and be dignified and shit. But then they'd've kept me later. So I pretended to care about their lecture, just this once. For Yali.
+…but then the Stern gave me a fucking detention! <em>Apparently</em>, when I'd punched those assholes earlier that day, that wasn't "proper behavior for a young lady". What was I supposed to do, stand there and take the Waiting while they were picking on that kid? That's what I <em>would've</em> said to the Stern, too, right there in detention – it's fun to watch them get mad, when they're supposed to follow the Stern God and be dignified and shit. But then they'd've kept me later. So I pretended to care about their lecture, just this once. For Yali.
 
-[Gods, what <em>was</em> her thing? As I ran, I pulled out my phone to check the messages we'd exchanged]
+Now, it was time to catch up. I was almost at the Third Wall already, my legs working hard to jog up the steep slope towards the center of the city. Why'd I have to love someone who lived <em>two</em> rings higher than me? Thank the Broken the side-gates were open, at least. Not like last month when the Stern Temple locked everything down because of some bullshit about "Blood worshippers infiltrating the city". Why would anyone <em>actually</em> worship the Blood God, anyway? I bet someone just spray-painted the Burning Heart somewhere as a prank, and then the Stern thought that was a great excuse to push everyone around. [I'd had to run all the way around to the <em>main</em> gate every day, and all the way back, because I lived in the Fifth Ring, and my parents hadn't wanted to put me in the "bad" school right next door – no, I had to go to the Fourth Ring every day. And now the Third, for Yali.]
+
+At the gate, I paused to catch my breath – leaning on the cool stones of the archway, letting the buzz of sorcery fill my mind. The wall-sorceries were always a relief – they were much stronger, flushing out all the noise from the city. You could almost believe the walls really were made by the five gods. I took deep breaths, relaxing while the cars slowly rolled by – it was always a traffic jam here, because the side-gates were only one lane wide. Sucks to be them. On foot, I was going to get way ahead of them.
+
+Gods, what was Yali going to tell me? I pulled out my phone – but of course the screen was black, so I jogged a bit further before tapping to switch it out of gate mode. I stopped in front of a "No Loitering" sign to check my texts:
 
 <div class="texts">
 <p class="text right">omg they gave me detention 😡 I'll skip it tho</p>
@@ -309,6 +313,36 @@ Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew
 </div>
 
 <em>Can't</em> talk over text! Was she planning crimes? Heresy? I <em>knew</em> I loved her. Fuck the temples.
+
+[The third ring]
+
+<bigbreak>
+
+I had scarcely rung the doorbell when Yali engulfed me in a hug. I fell exhausted into her arms. She was just so big, and warm, and wonderful – I closed my eyes, legs turning to jelly, leaning into her while she planted a kiss on my forehead.
+
+"You ran all the way here, didn't you," she murmured. I didn't have to answer that. We both knew how it was.
+
+Soon, we'd flopped down on her couch, sinking into the big, well-worn cushions while I panted to catch my breath. I leaned waaaay back, my arm around her – but Yali was still hunched forward, staring off into the distance, and now my hand was sort of awkwardly tugging on a shoulder that wasn't moving.
+
+"Yali?" I panted – shit, whatever she needed to tell me, it was weighing heavy on her. She turned halfway towards me and opened her mouth – words forming on her lips – but then closed it again. Her eyes lingered, then looked away. I felt her shoulder tense up under my hand. Gods, how bad was it? My heart was pounding, and not just from the run. Fuck relaxing! I gripped her tight, starting to sit back up – "Yali, what's wrong?? Oh my gods, is there someone I need to beat up?!" 
+
+A short breath burst from her, a choked laugh – "No," she said. "No, it's not a, a –" I felt her shudder, holding back the laughter "– a <em>material being</em>."
+
+What?? Those words only meant one thing – the <em>gods!</em> It had to be a joke! But I could feel [how she was tense]. I could see how her gaze was lowered, not quite meeting my eyes, looking down over my body like it was something fragile and precious. This was no joke, it was as deep as the Cloven Earth. But how could she have something to tell me about the <em>gods?!</em> Since when did the gods ever care about kids like us –
+
+"Your leg!" said Yali suddenly.
+
+I looked down – and saw the dark stain on the leg of my pants. "Stern take it, that's <em>bleeding</em>?" I complained. "It's nothing, I just slipped up jumping a fence, that's all –"
+
+"You wounded your leg, and you didn't even <em>notice</em>."
+
+Ugh, now she was giving that same solemn look to my leg, as if I cared about that right now! "I was in a hurry – didn't think it was a big deal – "
+
+Yali's lips quirked into a indulgent smile. "Well, we'd better get it cleaned up," she said.
+
+"I don't give a shit, I want to hear what's –" I began. But Yali had already pushed herself to her feet, to gather healing supplies. And there was one thing I knew from experience: once Yali had started something, there was no point trying to interrupt her. ????? went straight to an old wood cabinet with the finish worn off, fished around inside, and came up holding a ceramic disk the size of my palm.
+
+
 
 
 """
