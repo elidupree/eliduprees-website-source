@@ -326,9 +326,9 @@ Soon, we'd flopped down on her couch, sinking into the big, well-worn cushions w
 
 "Yali?" I panted – shit, whatever she needed to tell me, it was weighing heavy on her. She turned halfway towards me and opened her mouth – words forming on her lips – but then closed it again. Her eyes lingered, then looked away. I felt her shoulder tense up under my hand. Gods, how bad was it? My heart was pounding, and not just from the run. Fuck relaxing! I gripped her tight, starting to sit back up – "Yali, what's wrong?? Oh my gods, is there someone I need to beat up?!" 
 
-A short breath burst from her, a choked laugh – "No," she said. "No, it's not a, a –" I felt her shudder, holding back the laughter "– a <em>material being</em>."
+A short breath burst from her, a choked laugh – "No," she said. She hesitated, weighing her words. "No, it's not a, a –" I felt her shudder, suppressing a second laugh "– a <em>material being</em>."
 
-What?? Those words only meant one thing – the <em>gods!</em> But how could she have something to tell me about the <em>gods?!</em> Since when did the gods ever care about kids like us? It had to be a joke – but I could feel [how she was tense]. I could see how her gaze was lowered, not quite meeting my eyes, looking down over my body like it was something fragile and precious. This was no joke, it was as deep as the Cloven Earth.
+What?? Those words only meant one thing – the <em>gods!</em> But how could she have something to tell me about the <em>gods?!</em> Since when did the gods ever care about kids like us? It had to be a joke – but I could feel how tense she was. I could see how her gaze was lowered, not quite meeting my eyes, looking down over my body like it was something fragile and precious. This was no joke, it was as deep as the Cloven Earth.
 
 "Your leg!" said Yali suddenly.
 
@@ -340,8 +340,35 @@ Ugh, now she was giving that same solemn look to my leg. As if I cared about tha
 
 Yali's lips quirked into a indulgent smile. "Well, we'd better get it cleaned up."
 
-"I don't give a shit, I want to hear what's –" I began. But Yali had already pushed herself to her feet, to gather healing supplies. And there was one thing I knew from experience: once Yali had started something, there was no point trying to interrupt her. So I put up with watching, while she [walked carefully?] around her cozy little house ????? went straight to an old wood cabinet with the finish worn off, fished around inside, and came up holding a ceramic disk the size of my palm.
+"I don't give a shit, I want to hear what's –" I began. But Yali had already pushed herself to her feet, to gather healing supplies. And there was one thing I knew from experience: once Yali had started something, there was no point trying to interrupt her. So I put up with watching, while she padded across her cozy little house, past the shelves of neatly-organized books and electronics, to a well-worn wooden cabinet. She bent over and fished around inside, then came up holding a ceramic disk the size of my palm.
 
+I stared at the disk. "You're using an actual <em>sorcery</em> for this?" I'd assumed she was just going to clean the cut with alchemical wipes, the kind you get from a convenience store. I hadn't seen a healing <em>sorcery</em> since the time I was in an ambulance with a broken leg – they were too expensive to use for random scrapes?
+
+"'The Waiting God knows we must prepare for the worst,'" Yali quoted. She was already putting on disposable gloves, laying out bandages and stuff. This was the Yali I knew – every motion clean and precise, none of the hesitation from earlier.
+
+"Okay, Doctor," I teased. "When'd you go to med school?"
+
+"Video tutorials," murmured Yali. She handed me a piece of gauze. "If it's still bleeding, I'll want you to press this onto the wound." She gave me a lopsided smile. "Now remove your pants."
+
+"I thought you'd never ask," I teased back, wriggling out of them.
+
+Yali muttered while she worked. "Those pants were pretty tight. That might have helped stop the bleeding. Still a mess though. Don't worry about the couch, a stain is just part of its memory. Hold still, this might sting a bit."
+
+"I'll be fiiiiiine." Yali pressed the disk over the wound and snapped it in half, releasing the sorcery into my leg. It stung a bit. I was fine. "Video tutorials?"
+
+"It seemed like something I might need to know."
+
+"You watch first aid tutorials in your –" I began. I hadn't <em>quite</em> caught my breath yet. "– in your spare time, just because you <em>might</em> need to know them?"
+
+"Of course!" said Yali.
+
+We laughed together. Yali and I were so different – and yet, when we were together, everything seemed to flow so easily.
+
+But then… the time came. Yali had put away the extra bandages. I had finally caught my breath. It was time.
+
+"So…" I began, "about what you texted me…"
+
+Yali… hesitated. Swallowed. Turned away. Turned back towards me.
 
 
 
