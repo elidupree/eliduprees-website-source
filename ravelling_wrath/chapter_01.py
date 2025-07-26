@@ -328,7 +328,7 @@ Soon, we'd flopped down on her couch, sinking into the big, well-worn cushions w
 
 A short breath burst from her, a choked laugh – "No," she said. "No, it's not a, a –" I felt her shudder, holding back the laughter "– a <em>material being</em>."
 
-What?? Those words only meant one thing – the <em>gods!</em> It had to be a joke! But I could feel [how she was tense]. I could see how her gaze was lowered, not quite meeting my eyes, looking down over my body like it was something fragile and precious. This was no joke, it was as deep as the Cloven Earth. But how could she have something to tell me about the <em>gods?!</em> Since when did the gods ever care about kids like us –
+What?? Those words only meant one thing – the <em>gods!</em> But how could she have something to tell me about the <em>gods?!</em> Since when did the gods ever care about kids like us? It had to be a joke – but I could feel [how she was tense]. I could see how her gaze was lowered, not quite meeting my eyes, looking down over my body like it was something fragile and precious. This was no joke, it was as deep as the Cloven Earth.
 
 "Your leg!" said Yali suddenly.
 
@@ -336,11 +336,11 @@ I looked down – and saw the dark stain on the leg of my pants. "Stern take it,
 
 "You wounded your leg, and you didn't even <em>notice</em>."
 
-Ugh, now she was giving that same solemn look to my leg, as if I cared about that right now! "I was in a hurry – didn't think it was a big deal – "
+Ugh, now she was giving that same solemn look to my leg. As if I cared about that right now! "I was in a hurry – didn't think it was a big deal – "
 
-Yali's lips quirked into a indulgent smile. "Well, we'd better get it cleaned up," she said.
+Yali's lips quirked into a indulgent smile. "Well, we'd better get it cleaned up."
 
-"I don't give a shit, I want to hear what's –" I began. But Yali had already pushed herself to her feet, to gather healing supplies. And there was one thing I knew from experience: once Yali had started something, there was no point trying to interrupt her. ????? went straight to an old wood cabinet with the finish worn off, fished around inside, and came up holding a ceramic disk the size of my palm.
+"I don't give a shit, I want to hear what's –" I began. But Yali had already pushed herself to her feet, to gather healing supplies. And there was one thing I knew from experience: once Yali had started something, there was no point trying to interrupt her. So I put up with watching, while she [walked carefully?] around her cozy little house ????? went straight to an old wood cabinet with the finish worn off, fished around inside, and came up holding a ceramic disk the size of my palm.
 
 
 
