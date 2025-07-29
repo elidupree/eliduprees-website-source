@@ -342,7 +342,7 @@ Yali's lips quirked into a indulgent smile. "Well, we'd better get it cleaned up
 
 "I don't give a shit, I want to hear what's –" I began. But Yali had already pushed herself to her feet, to gather healing supplies. And there was one thing I knew from experience: once Yali had started something, there was no point trying to interrupt her. So I put up with watching, while she padded across her cozy little house, past the shelves of neatly-organized books and electronics, to a well-worn wooden cabinet. She bent over and fished around inside, then came up holding a ceramic disk the size of my palm.
 
-I stared at the disk. "You're using an actual <em>sorcery</em> for this?" I'd assumed she was just going to clean the cut with alchemical wipes, the kind you get from a convenience store. I hadn't seen a healing <em>sorcery</em> since the time I was in an ambulance with a broken leg – they were too expensive to use for random scrapes?
+I stared at the disk. "You're using an actual <em>sorcery</em> for this?" I'd assumed she was just going to clean the cut with alchemical wipes, like you get from a corner store. I hadn't seen a healing <em>sorcery</em> since that time I was in an ambulance with a broken leg – weren't they too expensive to use for random scrapes?
 
 "'The Waiting God knows we must prepare for the worst,'" Yali quoted. She was already putting on disposable gloves, laying out bandages and stuff. This was the Yali I knew – every motion clean and precise, none of the hesitation from earlier.
 
@@ -354,21 +354,31 @@ I stared at the disk. "You're using an actual <em>sorcery</em> for this?" I'd as
 
 Yali muttered while she worked. "Those pants were pretty tight. That might have helped stop the bleeding. Still a mess though. Don't worry about the couch, a stain is just part of its memory. Hold still, this might sting a bit."
 
-"I'll be fiiiiiine." Yali pressed the disk over the wound and snapped it in half, releasing the sorcery into my leg. It stung a bit. I was fine. "Video tutorials?"
+"I'll be fiiiiiine." Yali pressed the disk over the wound and snapped it in half, releasing the sorcery into my leg. It stung a bit. I was fine. "Video tutorials?" I grinned up at her. "And you just, what – just watched them and remembered it all perfectly, forever?"
 
-"It seemed like something I might need to know."
+She smiled wryly. "That's me, I guess…" I could tell she <em>wanted</em> my teasing to cheer her up. But there was something else underneath. She couldn't enjoy it. She just focused on the steady movements of her hands, as she finished cleaning and bandaging my leg.
 
-"You watch first aid tutorials in your –" I began. I hadn't <em>quite</em> caught my breath yet. "– in your spare time, just because you <em>might</em> need to know them?"
+<not_print><img class="full-page" src="/media/ravelling-wrath/illustrations/1-2.png?rr" alt=""></not_print>
 
-"Of course!" said Yali.
+But then… the time came. Yali had put away the extra bandages. I had finally caught my breath. It couldn't be put off any longer.
 
-We laughed together. Yali and I were so different – and yet, when we were together, everything seemed to flow so easily.
+"Rinn –" she began.
 
-But then… the time came. Yali had put away the extra bandages. I had finally caught my breath. It was time.
+This was it.
 
-"So…" I began, "about what you texted me…"
+"How much do you know about what happens, during…" She gave the smallest hesitation, her arms tensing up, giving herself the final push over the edge, to say the words that couldn't be taken back.
 
-Yali… hesitated. Swallowed. Turned away. Turned back towards me.
+"…the Ravelling?"
+
+"Don't tell me you're one of the Chosen!?"
+
+"It's, it's, it's worse than that. Just tell me what you know, so I don't have to explain anything twice."
+
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… get some sort of nutrition out of it? Look, <print_only></p><img class="full-page" src="/media/ravelling-wrath/illustrations/1-2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
+
+Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
+
+"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could – I could lose you forever –"
 
 
 
