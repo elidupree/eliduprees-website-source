@@ -292,7 +292,7 @@ I landed on my feet – and my leg did <em>hurt</em>, but it held my weight just
 
 She'd caught me between classes, keeping her voice low in the bustle of the hall: "Rinn, there's something I'll need to tell you about. In private." She'd put her big hand on my arm, and I felt her squeeze just a little too hard. "Can we meet after school? My place?"
 
-Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew! In the whole month I'd been her girlfriend, she'd never once asked me something like this. If something put <em>her</em> on gatewatch, you can bet it was deadly serious. You know the saying – <em>when the Waiting God moves, beware.</em>
+Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew! In the whole month I'd been her girlfriend, and the season I'd known her as a classmate, she'd never once spoken like this. If something put <em>her</em> on gatewatch, you can bet it was deadly serious. You know the saying – <em>when the Waiting God moves, beware.</em>
 
 …but then the Stern gave me a fucking detention! <em>Apparently</em>, when I'd punched those assholes earlier that day, that wasn't "proper behavior for a young lady". What was I supposed to do, stand there and take the Waiting while they were picking on that kid? That's what I <em>would've</em> said to the Stern, too, right there in detention – it's fun to watch them get mad, when they're supposed to follow the Stern God and be dignified and shit. But then they'd've kept me later. So I pretended to care about their lecture, just this once. For Yali.
 
