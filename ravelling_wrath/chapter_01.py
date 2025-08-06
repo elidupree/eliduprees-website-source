@@ -366,20 +366,52 @@ But then… the time came. Yali had put away the extra bandages. I had finally c
 
 This was it.
 
-"How much do you know about what happens, during…" She gave the smallest hesitation, her arms tensing up, giving herself the final push over the edge, to say the words that couldn't be taken back.
+"How much do you know about what happens, during…" She gave the smallest hesitation, her arms tensing up – the final push over the edge, to say the words that couldn't be taken back.
 
-"…the Ravelling?"
+"…during the Ravelling?"
 
 "Don't tell me you're one of the Chosen!?"
 
 "It's, it's, it's worse than that. Just tell me what you know, so I don't have to explain anything twice."
 
-<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. I couldn't help it – I was already nervous, and now I had to remember some shit from Divinity class. Everyone knew <em>about</em> the Ravelling, but you wouldn't know the <em>details</em> unless you were super religious. I did my best to summarize. "Every winter, each of the gods picks its favorite chump and pulls them into the Otherworld, where they've got to do some sort of challenges. If they live, they get to go home, and the gods can… get some sort of nutrition out of it? Look, <print_only></p><img class="full-page" src="/media/ravelling-wrath/illustrations/1-2-right.png?rr" alt=""><p class="after-forced-mid-paragraph-page-break"></print_only>I paid attention in class, but I don't know the esoteric stuff. And <em>don't</em> make me recite the titles –"</p>
+<p<print_only> class="before-forced-mid-paragraph-page-break"</print_only>>I sighed. Obviously, I knew <em>about</em> the Ravelling – all our holidays were based on it! – but who listens to all that boring shit from Divinity class? …but if it mattered to Yali, I wasn't going to pick a fight about it. "Okay, so, every winter, each god picks some random loser and drags them into the Otherworld, and makes them do a bunch of challenges or something? And there's this whole thing about how you 'never know if you might be one of the Chosen', and it's supposed to be a 'great honor', because then the gods can feed on your soul or whatever." Ugh, I was definitely failing my Divinity quiz here. "Look, I was just gonna study this the night before exams. And <em>please</em> don't make me recite the titles –"
 
-Yali smiled wryly. "I like the way you called the Ravellers 'chumps'."
+"No, no, it's okay." She had that wry smile again. "I like the way you called the Ravellers 'losers'."
 
-"It's a raw deal! First you get pulled out of your life, then you might die. The only way you'd actually want to do it is if you were really into the god stuff, but if that's what you're after, then it screws your career too, because former Ravellers aren't allowed to become priests for some reason. 'Great honor', my ass. How can it be <em>worse</em> than that? If you were Chosen, you could – I could lose you forever –"
+"I mean, they are, right? You get yanked out of your life, and then half the time, you die and never come back! And if you <em>do</em> make it 'til spring, you get, what, <em>one</em> festival in your honor, and then you have to shut up and go back to your normal life? What kind of reward is that? – Wait, what did you mean it's <em>worse</em> than that?! If you were Chosen, you could – I could lose you forever –"
+
+Yali looked down.
+
+"There is one person who <em>can</em> know who the Chosen are. The Farseer – that's
 
 
+
+…So you don't know," she said [gravely? Incredible weight on her?]
+
+"Don't know what?!"
+
+"No one dies from the Ravelling itself. The Otherworld is strange and ?????, but [it doesn't kill people]"
+
+"The Farseer dies because the Blood Child kills them."
+
+<bigbreak>
+
+"If we do nothing, you will kill me."
+
+"But – I <em>love</em> you! I would never [let anything happen to you]
+
+"I know. But this has happened before. The Blood God will overwhelm you
+
+
+
+[Very tense voice, unstated: holding herself back from making it verbal abuse; squeezing Rinn too hard] "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me?!"
+
+"Woah, woah, I didn't think –"
+
+"Promise me! Promise me you will –"
+
+"– didn't think that would actually happen –"
+
+"– never sacrifice yourself for me!"
 
 """
