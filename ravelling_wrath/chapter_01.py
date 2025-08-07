@@ -388,23 +388,32 @@ Yali looked down.
 
 …So you don't know," she said [gravely? Incredible weight on her?]
 
-"Don't know what?!"
+"Don't know what?! [Yali, you're freaking me out here –]"
 
-"No one dies from the Ravelling itself. The Otherworld is strange and ?????, but [it doesn't kill people]"
+"The Ravelling doesn't kill anyone."
 
-"The Farseer dies because the Blood Child kills them."
+"What? But I thought the Otherworld was, like, full of monsters, or –"
+
+"No, it's, it's nothing like that. The Otherworld, it's… <em>strange</em>, but it doesn't kill you. I know this because I <em>remember</em>. Because of the powers that the Waiting God grants to the Farseer." Was that an edge of bitterness creeping into her voice? "Right here in my head, I have their <em>memories</em>. Memories of every Farseer from the last seventy years, preserved in the Waiting God's tapestry at the moment they died. And then given to me to look back on. I know how they lived, I know how they faced the Ravelling, and I know how they died.
+
+"The Farseer doesn't die from the Ravelling. The Farseer dies because the Blood Child kills them."
 
 <bigbreak>
 
-"If we do nothing, you will kill me."
+[Not wanting to accept it] "Uhh... so... that means the Blood God fucked up, right? I'm obviously not going to kill you! It picked the wrong person –"
 
-"But – I <em>love</em> you! I would never [let anything happen to you]
+"No. You don't understand the influence that the Blood God will have on you. If we do nothing… you <em>will</em> kill me."
 
-"I know. But this has happened before. The Blood God will overwhelm you
+[Clinging to Yali] "But – I <em>love</em> you! I would never [let anything happen to you]
+
+"I know. But this isn't the first time a Blood Child has loved the Farseer. In one of the memories… ?????
+
+"Woah, woah! If it hurts to remember, I don't want to make you –"
+
+"You don't have a choice," said Yali evenly – back to reality in an instant.
 
 
-
-[Very tense voice, unstated: holding herself back from making it verbal abuse; squeezing Rinn too hard] "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me?!"
+[Very tense voice, unstated: holding herself back from making it verbal abuse; squeezing Rinn too hard] "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me because I couldn't find a better way –"
 
 "Woah, woah, I didn't think –"
 
