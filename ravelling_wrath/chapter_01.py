@@ -386,17 +386,17 @@ Yali looked down.
 
 "And <em>one</em> of the gods – the <em>Waiting God alone</em> –" Was that an edge of bitterness in her voice? "– grants its Chosen the knowledge of what's coming. The Farseer knows they're the Farseer, one season in advance. They can prepare. They can recognize the other Chosen, if they can find them."
 
-"Us..."
+"'Us'..."
 
 "Yes. I know this because it's me. I am the Farseer. And I have to tell this to <em>you</em>, because –"
 
-[I could see where this was going; from above]
+I froze. I could see where this was going, and I didn't like it. Me, one of the Chosen?
 
 "– because I found that <em>you</em> are the Blood Child."
 
-[she was looking to see how I'd react]
+Her eyes drilled into me [waiting for my reaction]
 
-"Wait a minute, the <em>Blood Child</em>?! But I don't ?????"
+"Wait a minute, the <em>Blood Child</em>?! But I've never – what have I ever done to follow the Blood God?! Why would the Blood God pick <em>me</em>? Shouldn't it be picking, like... murderers or whatever?"
 
 
 
