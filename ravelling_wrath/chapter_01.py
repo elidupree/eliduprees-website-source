@@ -382,7 +382,21 @@ This was it.
 
 Yali looked down.
 
-"There is one person who <em>can</em> know who the Chosen are. The Farseer – that's
+"The gods don't just bring us there physically. When they bring us through their portals, they weave more of their threads into our souls. The Ravellers are like vessels for the gods' magic. At the height of the Ravelling, they're almost as much god as human.
+
+"And <em>one</em> of the gods – the <em>Waiting God alone</em> –" Was that an edge of bitterness in her voice? "– grants its Chosen the knowledge of what's coming. The Farseer knows they're the Farseer, one season in advance. They can prepare. They can recognize the other Chosen, if they can find them."
+
+"Us..."
+
+"Yes. I know this because it's me. I am the Farseer. And I have to tell this to <em>you</em>, because –"
+
+[I could see where this was going; from above]
+
+"– because I found that <em>you</em> are the Blood Child."
+
+[she was looking to see how I'd react]
+
+"Wait a minute, the <em>Blood Child</em>?! But I don't ?????"
 
 
 
