@@ -396,9 +396,27 @@ I froze. I could see where this was going, and I didn't like it. Me, one of the 
 
 Her eyes drilled into me [waiting for my reaction]
 
-"Wait a minute, the <em>Blood Child</em>?! But I've never – what have I ever done to follow the Blood God?! Why would the Blood God pick <em>me</em>? Shouldn't it be picking, like... murderers or whatever?"
+"Wait a minute, the <em>Blood Child</em>?! But I've never – what have I ever done to follow the Blood God?! Why would it pick <em>me</em>? Shouldn't it be picking some sort of cultist? Or like... murderers or whatever?"
 
+[Yali switch to explaining mode, it's comforting] "The gods don't choose us for the deeds we've done. It's about how we live our lives. I don't do the rites of the Waiting either, but –"
 
+"Yeah, yeah, it's obvious why the Waiting picked <em>you</em>. But the Blood God? I thought it was all about, like, murdering and shit!"
+
+Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that." I didn't like how that made my urges sound <em>bad</em>, but I let it go. "But there's one other thing I can think of. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
+
+"Power? What am I, a high priest?"
+
+Yali suppressed a laugh. "Not that kind of power." She leaned in close to me. "I think it means… the way you feel like you can do whatever you want. The way you're not afraid to tell anyone what you think of them. That's what I like about you. And that's a kind of power too, a power that you already have… right <em>here</em>."
+
+She reached out a hand, and touched my heart.
+
+Her hand on my heart felt like a pulse of energy. It was as if she was <em>giving</em> me the power, not just telling me I had it. It was a thrill, but it also felt like… a burden.
+
+"Shit," I said glumly. "This is real."
+
+"It – is."
+
+"Well… at least we'll be in it together? I won't have to wait here on Earth all winter wondering if you're going to make it."
 
 …So you don't know," she said [gravely? Incredible weight on her?]
 
