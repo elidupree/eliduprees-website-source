@@ -409,13 +409,11 @@ But Blood gives us hatred and poisons our heart.</p>
 
 "Yeah, yeah, it's obvious why the Waiting picked <em>you</em>. But Blood?! I'm not here to <em>hurt</em> anyone if they're not being <em>assholes</em> –"
 
-Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city that it could've picked. If it picked <em>you</em>... I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that." I didn't like how that made my urges sound <em>bad</em>, but I let it go. "But... you know how older books kinda talk about the gods differently? –"
+Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city that it could've picked. If it picked <em>you</em>... I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that." I didn't like how that made my urges sound <em>bad</em>, but I let it go. "But... you know how pre-Blight novels kinda talk about the gods differently? –"
 
-"Haha, why would I be reading a book from last century?"
+"I'm not a grandma!" I laughed –
 
-"...Well, Blood God 
-
-. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
+"...Well, in older books, it's almost like the Blood God is just another god. It was a more violent time, so maybe that makes sense. The Blood God was supposed to value, to value… strength? <em>Personal power.</em> I think that was the phrase."
 
 "Power? What am I, a high priest?"
 
@@ -431,41 +429,58 @@ Her hand on my heart felt like a pulse of energy. It was as if she was <em>givin
 
 "Well… at least we'll be in it together? I won't have to wait here on Earth all winter wondering if you're going to make it."
 
-…So you don't know," she said [gravely? Incredible weight on her?]
+…So you don't know," she said gravely.
 
-"Don't know what?! [Yali, you're freaking me out here –]"
+"Don't know what?!" Gods, what <em>now</em>?! Why did she sound like there was still an incredible weight on her? Wasn't it bad enough that –
 
 "The Ravelling doesn't kill anyone."
 
-"What? But I thought the Otherworld was, like, full of monsters, or –"
+"But I thought the Otherworld was, like, full of monsters, or –"
 
-"No, it's, it's nothing like that. The Otherworld, it's… <em>strange</em>, but it doesn't kill you. I know this because I <em>remember</em>. Because of the powers that the Waiting God grants to the Farseer." Was that an edge of bitterness creeping into her voice? "Right here in my head, I have their <em>memories</em>. Memories of every Farseer from the last seventy years, preserved in the Waiting God's tapestry at the moment they died. And then given to me to look back on. I know how they lived, I know how they faced the Ravelling, and I know how they died.
+"No, it's, it's nothing like that. The Otherworld, it's… <em>strange</em>, but it doesn't kill you. I know this because I <em>remember</em>. Because of the powers that the Waiting God grants to the Farseer." That bitterness touched her voice again. "Right here in my head, I have their <em>memories</em>. Memories of every Farseer from the last seventy years, preserved in the Waiting God's tapestry at the moment they died. And then given to me to look back on. I know how they lived, I know how they faced the Ravelling, and I know how they died.
 
 "The Farseer doesn't die from the Ravelling. The Farseer dies because the Blood Child kills them."
 
 <bigbreak>
 
-[Not wanting to accept it] "Uhh... so... that means the Blood God fucked up, right? I'm obviously not going to kill you! It picked the wrong person –"
+No way! No way! I was NOT going to let the Blood God make me hurt her! "So that means the Blood God fucked up, right?" I demanded – I was all but shouting in her face, clinging tight to her arms, but I didn't care – "I'm obviously not going to kill you! It picked the wrong person –"
 
-"No. You don't understand the influence that the Blood God will have on you. If we do nothing… you <em>will</em> kill me."
+"No. You don't understand – you don't understand the influence that the Blood God will have on you. If we do nothing… you <em>will</em> kill me."
 
-[Clinging to Yali] "But – I <em>love</em> you! I would never [let anything happen to you]
+"But – I <em>love</em> you! I would <em>never!</em> <em>Never</em> let anyone <em>touch</em> you –"
 
-"I know. But this isn't the first time a Blood Child has loved the Farseer. In one of the memories… ?????
+"I <em>know.</em>" The force in Yali's words stole my breath. "<em>This isn't the first time.</em> This isn't the first time a Blood Child has loved the Farseer. I need you to understand, so I will tell you that memory.
+
+"There's no doubt that he loved me – loved the Farseer, that is. He cared for me, he wanted to keep me safe. But I could see the anger growing inside him. He tried to hide it, because didn't want me to <em>worry</em>… But he couldn't control it. When we got to the last layer of the Otherworld – 'I can't control it, I can't control it!' – that's what he said – he was standing, with the blade in his hand –" Yali's eyes stared at nothing – "He was bent over, fighting with himself, wailing that he didn't want to hurt me – but he came to me, he took the blade and –" her arm tensed under my hand – "he –"
 
 "Woah, woah! If it hurts to remember, I don't want to make you –"
 
-"You don't have a choice," said Yali evenly – back to reality in an instant.
+"You don't have a choice," said Yali evenly – back to reality in an instant. "I'll need to look at these memories to know what we're going to face. If I don't get used to it…" She shook her head.
 
+"So…" I began. "The Blood God… it's really going to do that to me?! No way! I don't care what it says! I would cut off my own arms before I'd just watch myself hurt you!"
 
-[Very tense voice, unstated: holding herself back from making it verbal abuse; squeezing Rinn too hard] "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me because I couldn't find a better way –"
+"Don't talk like that. We need to –"
 
-"Woah, woah, I didn't think –"
+"But it's the truth! I love you so, so much! I'd rather stab myself through the <em>heart</em> than be the one to –"
 
-"Promise me! Promise me you will –"
+"<strong>Don't – you – dare –</strong>" Oww! Yali's hand was <em>crushing</em> my shoulder – her voice growling, too close to my face – what the fuck, she <em>never</em> acted like this! "Don't you <em>dare</em> sacrifice yourself for me."
+
+"What – Yali – I didn't think –"
+
+[She clipped her voice back to merely extremely tense] "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me because I couldn't find a better way –"
 
 "– didn't think that would actually happen –"
 
-"– never sacrifice yourself for me!"
+"Promise me! Promise me – No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
+
+Her eyes drilled into me. "Uh… I promise," I said nervously.
+
+"Remember that."
+
+Yali looked at her hand. With an awkward motion, she released it from my shoulder. "– I, I'm sorry," she said – her voice cut short, like she didn't really feel it. But I didn't care. Shit, it was <em>exciting</em> how she'd grabbed me that hard! Felt like it was actually gonna bruise! –
+
+– but – "You really think I'd – you really think it'd come to that?"
+
+Yali looked away. "If you die in the Ravelling, you won't kill me. It's logical."
 
 """
