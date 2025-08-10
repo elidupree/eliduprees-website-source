@@ -398,11 +398,24 @@ Her eyes drilled into me [waiting for my reaction]
 
 "Wait a minute, the <em>Blood Child</em>?! But I've never – what have I ever done to follow the Blood God?! Why would it pick <em>me</em>? Shouldn't it be picking some sort of cultist? Or like... murderers or whatever?"
 
-[Yali switch to explaining mode, it's comforting] "The gods don't choose us for the deeds we've done. It's about how we live our lives. I don't do the rites of the Waiting either, but –"
+[Yali switch to explaining mode, it's comforting] "The gods don't choose us for the deeds we've done. It's about how we live our lives. I don't do the rites of the Waiting either, but...  <em>'When we watch, when we plan,'</em>" she sang. She was quoting the old children's rhyme:
 
-"Yeah, yeah, it's obvious why the Waiting picked <em>you</em>. But the Blood God? I thought it was all about, like, murdering and shit!"
+<p class="prayer">Five gods guide us, every way they can<br/>
+Waiting when we're patient, when we watch, when we plan<br/>
+Seeking God excites us, for danger, for fun,<br/>
+Stern when we sacrifice for what must be done.<br/>
+The Broken is the ground when the others fall apart,<br/>
+But Blood gives us hatred and poisons our heart.</p>
 
-Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city who it could've picked instead of you. I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that." I didn't like how that made my urges sound <em>bad</em>, but I let it go. "But there's one other thing I can think of. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
+"Yeah, yeah, it's obvious why the Waiting picked <em>you</em>. But Blood?! I'm not here to <em>hurt</em> anyone if they're not being <em>assholes</em> –"
+
+Yali shifted uncomfortably. "There has to be something more to it. There's plenty of terrible people in the city that it could've picked. If it picked <em>you</em>... I know it's supposed to be a god of our animal urges, but there's <em>more</em> to you than that." I didn't like how that made my urges sound <em>bad</em>, but I let it go. "But... you know how older books kinda talk about the gods differently? –"
+
+"Haha, why would I be reading a book from last century?"
+
+"...Well, Blood God 
+
+. There was an old book I read once, that said the Blood God values… <em>personal power</em>."
 
 "Power? What am I, a high priest?"
 
