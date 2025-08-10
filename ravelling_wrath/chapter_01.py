@@ -459,7 +459,7 @@ No way! No way! I was NOT going to let the Blood God make me hurt her! "So that 
 
 "So…" I began. "The Blood God… it's really going to do that to me?! No way! I don't care what it says! I would cut off my own arms before I'd just watch myself hurt you!"
 
-"Don't talk like that. We need to –"
+"Don't talk like that. We, we need to –"
 
 "But it's the truth! I love you so, so much! I'd rather stab myself through the <em>heart</em> than be the one to –"
 
@@ -473,14 +473,16 @@ No way! No way! I was NOT going to let the Blood God make me hurt her! "So that 
 
 "Promise me! Promise me – No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
 
-Her eyes drilled into me. "Uh… I promise," I said nervously.
+Her eyes drilled into me. ????? "Uh… I promise," I said nervously.
 
 "Remember that."
 
-Yali looked at her hand. With an awkward motion, she released it from my shoulder. "– I, I'm sorry," she said – her voice cut short, like she didn't really feel it. But I didn't care. Shit, it was <em>exciting</em> how she'd grabbed me that hard! Felt like it was actually gonna bruise! –
+Yali looked at her hand. With an awkward motion, she released it from my shoulder. "– I, I'm sorry." Her voice cut short, like she didn't really feel it. But I didn't care. Shit, it was <em>exciting</em> how she'd grabbed me that hard! Felt like it was actually gonna bruise! –
 
 – but – "You really think I'd – you really think it'd come to that?"
 
-Yali looked away. "If you die in the Ravelling, you won't kill me. It's logical."
+Yali looked away. "If you die in the Ravelling, you won't kill me. It's logical you'd think of it."
+
+[the practical language made it feel way more threateningly real than if you'd exaggerated] "If I'm that dangerous –" My mind whirled. "I'll stay away from you! I'll go to the far corners of the Otherworld –
 
 """
