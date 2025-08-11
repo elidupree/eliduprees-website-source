@@ -296,9 +296,9 @@ Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew
 
 …but then the Stern gave me a fucking detention! <em>Apparently</em>, when I'd punched those assholes earlier that day, that wasn't "proper behavior for a young lady". What was I supposed to do, stand there and take the Waiting while they were picking on that kid? That's what I <em>would've</em> said to the Stern, too, right there in detention – it's fun to watch them get mad, when they're supposed to follow the Stern God and be dignified and shit. But then they'd've kept me later. So I pretended to care about their lecture, just this once. For Yali.
 
-Now, it was time to catch up. I was almost at the Third Wall already, my feet pounding hard up the steep slope towards the center of the city. Why'd I have to love someone who lived <em>two</em> rings higher than me? Thank the Broken the side-gates were open, at least. Not like last month when the Stern Temple locked everything down because of some bullshit about "Blood worshippers infiltrating the city". Why would anyone <em>actually</em> worship the Blood God, anyway? I bet someone just spray-painted the Burning Heart somewhere as a prank, and then the Stern thought that was a great excuse to push everyone around. Would've been fine if I just went to school next door in the Fifth Ring like a normal person, but <em>nooooo</em>, my parents wouldn't let me to go a "bad" high school, they had to get me into a "better" one. "It's right across the Wall!" they'd said. Then last month I'd had to run all the way to the <em>main</em> gate every day, then all the way back to where the school was in the Fourth Ring. At least that was over now. But now I had to run all the way up to the <em>Third</em>, for Yali.
+Now, it was time to catch up. I was almost at the Third Wall already, my feet pounding hard up the steep slope towards the center of the city. Why'd I have to love someone who lived <em>two</em> rings higher than me? Thank the Broken the side-gates were open, at least. Not like last month when the Stern Temple locked everything down because of some bullshit about "Blood worshippers infiltrating the city". Why would anyone <em>actually</em> worship the Blood God, anyway? I bet some kid just spray-painted the Burning Heart somewhere as a prank, and then the Stern thought that was a great excuse to push everyone around. Would've been fine if I just went to school next door in the Fifth Ring like a normal person, but <em>nooooo</em>, my parents wouldn't let me to go a "bad" high school, they had to get me into a "better" one. "It's right across the Wall!" they'd said. Then last month I'd had to run all the way to the <em>main</em> gate every day, then all the way back to where the school was in the Fourth Ring. At least that was over now. But now I had to run all the way up to the <em>Third</em>, for Yali.
 
-At the gate, I paused to catch my breath – leaning on the cool stones of the archway, letting the buzz of sorcery fill my mind. The wall-sorceries were always a relief – they were much stronger, flushing out all the noise from the city. You could almost believe the walls really were made by the five gods. I took deep breaths, smirking at all the cars stuck in the single-lane traffic through the side-gate – I could relax as long as I wanted, and still get ahead of them.
+At the gate, I paused to catch my breath – leaning on the cool stones of the archway, letting the buzz of sorcery fill my mind. The wall-sorceries were always a relief – they were much stronger, flushing out all the noise from the city. You could almost believe the walls really were made by the five gods. I took deep breaths, smirking at all the cars stuck in the single-lane traffic through the side-gate – I could relax as long as I wanted, and I'd still get ahead of them.
 
 Gods, what was Yali going to tell me? I pulled out my phone – but of course the screen was black, so I jogged a bit further before tapping to switch it out of gate mode. I stopped in front of a "No Loitering" sign to check my texts:
 
@@ -314,7 +314,7 @@ Gods, what was Yali going to tell me? I pulled out my phone – but of course th
 
 <em>Can't</em> talk over text! Was she planning crimes? Heresy? I <em>knew</em> I loved her. Fuck the temples.
 
-I was still out of breath, but who cares – I took off running, up past the courthouse, up past the city buildings with the Dauntless Gate engraved all over them, and up to the row of little houses where the old pensioners live, and finally – nestled among them – the door of Yali's house itself.
+I was still out of breath, but who cared – I took off running, up past the courthouse, up past the city buildings with the Dauntless Gate engraved all over them, up to the row of little houses where the old pensioners live, and finally – nestled among them – the door of Yali's house itself.
 
 <bigbreak>
 
@@ -378,11 +378,11 @@ This was it.
 
 "No, no, it's okay." She had that wry smile again. "I like the way you called the Ravellers 'losers'."
 
-"I mean, they are, right? You get yanked out of your life, and then half the time, you die and never come back! And if you <em>do</em> make it 'til spring, you get, what, <em>one</em> festival in your honor, and then you have to shut up and go back to your normal life? What kind of reward is that? – Wait, what did you mean it's <em>worse</em> than that?! If you were Chosen, you could – I could lose you forever –"
+"I mean, they are, right? You get yanked out of your life, and then half the time, you die and never come back! And if you <em>do</em> make it 'til spring, you get, what, <em>one</em> festival in your honor, and then you get to shut up and go back to your normal life? What kind of reward is that? – Wait, what did you mean it's <em>worse</em> than that?! If you were Chosen, you could – I could lose you forever –"
 
 Yali looked down.
 
-"The gods don't just bring us there physically. When they bring us through their portals, they weave more of their threads into our souls. The Ravellers are like vessels for the gods' magic. At the height of the Ravelling, they're almost as much god as human.
+"The gods don't just bring us there physically. When they take us through their portals, they weave more of their threads into our souls. The Ravellers are like vessels for the gods' magic. At the height of the Ravelling, they're almost as much god as human.
 
 "And <em>one</em> of the gods – the <em>Waiting God alone</em> –" Was that an edge of bitterness in her voice? "– grants its Chosen the knowledge of what's coming. The Farseer knows they're the Farseer, one season in advance. They can prepare. They can recognize the other Chosen, if they can find them."
 
@@ -467,7 +467,7 @@ No way! No way! I was NOT going to let the Blood God make me hurt her! "So that 
 
 "What – Yali – I didn't think –"
 
-Her voice tightened, holding back from another explosion. "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me because I couldn't find a better way –"
+Her voice tightened, holding back from another explosion. "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as just one more thing the gods took away from me because I couldn't find a better way –"
 
 "– didn't think that would actually happen –"
 
@@ -483,7 +483,7 @@ Yali looked at her hand. With an awkward motion, she released it from my shoulde
 
 Yali looked away. "If you die in the Ravelling, you won't kill me. It's logical you'd think of it."
 
-Well, <em>that</em> was a punch in the gut. No drama, just cold practicality. That made it <em>real</em>, more surely than a solemn oath. "If I'm that dangerous –" My mind whirled. "I'll stay away from you! I'll go to the far corners of the Otherworld –"
+Well, <em>that</em> was a punch in the gut. No drama, just cold practicality. That made it <em>real</em>, more surely than a solemn oath. "If I'm that dangerous –" My mind whirled. "I'll stay away from you! I'll go to the far corners of the Otherworld, if that's what it takes!"
 
 "I wish it was that easy. But the Otherworld doesn't work like that. When the gods want to bring us together…"
 
@@ -493,7 +493,7 @@ Well, <em>that</em> was a punch in the gut. No drama, just cold practicality. Th
 
 "Of course, ha ha, you have a <em>plan</em>, I should have seen this coming," I babbled.
 
-"It's, it's, it's not perfect. But I think there's a way we can prepare, while we're still in the material world, to make sure we never get to the point where you would actually kill me."
+"It's, it's, it's not perfect. But I think there's a way we can prepare, while we're still here in the material world, to make sure we never get to the point where you would actually kill me."
 
 I didn't want to have to hear it. I didn't want to <em>need</em> a fancy plan just to stop myself from hurting the person I loved. But Yali would never lie to me. If she said the Blood God could do this, I couldn't dare ignore her. Reluctantly, I forced out the words: "What is it?"
 
