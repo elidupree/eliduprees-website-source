@@ -296,9 +296,9 @@ Gods! <em>Yali</em> was worried? She was the calmest, most patient person I knew
 
 …but then the Stern gave me a fucking detention! <em>Apparently</em>, when I'd punched those assholes earlier that day, that wasn't "proper behavior for a young lady". What was I supposed to do, stand there and take the Waiting while they were picking on that kid? That's what I <em>would've</em> said to the Stern, too, right there in detention – it's fun to watch them get mad, when they're supposed to follow the Stern God and be dignified and shit. But then they'd've kept me later. So I pretended to care about their lecture, just this once. For Yali.
 
-Now, it was time to catch up. I was almost at the Third Wall already, my legs working hard to jog up the steep slope towards the center of the city. Why'd I have to love someone who lived <em>two</em> rings higher than me? Thank the Broken the side-gates were open, at least. Not like last month when the Stern Temple locked everything down because of some bullshit about "Blood worshippers infiltrating the city". Why would anyone <em>actually</em> worship the Blood God, anyway? I bet someone just spray-painted the Burning Heart somewhere as a prank, and then the Stern thought that was a great excuse to push everyone around. [I'd had to run all the way around to the <em>main</em> gate every day, and all the way back, because I lived in the Fifth Ring, and my parents hadn't wanted to put me in the "bad" school right next door – no, I had to go to the Fourth Ring every day. And now the Third, for Yali.]
+Now, it was time to catch up. I was almost at the Third Wall already, my feet pounding hard up the steep slope towards the center of the city. Why'd I have to love someone who lived <em>two</em> rings higher than me? Thank the Broken the side-gates were open, at least. Not like last month when the Stern Temple locked everything down because of some bullshit about "Blood worshippers infiltrating the city". Why would anyone <em>actually</em> worship the Blood God, anyway? I bet someone just spray-painted the Burning Heart somewhere as a prank, and then the Stern thought that was a great excuse to push everyone around. Would've been fine if I just went to school next door in the Fifth Ring like a normal person, but <em>nooooo</em>, my parents wouldn't let me to go a "bad" high school, they had to get me into a "better" one. "It's right across the Wall!" they'd said. Then last month I'd had to run all the way to the <em>main</em> gate every day, then all the way back to where the school was in the Fourth Ring. At least that was over now. But now I had to run all the way up to the <em>Third</em>, for Yali.
 
-At the gate, I paused to catch my breath – leaning on the cool stones of the archway, letting the buzz of sorcery fill my mind. The wall-sorceries were always a relief – they were much stronger, flushing out all the noise from the city. You could almost believe the walls really were made by the five gods. I took deep breaths, relaxing while the cars slowly rolled by – it was always a traffic jam here, because the side-gates were only one lane wide. Sucks to be them. On foot, I was going to get way ahead of them.
+At the gate, I paused to catch my breath – leaning on the cool stones of the archway, letting the buzz of sorcery fill my mind. The wall-sorceries were always a relief – they were much stronger, flushing out all the noise from the city. You could almost believe the walls really were made by the five gods. I took deep breaths, smirking at all the cars stuck in the single-lane traffic through the side-gate – I could relax as long as I wanted, and still get ahead of them.
 
 Gods, what was Yali going to tell me? I pulled out my phone – but of course the screen was black, so I jogged a bit further before tapping to switch it out of gate mode. I stopped in front of a "No Loitering" sign to check my texts:
 
@@ -307,14 +307,14 @@ Gods, what was Yali going to tell me? I pulled out my phone – but of course th
 <p class="text left">Lol don't do that</p>
 <p class="text right">what about your thing?</p>
 <p class="text right">I don't care if they punish me</p>
-<p class="text left">Can't talk about it over text. But [delaying by an hour won't hurt]. Don't take risks</p>
+<p class="text left">Can't talk about it over text. But an hour won't blight it. Don't take risks</p>
 <p class="text right">but I wanted an excuse to skip 😂 jk see you right after ❤</p>
 <div class="end-of-texts"></div>
 </div>
 
 <em>Can't</em> talk over text! Was she planning crimes? Heresy? I <em>knew</em> I loved her. Fuck the temples.
 
-[The third ring]
+I was still out of breath, but who cares – I took off running, up past the courthouse, up past the city buildings with the Dauntless Gate engraved all over them, and up to the row of little houses where the old pensioners live, and finally – nestled among them – the door of Yali's house itself.
 
 <bigbreak>
 
