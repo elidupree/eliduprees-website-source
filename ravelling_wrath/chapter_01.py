@@ -390,15 +390,15 @@ Yali looked down.
 
 "Yes. I know this because it's me. I am the Farseer. And I have to tell this to <em>you</em>, because –"
 
-I froze. I could see where this was going, and I didn't like it. Me, one of the Chosen?
+I froze. I could see where this was going, and I didn't like it.
 
 "– because I found that <em>you</em> are the Blood Child."
 
-Her eyes drilled into me [waiting for my reaction]
+Silence gripped us. Her eyes drilled into me. Waiting for my reaction. But what could I even say to that?! Me, one of the Chosen? Since when did –
 
-"Wait a minute, the <em>Blood Child</em>?! But I've never – what have I ever done to follow the Blood God?! Why would it pick <em>me</em>? Shouldn't it be picking some sort of cultist? Or like... murderers or whatever?"
+"Wait a minute, the <em>Blood Child</em>?!" I exploded. "But I've never – what have I ever done to follow the Blood God?! Why would it pick <em>me</em>? Shouldn't it be picking some sort of cultist? Or like... murderers or whatever?"
 
-[Yali switch to explaining mode, it's comforting] "The gods don't choose us for the deeds we've done. It's about how we live our lives. I don't do the rites of the Waiting either, but...  <em>'When we watch, when we plan,'</em>" she sang. She was quoting the old children's rhyme:
+"The gods don't choose us for the deeds we've done," began Yali patiently. Her voice always got so soothing whenever she started explaining something – it was already helping my head clear. "It's about how we live our lives. I don't do the rites of the Waiting either, but...  <em>'When we watch, when we plan,'</em>" she sang. She was quoting the old children's rhyme:
 
 <p class="prayer">Five gods guide us, every way they can<br/>
 Waiting when we're patient, when we watch, when we plan<br/>
@@ -421,15 +421,15 @@ Yali suppressed a laugh. "Not that kind of power." She leaned in close to me. "I
 
 She reached out a hand, and touched my heart.
 
-Her hand on my heart felt like a pulse of energy. It was as if she was <em>giving</em> me the power, not just telling me I had it. It was a thrill, but it also felt like… a burden.
+Her hand on my heart felt like a pulse of energy. It was like she was <em>giving</em> me the power, not just telling me I had it. It was a thrill, but it also felt like… a burden.
 
 "Shit," I said glumly. "This is real."
 
 "It – is."
 
-"Well… at least we'll be in it together? I won't have to wait here on Earth all winter wondering if you're going to make it."
+"Well… at least we'll be in it together? I won't have to wait here on Earth all winter wondering if you're going to make it?"
 
-…So you don't know," she said gravely.
+"…So you don't know," she said gravely.
 
 "Don't know what?!" Gods, what <em>now</em>?! Why did she sound like there was still an incredible weight on her? Wasn't it bad enough that –
 
@@ -457,7 +457,7 @@ No way! No way! I was NOT going to let the Blood God make me hurt her! "So that 
 
 "You don't have a choice," said Yali evenly – back to reality in an instant. "I'll need to look at these memories to know what we're going to face. If I don't get used to it…" She shook her head.
 
-"So…" I began. "The Blood God… it's really going to do that to me?! No way! I don't care what it says! I would cut off my own arms before I'd just watch myself hurt you!"
+"So…" I began. "The Blood God… it's really going to do that to me?! No way! I don't care what it says! I'd cut off my own arm before I'd just watch myself hurt you!"
 
 "Don't talk like that. We, we need to –"
 
@@ -487,7 +487,7 @@ Well, <em>that</em> was a punch in the gut. No drama, just cold practicality. Th
 
 "I wish it was that easy. But the Otherworld doesn't work like that. When the gods want to bring us together…"
 
-"FUCK the gods!! What the fuck do we do! How do we stop the gods if they can throw us around however they want?! What the fuck do we do!"
+"FUCK the gods!!" I yelled. "What the fuck do we do! How do we stop the gods if they can throw us around however they want?! What the fuck do we do!"
 
 "Well –" said Yali, trying to sound confident – "I've been working on a plan."
 
@@ -495,7 +495,7 @@ Well, <em>that</em> was a punch in the gut. No drama, just cold practicality. Th
 
 "It's, it's, it's not perfect. But I think there's a way we can prepare, while we're still in the material world, to make sure we never get to the point where you would actually kill me."
 
-I didn't want to have to hear it. I didn't want to <em>need</em> a fancy plan just to stop myself from hurting the person I loved. But Yali would never lie to me. If she said the Blood God could do this, I couldn't dare ignore her. Reluctantly, I forced myself to say, "What is it?"
+I didn't want to have to hear it. I didn't want to <em>need</em> a fancy plan just to stop myself from hurting the person I loved. But Yali would never lie to me. If she said the Blood God could do this, I couldn't dare ignore her. Reluctantly, I forced out the words: "What is it?"
 
 Yali squared her shoulders, and began to explain her plan.
 
