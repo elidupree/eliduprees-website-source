@@ -449,7 +449,7 @@ No way! No way! I was NOT going to let the Blood God make me hurt her! "So that 
 
 "But – I <em>love</em> you! I would <em>never!</em> <em>Never</em> let anyone <em>touch</em> you –"
 
-"I <em>know.</em>" The force in Yali's words stole my breath. "<em>This isn't the first time.</em> This isn't the first time a Blood Child has loved the Farseer. I need you to understand, so I will tell you that memory.
+"I <em>know.</em>" The force in Yali's words stole my breath. "But <em>this isn't the first time.</em> This isn't the first time a Blood Child has loved the Farseer. I've seen it in the memories. And I need you to understand, so I will tell you what I remember.
 
 "There's no doubt that he loved me – loved the Farseer, that is. He cared for me, he wanted to keep me safe. But I could see the anger growing inside him. He tried to hide it, because didn't want me to <em>worry</em>… But he couldn't control it. When we got to the last layer of the Otherworld – 'I can't control it, I can't control it!' – that's what he said – he was standing, with the blade in his hand –" Yali's eyes stared at nothing – "He was bent over, fighting with himself, wailing that he didn't want to hurt me – but he came to me, he took the blade and –" her arm tensed under my hand – "he –"
 
@@ -467,22 +467,36 @@ No way! No way! I was NOT going to let the Blood God make me hurt her! "So that 
 
 "What – Yali – I didn't think –"
 
-[She clipped her voice back to merely extremely tense] "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me because I couldn't find a better way –"
+Her voice tightened, holding back from another explosion. "Do you think I want to live the rest of my life knowing you died for me?! Remembering you as one more thing the gods took away from me because I couldn't find a better way –"
 
 "– didn't think that would actually happen –"
 
-"Promise me! Promise me – No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
+"Promise me you won't! Promise me – No matter what happens, promise me you'll never die for my sake. We are <em>both</em> going to get out of this alive."
 
-Her eyes drilled into me. ????? "Uh… I promise," I said nervously.
+Her eyes drilled into me. Fuck, this had gotten way too serious. "Uh… I promise," I said nervously.
 
 "Remember that."
 
-Yali looked at her hand. With an awkward motion, she released it from my shoulder. "– I, I'm sorry." Her voice cut short, like she didn't really feel it. But I didn't care. Shit, it was <em>exciting</em> how she'd grabbed me that hard! Felt like it was actually gonna bruise! –
+Yali looked at her hand. With an awkward motion, she released it from my shoulder. "– I, I'm sorry." Her voice cut short, like she didn't really mean it. But I didn't care. Shit, it was <em>exciting</em> how she'd grabbed me that hard! Felt like it was actually gonna bruise! –
 
 – but – "You really think I'd – you really think it'd come to that?"
 
 Yali looked away. "If you die in the Ravelling, you won't kill me. It's logical you'd think of it."
 
-[the practical language made it feel way more threateningly real than if you'd exaggerated] "If I'm that dangerous –" My mind whirled. "I'll stay away from you! I'll go to the far corners of the Otherworld –
+Well, <em>that</em> was a punch in the gut. No drama, just cold practicality. That made it <em>real</em>, more surely than a solemn oath. "If I'm that dangerous –" My mind whirled. "I'll stay away from you! I'll go to the far corners of the Otherworld –"
+
+"I wish it was that easy. But the Otherworld doesn't work like that. When the gods want to bring us together…"
+
+"FUCK the gods!! What the fuck do we do! How do we stop the gods if they can throw us around however they want?! What the fuck do we do!"
+
+"Well –" said Yali, trying to sound confident – "I've been working on a plan."
+
+"Of course, ha ha, you have a <em>plan</em>, I should have seen this coming," I babbled.
+
+"It's, it's, it's not perfect. But I think there's a way we can prepare, while we're still in the material world, to make sure we never get to the point where you would actually kill me."
+
+I didn't want to have to hear it. I didn't want to <em>need</em> a fancy plan just to stop myself from hurting the person I loved. But Yali would never lie to me. If she said the Blood God could do this, I couldn't dare ignore her. Reluctantly, I forced myself to say, "What is it?"
+
+Yali squared her shoulders, and began to explain her plan.
 
 """
