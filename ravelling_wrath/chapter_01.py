@@ -36,9 +36,15 @@ posts = [
 
 <p><i>Ravelling Wrath</i> uses the "cliffhanger style", generally including a high-weight, short-term promise at the end of each chapter. The non-cliffhanger style wouldn't put a short-term promise of the end of a chapter, but should still include <em>some</em> promises about what will happen at <em>some</em> point in the next chapter.</p>
 
-<h2>A minor note</h2>
+<h2>Editing notes</h2>
 
-<p>This chapter originally said "YouTube tutorials" instead of "video tutorials". As I wrote more of the story, I ended up mostly avoiding that kind of real-world references, so I removed this one to be more consistent.</p>
+<p>When I first wrote this chapter in 2017, I had planned out the whole main plot of <i>Ravelling Wrath</i>, but hadn't filled in every detail of the setting and character personality. And I hadn't written a novel before. (I had written many short stories, so I had lots of experience with perfecting phrases – but when you write an entire novel, you don't have time to do perfect every phrase, so you need different skills.)</p>
+
+<p>I had a choice: I could spend years developing the story and my skills before posting anything… Or I could "get on with it", and start posting chapters with known flaws. The second choice was better, so I did that.</p>
+
+<p>But now, it's 2025. I have a much deeper understanding of the setting, the characters, and novel-writing. So I've rewritten the entire chapter – following the same sequence of events, but replacing almost all of the wording. There is much less of "Rinn explaining the fictional world to the reader", and more of "Rinn directly expressing zir feelings – in a way that just <em>happens</em> to reference the fictional world's gods, magic, and society". </p>
+
+<p>...though conveniently, I still liked the order I began the story in, so I didn't have to change a single word of the promise theory" explanation above.</p>
 
   ''',
   "head":head,
