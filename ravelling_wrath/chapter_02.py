@@ -42,49 +42,49 @@ posts = [
 
 "This is your mind."
 
-Yali put a piece of paper on the table in front of us.
+Yali laid down a blank wax tablet.
 
-"<em>This</em> –" she drew a square at one end of the paper "– is where you are right now. And <em>this</em> –" she drew a square at the other end "– is where you have to get in order to kill me."
+"<em>This</em> –" she inscribed a square at the left "– is where you are right now. And <em>this</em> –" she drew another square at the right "– is where you have to get in order to kill me."
 
-"In order <em>to</em> kill you?"
+"I thought the point was to <em>not</em> kill you?"
 
 "Think of it as a board game you're going to play against the Blood God. Your piece starts here, and the <em>god</em> tries to move it over there, while <em>you</em> try to move it back."
 
 "Okay…"
 
-"Now, <em>this</em> –" Yali drew a line across the middle of the paper, separating the starting square from the ending square. "– this wall is your love for me. It's a very strong wall, and a very important one. The problem is, the Blood God's will is also strong. It can batter down the wall, like it did for the other Blood Children in the past." Yali drew an arrow straight across the wall, from start to finish. "So I want to build <em>more</em> defenses in your mind, so you'll be ready for it."
+"Now, <em>this</em> –" Yali carved a deep groove down the center, separating the starting square from the ending square. "– this wall is your love for me. It's a very strong wall, and a very important one. The problem is, the Blood God's will is also strong. It can batter down the wall, like it did for the other Blood Children in the past." Yali's stylus flicked, cutting across the wall from left to right. "So I want to build <em>more</em> defenses in your mind, so you'll be ready for it."
 
-"That… makes sense, but what kind of defenses are you talking about? Would you, like… put a sorcery on me?"
+"Defenses? Like put a sorcery on me or something?"
 
-"No, not sorcery. I mean I think we can teach you regular mental skills. Like –" Yali drew a series of boxes "– there are a lot of steps you'd have to go through before you even <em>get</em> to the wall. The Blood God will have to make you angry. It'll have to <em>direct</em> that anger towards <em>me</em>. And it'll have to make you think you have to hurt me – I mean, make you think the way to <em>act</em> on your anger is to hurt me, rather than doing something else. And all of those things are things you can resist. Like, you can practice resisting them in regular life, too."
+"No, not sorcery. I mean I think we can teach you regular mental skills. Like –" Yali drew a series of boxes "– there are many steps before you even <em>get</em> to the wall. First, the Blood God will have to <em>make</em> you angry. Then, it'll have to <em>direct</em> that anger towards <em>me</em>. And then it'll have to make you think you have to <em>heard</em> me – I mean, make you think the way to <em>act</em> on your anger is to hurt me, rather than doing something else. And that each of those steps, you can resist it. That's what we can prepare for. Even in your everyday life, you can practice turning away from this path."
 
-"Like I could practice calming myself down?"
+"Like practice calming myself down?" Somehow that didn't feel like enough to stop a god.
 
 "Yes. Or –" she went through the boxes in order "– redirecting your anger, or expressing it in ways that aren't violent, or –"
 
-"Hang on," I said. I needed a minute to wrap my head around this. "So to stop the Blood God from messing with my head, I can learn to mess with my <em>own</em> head in the other direction. Cool. I don't quite see how I'd <em>practice</em> doing that stuff, though. But let me guess, you've got a plaaaan for that, too."
+"Hang on," I said. I knew I should trust Yali, but this was a lot to wrap my head around. "So… to stop the Blood God from messing with my head, I can learn to mess with my <em>own</em> head in the other direction. Cool. I don't quite see how I'd <em>practice</em> doing that stuff… But, let me guess, you've got a plaaaan for that, too."
 
 Yali smiled. "Well, whenever you're in a situation that makes you angry –"
 
-"That's the problem," I interrupted. "I don't actually get angry very often."
+"That's the problem," I interrupted. "I don't actually get angry that often."
 
 Yali gave me a Look.
 
 "I'm serious!" I said. "Just because I've been in a few fights –"
 
-"And yell at people in the hallways –"
+"And yell at people in the hallways…"
 
-"Those assholes! <em>Someone</em> had to stop them harassing Nika. Look, I just don't put up with people's bullshit. That doesn't mean I'm actually mad at them. Not <em>really</em> mad, anyway… come on, don't tell me you don't believe me!"
+"Well <em>someone</em> needs to tell those assholes to shut the fuck up!" I pounded a fist in my hand, playfully. "Look, I just don't put up with people's bullshit. That doesn't mean I'm actually <em>angry</em>. Not <em>really</em> angry, anyway – come on, don't tell me you don't believe me!"
 
-"No, I believe you." Yali stopped and thought for a minute. "That… could actually make things harder."
+Yali was deep in thought. "No, I believe you," she said. "That… could actually make things harder."
 
-"Well, if the point is just to get me mad, so that I can practice getting less mad or whatever…" I began. That was kind of a weird idea, but also kind of intriguing. Like a challenge. "Why don't you just <em>make</em> me mad?"
+But the moment Yali slowed down, my own brain sped up. This was a <em>challenge</em> now! If I had to get mad before I could practice – "Make me mad on purpose, then!"
 
 "But… how? You just said –"
 
-"It can't be that hard if we're doing it on purpose. You could yell at me, pester me… you could even hit me if that's what it takes, I wouldn't mind."
+"It can't be that hard! Yell at me, annoy me, smack me around –"
 
-"<em>Hit</em> you?" A tense expression crossed her face. "I don't want to risk hurting <em>you!</em>"
+"<em>Hit</em> you?" Her face hardened. "Rinn, you don't know what you're asking –"
 
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
@@ -336,7 +336,7 @@ I was kind of hoping to provoke her, but she didn't react that way. She had a bl
 
 "How are you feeling?" she said cautiously.
 
-"That was fuckin' scary!" I said. "Not in a bad way! I mean, that was the point, right? Why'd you stop?"
+"That was fuckin' scary!" I grinned. "Why'd you stop?"
 
 Yali relaxed, but only partway. "It wasn't going to work," she said, a little too quickly. "Also, I had to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I'm not saying I thought there'd be a problem. But the moment you don't check is the moment everything can go wrong."
 

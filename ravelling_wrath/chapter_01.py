@@ -32,7 +32,7 @@ posts = [
 
 <p>Once the explanation starts, I keep using short-term promises by explaining one thing while hinting at another thing that <em>will</em> be explained in a moment.</p>
 
-<p>The chapter ends with both short-term and long-term promises open, just like promise theory calls for. Yali will explain the plan immediately, and they will go through the actual Ravelling eventually. It's actually preferable to have even <em>more</em> of the range of promises, including medium-term ones about what might happen along the way to the Ravelling. But this is okay for a first chapter. It takes time to set things up.</p>
+<p>The chapter ends with both short-term and long-term promises open, just like promise theory calls for. Yali will explain the plan immediately, and they will go through the actual Ravelling eventually. It's actually preferable to have even <em>more</em> of a range of promises, including medium-term ones about what might happen along the way to the Ravelling. But this is okay for a first chapter. It takes time to set things up.</p>
 
 <p><i>Ravelling Wrath</i> uses the "cliffhanger style", generally including a high-weight, short-term promise at the end of each chapter. The non-cliffhanger style wouldn't put a short-term promise of the end of a chapter, but should still include <em>some</em> promises about what will happen at <em>some</em> point in the next chapter.</p>
 
