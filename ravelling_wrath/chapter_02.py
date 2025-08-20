@@ -86,6 +86,36 @@ But the moment Yali slowed down, my own brain sped up. This was a <em>challenge<
 
 "<em>Hit</em> you?" Her face hardened. "Rinn, you don't know what you're asking –"
 
+"Sure I do!" I grinned and grabbed her hand to demonstrate. "Just take the Seeking and slap me right in the –" But her hand tugged away before I could bring it to my face. I could tell it was time for me to shut up and let her think.
+
+"If it's for the plan…" she was muttering to herself. "If she's asking me to, if she's consenting to it… It's not real, it's not abuse, it's just role-playing. Just role-playing. Okay. Okay." Yali didn't quite look me in the eye. "I'm, I'm willing to try it. But we have to talk about what's okay. What your limits are."
+
+I laughed. "I'm Rinn Akatura, I can handle anything! Do whatever you want, kick my ass –"
+
+"Anything." Yali frowned. She stared past me. "…I could heat this stylus and burn your crimes onto your skin."
+
+"Woah, what the fuck!" That was a punishment from the old empire era, but she'd said it like it was completely normal!
+
+"I don't mean I want to do that. I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you tell me I can do 'anything', that doesn't mean I can actually do anything, it just means I have to guess what's okay and what isn't. And then I might guess wrong and hurt you."
+
+"When have <em>you</em> ever hurt somebody?" I laughed.
+
+"Rinn," she said, and I could tell it was serious. "Just think about it."
+
+"Okay. I get it." Ugh, I didn't <em>want</em> to be laughing her off! This was obviously hard for her. She needed me to take it seriously, and I was fucking it up. We were supposed to be in this together!] "Okay, I guess I haven't, like, [I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
+
+
+
+[Yali was about to start, but was hesitating]
+
+[Accommodating way: Do I need to do any more boundary stuff? –]
+
+"No, no, it's not that. It's, it's,…" she smiled sheepishly. "I don't actually know what to say. Like what would make you mad?"
+
+"Well… It really pisses me off when people
+
+
+
 "I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
 
 "That's different –" Yali stopped and began muttering to herself, like she was trying to convince herself of something. "No – no – it's not the same thing I'm worried about – you <em>are</em> asking me to – and we <em>do</em> need to prepare for what's coming – so if we need to act out hurting each other, as roleplaying –"
