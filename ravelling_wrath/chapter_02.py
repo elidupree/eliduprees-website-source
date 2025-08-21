@@ -90,29 +90,122 @@ But the moment Yali slowed down, my own brain sped up. This was a <em>challenge<
 
 "If it's for the plan…" she was muttering to herself. "If she's asking me to, if she's consenting to it… It's not real, it's not abuse, it's just role-playing. Just role-playing. Okay. Okay." Yali didn't quite look me in the eye. "I'm, I'm willing to try it. But we have to talk about what's okay. What your limits are."
 
-I laughed. "I'm Rinn Akatura, I can handle anything! Do whatever you want, kick my ass –"
+I laughed. "I'm Rinn Akatura, I can handle anything! Kick my ass!"
 
-"Anything." Yali frowned. She stared past me. "…I could heat this stylus and burn your crimes onto your skin."
+"Anything." Yali frowned, staring past me. Shit, had I said something wrong – "…I could heat this stylus and burn your crimes onto your skin."
 
-"Woah, what the fuck!" That was a punishment from the old empire era, but she'd said it like it was completely normal!
+"Woah, what the fuck!"
 
-"I don't mean I want to do that. I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you tell me I can do 'anything', that doesn't mean I can actually do anything, it just means I have to guess what's okay and what isn't. And then I might guess wrong and hurt you."
+"I don't mean I want to do that. I mean, I mean… you need to actually think about what your boundaries are. Everyone has limits. If you tell me I can do 'anything', that doesn't mean I can actually do anything, it just means I have to guess what's okay and what isn't. And then I might guess wrong and hurt you."
 
-"When have <em>you</em> ever hurt somebody?" I laughed.
+"When have <em>you</em> ever hurt somebody?"
 
-"Rinn," she said, and I could tell it was serious. "Just think about it."
+"Rinn. Rinn. Just think about it."
 
-"Okay. I get it." Ugh, I didn't <em>want</em> to be laughing her off! This was obviously hard for her. She needed me to take it seriously, and I was fucking it up. We were supposed to be in this together!] "Okay, I guess I haven't, like, [I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
+Shit, I was fucking this up! I wanted to be <em>closer</em> to Yali – not laughing her off when she was serious! "Okay – let me think –" I began. I had to get this right! The stylus thing was a punishment from the old empire era, but it obviously wasn't something you'd actually – "Oh! I get it. You're saying... there <em>are</em> things I wouldn't want you to do, even if we're playing. Like if it was going to do permanent damage. And I wasn't thinking about that kinda thing, but you're right, <em>you</em> might not think of the same things I do."
+
+Yali nodded.
+
+"Okay. So... No permanent damage, and, let's not bring any other people into this, but if it's just between you and me, here and now? And if it doesn't leave more than a few bruises or whatever? Go for it."
+
+"Okay. And, when you said 'yelling' – we're talking about insulting you, criticizing you...?"
+
+"Yeah, obviously that's all fine –"
+
+"Words can do permanent damage," she said neutrally.
+
+"I mean, I'll know you're just making it up to make me mad –"
+
+"What if," said Yali cautiously, "what if I say something to make you mad, but what I'm saying is <em>true</em>?"
+
+"Well, of course that's – Oh. Okay, yeah, I see how that could actually hurt. But don't hold back!" I looked up into her eyes. [Gods, Yali was taking this so seriously, was she thinking of evil plans? Thrilling!] "Yali, if you can damage me with just words, <em>I want to see this</em>. I'm giving you permission, right now."
+
+?????
+
+Yali faced me. I felt the storm clouds gathering behind her eyes. Was this it? Was she about to [kick my ass]? [thrill/heartbeat]
+
+But she was hesitating.
+
+"Is that okay, do I need to talk about limits more –" I said quickly.
+
+"No, no, it's not that." She smiled sheepishly. "It's, it's,… I don't actually know what to say. Like what would make you mad?"
+
+"Well – I hate it when people treat me like a little kid."
+
+"You're just a little kid."
+
+"Uh huh."
+
+"Yes you are! You're just a little kid. You're a weak little kid. You're such a weakling," said Yali loudly.
+
+"I'm not though."
+
+"Uh… You're horrible? That's right, you're a horrible person. I hate you."
+
+"Nope."
+
+"You're a, a, an impudent child."
+
+"LOL screw off."
+
+"Don't use that disrespectful tone with me, <em>young lady</em>."
+
+I burst out laughing.
+
+After a moment, I realized that Yali was just sort of staring at me. Gods, I shouldn't have laughed at her so much, but – "Sorry," I said. "You're right, that <em>would</em> piss me off, if someone else said it. But I just <em>can't</em> believe it when it's coming from you. You're just so lovable and… harmless."
+
+"I'm not as harmless as I look." Yali's gaze drifted away... and then snapped back onto me, her voice suddenly sharp. "Why do you keep making assumptions about me?" she snapped.
+
+"What?"
+
+"Do you even know how hard I work to make sure I'm treating you with respect? And then you laugh at me like it's nothing! Like I'm a helpless creature who couldn't hurt anyone in the first place! You're not taking me seriously! I told you to take this seriously, I told you –"
+
+"Hey, that's not fair, I didn't mean –" I began irritably. "Ohhhhhh. You said that to make me mad. It's not what you were really thinking."
+
+"I, I –" Yali froze. "I did say it to make you mad."
+
+"…you <em>were</em> really thinking that stuff?"
+
+"I mean –" her words came tight and fast "– that's not what I would've said it if I wasn't trying to make you mad on purpose –"
+
+Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accusing you! I'm just… You really <em>don't</em> want me to think you're harmless?"
+
+Yali relaxed, thank the gods. "I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And I'm glad I'm doing a good job, but... I'm <em>not</em> harmless. I know that."
+
+"I… I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
+
+"Thanks." Yali laughed. "[Waiting saying that's frustrated about fate underming a plan?] We're solving our relation&shy;ship conflicts too fast! Now this will never work."
+
+"That's terrible," I joked back.
 
 
+?????
 
-[Yali was about to start, but was hesitating]
+["You were holding back."?]
 
-[Accommodating way: Do I need to do any more boundary stuff? –]
+["If I show you this part of me...
 
-"No, no, it's not that. It's, it's,…" she smiled sheepishly. "I don't actually know what to say. Like what would make you mad?"
+[We had seen each other almost every day, but there was so much I still didn't know about her]
 
-"Well… It really pisses me off when people
+...I don't want you to think I'm judging you."]
+
+["Yali!" [emotionality/physicality] "Yali, I want to see every part of you! ]
+
+
+"But really, I… I know I wasn't doing it right. I wasn't trying something that would actually have a chance to affect you. I know what I <em>should</em> try, I just, I just…"
+
+"Whatever it is, bring it on –"
+
+Yali hesitated.
+
+"– or is that too much of a 'you're harmless' thing? It's not though, I'd probably say that to anyone. Unless they were pointing a knife at me or something."
+
+Yali laughed. "You're right. I'm glad we talked about this. I'm okay to 'bring it on' now. Whenever you're ready."
+
+"Ready."
+
+Yali closed her eyes.
+
 
 
 
@@ -284,65 +377,9 @@ She swallowed another bite of fruit. "So, if I were to… drag you into the stre
 
 "Uh huh."
 
-"You're weak. You're so weak. You're such a weakling," said Yali loudly.
 
-"I'm not though."
 
-"Uh… You're horrible? That's right, you're horrible. I hate you."
 
-"Nope."
-
-"You're a, a, an impudent child."
-
-"LOL screw off."
-
-"Don't use that disrespectful tone with me, <em>young lady</em>."
-
-I burst out laughing.
-
-After a moment, I realized that Yali was just sort of staring at me. Maybe I had hurt her feelings by laughing so much. "Sorry," I said. "You're right, that <em>would</em> piss me off, if someone else said it. But I just <em>can't</em> believe it when it's coming from you. You're just so lovable and… harmless."
-
-"I'm not as harmless as I look." Yali thought about something for a moment. "Why do you keep making assumptions about me?" she said sharply.
-
-"What?"
-
-"I do all this work to be careful and make sure I'm not hurting you, but then you just brush it off! As if I had no chance of hurting you in the first place! Why won't you take me seriously?!"
-
-"I was just <em>telling</em> you what was true about <em>me</em> –" I began irritably. "Ohhhhhh. You said that to make me mad. It's not what you were really thinking."
-
-"I did say it to make you mad. But it <em>was</em> sort of what I was really thinking. Sort of. That's why it sort of worked."
-
-"Well <em>that's</em> a mindfuck."
-
-"Let's not do it again," said Yali.
-
-"Yeah," I said. "So… you were really thinking that stuff?"
-
-"I mean, that's not how I would have said it if I wasn't trying to make you mad on purpose –"
-
-"I know! I agreed to this, I'm not accusing you. But…" I quickly tried to sort out the main point of what she said. "You really <em>don't</em> like me thinking of you as harmless?"
-
-"I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And that's nice. But I'm <em>not</em> harmless. I know that."
-
-"I… I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
-
-"Thanks." Yali laughed. "We're solving our relation&shy;ship conflicts too fast! Now this will never work."
-
-"That's terrible," I joked back.
-
-"But really, I… I know I wasn't doing it right. I wasn't trying something that would actually have a chance to affect you. I know what I <em>should</em> try, I just, I just…"
-
-"Whatever it is, bring it on –"
-
-Yali hesitated.
-
-"– or is that too much of a 'you're harmless' thing? It's not though, I'd probably say that to anyone. Unless they were pointing a knife at me or something."
-
-Yali laughed. "You're right. I'm glad we talked about this. I'm okay to 'bring it on' now. Whenever you're ready."
-
-"Ready."
-
-Yali closed her eyes.
 
 When she opened them again, it was like she was a completely different person. She lurched to her feet, grabbed my arm, and yanked me out of my seat. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
 
