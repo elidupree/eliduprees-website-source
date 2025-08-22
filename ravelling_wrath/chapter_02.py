@@ -186,15 +186,19 @@ Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accu
 
 "But, seriously..." She was somber again. "I… I…"
 
-"– You were holding back," I realized. "You already had an idea for how to make it worse."
+"– You were holding back," I realized. "You didn't want to say something really mean."
 
-[Subtle eye movements: Annoyed that I had seen her? "I let you know too much"? "I didn't want to show you this part of me"? If I show you this part of me...]
+Something subtle shifted in her eyes. "Why do I let you know me this well…" she muttered. "It's true. I didn't want to show you the, the, the thoughts I have sometimes. If I say them out loud…"
 
-[larger paragraph: We had seen each other almost every day, but there was so much I still didn't know about her]
+[larger paragraph: Yali's whole reluctance to show herself – We had seen each other almost every day, but there was so much I still didn't know about her. Her family, her past, [Rinn finds it intriguingly mysterious]]
 
 "...I don't want you to think I'm judging you," she said heavily.
 
-["Yali!" [emotionality/physicality: leaning into her, holding arms] "Yali, I want to see every part of you! Even if it hurts! <em>especially</em> if it hurts! ????? Whatever it is, bring it on –"
+["Yali!" [emotionality/physicality: leaning into her, holding arms] "Yali, I want to see every part of you! Even if it hurts! <em>especially</em> if it hurts!
+
+"You don't know what you're asking for," she said again. But this time it was softer. She was ?????
+
+ Whatever it is, bring it on –"
 
 Yali hesitated.
 
@@ -230,7 +234,7 @@ We were just play-acting, right? I looked up into Yali's eyes for reassurance, b
 
 "<em>Don't look at me. Look at yourself. What have you ever achieved –</em>"
 
-Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to beat <em>me</em> –"
+Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to scare <em>me</em> –"
 
 I was kind of hoping to provoke her, but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
 
