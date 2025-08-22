@@ -80,6 +80,8 @@ Yali was deep in thought. "No, I believe you," she said. "That… could actually
 
 But the moment Yali slowed down, my own brain sped up. This was a <em>challenge</em> now! If I had to get mad before I could practice – "Make me mad on purpose, then!"
 
+[Bigger transition here, make them turn away from the table to face each other]
+
 "But… how? You just said –"
 
 "It can't be that hard! Yell at me, annoy me, smack me around –"
@@ -102,7 +104,7 @@ I laughed. "I'm Rinn Akatura, I can handle anything! Kick my ass!"
 
 "Rinn. Rinn. Just think about it."
 
-Shit, I was fucking this up! I wanted to be <em>closer</em> to Yali – not laughing her off when she was serious! "Okay – let me think –" I began. I had to get this right! The stylus thing was a punishment from the old empire era, but it obviously wasn't something you'd actually – "Oh! I get it. You're saying... there <em>are</em> things I wouldn't want you to do, even if we're playing. Like if it was going to do permanent damage. And I wasn't thinking about that kinda thing, but you're right, <em>you</em> might not think of the same things I do."
+Shit, I was fucking this up! I wanted to be <em>closer</em> to Yali – not laughing her off when she was serious! "Okay – let me think –" I began. I had to get this right! The stylus thing was a punishment from the old empire era, but it obviously wasn't something you'd actually – "Oh! I get it. You're saying... there <em>are</em> things I wouldn't want you to do, even if we're playing. Like if it was going to do permanent damage. And I wasn't thinking about that kinda thing, but you're right, <em>you</em> might not be thinking of the same things <em>I</em> was."
 
 Yali nodded.
 
@@ -118,7 +120,7 @@ Yali nodded.
 
 "What if," said Yali cautiously, "what if I say something to make you mad, but what I'm saying is <em>true</em>?"
 
-"Well, of course that's – Oh. Okay, yeah, I see how that could actually hurt. But don't hold back!" I looked up into her eyes. [Gods, Yali was taking this so seriously, was she thinking of evil plans? Thrilling!] "Yali, if you can damage me with just words, <em>I want to see this</em>. I'm giving you permission, right now."
+"Well, of course that's – Oh. Okay, yeah, I see how that could actually hurt. But don't hold back!" I looked up into her eyes. [Gods, Yali was taking this so seriously, was she thinking of evil plans? Thrilling!] "Yali, if you can damage me with just words, <em>I want to see it</em>. I'm giving you permission, right now."
 
 ?????
 
@@ -166,45 +168,115 @@ After a moment, I realized that Yali was just sort of staring at me. Gods, I sho
 
 "…you <em>were</em> really thinking that stuff?"
 
-"I mean –" her words came tight and fast "– that's not what I would've said it if I wasn't trying to make you mad on purpose –"
+"I mean –" her words came tight and fast "– that's not what I would've said if I wasn't trying to make you mad on purpose –"
 
-Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accusing you! I'm just… You really <em>don't</em> want me to think you're harmless?"
+Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accusing you! I'm just…" Thank the gods, at least that had calmed her down a bit. "You really <em>don't</em> want me to think you're harmless?"
 
-Yali relaxed, thank the gods. "I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And I'm glad I'm doing a good job, but... I'm <em>not</em> harmless. I know that."
+"I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And I'm glad I'm doing a good job, but... I'm <em>not</em> harmless. I know that."
 
-"I… I think I get it," I said. "Shit, I said a lot of stuff like that about you today, didn't I? Sorry. I'll try to be more sensitive about that."
+"I… I think I get it," I said. "Shit, I said a lot of stuff like that today, didn't I? Sorry. I'll try to be more sensitive about that."
 
-"Thanks." Yali laughed. "[Waiting saying that's frustrated about fate underming a plan?] We're solving our relation&shy;ship conflicts too fast! Now this will never work."
+"Thanks." Then, suddenly, Yali laughed out loud.
+
+"What?"
+
+"Did you see what happened? It almost worked! You almost started getting angry. But it only worked because it was real... and <em>now</em> look what we've done." She smiled despite herself. "We're solving our relationship conflicts too fast! Now this will never work."
 
 "That's terrible," I joked back.
 
+"But, seriously..." She was somber again. "I… I…"
 
-?????
+"– You were holding back," I realized. "You already had an idea for how to make it worse."
 
-["You were holding back."?]
+[Subtle eye movements: Annoyed that I had seen her? "I let you know too much"? "I didn't want to show you this part of me"? If I show you this part of me...]
 
-["If I show you this part of me...
+[larger paragraph: We had seen each other almost every day, but there was so much I still didn't know about her]
 
-[We had seen each other almost every day, but there was so much I still didn't know about her]
+"...I don't want you to think I'm judging you," she said heavily.
 
-...I don't want you to think I'm judging you."]
-
-["Yali!" [emotionality/physicality] "Yali, I want to see every part of you! ]
-
-
-"But really, I… I know I wasn't doing it right. I wasn't trying something that would actually have a chance to affect you. I know what I <em>should</em> try, I just, I just…"
-
-"Whatever it is, bring it on –"
+["Yali!" [emotionality/physicality: leaning into her, holding arms] "Yali, I want to see every part of you! Even if it hurts! <em>especially</em> if it hurts! ????? Whatever it is, bring it on –"
 
 Yali hesitated.
 
-"– or is that too much of a 'you're harmless' thing? It's not though, I'd probably say that to anyone. Unless they were pointing a knife at me or something."
+"– or is that too much of a 'you're harmless' thing? It's not though, I'd say that to anyone. Unless they had an actual knife or something."
 
-Yali laughed. "You're right. I'm glad we talked about this. I'm okay to 'bring it on' now. Whenever you're ready."
+Yali chuckled. "No, you're right. I'm glad we talked about this. I should… I should just do it. If I can't trust you with <em>this</em>…" She trailed off.
+
+<em>…then how could I trust you in the Ravelling?</em> She didn't need to say it.
+
+["If you're ready…?"]
 
 "Ready."
 
 Yali closed her eyes.
+
+When she opened them again, it was like she was a completely different person. Her body lurched like it was on puppet-strings – her hand yanking my arm, dragging me to my feet. She towered over me, no longer slouching, standing a full head taller than I was.
+
+"<em>So you think you can act all tough and that means your life is worth anything?" Her voice was cold and unfeeling.
+
+"Uh, yeah, obviously I think tha–"
+
+"<em>You think you're the high priest of your tiny little hill –</em>" her grip tightened, twisting my arm harder with every word "<em>– as if that means anything that actually matters –</em>"
+
+"Ow!"
+
+"<em>Shut up! Did I say you could make a sound, you pathetic child?!</em>"
+
+I glared up into her eyes. But she wasn't even looking back at me. She was looking past me as if I was totally insignificant. I felt trapped and confused. Who was this monster and what was it doing in Yali's body? I reflexively shoved her away from me –
+
+"<em>Rinn. You are going to listen to me –</em>" she yanked me back to her "<em>– because I know what's good for you! You're going to need to give up on your immature little fantasy –</em>"
+
+We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? "I know you don't really think that –" I began – shit, my whole body was tensing up –
+
+"<em>Don't look at me. Look at yourself. What have you ever achieved –</em>"
+
+Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to beat <em>me</em> –"
+
+I was kind of hoping to provoke her, but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
+
+"You could've kept going!" I said.
+
+"How – how are you feeling?" she said cautiously.
+
+"That was fuckin' scary!" I grinned. "Why'd you stop?"
+
+Yali slumped back down on the couch. "It wasn't going to work," she muttered again., a little too quickly. "Also, I had to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I'm not saying I thought there'd be a problem. But the moment you don't check is the moment everything can go wrong."
+
+"Okay, but what do you mean it wouldn't work? If you'd kept going –"
+
+"I saw what happened," said Yali guardedly. "It only worked when you weren't expecting it. I thought this might happen – this is how you usually deal with anger, isn't it? As soon as you noticed you were getting angry, you turned it into a challenge. Right?"
+
+"Stern take it all, you know me better than I know myself. You even <em>expected</em> this to happen?!"
+
+"Honestly? Yes. As soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+
+I sighed. "I don't either!"
+
+"I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
+
+I racked my brains. If I wasn't supposed to think about fights, what was I looking for? Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
+
+"Well –" Yali began. But her voice faltered a little. I suddenly realized – something had been off about her ever since she switched back from being evil. She was talking <em>almost</em> normally, but there were tiny hesitations that wouldn't normally be there, and parts where she talked fast like she was trying to catch up…
+
+"Hang on," I said. "Are <em>you</em> okay?" 
+
+"I'm fine," she said, much too quickly. "I was about to say, how about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
+
+Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, but there was definitely something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
+
+There was an awkward pause. I scrambled for something to break the silence.
+
+"So… the Ravelling!" I said. "What's it actually like? Tell me everything."
+
+
+
+
+
+
+play-act
+
+
+, She lurched to her feet, grabbed my arm, and yanked me out of my seat. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
 
 
 
@@ -397,41 +469,7 @@ We were just play-acting, right? I looked up into Yali's eyes for reassurance, b
 
 Wait a minute. I was Rinn Akatura. I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to scare <em>me</em> –"
 
-I was kind of hoping to provoke her, but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
 
-"You could've kept going!" I said.
-
-"How are you feeling?" she said cautiously.
-
-"That was fuckin' scary!" I grinned. "Why'd you stop?"
-
-Yali relaxed, but only partway. "It wasn't going to work," she said, a little too quickly. "Also, I had to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I'm not saying I thought there'd be a problem. But the moment you don't check is the moment everything can go wrong."
-
-"Okay, but what do you mean it wouldn't work? If you'd kept going –"
-
-"I saw what happened," said Yali guardedly. "It only worked when you weren't expecting it. I thought this might happen – this is how you usually deal with anger, isn't it? As soon as you noticed you were getting angry, you turned it into a challenge. Right?"
-
-"Stern take it all, you know me better than I know myself. You even <em>expected</em> this to happen?!"
-
-"Honestly? Yes. As soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
-
-I sighed. "I don't either!"
-
-"I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
-
-I racked my brains. If I wasn't supposed to think about fights, what was I looking for? Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
-
-"Well –" Yali began. But her voice faltered a little. I suddenly realized – something had been off about her ever since she switched back from being evil. She was talking <em>almost</em> normally, but there were tiny hesitations that wouldn't normally be there, and parts where she talked fast like she was trying to catch up…
-
-"Hang on," I said. "Are <em>you</em> okay?" 
-
-"I'm fine," she said, much too quickly. "I was about to say, how about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
-
-Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, but there was definitely something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
-
-There was an awkward pause. I scrambled for something to break the silence.
-
-"So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
 <bigbreak>
 
