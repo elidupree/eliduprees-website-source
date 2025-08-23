@@ -56,7 +56,7 @@ Yali laid down a blank wax tablet.
 
 "Defenses? Like put a sorcery on me or something?"
 
-"No, not sorcery. I mean I think we can teach you regular mental skills. Like –" Yali drew a series of boxes "– there are many steps before you even <em>get</em> to the wall. First, the Blood God will have to <em>make</em> you angry. Then, it'll have to <em>direct</em> that anger towards <em>me</em>. And then it'll have to make you think you have to <em>heard</em> me – I mean, make you think the way to <em>act</em> on your anger is to hurt me, rather than doing something else. And that each of those steps, you can resist it. That's what we can prepare for. Even in your everyday life, you can practice turning away from this path."
+"No, not sorcery. I mean I think we can teach you regular mental skills. Like –" Yali drew a series of boxes "– there are many steps before you even <em>get</em> to the wall. First, the Blood God will have to <em>make</em> you angry. Then, it'll have to <em>direct</em> that anger towards <em>me</em>. And then it'll have to make you think you have to <em>hurt</em> me – I mean, make you think the way to <em>act</em> on your anger is to hurt me, rather than doing something else. And at each of those steps, you can resist it. That's what we can prepare for. Even in your everyday life, you can practice turning away from this path."
 
 "Like practice calming myself down?" Somehow that didn't feel like enough to stop a god.
 
@@ -104,7 +104,7 @@ I laughed. "I'm Rinn Akatura, I can handle anything! Kick my ass!"
 
 "Rinn. Rinn. Just think about it."
 
-Shit, I was fucking this up! I wanted to be <em>closer</em> to Yali – not laughing her off when she was serious! "Okay – let me think –" I began. I had to get this right! The stylus thing was a punishment from the old empire era, but it obviously wasn't something you'd actually – "Oh! I get it. You're saying... there <em>are</em> things I wouldn't want you to do, even if we're playing. Like if it was going to do permanent damage. And I wasn't thinking about that kinda thing, but you're right, <em>you</em> might not be thinking of the same things <em>I</em> was."
+Shit, I was fucking this up! I wanted to be <em>closer</em> to Yali – not laughing her off when she was serious! "Okay – let me think –" I began. I had to get this right! The stylus thing was a punishment from the old empire era, but it obviously wasn't something you'd actually – "Oh! I get it. You're saying... there <em>are</em> things I wouldn't want you to do, even if we're playing. Like if it was going to do permanent damage. And I wasn't thinking about that kinda thing, but you're right, <em>you</em> might not think of the same things <em>I</em> do."
 
 Yali nodded.
 
@@ -166,7 +166,7 @@ After a moment, I realized that Yali was just sort of staring at me. Gods, I sho
 
 "I, I –" Yali froze. "I did say it to make you mad."
 
-"…you <em>were</em> really thinking that stuff?"
+[aww crap] "…you <em>were</em> really thinking that stuff?"
 
 "I mean –" her words came tight and fast "– that's not what I would've said if I wasn't trying to make you mad on purpose –"
 
@@ -236,7 +236,7 @@ We were just play-acting, right? I looked up into Yali's eyes for reassurance, b
 
 Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to scare <em>me</em> –"
 
-I was kind of hoping to provoke her, but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
+I was kind of hoping to provoke her [], but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
 
 "You could've kept going!" I said.
 
