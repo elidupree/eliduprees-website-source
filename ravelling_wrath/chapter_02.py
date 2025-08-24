@@ -80,8 +80,6 @@ Yali was deep in thought. "No, I believe you," she said. "That… could actually
 
 But the moment Yali slowed down, my own brain sped up. This was a <em>challenge</em> now! If I had to get mad before I could practice – "Make me mad on purpose, then!"
 
-[Bigger transition here, make them turn away from the table to face each other]
-
 "But… how? You just said –"
 
 "It can't be that hard! Yell at me, annoy me, smack me around –"
@@ -120,15 +118,15 @@ Yali nodded.
 
 "What if," said Yali cautiously, "what if I say something to make you mad, but what I'm saying is <em>true</em>?"
 
-"Well, of course that's – Oh. Okay, yeah, I see how that could actually hurt. But don't hold back!" I looked up into her eyes. [Gods, Yali was taking this so seriously, was she thinking of evil plans? Thrilling!] "Yali, if you can damage me with just words, <em>I want to see it</em>. I'm giving you permission, right now."
+"Well, of course that's – Oh. Okay, yeah, I see how that could actually hurt. But don't hold back!" I looked up into her eyes. Gods, her attention was so focused – was she thinking of evil plans? My stomach fluttered, and not in a bad way! "Yali, if you can damage me with just words, <em>I want to see it</em>. I want the worst you can hit me with. I'm giving you permission, right now."
 
-?????
+"You –" she was about to protest, but then she relented. "You really are," she said gravely – her hand resting on my shoulder, her eyes lingering on mine. "I have to respect your permission. It's who you are."
 
-Yali faced me. I felt the storm clouds gathering behind her eyes. Was this it? Was she about to [kick my ass]? [thrill/heartbeat]
+Yali faced me. I felt the stormclouds gathering behind her eyes. Was this it? Was she about to kick my ass? My heart skipped a beat –
 
 But she was hesitating.
 
-"Is that okay, do I need to talk about limits more –" I said quickly.
+"I can talk about limits more if you need –" I said quickly.
 
 "No, no, it's not that." She smiled sheepishly. "It's, it's,… I don't actually know what to say. Like what would make you mad?"
 
@@ -166,7 +164,7 @@ After a moment, I realized that Yali was just sort of staring at me. Gods, I sho
 
 "I, I –" Yali froze. "I did say it to make you mad."
 
-[aww crap] "…you <em>were</em> really thinking that stuff?"
+<em>Ohhh crap.</em> Now that I wasn't on the defensive, the actual meaning of her words was hitting me. "…you <em>were</em> really thinking that stuff?" I breathed.
 
 "I mean –" her words came tight and fast "– that's not what I would've said if I wasn't trying to make you mad on purpose –"
 
@@ -174,7 +172,7 @@ Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accu
 
 "I, well – yes and no? I mean, if you think of me that way, that means I'm doing a good job of, of, not harming you. And I'm glad I'm doing a good job, but... I'm <em>not</em> harmless. I know that."
 
-"I… I think I get it," I said. "Shit, I said a lot of stuff like that today, didn't I? Sorry. I'll try to be more sensitive about that."
+"I… I think I get it," I said. "Shit, I said a lot of stuff like that today, didn't I? Sorry. I'll try to take it more seriously. I promise."
 
 "Thanks." Then, suddenly, Yali laughed out loud.
 
@@ -190,15 +188,15 @@ Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accu
 
 Something subtle shifted in her eyes. "Why do I let you know me this well…" she muttered. "It's true. I didn't want to show you the, the, the thoughts I have sometimes. If I say them out loud…"
 
-[larger paragraph: Yali's whole reluctance to show herself – We had seen each other almost every day, but there was so much I still didn't know about her. Her family, her past, [Rinn finds it intriguingly mysterious]]
+And then it hit me. Yali… the whole month we'd been together… we had gotten so close, so fast, but there was always something she was holding back. I'd met up with her almost every day, lost in the Maze of her arms around me, the taste of her lips, the thrum of her soft voice in my ear… but I knew so little about her. Her family. Her past. She always said she would tell me later. That she wasn't ready yet. She was so firm, so calm, ????? total trust that she would tell me when the time was right ????? such a quiet, private person would show me as much as she already had ????? Afraid of what she would lose if she showed me her whole self, instead of just her softness and affection.
 
-"...I don't want you to think I'm judging you," she said heavily.
+"...I don't want you to think I'm judging you," she finished, heavily.
 
-["Yali!" [emotionality/physicality: leaning into her, holding arms] "Yali, I want to see every part of you! Even if it hurts! <em>especially</em> if it hurts!
+["Yali!" I pulled her close, leaning into her body heat, staring pleadingly up into her eyes. "Yali, I want to see every part of you! Even if it hurts! <em>Especially</em> if it hurts! Whatever's going on in your head, I want to <em>share</em> it with you!
 
-"You don't know what you're asking for," she said again. But this time it was softer. She was ?????
+"You don't know what you're asking for," she said again. But this time it was softer. She was ????? [accepting it? "Not rejecting it"? Rinn understands what a big thing that is for her to do"]
 
- Whatever it is, bring it on –"
+"So, whatever you're thinking – even if it sounds like you're judging me – even if you ARE actually judging me! Whatever it is, bring it on –"
 
 Yali hesitated.
 
@@ -208,7 +206,7 @@ Yali chuckled. "No, you're right. I'm glad we talked about this. I should… I s
 
 <em>…then how could I trust you in the Ravelling?</em> She didn't need to say it.
 
-["If you're ready…?"]
+"So, if you're ready…?"
 
 "Ready."
 
