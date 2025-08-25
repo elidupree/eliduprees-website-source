@@ -188,15 +188,15 @@ Aw, fuck, this was getting real. "I know! I know! I agreed to this, I'm not accu
 
 Something subtle shifted in her eyes. "Why do I let you know me this well…" she muttered. "It's true. I didn't want to show you the, the, the thoughts I have sometimes. If I say them out loud…"
 
-And then it hit me. Yali… the whole month we'd been together… we had gotten so close, so fast, but there was always something she was holding back. I'd met up with her almost every day, lost in the Maze of her arms around me, the taste of her lips, the thrum of her soft voice in my ear… but I knew so little about her. Her family. Her past. She always said she would tell me later. That she wasn't ready yet. She was so firm, so calm, ????? total trust that she would tell me when the time was right ????? such a quiet, private person would show me as much as she already had ????? Afraid of what she would lose if she showed me her whole self, instead of just her softness and affection.
+And then it hit me. What'd been going on with her, the whole month we'd been together. We had gotten so close, so fast – I'd met up with her almost every day, lost in the Maze of her arms around me, the taste of her lips, the thrum of her soft voice in my ear… but there was always something more, something I couldn't quite reach. The truth about her. Her family. Her past. She always said she would tell me later. That it wasn't the right time. She was so firm, so calm, I had trusted her completely – but I had missed what was holding her back. She was afraid to disturb our relationship. Afraid of what she would lose if she showed me her whole self, instead of just her softness and affection.
 
 "...I don't want you to think I'm judging you," she finished, heavily.
 
-["Yali!" I pulled her close, leaning into her body heat, staring pleadingly up into her eyes. "Yali, I want to see every part of you! Even if it hurts! <em>Especially</em> if it hurts! Whatever's going on in your head, I want to <em>share</em> it with you!
+"Yali!" My fingers clung to her big arms – pulling me deep into her body heat, my eyes pleading up at her – "Yali, I want to see every part of you! Even if it hurts! <em>Especially</em> if it hurts! I want to begin with you, no matter what! Whatever's going on in your head, I want to <em>share</em> it with you!
 
-"You don't know what you're asking for," she said again. But this time it was softer. She was ????? [accepting it? "Not rejecting it"? Rinn understands what a big thing that is for her to do"]
+"You don't know what you're asking for," she said again. But this time it was softer. She was accepting it. She was actually accepting it!
 
-"So, whatever you're thinking – even if it sounds like you're judging me – even if you ARE actually judging me! Whatever it is, bring it on –"
+"So –" I breathed "– whatever's going on in your head – I don't care if it sounds like you're judging me – I don't even care if you actually ARE judging me! Whatever it is, bring it on!"
 
 Yali hesitated.
 
@@ -212,7 +212,7 @@ Yali chuckled. "No, you're right. I'm glad we talked about this. I should… I s
 
 Yali closed her eyes.
 
-When she opened them again, it was like she was a completely different person. Her body lurched like it was on puppet-strings – her hand yanking my arm, dragging me to my feet. She towered over me, no longer slouching, standing a full head taller than I was.
+When she opened them again, it was like she was a completely different person. Her body lurched like it was on puppet-strings. Her hand yanked my arm, dragging me to my feet. She towered over me, no longer slouching, standing a full head taller than I was.
 
 "<em>So you think you can act all tough and that means your life is worth anything?" Her voice was cold and unfeeling.
 
@@ -224,15 +224,15 @@ When she opened them again, it was like she was a completely different person. H
 
 "<em>Shut up! Did I say you could make a sound, you pathetic child?!</em>"
 
-I glared up into her eyes. But she wasn't even looking back at me. She was looking past me as if I was totally insignificant. I felt trapped and confused. Who was this monster and what was it doing in Yali's body? I reflexively shoved her away from me –
+Gods! Who was this monster and what was it doing in Yali's body? I glared up into her eyes, ready to challenge her – but she wasn't even looking back at me. She was staring through me like I wasn't there. Gods! I shoved her away – I couldn't help it –
 
 "<em>Rinn. You are going to listen to me –</em>" she yanked me back to her "<em>– because I know what's good for you! You're going to need to give up on your immature little fantasy –</em>"
 
-We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? "I know you don't really think that –" I began – shit, my whole body was tensing up –
+We were just play-acting, right? I couldn't help searching her eyes for reassurance – how were they so empty! "I know you don't really think that –" I began – shit, my whole body was tensing up –
 
 "<em>Don't look at me. Look at yourself. What have you ever achieved –</em>"
 
-Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to scare <em>me</em> –"
+Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back more firmly this time. "Not bad, but it'll take more than that to scare <em>me</em> –"
 
 I was kind of hoping to provoke her [], but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
 
