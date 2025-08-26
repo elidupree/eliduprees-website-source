@@ -232,25 +232,33 @@ We were just play-acting, right? I couldn't help searching her eyes for reassura
 
 "<em>Don't look at me. Look at yourself. What have you ever achieved –</em>"
 
-Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back more firmly this time. "Not bad, but it'll take more than that to scare <em>me</em> –"
+Wait a minute. I was Rinn Akatura, I could handle anything. I flexed my arm, pushing back more firmly this time. "Not bad," I said, "but it'll take more than that to scare <em>me</em> –"
 
-I was kind of hoping to provoke her [], but she didn't react that way. She had a blank look for a moment, like she wasn't sure how to respond. Then she backed away, hunching over again and shaking her head a little. "This isn't working, this isn't working," she muttered.
+…I'd been kind of hoping that would provoke her even more. But instead, she went slack. A heartbeat passed while we stood there. Then another. And then she backed away, hunching over and shaking her head.
 
-"You could've kept going!" I said.
+"This isn't working, this isn't working," she muttered.
+
+"You could've kept going!"
 
 "How – how are you feeling?" she said cautiously.
 
 "That was fuckin' scary!" I grinned. "Why'd you stop?"
 
-Yali slumped back down on the couch. "It wasn't going to work," she muttered again., a little too quickly. "Also, I had to check in with you to make sure you were okay –" I rolled my eyes. Yali tousled my hair affectionately. "I know you're tough. I'm not saying I thought there'd be a problem. But the moment you don't check is the moment everything can go wrong."
+Yali slumped back down on the couch.
 
-"Okay, but what do you mean it wouldn't work? If you'd kept going –"
+Okay, she was definitely done. …Aaaaand the endorphins were hitting now. I flopped down with her, cuddling up close, leaning my head on her shoulder…
 
-"I saw what happened," said Yali guardedly. "It only worked when you weren't expecting it. I thought this might happen – this is how you usually deal with anger, isn't it? As soon as you noticed you were getting angry, you turned it into a challenge. Right?"
+"It wasn't going to work," she muttered again, a halfhearted arm around me. "Also, I had to check in with you to make sure you were okay –" I snorted. She tousled my hair. "I know you're tough. I'm not saying I really thought there'd be a problem. But the moment you don't check is the moment everything can go wrong."
 
-"Stern take it all, you know me better than I know myself. You even <em>expected</em> this to happen?!"
+"Okay, but why wouldn't it have worked? If you'd kept going –"
 
-"Honestly? Yes. As soon as you suggested having me yell at you and hit you. You weren't imagining something that would <em>actually</em> make you angry. Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+"I saw what happened," said Yali guardedly. "As soon as you noticed you were getting angry, you turned it into a challenge. And that's, that's, bascially what I thought would happen. This is how you usually deal with anger, isn't it."
+
+"Stern take it all, you know me better than I know myself. You knew this would happen?!"
+
+"Honestly? As soon as you were talking about having me hit you. Yelling and fighting is <em>your</em> home ground. You weren't imagining something that would <em>actually</em> make you angry. 
+
+Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
 
 I sighed. "I don't either!"
 
