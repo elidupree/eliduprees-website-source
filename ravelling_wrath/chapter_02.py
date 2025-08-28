@@ -264,10 +264,6 @@ Okay, she was definitely done. …Aaaaand the endorphins were hitting now. I flo
 
 I sighed. "I don't either!"
 
-"I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
-
-I racked my brains. If <em>fights</em> didn't count, what <em>did</em>? All the bullshit from school? Having to do chores – not that I even did them? "Stern take it, I'm <em>sure</em> there's been loads of times like that! Why can't I think of them?"
-
 "Well –" Yali began. But her voice faltered a little. I suddenly realized – something had been off about her ever since she switched back from being evil. She was talking <em>almost</em> normally, but there were tiny hesitations that wouldn't normally be there, and parts where she talked fast like she was trying to catch up…
 
 "Hang on," I said. "Are <em>you</em> okay?" 
@@ -281,43 +277,6 @@ There was an awkward pause. I scrambled for something to break the silence.
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
 
-
-
-
-
-play-act
-
-
-, She lurched to her feet, grabbed my arm, and yanked me out of my seat. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
-
-
-
-
-"I'm the one who's suggesting it. So if you hit me, it's no different than if I was hitting myself. Would you stop me from hitting myself?"
-
-"That's different –" Yali stopped and began muttering to herself, like she was trying to convince herself of something. "No – no – it's not the same thing I'm worried about – you <em>are</em> asking me to – and we <em>do</em> need to prepare for what's coming – so if we need to act out hurting each other, as roleplaying –"
-
-"'Each other'?? I'm not going to hurt <em>you!</em>"
-
-"Even if it's needed for the plan?" she said gravely. She put her finger on the paper again. "We need to have every form of defenses that we can. And so far, we've only talked about the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
-
-"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free!"
-
-"Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
-
-"And how are you even just talking about this? You're so calm, even though you're talking about having me hurt you –"
-
-"But you literally just said – about yourself –"
-
-"That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know –"
-
-"Stop," said Yali. "I get what you mean. But even so, it's to make sure we stay alive. In the long run, if I have to go through some pain, it doesn't really matter."
-
-"What you mean, it doesn't matter? Of course it matters! If you're in pain, that matters!"
-
-Yali went quiet, but even though she wasn't arguing back, I could tell it wasn't over. "I should have known you'd feel that way," she said. "And it's not something we need to do right away. We should start with the simpler things, and there are still two months before the Ravelling begins…"
-
-That was true – everyone knew the Ravelling started near the start of November. But the way she said it… it was like she <em>expected</em> that I'd have to agree with her, once I'd thought about it. Was I really going to have to hurt her? How many things was she planning to force herself through, for the sake of the plan? I couldn't shake a sense of unease, knowing what might be ahead of us.
 
 <bigbreak>
 
@@ -419,67 +378,7 @@ The Seeing was Yali's magic power.
 
 Soon, she wiped her mouth and looked back at me. "Let's try your idea. See if we can make you mad."
 
-"Alright, bring it on."
 
-"What – but I don't know what to do. Or what you're okay with."
-
-"Like I said, you can yell at me, hit me… just about anything!"
-
-"Anything?" Yali frowned.
-
-"Yeah?"
-
-She swallowed another bite of fruit. "So, if I were to… drag you into the street and smash your face on the pavement…"
-
-"Woah!!"
-
-"I don't mean I want to do that, I mean, I mean… you need to think about what your boundaries are. Everyone has limits. If you say 'anything', that doesn't mean you don't have limits, it means you're not telling me what they <em>are</em>. And then I have to guess. And then I might guess wrong and hurt you."
-
-"When have <em>you</em> ever hurt somebody?" I laughed.
-
-"Rinn," she said, and I could tell it was serious. "Just think about it."
-
-"Fine, I get it, I haven't thought of every way this could go wrong. Let me think… okay, let's not involve other people, and let's not… do anything that would <em>permanently</em> hurt me, but like, temporary pain is okay."
-
-"Okay. And, you mentioned yelling –"
-
-"Well yeah, that's not going to permanently –"
-
-"But yelling the wrong thing at somebody <em>can</em> permanently hurt them."
-
-"Fine, then, I'm giving you permission: You can yell whatever you want. No matter how made-up and horrible it is."
-
-"Hmm… what about hurtful things that <em>aren't</em> made up?"
-
-"Of course – Oh, I get it. True things could actually hurt more. But go ahead, I can take it."
-
-"Okay!" said Yali. She put down the last of her fruit, faced me, and opened her mouth, then stopped. "Hmm… how should I start…" she muttered to herself.
-
-"I guess you could call me weak?" I offered.
-
-"Okay," said Yali. She leaned forward slightly. "You're weak."
-
-"Uh huh."
-
-
-
-
-
-When she opened them again, it was like she was a completely different person. She lurched to her feet, grabbed my arm, and yanked me out of my seat. By the time I had gotten my balance and stood up, she was towering over me. Yali didn't normally look that much taller than me, because she slouched a lot, but when she <em>did</em> stand up straight, she was almost a head taller than me.
-
-Yali twisted my arm into a painful position. Her voice was cold and unfeeling. "<em>You think you're so great? Who said you could walk around acting like you're so great? You're pathetic.</em>"
-
-"Uh," I said nervously, "I still know that's not tr—"
-
-"<em>Shut up. You don't know anything, you worthless child.</em>"
-
-I glared up into her eyes. But she wasn't even looking back at me. She was looking past me as if I was totally insignificant. I felt trapped and confused. Who was this monster and what was it doing in Yali's body? I reflexively tried to shove her away from me. But she just twisted harder on my arm and I yelled out in pain.
-
-"<em>Did I say you could make a sound?! Why do I have to put up with you? Why do I have to do all the work around here?!</em>"
-
-We were just play-acting, right? I looked up into Yali's eyes for reassurance, but there was nothing there. What was going on? I could feel my whole body starting to tense up.
-
-Wait a minute. I was Rinn Akatura. I could handle anything. I flexed my arm, pushing back against her. "Not bad," I said with a little smirk, "but it'll take more than that to scare <em>me</em> –"
 
 
 
@@ -746,3 +645,30 @@ The streets near my home were pretty dark from all the burnt out streetlights, b
 },
 ]
 
+
+
+'''
+
+Cut scene but I might want to use the pieces for stuff later:
+
+"'Each other'?? I'm not going to hurt <em>you!</em>"
+
+"Even if it's needed for the plan?" she said gravely. She put her finger on the paper again. "We need to have every form of defenses that we can. And so far, we've only talked about the defenses on <em>this</em> side of the wall. But we can also think about defenses on the <em>other</em> side. I mean, in case you do get angry enough to hurt me even though you love me. Even if that happens, we can still avoid the worst case, if you hurt me in a way that doesn't <em>kill</em> me. So –"
+
+"No way!" I said. "Are you seriously suggesting I practice hurting you on purpose just so that I can do it in a way that doesn't kill you?! That can't be a good idea, can it? If I get used to hurting you, that's like breaking down my <em>own</em> barriers for free!"
+
+"Maybe… But if we don't break them down here, then when they break down in the Otherworld, you'll be totally unprepar—"
+
+"And how are you even just talking about this? You're so calm, even though you're talking about having me hurt you –"
+
+"But you literally just said – about yourself –"
+
+"That really is no big deal for me. Seriously, I'm not being hypocritical here – we don't have the same, you know –"
+
+"Stop," said Yali. "I get what you mean. But even so, it's to make sure we stay alive. In the long run, if I have to go through some pain, it doesn't really matter."
+
+"What you mean, it doesn't matter? Of course it matters! If you're in pain, that matters!"
+
+Yali went quiet, but even though she wasn't arguing back, I could tell it wasn't over. "I should have known you'd feel that way," she said. "And it's not something we need to do right away. We should start with the simpler things, and there are still two months before the Ravelling begins…"
+
+That was true – everyone knew the Ravelling started near the start of November. But the way she said it… it was like she <em>expected</em> that I'd have to agree with her, once I'd thought about it. Was I really going to have to hurt her? How many things was she planning to force herself through, for the sake of the plan? I couldn't shake a sense of unease, knowing what might be ahead of us.'''
