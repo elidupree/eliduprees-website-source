@@ -192,7 +192,7 @@ And then it hit me. What'd been going on with her, the whole month we'd been tog
 
 "...I don't want you to think I'm judging you," she finished, heavily.
 
-"Yali!" My fingers clung to her big arms – pulling me deep into her body heat, my eyes pleading up at her – "Yali, I want to see every part of you! Even if it hurts! <em>Especially</em> if it hurts! I want to begin with you, no matter what! Whatever's going on in your head, I want to <em>share</em> it with you!
+"Yali!" My fingers clung to her big arms – pulling me deep into her body heat, my eyes pleading up at her – "Yali, I want to see every part of you! Even if it hurts! <em>Especially</em> if it hurts! I want to be there with you, no matter what!"
 
 "You don't know what you're asking for," she said again. But this time it was softer. She was accepting it. She was actually accepting it!
 
@@ -200,7 +200,7 @@ And then it hit me. What'd been going on with her, the whole month we'd been tog
 
 Yali hesitated.
 
-"– or is that too much of a 'you're harmless' thing? It's not though, I'd say that to anyone. Unless they had an actual knife or something."
+"– or is that too much of a 'you're harmless' thing? It's not though, I'd say 'bring it on' to anyone. Unless they had an actual knife or something."
 
 Yali chuckled. "No, you're right. I'm glad we talked about this. I should… I should just do it. If I can't trust you with <em>this</em>…" She trailed off.
 
@@ -252,19 +252,21 @@ Okay, she was definitely done. …Aaaaand the endorphins were hitting now. I flo
 
 "Okay, but why wouldn't it have worked? If you'd kept going –"
 
-"I saw what happened," said Yali guardedly. "As soon as you noticed you were getting angry, you turned it into a challenge. And that's, that's, bascially what I thought would happen. This is how you usually deal with anger, isn't it."
+"I saw what happened," said Yali guardedly. "As soon as you noticed you were getting angry, you turned it into a challenge. It wasn't affecting you anymore. And that's, that's, bascially what I thought would happen."
 
 "Stern take it all, you know me better than I know myself. You knew this would happen?!"
 
-"Honestly? As soon as you were talking about having me hit you. Yelling and fighting is <em>your</em> home ground. You weren't imagining something that would <em>actually</em> make you angry. 
+"Honestly? Yes. As soon as you were talking about having me hit you. Because, because… yelling and fighting is the exact thing you already know how to handle. …I'm not saying that's bad! The way you turn everything into a challenge, that'll be a useful skill in the Otherworld. But if we want to test your limits, we need something different…"
 
-Having people yell at you and hit you… those are things you're comfortable with. In a way. Like they're things you know how to handle. And that's going to be… like, the way you can turn things into a challenge is a really good skill. It's going to help you a lot in the Otherworld. But if we want to find out what your limits are, we'll have to come up with something else. But I don't know what that would be…"
+"Like what?"
+
+"I don't know."
 
 I sighed. "I don't either!"
 
 "I know. I'm not saying it's going to be easy. Maybe… what if you think of a time in the past when you <em>were</em> really angry?"
 
-I racked my brains. If I wasn't supposed to think about fights, what was I looking for? Maybe I could use that time I broke my leg? Not really… How about sometime when my parents actually managed to force me into doing chores around the house? Nah… "Stern take it, I'm <em>sure</em> there's been loads of times I've been really pissed off! Why can't I think of them?"
+I racked my brains. If <em>fights</em> didn't count, what <em>did</em>? All the bullshit from school? Having to do chores – not that I even did them? "Stern take it, I'm <em>sure</em> there's been loads of times like that! Why can't I think of them?"
 
 "Well –" Yali began. But her voice faltered a little. I suddenly realized – something had been off about her ever since she switched back from being evil. She was talking <em>almost</em> normally, but there were tiny hesitations that wouldn't normally be there, and parts where she talked fast like she was trying to catch up…
 
