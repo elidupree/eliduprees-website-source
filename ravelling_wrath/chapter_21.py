@@ -211,7 +211,7 @@ That was nothing like how <em>I</em> thought about it, but I could tell that Yal
 
 "The problem is, how do you know what's the true meaning? People are always saying their feelings mean things, but half the time, it's actually bad, like the 'meaning' actually hurts people. Like –"
 
-"Oh yeah, like when people are like, 'I gotta protect my children, so that's why I called the cops on that homeless guy who was just minding his own business'. Those people are assholes, the Blood God would definitely say that's not be true meaning –"
+"Oh yeah, like when people are like, 'I gotta protect my children, so that's why I called the cops on that homeless guy who was just minding his own business'. Those people are assholes, the Blood God would definitely say that's not the true meaning –"
 
 "– Or when people are like, 'well, we love each other, so everything is going to work out', even when there are actually huge problems in their relationship. Like… Love is never going to protect you from an abuser. An abuser might talk about love, they might talk about trying to be a better person, but they'll never stop abusing until they know they have something to lose. When did Morrow say 'I did something wrong'? Only after his powers were gone and he couldn't hurt us anyway. And Justicar in the fifth layer… She ultimately didn't listen to me anyway, but she didn't even <em>start</em> listening until I had physically taken her sword out of her hands. That's what I know. That's what the Waiting knows. If I want someone to stop what they're doing, I have to know how to force them to."
 
