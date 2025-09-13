@@ -214,7 +214,7 @@ Yali closed her eyes.
 
 When she opened them again, it was like she was a completely different person. Her body lurched like it was on puppet-strings. Her hand yanked my arm, dragging me to my feet. She towered over me, no longer slouching, standing a full head taller than I was.
 
-"<em>So you think you can act all tough and that means your life is worth anything?" Her voice was cold and unfeeling.
+"<em>So you think you can act all tough and that means your life is worth anything?</em>" Her voice was cold and unfeeling.
 
 "Uh, yeah, obviously I think tha–"
 
@@ -270,15 +270,44 @@ I sighed. "I don't either!"
 
 "I'm fine," she said, much too quickly. "I was about to say, how about, how about you think about it overnight? That would give you time to, to, to, get more perspective?"
 
-Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, but there was definitely something weird about it. I didn't want to screw anything up by pushing the subject. "Good idea," I said.
+Huh. Was Yali hinting that she wanted to change the subject? She wasn't normally the kind of person who would just <em>hint</em> things, but there was definitely something weird about it. I didn't want to screw anything up by pushing her. "Good idea," I said.
 
 There was an awkward pause. I scrambled for something to break the silence.
 
 "So… the Ravelling!" I said. "What's it actually like? Tell me everything."
 
-
-
 <bigbreak>
+
+Everyone knew the Otherworld was a formless space of drifting threads, where the only structure was what your own soul could manifest around you. But during the Ravelling, each god would weave a solid world for us to travel through, one by one.
+
+Our journey would begin in the starry void of the Waiting – the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The challenges in the Waiting God's world would force us to be patient and study – which sounded like a huge pain, but it wasn't the worst thing that was coming, so I could put up with it. And the way Yali described it – an empty world full of stars – made it sound eerily beautiful.
+
+Second was the riddle-maze of the Seeking – the god of curiosity and invention, coincidence and oppor&shy;tunity. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from new perspectives that they'd never considered. What would the Seeking God show <em>me</em>? Now that I knew it was coming, I couldn't wait to find out.
+
+But then… the Stern.
+
+It was bad enough that we had to deal with the Stern in our own world! The Stern Temple basically controlled the entire city, and they always made everything BORING. Like what they'd done to the park on Mill Street! A few years ago it had been a vibrant place. There'd been colorful tents along the walkways, and the whole place was basically an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks. It was so fun watching them [light fireflowers and shapes the flame into different colors and patterns.] But whenever something was fun, the Stern had to get rid of it. The cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! Mill Street Park used to be my favorite place! I'd always looked forward to hearing the people singing on my way to school in the mornings. But nowadays, there'd be no one there except one cop standing around, like they were watching to make sure no one could have fun there ever again.
+
+
+
+[Notes about what information I still need to include:
+
+– The name Seti and Rinn's parents attitudes?
+– "Don't let the Stern Temple get wind of this, I must use the magic power to reveal who you can afford to talk to"
+– layers of the otherworld, blood child also dies, manifesting, why does the blood child kill,
+– when Yali asked Rinn out
+– actual use of the magic power
+
+
+"The muscles in her neck stood taut as she spoke" is a nice phrase, see if I can use it elsewhere (first chapter?) if that's an upgrade anywhere]
+
+
+
+["Wait, before that, look at the time. Don't your parents want you home" "yeah but I don't care" "this is serious we need to minimize risk of us getting the attention of the temples"
+
+
+
+
 
 "Speaking of time…" Yali said, glancing at the clock.
 
@@ -384,15 +413,8 @@ Soon, she wiped her mouth and looked back at me. "Let's try your idea. See if we
 
 <bigbreak>
 
-The Otherworld had five layers, and most of them didn't sound so bad, but the third layer was going to be <em>awful</em>.
 
-Our journey would begin in the starry void of the Waiting, the god who oversaw the cycle of the seasons, the god who had woven the structure of the Ravelling out of the chaos of souls that had come before. The Waiting God's challenges for us would be about patience and studying, which sounded like a huge pain, but I could put up with it. And the way Yali described its world – an empty world full of stars – made it sound eerily beautiful.
 
-Second was the riddle-maze of the Seeking, the god of curiosity and invention, coincidence and oppor&shy;tunity. Its world was ever-changing, adapting to each new Raveller to become what they least expected, challenging them to see things from perspectives they'd never considered. It sounded awesome, and now that I knew it was coming, I couldn't wait to see it for myself.
-
-But then… the Stern.
-
-It was bad enough that we had to deal with the Stern in our own world. The Stern Temple were basically in charge of the entire city, and they always made everything BORING. It was like whenever there was something fun, they had to get rid of it. A few years ago, the park on Mill Street had been a vibrant place. There'd been colorful tents along all the walkways, and it had almost been an open-air market, with musicians playing on the sidewalks, and street alchemists doing tricks, making bursts of colored fire to entertain the passersby. But then the Stern cops had come through and taken down the tents and made everybody leave, and now the whole place was boring and sterile. My <em>parents</em> were happy about that, they were like "good thing they've finally gotten the unsightly homeless out of there," but come on! Mill Street Park used to be my favorite place, I'd always looked forward to hearing the people singing in the mornings on my way to school. Nowadays, usually the only person you'd see there was one cop standing around, like they were making sure no one would have fun there ever again.
 
 "I bet they want to make the whole city as boring as the Third Ring!" I exclaimed. The Third Ring was basically the Stern Temple's home turf, full of temples and courthouses and shit. Then I remembered we were <em>in</em> the Third Ring right now, because Yali lived here. "Uh, no offense."
 
