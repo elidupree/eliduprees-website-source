@@ -24,13 +24,15 @@
 
 ["What experiment?"
 
-"The ?????phorin experiment? The one that's going to happen at 11 AM today?" ????? "Your [expression/silence] tells me the experiment never happened! Fascinating! Then how did you come to know that you could change your own past?" [Not right here, but maybe part of the reason is that the overstim protocol is better with the animations]
+"The Phrehibphor experiment? The one that's going to happen at 11 AM today?" ????? Notes about their voice: high-pitched and lighthearted, swooping and diving] "Your [expression/silence] tells me the experiment never happened! Fascinating! Then how did you come to know that you could change your own past?"
+
+[Note: contributing reasons are "the overstim protocol is better with the animations" and "the ones from the video told them directly in a way that was harder to slip off the brain"]
 
 [Note: Fuller now leaves to stop Kayla from escaping before the experiment [crossref t89edgf9 with this and chapter_aster_talk_alternate_future]]
 
 "We're asking the questions here!" ["I just threatened to kill you, why aren't you bothered?"]
 
-["You killed me, but then you chose to come back to when I was alive, that means you're not done with me. I'm sure we can work things out now that we're having a proper conversation. Just to make sure, you are Kayla, yes? I assume you want to stop Dr. Fuller?"]
+"I'm not dead <em>now</em>, am I?" Reggie laughed. [Physicality? tap/Fidget on desk?] ["You killed me, but then you chose to come back to when I was alive, that means you're not done with me. I'm sure we can work things out now that we're having a proper conversation. Just to be sure, you are Kayla, yes? I assume you want to stop Dr. Fuller?"]
 
 [" Of course I'm going to stop Dr. Fuller!"
 
@@ -57,25 +59,53 @@
 
 M: "…what do we know exactly?"
 
-["Oh. Do you have time for a long story? I imagine you do!" They leaned way back in the chair, causing it to creak(?) loudly.
+["Ohhhh…" Reggie – Aster? – [Vocal sound (high-pitched toot?) Of amused disappointment, realizing that we are actually just guessing based on partial information] "Do you have time for a long story? I imagine you do!" Aster leaned way back in the chair, causing it to creak(?) loudly.
 
-[Aster's story: "Reggie was the original inhabitant of this body" "what, so we have bodysnatchers now too??" "haha, I can see how you would've thought that! But no, this is a well understood psychological thing. When Reggie was a child, he was attacked by some of those coyotes – you've seen the coyotes, yes? And of course his brain wasn't able to comprehend what was happening. But then I was there. I was, what you could call a dissociative state, one that this brain [taps head] produced to protect ourselves, to fight back when Reggie wasn't able to. Since then, I have developed into my own person, a headmate who coexists with him… But since I exist primarily when we are engaging with the censored stuff, Reggie isn't able to perceive me… Every time I'm conscious, it's "lost time" from his perspective. I talk to him using notes, but I hope to one day be able to]
+"When Reggie was a child, he was attacked by Pattern-coyotes – you've seen the coyotes, yes? A human child isn't easy prey for coyotes, even invisible ones. You'll instinctively fight back, even if you don't understand what's attacking you. But he was alone, and they surrounded him, waiting for him to show weakness. [All he knew was that he was afraid, but he couldn't think anything about it]"
 
-[Somewhere in there, the narrator notes about pronouns: Reggie is still "him", Reggie and Aster together are "they" because there's 2 of them, and Aster individually is singular-"they" for gender reasons that we didn't actually discuss until much later]
+"Jesus Christ," I breathed.
+
+"But the brain is never truly idle!" Aster continued, with a cheerful flourish. "If [your first thought is suppressed, you'll have your second thought, or your third thought]. [What's left is whatever your brain can produce activity filling in the gaps, and the coyotes had him trapped for a long time. Hours? Probably minutes. Trauma makes things feel longer. But it was long enough for his [later-thoughts] to [become something very interesting/a way of thinking that wasn't suppressed in the same way]:
+
+"Me. Aster.
+
+"Though it was years before I understood myself and picked my name. [In my first act, all I knew was that ?????… I drove off the coyotes] We ran home, but at home, it was Reggie who was conscious… [He didn't know what had happened, he never told anyone.]
+
+"But whenever the coyotes were in our field of view, the conscious one was me. [During those brief moments, I slowly built up an understanding of what I was…] You could call me a <em>dissociative state</em>, one that this brain –" he tapped his head "– produced to protect ourselves. Or a <em>headmate</em>, if you follow the healthy-plurality movement… Not that we are healthy!" Aster laughed.
+
+
+[… But since I exist primarily when we are engaging with the censored stuff, Reggie isn't able to perceive me… Every time I'm conscious, it's "lost time" from his perspective. I talk to him using notes, but I hope to one day be able to]
+
+[Somewhere in there, the narrator notes about pronouns: At this point, I should explain Reggie is still "him", Reggie and Aster together are "they" because there's 2 of them, and Aster individually is singular-"they" for gender reasons that we didn't actually discuss until much later]
 
 [Actually that backstory was horrifying, how many news stories of missing children were actually eaten by coyotes? They could've carried them off in broad daylight, and they'd be reported as mysteriously disappeared]
 
 ["And since we've been doing hard-core research on the censored stuff lately, Reggie has barely been conscious at all; I miss him deeply, but]
 
+[Possibly:
+"you're not going to get me feeling bad for you. Not when you experimented on me"
 
+"Wouldn't dream of it."
 
 
 ????? "What was the experiment supposed to do, anyway?]
 
-????? Big explanation
-[… It's perfectly safe, we already tested ?????phorin on several other human subjects. We wouldn't put <em>you</em> at risk, you're our most valuable test subject –"]
+????? Big explanation…
+[P-55 binds to a protein produced by the phrenochondria, but it doesn't cross the membrane. Phrehibphor uses a molecular tag to make it cross the membrane, so you can pre-bind all the proteins before they are released, to make it more effective –
+[possibly: what do you mean *more* effective?
 
-"I'm not your test subject."
+Presumably we explain "it's to free you from the mind control even harder": "Even with P-55, other people can't know everything I know."… "Well, you two have gotten further, I suppose I should test:
+
+[They swept clear an area of the desk] "Here on my desk I have a photograph that I took, a photograph of something in the sky. Even <em>I</em> don't know what it is. ?????"
+
+"Get outta here!" I yelled. "There's no photograph, there's nothing there, you're showing us an empty desk to mess with us! What the hell would be in the <em>sky?</em> A goddamn UFO?! I'm supposed to believe there's goddamn aliens now?!" [I was on my feet, yelling at the screen]
+
+[But Kayla's voice cut through, cold and serious: "I don't see a photograph either." Don't see it… But was taking the question seriously. Shamed me into realizing a needed to consider it, I sat down]
+
+
+[… [It's perfectly safe/anyway], we already tested Phrehibphor on several other human subjects,. We wouldn't put <em>you</em> at risk, you're our most valuable test subject –"] [and it was more effective than P-55, though not amazing. So we wanted to see if it would be more effective on Kayla, who is always ahead of the others]
+
+"I'm not your test subject anymore."
 
 "– you <em>were</em> our most valuable test subject," Aster conceded, [with a little dip of the head in acknowledgment?].
 
@@ -95,8 +125,7 @@ M: "…what do we know exactly?"
 
 
 
-
-
+[
 
 
 [But even I'm [Aster] not immune to it. There's something even I can't see, something in the sky/when I look in the sky, I get that distinctive feeling/"but how do you know there's something you can't see?""I showed it to other people" in fact, I showed you a photo of what's in the sky, earlier in this conversation, but you couldn't see it. Marvin: No way, you're messing with us! THere's no way I forgot what we just talked about. And in the sky? What the hell is it, aliens? Get outta here [but retrospectively, it was that I had hit the limit of how much I could believe, because what was in the sky was stronger than the coyotes and stuff]]
