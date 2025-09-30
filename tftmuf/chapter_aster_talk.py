@@ -11,6 +11,8 @@
 
 [Returned to Kayla with plenty of time to spare, but still sweating because of the rigidness of the deadlines]
 
+[Note: Fuller starts listening in as soon as they start talking; should not give away how much Aster is betraying him, until later [crossref t89edgf9 with this and chapter_aster_talk_alternate_future]]
+
 [They watch "Reggie" walk into his office and then when he sits down to the computer, Marvin, trying to be evenhanded: "Reggie we want to talk to you,
 
 
@@ -23,6 +25,8 @@
 ["What experiment?"
 
 "The ?????phorin experiment? The one that's going to happen at 11 AM today?" ????? "Your [expression/silence] tells me the experiment never happened! Fascinating! Then how did you come to know that you could change your own past?" [Not right here, but maybe part of the reason is that the overstim protocol is better with the animations]
+
+[Note: Fuller now leaves to stop Kayla from escaping before the experiment [crossref t89edgf9 with this and chapter_aster_talk_alternate_future]]
 
 "We're asking the questions here!" ["I just threatened to kill you, why aren't you bothered?"]
 
@@ -167,6 +171,7 @@ Aster's eyebrows shot up. "I'm eager to hear why you say that!"
 
 ?????
 
+[Note: Fuller has not returned to his office where he could see his covert recording of Reggie, and falsely assumes he successfully stopped the time travel [crossref t89edgf9 with this and chapter_aster_talk_alternate_future]]
 
 [Low audio quality coming through the speakerphone + second call(?), but you could still hear the sneering sound of his voice] "Reggie, Reggie, Reggie. For yet a third time, one of your 'clever ideas' has cost the life of one of our valuable test subjects."
 
