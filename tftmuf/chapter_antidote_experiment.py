@@ -9,15 +9,19 @@
 
 "Why isn't he shooting us?" whispered Kayla.
 
-But my eyes were already going to the gun, [to the missing magazine. It was a good thing I was there, because only I, the one who was experienced with guns, knew what to look for. He had grabbed it in a hurry, not bothering to reload] "He has only one shot," I whispered back.
+[If I'd been a different person, I might have been making guesses about psychology, about a person's willingness to end a life. But I was cursed with a different kind of understanding: Firearms experience. My eyes went straight to the gun. To where the magazine would be… If he hadn't grabbed it in too much of a hurry to reload.
 
-Kayla and Aster exchanged a look [and both stepped forward, spreading out]
+"He has only one shot," I whispered back.
 
-To my horror, I realized what they were doing. [If Fuller shot one of them, he wouldn't have any shots left, and then the other 2 of us could rush him, then go back in time so this never happened. If you were willing to sacrifice your own life, so that another version of you would go on…]
+Kayla and Aster exchanged a look. A flash of understanding passed between them. They stepped forward in unison. Kayla moving left. Aster moving right.
+
+To my horror, I realized what they were doing. [If Fuller shot one of them, he wouldn't have any shots left, and then the other 2 of us could rush him, then go back in time so this never happened. If you were willing to sacrifice your own life, so that another version of you would go on… They were in a fight that was impossible to lose.]
 
 [Fuller and Kayla yelling at each other to surrender?]
 
-[I didn't dare approach Fuller myself, but maybe, while he was distracted by the others – I (fished in my pocket? Went for the backpack?), With the rough idea of texting one of my previous selves]
+[But I too had foreseen what would happen if he shot one of them – and for me, it was "I would watch someone get shot, then live my final hours knowing I was doomed"]
+
+[I didn't dare approach Fuller myself, but maybe, while he was distracted by the others – I (fished in my pocket? Went for the backpack?), With the rough idea of… Remotely logging into the time machine computer to open the time machine to hit him in the head? ]
 
 But Fuller saw me move. "<em>Marvin</em>," he said warningly.
 
@@ -45,7 +49,7 @@ Everything happened in an instant. [Aster was close enough that Fuller finally h
 
 "Marvin! Grab the gun!" Kayla screamed.
 
-"…Right!" [It had taken a bit longer for me to be shocked out of having been frozen, but Kayla's words achieved that. I ran forward to do the thing]
+"…Right!" [unlike aster, it took more than just "the situation has in fact changed" to shock me out of being frozen, but a sharp voice achieved that. I ran forward to do the thing]
 
 [Heart beating hard; panic; but having seen the other Marvin handle the gun before shooting Fuller, firearms handling was fresh in my mind. I remembered how my father had taught me: "if you ever, ever have to pick up a gun while emotions are running high, that is the easiest time to make a mistake and kill someone you care about, and the most important time to focus on all of the details of safety". I crouched, careful to take it with a steady grip with my shaking hands, and then stepped away from the scuffle.]
 
@@ -67,7 +71,7 @@ Everything happened in an instant. [Aster was close enough that Fuller finally h
 
 She kicked him in the side of the head.
 
-The human body can withstand an incredible amount of punishment, but when it fails, it fails suddenly and unglamorously. I don't know whether Fuller would have survived even her first kick. [His eyes unfocused, his sentence stopped in the middle without even a panicked raise in pitch near the end. [Discuss the potential for internal bleeding, and how that could be fatal even from just one unlucky hit, how you need to be really careful about head trauma even if someone seems fine] But she didn't stop there. She kicked him again and again; I had to look away; she only stopped when she was physically exhausted]
+The human body can withstand an incredible amount of punishment, but when it fails, it fails suddenly and without glamour. I don't know whether Fuller would have survived even her first kick. [His eyes unfocused, his sentence stopped in the middle without even a panicked raise in pitch near the end. [Discuss the potential for internal bleeding, and how that could be fatal even from just one unlucky hit, how you need to be really careful about head trauma even if someone seems fine] But she didn't stop there. She kicked him again and again; I had to look away; she only stopped when she was physically exhausted]
 
 [Kayla still perpetually angry]
 
@@ -119,7 +123,7 @@ Of all the people in the room, only Kayla and Marvin were still alive. [And, con
 
 [By some miracle I lowered myself into the chair, rather than passing out. My head swam, trying to process what I was seeing. "Jesus Christ, what happened to them?", I breathed, speaking to no one.]
 
-"A nerve agent!" exclaimed Aster, the chemist among us. They squinted at the scene. "But how was it delivered? Not gas, if Marvin's still standing –"
+"A nerve agent!" exclaimed Aster, the chemist among us. They squinted at the scene. "But  not gas, if Marvin's still standing – how was it delivered?"
 
 [I couldn't follow Aster's calculating words – I could only watch numbly; both Kayla and Marvin were terrified, and as we watched, Kayla's body begin to jerk violently. She collapsed to the floor, dying like the others.]
 
