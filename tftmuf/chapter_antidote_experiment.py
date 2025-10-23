@@ -311,7 +311,7 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 [They use the cameras to figure out exactly how Fuller heard about it – getting texted by one of the assistants. [Cross-reference: preestablish that Marvin accesses the cameras exclusively through methods that record which camera data was accessed]]
 
-"Wait!" [I was having a brilliant idea] "We only saw any of this _on the cameras_! We can use a replay attack again, like we did on Fuller, but this time on <em>ourselves</em>!"
+"Wait!" [I was having a brilliant idea. Maybe: sometimes people tell me I'm too clever for my own good; I certainly felt very clever at this moment] "We only saw any of this _on the cameras_! We can use a replay attack again, like we did on Fuller, but this time on <em>ourselves</em>!"
 
 ["argh, we have to come to a decision before the hostage Marvin comes up with something!" Maybe the hostage Marvin calls the police, creating time pressure? "The only way to be sure the first experimental group doesn't cause a paradox is if we delete/replace them and make US the canonical version. How is that not a paradox? Because we can replay all of the cameras we've looked at and replay the text Fuller received! Then everything from OUR perspective will happen the same way in the next iteration. But then they won't be there for Ontoh to follow… We have to pretend to be them! Repeat all of their actions! That's the only way we know what Ontoh would do (otherwise Ontoh might hang out in the corridor for too long, which is a bad place to capture them)". Narration: Maybe if we'd had more time to think, we would have come up with a less risky plan; but it was already [2:54] and there was a lot that we needed to execute in practice – maybe it would only take 5 minutes to download the footage and get in the time machine, but I knew from [long experience with undiagnosed ADHD] that if you wanted the 5 minute thing to get done today, you had to do it immediately]
 
@@ -341,7 +341,7 @@ Marvin [feeling [bad] about the fact that he almost believed it]: "okay, yeah, i
 
 {about how dangerous I am! <em>Ethra</em> stupidity –"[Explanation of the pronunciation of ethra, maybe even the meaning – "a word for non-time travellers, possibly derogatory"]}
 
-[But just as soon as the creature started snapping at us, Sudden transition from angry to conciliatory/reasoning] "I get it. You'll need extra reasons to trust that. Look, I surrender. I'll do anything you ask – as long as it doesn't let the sky see us."
+[But just as soon as the creature started snapping at us, Sudden transition from angry to conciliatory/reasoning] "I get it. You'll need extra reasons to trust that. Look, I surrender. I'll do anything you ask – anything at all, as long as it doesn't let the sky see us."
 
 "What's in the sky?!" demanded Kayla.
 
