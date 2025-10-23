@@ -9,7 +9,7 @@
 
 "Why isn't he shooting us?" whispered Kayla.
 
-[If I'd been a different person, I might have been making guesses about psychology, about a person's willingness to end a life. But I was cursed with a different kind of understanding: Firearms experience. My eyes went straight to the gun. To where the magazine would be… If he hadn't grabbed it in too much of a hurry to reload.
+If I'd been a different person, I might have been making guesses about what his plans were, or whether he truly had the will to end a life. But I was cursed with a different kind of understanding: Firearms experience. My eyes went straight to the gun. To where the magazine would be… If he hadn't grabbed it in too much of a hurry to reload.
 
 "He has only one shot," I whispered back.
 
