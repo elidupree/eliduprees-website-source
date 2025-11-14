@@ -42,7 +42,7 @@ posts = [
 
 "This is your mind."
 
-Yali laid down a blank wax tablet.
+Yali laid down a wax tablet – you know, the kind you take notes on in school. Yali always had a pristine blank one at hand, because she studiously melted her spare tablets clean, instead of just scratching over old notes like the rest of us.
 
 "<em>This</em> –" she inscribed a square at the left "– is where you are right now. And <em>this</em> –" she drew another square at the right "– is where you have to get in order to kill me."
 
@@ -52,17 +52,17 @@ Yali laid down a blank wax tablet.
 
 "Okay…"
 
-"Now, <em>this</em> –" Yali carved a deep groove down the center, separating the starting square from the ending square. "– this wall is your love for me. It's a very strong wall, and a very important one. The problem is, the Blood God's will is also strong. It can batter down the wall, like it did for the other Blood Children in the past." Yali's stylus flicked, cutting across the wall from left to right. "So I want to build <em>more</em> defenses in your mind, so you'll be ready for it."
+"Now, <em>this</em> –" Yali carved a deep groove down the center, separating the starting square from the ending square. "– this wall is your love for me. I won't say it's not a strong wall – because that's exactly what it is. I'd be a fool if I didn't say it was an important defense. But the problem is, the Blood God's will is also strong. It can batter down the wall, like it did for the other Blood Children in the past." Yali's stylus flicked, cutting across the wall from left to right. "So I want to build <em>more</em> defenses in your mind… so 'a single breach will not lose the city'," she quoted.
 
-"Defenses? Like put a sorcery on me or something?"
+"Defenses? Like put a sorcery on me?"
 
-"No, not sorcery. I mean I think we can teach you regular mental skills. Like –" Yali drew a series of boxes "– there are many steps before you even <em>get</em> to the wall. First, the Blood God will have to <em>make</em> you angry. Then, it'll have to <em>direct</em> that anger towards <em>me</em>. And then it'll have to make you think you have to <em>hurt</em> me – I mean, make you think the way to <em>act</em> on your anger is to hurt me, rather than doing something else. And at each of those steps, you can resist it. That's what we can prepare for. Even in your everyday life, you can practice turning away from this path."
+"No, not sorcery. I mean – mental skills, things you can learn in everyday life. Like, before you even <em>get</em> to the wall –" Yali drew a series of boxes – "First, the Blood God will have to <em>make</em> you angry, and if you know how to calm yourself down, that's a way you can resist. Second, if you do get angry, it'll have to <em>direct</em> that anger towards <em>me</em> – and if you can decide to be angry at something else instead, that's a way you can resist. Even once you're angry at <em>me</em>, there's more than one way to <em>act</em> on your anger – and if you can pick one that isn't killing me, that's a way you can resist. That's what we can prepare for. If you can practice this kind of thing before we enter the Otherworld, you'll have more than one way to get off the path to killing me."
 
-"Like practice calming myself down?" Somehow that didn't feel like enough to stop a god.
+"You mean like… practice calming myself down?" Somehow that didn't feel like enough to stop a god.
 
 "Yes. Or –" she went through the boxes in order "– redirecting your anger, or expressing it in ways that aren't violent, or –"
 
-"Hang on," I said. I knew I should trust Yali, but this was a lot to wrap my head around. "So… to stop the Blood God from messing with my head, I can learn to mess with my <em>own</em> head in the other direction. Cool. I don't quite see how I'd <em>practice</em> doing that stuff… But, let me guess, you've got a plaaaan for that, too."
+"Hang on," I said. Somehow, <em>learn to calm yourself down</em> didn't feel like enough to stop a god… But Yali had obviously thought it through, so I knew I should take it seriously. "So… to stop the Blood God from messing with my head, I can learn to mess with my <em>own</em> head in the other direction. Cool. I don't quite see how I'd <em>practice</em> doing that stuff… But, let me guess, you've got a plaaaan for that, too."
 
 Yali smiled. "Well, whenever you're in a situation that makes you angry –"
 
@@ -74,7 +74,7 @@ Yali gave me a Look.
 
 "And yell at people in the hallways…"
 
-"Well <em>someone</em> needs to tell those assholes to shut the fuck up!" I pounded a fist in my hand, playfully. "Look, I just don't put up with people's bullshit. That doesn't mean I'm actually <em>angry</em>. Not <em>really</em> angry, anyway – come on, don't tell me you don't believe me!"
+"Well <em>someone</em> needs to tell those assholes to shut the fuck up!" I playfully pounded a fist in my hand. "Look, I just don't put up with people's bullshit. That doesn't mean I'm actually <em>angry</em>. Not <em>really</em> angry, anyway – come on, don't tell me you don't believe me!"
 
 Yali was deep in thought. "No, I believe you," she said. "That… could actually make things harder."
 
@@ -200,7 +200,7 @@ And then it hit me. What'd been going on with her, the whole month we'd been tog
 
 Yali hesitated.
 
-"– or is that too much of a 'you're harmless' thing? It's not though, I'd say 'bring it on' to anyone. Unless they had an actual knife or something."
+"– or is that too much of a 'you're harmless' thing? It's not though, I'd say 'bring it on' to anyone. Unless they had, like, an actual knife or something."
 
 Yali chuckled. "No, you're right. I'm glad we talked about this. I should… I should just do it. If I can't trust you with <em>this</em>…" She trailed off.
 
@@ -226,7 +226,7 @@ When she opened them again, it was like she was a completely different person. H
 
 Gods! Who was this monster and what was it doing in Yali's body? I glared up into her eyes, ready to challenge her – but she wasn't even looking back at me. She was staring through me like I wasn't there. Gods! I shoved her away – I couldn't help it –
 
-"<em>Rinn. You are going to listen to me –</em>" she yanked me back to her "<em>– because I know what's good for you! You're going to need to give up on your immature little fantasy –</em>"
+"<em>Rinn. You are going to listen to me –</em>" she yanked me back to her "<em>– because I know what's good for you! Someday you'll need to give up on your immature little fantasy –</em>"
 
 We were just play-acting, right? I couldn't help searching her eyes for reassurance – how were they so empty! "I know you don't really think that –" I began – shit, my whole body was tensing up –
 
