@@ -48,19 +48,15 @@ Yali laid down a wax tablet – you know, the kind you take notes on in school. 
 
 "I thought the point was to <em>not</em> kill you?"
 
-"Think of it as a board game you're going to play against the Blood God. Your piece starts here, and the <em>god</em> tries to move it over there, while <em>you</em> try to move it back."
+"Imagine this as a board game you're going to play against the Blood God. Your piece starts here, and the <em>god</em> tries to move it over there, but <em>you</em> try to move it back."
 
 "Okay…"
 
-"Now, <em>this</em> –" Yali carved a deep groove down the center, separating the starting square from the ending square. "– this wall is your love for me. I won't say it's not a strong wall – because that's exactly what it is. I'd be a fool if I didn't say it was an important defense. But the problem is, the Blood God's will is also strong. It can batter down the wall, like it did for the other Blood Children in the past." Yali's stylus flicked, cutting across the wall from left to right. "So I want to build <em>more</em> defenses in your mind… so 'a single breach will not lose the city'," she quoted.
+"Now, <em>this</em> –" Yali carved a deep groove down the center, separating the starting square from the ending square. "– this wall is your love for me. It's our strongest defense, but it can't win the game on its own. The Blood God can batter down the wall, like it did for the other Blood Children in the past." Yali's stylus flicked, cutting across the wall from left to right. "So I want to build <em>more</em> defenses in your mind… so 'a single breach will not lose the city'," she quoted.
 
 "Defenses? Like put a sorcery on me?"
 
-"No, not sorcery. I mean – mental skills, things you can learn in everyday life. Like, before you even <em>get</em> to the wall –" Yali drew a series of boxes – "First, the Blood God will have to <em>make</em> you angry, and if you know how to calm yourself down, that's a way you can resist. Second, if you do get angry, it'll have to <em>direct</em> that anger towards <em>me</em> – and if you can decide to be angry at something else instead, that's a way you can resist. Even once you're angry at <em>me</em>, there's more than one way to <em>act</em> on your anger – and if you can pick one that isn't killing me, that's a way you can resist. That's what we can prepare for. If you can practice this kind of thing before we enter the Otherworld, you'll have more than one way to get off the path to killing me."
-
-"You mean like… practice calming myself down?" Somehow that didn't feel like enough to stop a god.
-
-"Yes. Or –" she went through the boxes in order "– redirecting your anger, or expressing it in ways that aren't violent, or –"
+"No, not sorcery. I mean – mental skills, things you can learn in daily life. Think about what it means for the Blood God to attack the wall. It means the moment when we <em>need</em> your love to hold you back… but that moment doesn't come until you're <em>already</em> angry enough that you'd hurt me if you <em>didn't</em> love me. So –" Yali drew a series of boxes – "First, the god will have to make you <em>angry</em>, and if you know how to calm yourself down, you'll have stopped it before it starts. Second, if you do get angry, you can still aim your anger at something that isn't <em>me</em>, and then at least the wall won't be threatened. Even once you're angry at <em>me</em>, there's more than one way to <em>act</em> on your anger, and as long as you're not trying to <em>kill</em> me…" She trailed off. "The point is, these are things you can practice even before we enter the Otherworld. Any skill you can learn now gives you more chances to step off the path towards killing me."
 
 "Hang on," I said. Somehow, <em>learn to calm yourself down</em> didn't feel like enough to stop a god… But Yali had obviously thought it through, so I knew I should take it seriously. "So… to stop the Blood God from messing with my head, I can learn to mess with my <em>own</em> head in the other direction. Cool. I don't quite see how I'd <em>practice</em> doing that stuff… But, let me guess, you've got a plaaaan for that, too."
 
