@@ -33,11 +33,11 @@ I could not. The Waiting God had tried to take away the two things I valued most
 
 <em>To erase all memory of the Blood Temple.</em>
 
-So that was my goal. <em>I</em> would take away two of the things <em>it</em> valued most. First, I would I would wring the memories of the Blood Temple from it, whether it wanted me to or not. And then, when the Ravelling completed, I would influence its rejuvenation, just as I had always planned for Rinn to do. I would force it to re-weave its will with <em>mine</em>.
+So that was my goal, now. <em>I</em> would take away two of the things <em>it</em> valued most. First, I would I would wring the memories of the Blood Temple from it, whether it wanted me to or not. And then, when the Ravelling completed, I would influence its rejuvenation, just as I had always planned for Rinn to do. I would force it to re-weave its will with <em>mine</em>.
 
 All I needed... were the threads it had woven into my soul.
 
-Ever since I'd learned the truth, I had been waiting for my chance – a chance to pull those threads without the Blood God watching. I'd wished I could believe what Rinn said, that the Blood God wouldn't harm me now – but I had known knew we couldn't afford the risk. And now, the risk was over. Soon, the Waiting God would answer to <em>me</em>.
+Ever since I'd learned the truth, I had been waiting for my chance – a chance to pull those threads without the Blood God watching. I'd wished I could believe what Rinn said, that the Blood God wouldn't harm me now – but I had known we couldn't afford the risk. And now, the risk was over. Soon, the Waiting God would answer to <em>me</em>.
 
 <bigbreak>
 
